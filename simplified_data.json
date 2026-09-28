@@ -2868,5 +2868,915 @@
     "tmdb_id": 801193,
     "tmdb_type": "movie",
     "tmdb_match_score": null
+  },
+  {
+    "title": "Barney Thomson",
+    "alb_title": "Legjenda e Barney Thomson",
+    "year": 2015,
+    "stars": [
+      "James Cosmo",
+      "Kevin Guthrie",
+      "Brian Pettifer",
+      "Ashley Jensen",
+      "Tom Courtenay",
+      "Ray Winstone",
+      "Emma Thompson",
+      "Robert Carlyle"
+    ],
+    "creators": [
+      "Robert Carlyle"
+    ],
+    "tmdb_id": 283596,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.66
+  },
+  {
+    "title": "Amenaza en el aire",
+    "alb_title": "Kërcënim në ajër",
+    "year": 2025,
+    "stars": [
+      "Senor Pablo",
+      "Eilise Patton",
+      "Paul Ben-Victor",
+      "Maaz Ali",
+      "Leah Remini",
+      "Topher Grace",
+      "Mark Wahlberg",
+      "Michelle Dockery"
+    ],
+    "creators": [
+      "Jared Rosenberg",
+      "Mel Gibson"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 62.59
+  },
+  {
+    "title": "Poker Night",
+    "alb_title": "Nata e pokerit",
+    "year": 2014,
+    "stars": [
+      "Halston Sage",
+      "Corey Large",
+      "Ron Eldard",
+      "Michael Eklund",
+      "Titus Welliver",
+      "Giancarlo Esposito",
+      "Ron Perlman",
+      "Beau Mirchoff"
+    ],
+    "creators": [
+      "Greg Francis"
+    ],
+    "tmdb_id": 298093,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Raymond & Ray",
+    "alb_title": "Reimond dhe Rei",
+    "year": 2022,
+    "stars": [
+      "Oscar Nuñez",
+      "Angie Campbell",
+      "Todd Louiso",
+      "Laura Linda Bradley",
+      "Ethan Hawke",
+      "Jalyn Baiden",
+      "Ewan McGregor",
+      "Cedar Moore"
+    ],
+    "creators": [
+      "Rodrigo García",
+      "Rodrigo García"
+    ],
+    "tmdb_id": 869025,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Casino Jack",
+    "alb_title": "Kazinoja e Xhekut",
+    "year": 2010,
+    "stars": [
+      "John Robinson",
+      "Hannah Endicott-Douglas",
+      "Graham Greene",
+      "Ruth Marshall",
+      "Jon Lovitz",
+      "Barry Pepper",
+      "Kevin Spacey",
+      "Stephen Chambers"
+    ],
+    "creators": [
+      "Norman Snider",
+      "George Hickenlooper"
+    ],
+    "tmdb_id": 45324,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Letters to Juliet",
+    "alb_title": "Letra për Xhulietën",
+    "year": 2010,
+    "stars": [
+      "Luisa Ranieri",
+      "Ivana Lotito",
+      "Dario Conti",
+      "Paolo Arvedi",
+      "Giordano Formenti",
+      "Gael García Bernal",
+      "Marcia DeBonis",
+      "Amanda Seyfried"
+    ],
+    "creators": [
+      "Gary Winick"
+    ],
+    "tmdb_id": 37056,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Puncture Wounds",
+    "alb_title": "Vrit ose vdis",
+    "year": 2014,
+    "stars": [
+      "Jonathan Kowalsky",
+      "Robert LaSardo",
+      "James C. Burns",
+      "Briana Evigan",
+      "Gianni Capaldi",
+      "Vinnie Jones",
+      "Dolph Lundgren",
+      "Cung Le"
+    ],
+    "creators": [
+      "Giorgio Serafini"
+    ],
+    "tmdb_id": 252830,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S1E5 - Mandalorian, The",
+    "alb_title": "S1E5 - The Mandalorian",
+    "year": 2019,
+    "stars": [
+      "Chris Bartlett",
+      "Katee Sackhoff",
+      "Pedro Pascal"
+    ],
+    "creators": [],
+    "tmdb_id": 82856,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.33
+  },
+  {
+    "title": "S9E8 - The Big Bang Theory",
+    "alb_title": "S9E8 - The Big Bang Theory",
+    "year": 2007,
+    "stars": [
+      "Sara Gilbert",
+      "Kevin Sussman",
+      "Laura Spencer",
+      "Mayim Bialik",
+      "Melissa Rauch",
+      "Kunal Nayyar",
+      "Simon Helberg",
+      "Kaley Cuoco",
+      "Jim Parsons",
+      "Johnny Galecki"
+    ],
+    "creators": [],
+    "tmdb_id": 1418,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "S9E10 - The Big Bang Theory",
+    "alb_title": "S9E10 - The Big Bang Theory",
+    "year": 2007,
+    "stars": [
+      "Sara Gilbert",
+      "Kevin Sussman",
+      "Laura Spencer",
+      "Mayim Bialik",
+      "Melissa Rauch",
+      "Kunal Nayyar",
+      "Simon Helberg",
+      "Kaley Cuoco",
+      "Jim Parsons",
+      "Johnny Galecki"
+    ],
+    "creators": [],
+    "tmdb_id": 1418,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "S4E4 - Only Murders in the Building",
+    "alb_title": "S4E4 - Only Murders in the Building",
+    "year": 2024,
+    "stars": [
+      "Cara Delevingne",
+      "Adina Verson",
+      "Aaron Dominguez",
+      "Amy Ryan",
+      "Michael Cyril Creighton",
+      "Selena Gomez",
+      "Martin Short"
+    ],
+    "creators": [
+      "Steve Martin"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 0.0
+  },
+  {
+    "title": "S3E15 - The Nanny",
+    "alb_title": "S3E15 - The Nanny",
+    "year": 1996,
+    "stars": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "creators": [
+      "Fran Drescher"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 0.0
+  },
+  {
+    "title": "S3E19 - The Nanny",
+    "alb_title": "S3E19 - The Nanny",
+    "year": 1996,
+    "stars": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "creators": [
+      "Fran Drescher"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 0.0
+  },
+  {
+    "title": "S3E23 - The Nanny",
+    "alb_title": "S3E23 - The Nanny",
+    "year": 1996,
+    "stars": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "creators": [
+      "Fran Drescher"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 0.0
+  },
+  {
+    "title": "S3E27 - The Nanny",
+    "alb_title": "S3E27 - The Nanny",
+    "year": 1996,
+    "stars": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "creators": [
+      "Fran Drescher"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 0.0
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "alb_title": "Thor 4: Dashuri dhe Bubullima",
+    "year": 2022,
+    "stars": [
+      "Idris Elba",
+      "Jaimie Alexander",
+      "Russell Crowe",
+      "Taika Waititi",
+      "Tessa Thompson",
+      "Christian Bale",
+      "Natalie Portman",
+      "Chris Hemsworth"
+    ],
+    "creators": [
+      "Taika Waititi"
+    ],
+    "tmdb_id": 616037,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "The People We Hate at the Wedding",
+    "alb_title": "Dita më e keqe e jetës tënde",
+    "year": 2022,
+    "stars": [
+      "Lexi Janicek",
+      "Brandon Johnston",
+      "Andy Daly",
+      "Isaach De Bankolé",
+      "Kristen Bell",
+      "Cynthia Addai-Robinson",
+      "Ben Platt",
+      "Allison Janney"
+    ],
+    "creators": [
+      "Claire Scanlon"
+    ],
+    "tmdb_id": 802372,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Luckiest Girl Alive",
+    "alb_title": "Vajza më fatlume në botë",
+    "year": 2022,
+    "stars": [
+      "Alex Barone",
+      "Dalmar Abuzeid",
+      "Justine Lupe",
+      "Scoot McNairy",
+      "Connie Britton",
+      "Finn Wittrock",
+      "Chiara Aurelia",
+      "Mila Kunis"
+    ],
+    "creators": [
+      "Jessica Knoll",
+      "Mike Barker"
+    ],
+    "tmdb_id": 799546,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "The Fearway",
+    "alb_title": "Rruga Pashkelur e Tmerrit",
+    "year": 2023,
+    "stars": [
+      "James Politano",
+      "Briahn Auguillard",
+      "John D. Hickman",
+      "Justin Gordon",
+      "Jessica Gray",
+      "Shannon Dalonzo",
+      "Eileen Dietz",
+      "Simon Phillips"
+    ],
+    "creators": [
+      "Robert Gajic"
+    ],
+    "tmdb_id": 1014629,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "A Good Person",
+    "alb_title": "Njeri i mirë",
+    "year": 2023,
+    "stars": [
+      "Toby Onwumere",
+      "Nichelle Hines",
+      "Zoe Lister-Jones",
+      "Chinaza Uche",
+      "Molly Shannon",
+      "Celeste O’Connor",
+      "Morgan Freeman",
+      "Florence Pugh"
+    ],
+    "creators": [
+      "Zach Braff",
+      "Zach Braff"
+    ],
+    "tmdb_id": 800787,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Troll",
+    "alb_title": "Troli",
+    "year": 2022,
+    "stars": [
+      "Dennis Storhøi",
+      "Fridtjov Såheim",
+      "Anneke von der Lippe",
+      "Gard B. Eidsvold",
+      "Mads Sjøgård Pettersen",
+      "Kim Falck",
+      "Ine Marie Wilmann",
+      "Espen Aukan"
+    ],
+    "creators": [
+      "Roar Uthaug"
+    ],
+    "tmdb_id": 736526,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Thanksgiving",
+    "alb_title": "Festa e Falënderimeve",
+    "year": 2023,
+    "stars": [
+      "Derek McGrath",
+      "Rick Hoffman",
+      "Nell Verlaque",
+      "Karen Cliche",
+      "Lynne Griffin",
+      "Gina Gershon",
+      "Ty Olsson",
+      "Patrick Dempsey"
+    ],
+    "creators": [
+      "Eli Roth"
+    ],
+    "tmdb_id": 1071215,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S3E3 - Goliath",
+    "alb_title": "S3E3 - Fuqi dhe Dobësi",
+    "year": 2016,
+    "stars": [
+      "Mark Duplass",
+      "Clara Wong",
+      "Diana Hopper",
+      "Maria Bello",
+      "J.K. Simmons",
+      "Graham Greene",
+      "Morris Chestnut",
+      "Brandon Scott",
+      "Ana de la Reguera",
+      "Dennis Quaid"
+    ],
+    "creators": [],
+    "tmdb_id": 67384,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "S3E4 - Goliath",
+    "alb_title": "S3E4 - Fuqi dhe Dobësi",
+    "year": 2016,
+    "stars": [
+      "Mark Duplass",
+      "Clara Wong",
+      "Diana Hopper",
+      "Maria Bello",
+      "J.K. Simmons",
+      "Graham Greene",
+      "Morris Chestnut",
+      "Brandon Scott",
+      "Ana de la Reguera",
+      "Dennis Quaid"
+    ],
+    "creators": [],
+    "tmdb_id": 67384,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "S0E51 - Si nos dejan",
+    "alb_title": "S0E51 - Në Duart e Dashurisë",
+    "year": 2021,
+    "stars": [
+      "Víctor Civeira",
+      "Isidora Vives",
+      "Carlos Said",
+      "Lore Graniewicz",
+      "Álex Perea",
+      "Scarlet Gruber",
+      "Alexis Ayala",
+      "Marcus Ornellas",
+      "Mayrín Villanueva",
+      "Gabriela Spanic"
+    ],
+    "creators": [
+      "Carlos Cock"
+    ],
+    "tmdb_id": 126787,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E52 - Si nos dejan",
+    "alb_title": "S0E52 - Në Duart e Dashurisë",
+    "year": 2021,
+    "stars": [
+      "Víctor Civeira",
+      "Isidora Vives",
+      "Carlos Said",
+      "Lore Graniewicz",
+      "Álex Perea",
+      "Scarlet Gruber",
+      "Alexis Ayala",
+      "Marcus Ornellas",
+      "Mayrín Villanueva",
+      "Gabriela Spanic"
+    ],
+    "creators": [
+      "Carlos Cock"
+    ],
+    "tmdb_id": 126787,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E53 - Si nos dejan",
+    "alb_title": "S0E53 - Në Duart e Dashurisë",
+    "year": 2021,
+    "stars": [
+      "Víctor Civeira",
+      "Isidora Vives",
+      "Carlos Said",
+      "Lore Graniewicz",
+      "Álex Perea",
+      "Scarlet Gruber",
+      "Alexis Ayala",
+      "Marcus Ornellas",
+      "Mayrín Villanueva",
+      "Gabriela Spanic"
+    ],
+    "creators": [
+      "Carlos Cock"
+    ],
+    "tmdb_id": 126787,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E193 - Love and Hate",
+    "alb_title": "S0E193 - Dashuri dhe Urrejtje",
+    "year": 2016,
+    "stars": [
+      "Selin Dumlugöl",
+      "Gülderen Güler",
+      "Ayşegül Ünsal",
+      "Uğur Uzunel",
+      "Alayça Öztürk",
+      "Cüneyt Mete",
+      "Işıl Yücesoy",
+      "Kenan Bal",
+      "Burcu Kiratli",
+      "Emrah"
+    ],
+    "creators": [
+      "Hakan Arslan"
+    ],
+    "tmdb_id": 78763,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E194 - Love and Hate",
+    "alb_title": "S0E194 - Dashuri dhe Urrejtje",
+    "year": 2016,
+    "stars": [
+      "Selin Dumlugöl",
+      "Gülderen Güler",
+      "Ayşegül Ünsal",
+      "Uğur Uzunel",
+      "Alayça Öztürk",
+      "Cüneyt Mete",
+      "Işıl Yücesoy",
+      "Kenan Bal",
+      "Burcu Kiratli",
+      "Emrah"
+    ],
+    "creators": [
+      "Hakan Arslan"
+    ],
+    "tmdb_id": 78763,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E112 - 1001 Nights",
+    "alb_title": "S0E112 - 1001 Net",
+    "year": 2006,
+    "stars": [
+      "Ceyda Düvenci",
+      "Tardu Flordun",
+      "Halit Ergenç",
+      "Bergüzar Korel"
+    ],
+    "creators": [],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 60.26
+  },
+  {
+    "title": "S0E195 - Love and Hate",
+    "alb_title": "S0E195 - Dashuri dhe Urrejtje",
+    "year": 2016,
+    "stars": [
+      "Selin Dumlugöl",
+      "Gülderen Güler",
+      "Ayşegül Ünsal",
+      "Uğur Uzunel",
+      "Alayça Öztürk",
+      "Cüneyt Mete",
+      "Işıl Yücesoy",
+      "Kenan Bal",
+      "Burcu Kiratli",
+      "Emrah"
+    ],
+    "creators": [
+      "Hakan Arslan"
+    ],
+    "tmdb_id": 78763,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E94 - Anne",
+    "alb_title": "S0E94 - Nëna Ime",
+    "year": 2016,
+    "stars": [
+      "Polly Kemp",
+      "Raymond Waring",
+      "Anthony Calf",
+      "Paul McGann",
+      "Stephen Walters",
+      "Elliot Levey",
+      "Maxine Peake",
+      "Bobby Schofield",
+      "Stephen Campbell Moore",
+      "Matthew McNulty"
+    ],
+    "creators": [],
+    "tmdb_id": 68569,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0
+  },
+  {
+    "title": "S0E5 - Price of Passion",
+    "alb_title": "S0E5 - Dashuri Bardhezi",
+    "year": 2017,
+    "stars": [
+      "Zeynep Dinsel",
+      "Sinem Ünsal",
+      "Uğur Aslan",
+      "Cahit Gök",
+      "Deniz Celiloğlu",
+      "Ece Dizdar",
+      "Arzu Gamze Kılınç",
+      "Muhammet Uzuner",
+      "Birce Akalay",
+      "İbrahim Çelikkol"
+    ],
+    "creators": [
+      "Emir Khalilzadeh"
+    ],
+    "tmdb_id": 76530,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E95 - Anne",
+    "alb_title": "S0E95 - Nëna Ime",
+    "year": 2016,
+    "stars": [
+      "Polly Kemp",
+      "Raymond Waring",
+      "Anthony Calf",
+      "Paul McGann",
+      "Stephen Walters",
+      "Elliot Levey",
+      "Maxine Peake",
+      "Bobby Schofield",
+      "Stephen Campbell Moore",
+      "Matthew McNulty"
+    ],
+    "creators": [],
+    "tmdb_id": 68569,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0
+  },
+  {
+    "title": "S0E96 - Anne",
+    "alb_title": "S0E96 - Nëna Ime",
+    "year": 2016,
+    "stars": [
+      "Polly Kemp",
+      "Raymond Waring",
+      "Anthony Calf",
+      "Paul McGann",
+      "Stephen Walters",
+      "Elliot Levey",
+      "Maxine Peake",
+      "Bobby Schofield",
+      "Stephen Campbell Moore",
+      "Matthew McNulty"
+    ],
+    "creators": [],
+    "tmdb_id": 68569,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0
+  },
+  {
+    "title": "Anne",
+    "alb_title": "Majka",
+    "year": 2016,
+    "stars": [
+      "Polly Kemp",
+      "Raymond Waring",
+      "Anthony Calf",
+      "Paul McGann",
+      "Stephen Walters",
+      "Elliot Levey",
+      "Maxine Peake",
+      "Bobby Schofield",
+      "Stephen Campbell Moore",
+      "Matthew McNulty"
+    ],
+    "creators": [],
+    "tmdb_id": 68569,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0
+  },
+  {
+    "title": "S0E38 - Lo imperdonable",
+    "alb_title": "S0E38 - E Pafalshmja",
+    "year": 2015,
+    "stars": [
+      "Guillermo Capetillo",
+      "Gabriela Goldsmith",
+      "Marcelo Buquet",
+      "Gaby Mellado",
+      "Sebastián Zurita",
+      "Sergio Sendel",
+      "Grettell Valdéz",
+      "Iván Sánchez",
+      "Ana Brenda Contreras"
+    ],
+    "creators": [],
+    "tmdb_id": 62552,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "S0E59 - Mujer comprada",
+    "alb_title": "S0E59 - Forca e Dashurisë",
+    "year": 2009,
+    "stars": [],
+    "creators": [],
+    "tmdb_id": 109940,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0
+  },
+  {
+    "title": "S0E39 - Lo imperdonable",
+    "alb_title": "S0E39 - E Pafalshmja",
+    "year": 2015,
+    "stars": [
+      "Guillermo Capetillo",
+      "Gabriela Goldsmith",
+      "Marcelo Buquet",
+      "Gaby Mellado",
+      "Sebastián Zurita",
+      "Sergio Sendel",
+      "Grettell Valdéz",
+      "Iván Sánchez",
+      "Ana Brenda Contreras"
+    ],
+    "creators": [],
+    "tmdb_id": 62552,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "S0E60 - Mujer comprada",
+    "alb_title": "S0E60 - Forca e Dashurisë",
+    "year": 2009,
+    "stars": [],
+    "creators": [],
+    "tmdb_id": 109940,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0
+  },
+  {
+    "title": "S0E40 - Lo imperdonable",
+    "alb_title": "S0E40 - E Pafalshmja",
+    "year": 2015,
+    "stars": [
+      "Guillermo Capetillo",
+      "Gabriela Goldsmith",
+      "Marcelo Buquet",
+      "Gaby Mellado",
+      "Sebastián Zurita",
+      "Sergio Sendel",
+      "Grettell Valdéz",
+      "Iván Sánchez",
+      "Ana Brenda Contreras"
+    ],
+    "creators": [],
+    "tmdb_id": 62552,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "Fargo",
+    "alb_title": "Fargo",
+    "year": 2014,
+    "stars": [
+      "Allison Tolman",
+      "Billy Bob Thornton",
+      "Martin Freeman"
+    ],
+    "creators": [
+      "Noah Hawley"
+    ],
+    "tmdb_id": 60622,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 90.0
+  },
+  {
+    "title": "Californication",
+    "alb_title": "Californication",
+    "year": 2007,
+    "stars": [
+      "Madeleine Martin",
+      "Madeline Zima",
+      "Pamela Adlon",
+      "Evan Handler",
+      "Natascha McElhone"
+    ],
+    "creators": [
+      "David Duchovny"
+    ],
+    "tmdb_id": 1215,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 95.0
+  },
+  {
+    "title": "Between two legends",
+    "alb_title": "Në kufi të dy legjendave",
+    "year": 1982,
+    "stars": [
+      "Kristaq Skrami",
+      "Elida Cangonji",
+      "Birçe Hasko",
+      "Thimi Filipi",
+      "Matilda Makoçi",
+      "Eduart Makri",
+      "Vjollca Pepa"
+    ],
+    "creators": [
+      "Vath Koreshi",
+      "Piro Milkani"
+    ],
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": 0.0
+  },
+  {
+    "title": "Çeta e vogël",
+    "alb_title": "Çeta e vogël",
+    "year": 1979,
+    "stars": [
+      "Ana Gjini",
+      "Ariana Dosti",
+      "Ilir Dashi",
+      "Mark Topallaj",
+      "Lec Bushati",
+      "Viktor Bruçeti",
+      "Loro Bianku",
+      "Ymer Bala"
+    ],
+    "creators": [
+      "Kol Jakova",
+      "Mark Topallaj"
+    ],
+    "tmdb_id": 462873,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0
   }
 ]
