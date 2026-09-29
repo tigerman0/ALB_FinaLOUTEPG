@@ -1,23 +1,43 @@
 [
   {
-    "title": "I Can Only Imagine 2",
-    "alb_title": "Një këngë për djalin tim",
-    "year": 2026,
+    "title": "Dead Man’s Wire",
+    "alb_title": "Teli i Vdekjes",
+    "year": 2025,
     "Cast": [
-      "Jason Burkey",
-      "Ezra Proch",
-      "Mark Furze",
-      "Sammy Dell",
-      "Arielle Kebbel",
-      "Sophie Skelton",
-      "Milo Ventimiglia",
-      "John Michael Finley"
+      "John Robinson",
+      "Kelly Lynch",
+      "Cary Elwes",
+      "Myha’la Herrold",
+      "Colman Domingo",
+      "Al Pacino",
+      "Dacre Montgomery",
+      "Bill Skarsgård"
     ],
     "Director": [
-      "Brent McCorkle",
-      "Andrew Erwin"
+      "Gus Van Sant"
     ],
-    "tmdb_id": 1405769,
+    "tmdb_id": 1263012,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0
+  },
+  {
+    "title": "The Plague",
+    "alb_title": "Murtaja",
+    "year": 2025,
+    "Cast": [
+      "Lennox Espy",
+      "Elliott Heffernan",
+      "Caden Burris",
+      "Lucas Adler",
+      "Kenny Rasmussen",
+      "Kayo Martin",
+      "Everett Blunck",
+      "Joel Edgerton"
+    ],
+    "Director": [
+      "Charlie Polinger"
+    ],
+    "tmdb_id": 1370814,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
@@ -41,27 +61,6 @@
     "tmdb_id": 1261504,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Dead Man’s Wire",
-    "alb_title": "Teli i Vdekjes",
-    "year": 2025,
-    "Cast": [
-      "John Robinson",
-      "Kelly Lynch",
-      "Cary Elwes",
-      "Myha’la Herrold",
-      "Colman Domingo",
-      "Al Pacino",
-      "Dacre Montgomery",
-      "Bill Skarsgård"
-    ],
-    "Director": [
-      "Gus Van Sant"
-    ],
-    "tmdb_id": 1263012,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 98.0
   },
   {
     "title": "Sidelined: The QB and Me",
@@ -95,1352 +94,1585 @@
     "tmdb_match_score": null
   },
   {
-    "title": "The Skulls 3",
-    "alb_title": "Kafkat 3",
-    "year": 2004,
-    "Cast": [
-      "Len Cariou",
-      "Maria del Mar",
-      "Dean McDermott",
-      "Karl Pruner",
-      "Steve Braun",
-      "Barry Bostwick",
-      "Bryce Johnson",
-      "Clare Kramer"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "xXx 2 - The State of The Union",
-    "alb_title": "XXX Niveli tjetër",
-    "year": 2005,
-    "Cast": [
-      "Sunny Mabrey",
-      "Michael Roof",
-      "Peter Strauss",
-      "Xzibit",
-      "Scott Speedman",
-      "Ice Cube",
-      "Samuel L. Jackson",
-      "Willem Dafoe"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "The Arrival",
-    "alb_title": "Mbërritja",
-    "year": 1996,
-    "Cast": [
-      "Alan Coates",
-      "Phyllis Applegate",
-      "Teri Polo",
-      "Ron Silver",
-      "Shane",
-      "Richard Schiff",
-      "Lindsay Crouse",
-      "Charlie Sheen"
-    ],
-    "Director": [
-      "David Twohy"
-    ],
-    "tmdb_id": 10547,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Legend of Zorro",
-    "alb_title": "Legjenda e Zorros",
-    "year": 2005,
-    "Cast": [
-      "Nick Chinlund",
-      "Adrian Alonso",
-      "Gustavo Sánchez Parra",
-      "Julio Oscar Mechoso",
-      "Alberto Reyes",
-      "Rufus Sewell",
-      "Catherine Zeta-Jones",
-      "Antonio Banderas"
-    ],
-    "Director": [
-      "Martin Campbell"
-    ],
-    "tmdb_id": 1656,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Vacanze ai Caraibi",
-    "alb_title": "Pushime në Karaibe",
-    "year": 2015,
-    "Cast": [
-      "Silvia Degrandi",
-      "Marco Aceti",
-      "Maria Luisa De Crescenzo",
-      "Dario Bandiera",
-      "Ilaria Spada",
-      "Luca Argentero",
-      "Angela Finocchiaro",
-      "Massimo Ghini"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Wish Upon a Unicorn",
-    "alb_title": "Mia dhe Njëbrirëshi",
-    "year": 2020,
-    "Cast": [
-      "Tait Blum",
-      "Rick Overton",
-      "Jon Gries",
-      "Kevin J. O’Connor",
-      "Chloe Webb",
-      "Jonathan Lajoie",
-      "Summer Fontana",
-      "Ryan Kiera Armstrong"
-    ],
-    "Director": [
-      "Steve Bencich"
-    ],
-    "tmdb_id": 743227,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "13 Hours",
-    "alb_title": "13 orë: Ushtarët sekretë të Bengazit",
-    "year": 2016,
-    "Cast": [
-      "David Costabile",
-      "Alexia Barlier",
-      "Max Martini",
-      "Dominic Fumusa",
-      "David Denman",
-      "James Badge Dale",
-      "Pablo Schreiber",
-      "John Krasinski"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Swimming for Gold",
-    "alb_title": "Shansi i tyre i fundit",
-    "year": 2020,
-    "Cast": [
-      "Alexa Curtis",
-      "Martin Dingle Wall",
-      "Ray Chong Nee",
-      "Angela Harding",
-      "Candice Hill",
-      "Daniel Needs",
-      "Lauren Esposito",
-      "Peyton List"
-    ],
-    "Director": [
-      "Hayley MacFarlane"
-    ],
-    "tmdb_id": 682402,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Getting Even with Dad",
-    "alb_title": "Do të ma paguash babi",
-    "year": 1994,
-    "Cast": [
-      "Hector Elizondo",
-      "Sam McMurray",
-      "Gailard Sartain",
-      "Saul Rubinek",
-      "Glenne Headly",
-      "Ted Danson",
-      "Macaulay Culkin",
-      "Howard Deutch"
-    ],
-    "Director": [
-      "Howard Deutch"
-    ],
-    "tmdb_id": 41579,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Old Dogs",
-    "alb_title": "Dado pa dashje",
-    "year": 2009,
-    "Cast": [
-      "Bernie Mac",
-      "Seth Green",
-      "Lori Loughlin",
-      "Ella Bleu Travolta",
-      "Conner Rayburn",
-      "Kelly Preston",
-      "Robin Williams",
-      "John Travolta"
-    ],
-    "Director": [
-      "Walt Becker"
-    ],
-    "tmdb_id": 22949,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Barber of Siberia",
-    "alb_title": "Berberi i Siberisë",
-    "year": 1998,
-    "Cast": [
-      "Nikita Tatarenkov",
-      "Marat Basharov",
-      "Vladimir Ilin",
-      "Richard Harris",
-      "Aleksey Petrenko",
-      "Oleg Menshikov",
-      "Julia Ormond",
-      "Nikita Mikhalkov"
-    ],
-    "Director": [
-      "Nikita Mikhalkov"
-    ],
-    "tmdb_id": 51300,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Do Not Disturb",
-    "alb_title": "Një orë paqe",
-    "year": 2014,
-    "Cast": [
-      "Arnaud Henriet",
-      "Christian Charmetant",
-      "Sébastien Castro",
-      "Stéphane De Groodt",
-      "Rossy de Palma",
-      "Valérie Bonneton",
-      "Carole Bouquet",
-      "Christian Clavier"
-    ],
-    "Director": [
-      "Patrice Leconte"
-    ],
-    "tmdb_id": 298614,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "A Promise",
-    "alb_title": "Premtimi",
-    "year": 2013,
-    "Cast": [
-      "Sarah Messens",
-      "Jean-Louis Sbille",
-      "Shannon Tarbet",
-      "Maggie Steed",
-      "Toby Murray",
-      "Richard Madden",
-      "Alan Rickman",
-      "Rebecca Hall"
-    ],
-    "Director": [
-      "Patrice Leconte"
-    ],
-    "tmdb_id": 214081,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Yao",
-    "alb_title": "Jao",
-    "year": 2018,
-    "Cast": [
-      "Ismaël Charles Amine Saleh",
-      "Abdoulaye Diop",
-      "Gwendolyn Gourvenec",
-      "Alibeta",
-      "Germaine Acogny",
-      "Fatoumata Diawara",
-      "Lionel Louis Basse",
-      "Omar Sy"
-    ],
-    "Director": [
-      "Philippe Godeau"
-    ],
-    "tmdb_id": 515818,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 98.0
-  },
-  {
-    "title": "Great Expectations",
-    "alb_title": "Shpresat e medha",
-    "year": 1946,
-    "Cast": [
-      "Martita Hunt",
-      "Finlay Currie",
-      "Francis L. Sullivan",
-      "Bernard Miles",
-      "Jean Simmons",
-      "Tony Wager",
-      "Valerie Hobson",
-      "John Mills"
-    ],
-    "Director": [
-      "David Lean"
-    ],
-    "tmdb_id": 14320,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "A Magnificent Haunting",
-    "alb_title": "Vizitorët e mistershëm",
-    "year": 2012,
-    "Cast": [
-      "Claudia Potenza",
-      "Andrea Bosca",
-      "Cem Yılmaz",
-      "Paola Minaccioni",
-      "Giuseppe Fiorello",
-      "Vittoria Puccini",
-      "Margherita Buy",
-      "Elio Germano"
-    ],
-    "Director": [
-      "Ferzan Özpetek"
-    ],
-    "tmdb_id": 97899,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Leave ’em Laughing",
-    "alb_title": "Lerini të qeshin",
-    "year": 1928,
-    "Cast": [
-      "Al Hallett",
-      "Otto Fries",
-      "Edgar Dearing",
-      "Dorothy Coburn",
-      "Edgar Kennedy",
-      "Charlie Hall",
-      "Oliver Hardy",
-      "Stan Laurel"
-    ],
-    "Director": [
-      "Clyde Bruckman"
-    ],
-    "tmdb_id": 48823,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Amistad",
-    "alb_title": "Amistad",
-    "year": 1997,
-    "Cast": [
-      "Stellan Skarsgård",
-      "Pete Postlethwaite",
-      "David Paymer",
-      "Nigel Hawthorne",
-      "Morgan Freeman",
-      "Anthony Hopkins",
-      "Matthew McConaughey",
-      "Djimon Hounsou"
-    ],
-    "Director": [
-      "Steven Spielberg"
-    ],
-    "tmdb_id": 11831,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Wind and the Lion",
-    "alb_title": "Era dhe luani",
-    "year": 1975,
-    "Cast": [
-      "Nadim Sawalha",
-      "Vladek Sheybal",
-      "Steve Kanaly",
-      "Geoffrey Lewis",
-      "John Huston",
-      "Brian Keith",
-      "Candice Bergen",
-      "Sean Connery"
-    ],
-    "Director": [
-      "John Milius"
-    ],
-    "tmdb_id": 14815,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Fences",
-    "alb_title": "Gardhet",
-    "year": 2016,
-    "Cast": [
-      "Christopher Mele",
-      "Saniyya Sidney",
-      "Mykelti Williamson",
-      "Russell Hornsby",
-      "Jovan Adepo",
-      "Stephen McKinley Henderson",
-      "Viola Davis",
-      "Denzel Washington"
-    ],
-    "Director": [
-      "Denzel Washington"
-    ],
-    "tmdb_id": 393457,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Tolkien",
-    "alb_title": "Zoti Tolkin",
-    "year": 2019,
-    "Cast": [
-      "Guillermo Bedward",
-      "Laura Donnelly",
-      "Colm Meaney",
-      "Harry Gilby",
-      "Craig Roberts",
-      "Kallum Tolkien",
-      "Al Bollands",
-      "Nicholas Hoult"
-    ],
-    "Director": [
-      "Dome Karukoski"
-    ],
-    "tmdb_id": 468224,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Last Warrior",
-    "alb_title": "Luftëtari i fundit",
-    "year": 2017,
-    "Cast": [
-      "Timofey Tribuntsev",
-      "Evgeniy Dyatlov",
-      "Sergey Burunov",
-      "Elena Yakovleva",
-      "Konstantin Lavronenko",
-      "Ekaterina Vilkova",
-      "Mila Sivatskaya",
-      "Viktor Khorinyak"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Oxygen",
-    "alb_title": "Oksigjen",
-    "year": 2021,
-    "Cast": [
-      "Marc Saez",
-      "Annie Balestra",
-      "Eric Herson-Macarel",
-      "Mathieu Amalric",
-      "Lyah Valade",
-      "Laura Boujenah",
-      "Malik Zidi",
-      "Mélanie Laurent"
-    ],
-    "Director": [
-      "Alexandre Aja"
-    ],
-    "tmdb_id": 471498,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Kid Who Would Be King",
-    "alb_title": "Djali që do të bëhej mbret",
-    "year": 2019,
-    "Cast": [
-      "Rebecca Ferguson",
-      "Noma Dumezweni",
-      "Nathan Stewart-Jarrett",
-      "Rhianna Dorris",
-      "Tom Taylor",
-      "Dean Chaumoo",
-      "Denise Gough",
-      "Louis Ashbourne Serkis"
-    ],
-    "Director": [
-      "Joe Cornish"
-    ],
-    "tmdb_id": 454294,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Monster Hunter",
-    "alb_title": "Gjahtari i përbindëshave",
-    "year": 2020,
-    "Cast": [
-      "Jin Au-Yeung",
-      "Josh Helman",
-      "Meagan Good",
-      "Diego Boneta",
-      "T.I.",
-      "Ron Perlman",
-      "Tony Jaa",
-      "Milla Jovovich"
-    ],
-    "Director": [
-      "Paul W. S. Anderson"
-    ],
-    "tmdb_id": 458576,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Love Tactics",
-    "alb_title": "Taktikat e dashurisë",
-    "year": 2022,
-    "Cast": [
-      "Ecem Atalay",
-      "Hande Yilmaz",
-      "Deniz Baydar",
-      "Özgür Ozan",
-      "Dogukan Polat",
-      "Atakan Çelik",
-      "Sükrü Özyildiz",
-      "Demet Ozdemir"
-    ],
-    "Director": [
-      "Emre Kabakuşak"
-    ],
-    "tmdb_id": 927855,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Resident Evil",
-    "alb_title": "Banor i së keqes",
-    "year": 2002,
-    "Cast": [
-      "Robert Tannion",
-      "Joseph May",
-      "Anna Bolt",
-      "Indra Ové",
-      "Oscar Pearce",
-      "Ryan McCluskey",
-      "Michelle Rodriguez",
-      "Milla Jovovich"
-    ],
-    "Director": [
-      "Paul W. S. Anderson"
-    ],
-    "tmdb_id": 1576,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "What We Do in the Shadows",
-    "alb_title": "Ajo që bëjmë në hije",
-    "year": 2014,
-    "Cast": [
-      "Elena Stejko",
-      "Jackie van Beek",
-      "Ben Fransham",
-      "Stu Rutherford",
-      "Jonny Brugh",
-      "Cori Gonzalez-Macuer",
-      "Taika Waititi",
-      "Jemaine Clement"
-    ],
-    "Director": [
-      "Jemaine Clement",
-      "Taika Waititi"
-    ],
-    "tmdb_id": 246741,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Shutter",
-    "alb_title": "Foto depërtuese",
+    "title": "An Empress and the Warriors",
+    "alb_title": "Perandoresha dhe Luftëtarët",
     "year": 2008,
     "Cast": [
-      "Yoshiko Miyazaki",
-      "James Kyson",
-      "Maya Hazen",
-      "John Hensley",
-      "David Denman",
-      "Megumi Okina",
-      "Rachael Taylor",
-      "Joshua Jackson"
+      "Zhi-Hui Chen",
+      "Shan Zhang",
+      "Weihua Liu",
+      "Zhenhai Kou",
+      "Xiaodong Guo",
+      "Leon Lai",
+      "Donnie Yen",
+      "Kelly Chen"
     ],
     "Director": [
-      "Masayuki Ochiai"
+      "Tony Ching Siu-Tung"
     ],
-    "tmdb_id": 10885,
+    "tmdb_id": 14539,
     "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
+    "tmdb_match_score": 60.0
   },
   {
-    "title": "What Keeps You Alive",
-    "alb_title": "Ajo që të mban gjallë",
-    "year": 2018,
+    "title": "Inferno",
+    "alb_title": "Inferno",
+    "year": 2016,
     "Cast": [
-      "Charlotte Lindsay Marron",
-      "Joey Klein",
-      "Martha MacIsaac",
-      "Brittany Allen",
-      "Hannah Emily Anderson"
-    ],
-    "Director": [
-      "Colin Minihan"
-    ],
-    "tmdb_id": 503752,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Aiyai: Wrathful Soul",
-    "alb_title": "Zemërimi i shpirtit",
-    "year": 2020,
-    "Cast": [
-      "Salvatore Merenda",
-      "Asabi Goodman",
-      "Richard Huggett",
-      "Wayne Bassett",
-      "Kabir Singh",
-      "Vinod Mohana Sundaram",
-      "Tahlia Jade Holt",
-      "Korey Williams"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Peacock",
-    "alb_title": "Peacock",
-    "year": 2010,
-    "Cast": [
-      "Eden Bodnar",
-      "Keith Carradine",
-      "Graham Beckel",
-      "Bill Pullman",
-      "Josh Lucas",
-      "Susan Sarandon",
-      "Ellen Page",
-      "Cillian Murphy"
-    ],
-    "Director": [
-      "Michael Lander"
-    ],
-    "tmdb_id": 11761,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Jab Tak Hai Jaan",
-    "alb_title": "Sa të kem jetë",
-    "year": 2012,
-    "Cast": [
-      "Anupam Kher",
-      "Anushka Sharma",
-      "Katrina Kaif",
-      "Shah Rukh Khan",
-      "Julie Vollono",
-      "Narin Oz",
-      "Vinita Sharma",
-      "Natasha Jenssen"
-    ],
-    "Director": [
-      "Yash Chopra"
-    ],
-    "tmdb_id": 132316,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Darjeeling Limited",
-    "alb_title": "Udhëtimi shpirtëror",
-    "year": 2007,
-    "Cast": [
-      "Barbet Schroeder",
+      "Ida Darvish",
+      "Ana Ularu",
+      "Ben Foster",
+      "Sidse Babett Knudsen",
       "Irrfan Khan",
-      "Waris Ahluwalia",
-      "Wallace Wolodarsky",
-      "Amara Karan",
-      "Adrien Brody",
-      "Owen Wilson",
-      "Jason Schwartzman"
+      "Omar Sy",
+      "Felicity Jones",
+      "Tom Hanks"
     ],
     "Director": [
-      "Wes Anderson"
+      "Ron Howard"
     ],
-    "tmdb_id": 4538,
+    "tmdb_id": 207932,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "A Match Made by God",
-    "alb_title": "Në dashuri me time shoqe",
-    "year": 2008,
+    "title": "Take Me Home Tonight",
+    "alb_title": "Natë marramendëse",
+    "year": 2011,
     "Cast": [
-      "Preity Zinta",
-      "Rani Mukerji",
-      "Kajol",
-      "Manmeet Singh",
-      "M.K. Raina",
-      "Vinay Pathak",
-      "Anushka Sharma",
-      "Shah Rukh Khan"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "10 Steps to Love",
-    "alb_title": "10 hapat drejt dashurisë",
-    "year": 2021,
-    "Cast": [
-      "Zee Nwabara",
-      "Jesse Vega",
-      "Joe Narsavage",
-      "Victoria Posey",
-      "Lexi Giovagnoli",
-      "Joseph Gray",
-      "Britton Webb",
-      "Ella Cannon"
+      "Lucy Punch",
+      "Jeanie Hackett",
+      "Michael Biehn",
+      "Chris Pratt",
+      "Teresa Palmer",
+      "Dan Fogler",
+      "Anna Faris",
+      "Topher Grace"
     ],
     "Director": [
-      "Elizabeth Snoderly"
+      "Michael Dowse"
     ],
-    "tmdb_id": 884333,
+    "tmdb_id": 50725,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "Counterpunch",
-    "alb_title": "Kundërgrushti",
-    "year": 2019,
+    "title": "Memorial Day",
+    "alb_title": "Dita e dëshmorëve",
+    "year": 2012,
     "Cast": [
-      "Ivonne Coll",
-      "Bailey Estevan",
-      "Lilla Labanc",
-      "Camila Banus",
-      "Oscar Torre",
-      "Steven Bauer",
-      "Danny Trejo",
-      "Alvaro Orlando"
+      "Chris LeFevere",
+      "Corby Kelly",
+      "Emily Fradenburgh",
+      "Mary Kay Fortier-Spalding",
+      "Jackson Bond",
+      "John Cromwell",
+      "James Cromwell",
+      "Jonathan Bennett"
     ],
     "Director": [
-      "Kenneth Castillo"
+      "Sam Fischer"
     ],
-    "tmdb_id": 157771,
+    "tmdb_id": 105945,
     "tmdb_type": "movie",
-    "tmdb_match_score": 95.0
+    "tmdb_match_score": 91.0
   },
   {
-    "title": "The President’s Man: A Line in the Sand",
-    "alb_title": "Roja e Presidentit: Misioni i posaçëm",
-    "year": 2002,
-    "Cast": [
-      "Bruce Nozick",
-      "Thom Barry",
-      "Ali Afshar",
-      "Joel Swetow",
-      "Roxanne Hart",
-      "Jennifer Tung",
-      "Judson Mills",
-      "Chuck Norris"
-    ],
-    "Director": [
-      "Eric Norris"
-    ],
-    "tmdb_id": 36996,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Operation Chromite",
-    "alb_title": "Operacioni Chromite:Burra nderi",
+    "title": "Kingsglaive: Final Fantasy XV",
+    "alb_title": "Shpatarët e mbretit: Fantazia e fundit",
     "year": 2016,
     "Cast": [
-      "Seon-a Kim",
-      "Byeong-ok Kim",
-      "Jun-ho Jeong",
-      "Cheol-min Park",
-      "Se-Yeon Jin",
-      "Liam Neeson",
-      "Beom-su Lee",
-      "Jung-jae Lee"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "The Island",
-    "alb_title": "Ishulli",
-    "year": 2023,
-    "Cast": [
-      "Kishorn Charles",
-      "Esther Brooks",
-      "Donald Brooks",
-      "Wayne Gordon",
-      "Edoardo Costa",
-      "Jackson Rathbone",
-      "Gillian White",
-      "Michael Jai White"
+      "Alexa Kahn",
+      "Liam Mulvey",
+      "Adrian Bouchet",
+      "Neil Newbon",
+      "Sean Bean",
+      "Lena Headey",
+      "Aaron Paul",
+      "Jon Campling"
     ],
     "Director": [
-      "Shaun Paul Piccinino"
+      "Takeshi Nozue"
     ],
-    "tmdb_id": 1138749,
+    "tmdb_id": 390734,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "It Happens in the Best of Families",
-    "alb_title": "Familja e madhe",
-    "year": 2024,
+    "title": "InSight",
+    "alb_title": "Kujtimet e viktimës",
+    "year": 2011,
     "Cast": [
-      "Sebastiano Somma",
-      "Euridice Axen",
-      "Sergio Friscia",
-      "Anna Galiena",
-      "Antonio Catania",
-      "Dino Abbrescia",
-      "Cristiana Capotondi",
-      "Alessandro Siani"
+      "Juliet Landau",
+      "Christopher Lloyd",
+      "Veronica Cartwright",
+      "Thomas Ian Nicholas",
+      "Angeline-Rose Troy",
+      "Natalie Zea",
+      "Adam Baldwin",
+      "Sean Patrick Flanery"
     ],
     "Director": [
-      "Alessandro Siani"
+      "Richard Gabai"
     ],
-    "tmdb_id": 1129314,
+    "tmdb_id": 77874,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "Bakery in Brooklyn",
-    "alb_title": "Telashe në kuzhinë",
-    "year": 2016,
-    "Cast": [
-      "Enrique Arce",
-      "Aitor Luna",
-      "Ward Horton",
-      "Blanca Suárez",
-      "Ernie Sabella",
-      "Griffin Newman",
-      "Krysta Rodriguez",
-      "Aimee Teegarden"
-    ],
-    "Director": [
-      "Gustavo Ron"
-    ],
-    "tmdb_id": 398891,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Christmas with You",
-    "alb_title": "Krishtlindjet me ty",
-    "year": 2022,
-    "Cast": [
-      "Kyndra Sanchez",
-      "Cedric Cannon",
-      "Zenzi Williams",
-      "Deja Monique Cruz",
-      "Grace Dumdaw",
-      "Gabriel Sloyer",
-      "Freddie Prinze Jr.",
-      "Aimee Garcia"
-    ],
-    "Director": [
-      "Gabriela Tagliavini"
-    ],
-    "tmdb_id": 936960,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Breaking the Bank",
-    "alb_title": "Të shkatërrosh një bankë",
-    "year": 2014,
-    "Cast": [
-      "Julie Dray",
-      "Pearce Quigley",
-      "Mathew Horne",
-      "Doon Mackichan",
-      "Sonya Cassidy",
-      "John Michael Higgins",
-      "Kelsey Grammer",
-      "Tamsin Greig"
-    ],
-    "Director": [
-      "Vadim Jean"
-    ],
-    "tmdb_id": 343829,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 96.0
-  },
-  {
-    "title": "Pitch Perfect 3",
-    "alb_title": "Ritëm i përsosur 3",
-    "year": 2017,
-    "Cast": [
-      "Kelley Jakle",
-      "Hana Mae Lee",
-      "Ester Dean",
-      "Hailee Steinfeld",
-      "Anna Camp",
-      "Brittany Snow",
-      "Rebel Wilson",
-      "Anna Kendrick"
-    ],
-    "Director": [
-      "Trish Sie"
-    ],
-    "tmdb_id": 353616,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Outcasts",
-    "alb_title": "Të përjashtuarit",
-    "year": 2017,
-    "Cast": [
-      "Jazmyn Richardson",
-      "Peyton List",
-      "Katie Chang",
-      "Claudia Lee",
-      "Avan Jogia",
-      "Ashley Rickards",
-      "Eden Sher",
-      "Victoria Justice"
-    ],
-    "Director": [
-      "Peter Hutchings"
-    ],
-    "tmdb_id": 306943,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Mr Bean’s Holiday",
-    "alb_title": "Pushimet e Mr. Bean",
-    "year": 2007,
-    "Cast": [
-      "Arsène Mosca",
-      "Emma de Caunes",
-      "Francois Touch",
-      "Sharlit Deyzac",
-      "Preston Nyman",
-      "Lily Atkinson",
-      "Steve Pemberton",
-      "Rowan Atkinson"
-    ],
-    "Director": [
-      "Steve Bendelack"
-    ],
-    "tmdb_id": 1268,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Open Season 3",
-    "alb_title": "Stina e gjuetisë 3",
-    "year": 2010,
-    "Cast": [
-      "Ashley Lambert",
-      "Rif Hutton",
-      "Wendy Hoffman",
-      "Bridget Hoffman",
-      "Rachel Crane",
-      "Ranjani Brow",
-      "Anastasia Baranova",
-      "Kirk Baily"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Open Season: Scared Silly",
-    "alb_title": "Stina e gjuetisë 4",
+    "title": "All She Wishes",
+    "alb_title": "Dëshira e Sofisë",
     "year": 2015,
     "Cast": [
-      "Garry Chalk",
-      "Kathleen Barr",
-      "Brian Drummond",
-      "Trevor Devall",
-      "Melissa Sturm",
-      "Donny Lucas",
-      "Will Townsend",
-      "Maddie Taylor"
+      "Ree Lawson",
+      "Matt Clouston",
+      "Dan Wilt",
+      "Kathryn Albers",
+      "Julia Duffy",
+      "Diedrich Bader",
+      "Calum Worthy",
+      "Lexi Giovagnoli"
     ],
     "Director": [
-      "David Feiss"
+      "Letia Clouston"
     ],
-    "tmdb_id": 382517,
+    "tmdb_id": 313371,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "With Honors",
-    "alb_title": "With Honors",
-    "year": 1994,
-    "Cast": [
-      "Marshall Hambro",
-      "Deborah Lake Fortson",
-      "Gore Vidal",
-      "Josh Hamilton",
-      "Patrick Dempsey",
-      "Moira Kelly",
-      "Brendan Fraser",
-      "Joe Pesci"
-    ],
-    "Director": [
-      "Alek Keshishian"
-    ],
-    "tmdb_id": 16297,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Curious George",
-    "alb_title": "Xhorxhi kuriozi",
-    "year": 2006,
-    "Cast": [
-      "Michaela Jill Murphy",
-      "Christopher Chen",
-      "Timyra-Joi Beatty",
-      "Shane Baumel",
-      "Frank Welker",
-      "Eugene Levy",
-      "Drew Barrymore",
-      "Will Ferrell"
-    ],
-    "Director": [
-      "Matthew O'Callaghan"
-    ],
-    "tmdb_id": 9975,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Secondhand Lions",
-    "alb_title": "Luanë me çmim të lirë",
+    "title": "How to Lose a Guy in 10 Days",
+    "alb_title": "Të largosh një djalë në 10 ditë",
     "year": 2003,
     "Cast": [
-      "Deirdre O’Connell",
-      "Michael O’Neill",
-      "Josh Lucas",
-      "Nicky Katt",
-      "Kyra Sedgwick",
-      "Robert Duvall",
-      "Michael Caine",
-      "Haley Joel Osment"
+      "Shalom Harlow",
+      "Michael Michele",
+      "Thomas Lennon",
+      "Adam Goldberg",
+      "Annie Parisse",
+      "Kathryn Hahn",
+      "Matthew McConaughey",
+      "Kate Hudson"
+    ],
+    "Director": [
+      "Donald Petrie"
+    ],
+    "tmdb_id": 9919,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Angels Sing",
+    "alb_title": "Kënga e Engjëjve",
+    "year": 2013,
+    "Cast": [
+      "Dana Wheeler-Nicholson",
+      "Kris Kristofferson",
+      "Willie Nelson",
+      "Lyle Lovett",
+      "Fionnula Flanagan",
+      "Chandler Canterbury",
+      "Connie Britton",
+      "Harry Connick Jr."
     ],
     "Director": [
       "Tim McCanlies"
     ],
-    "tmdb_id": 13156,
+    "tmdb_id": 57210,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "Paws of Fury: The Legend of Hank",
-    "alb_title": "Putrat e hekurta: Legjenda e Henkut",
-    "year": 2022,
+    "title": "The Pink Panther 2",
+    "alb_title": "Pantera rozë 2",
+    "year": 2009,
     "Cast": [
-      "Seth Clark",
-      "Miles Clark",
-      "David Chen",
-      "William Calvert",
-      "Ranjani Brow",
-      "Steve Blum",
-      "Kirk Baily",
-      "Steve Apostolina"
+      "John Cleese",
+      "Aishwarya Rai Bachchan",
+      "Yuki Matsuzaki",
+      "Alfred Molina",
+      "Andy Garcia",
+      "Emily Mortimer",
+      "Jean Reno",
+      "Steve Martin"
     ],
     "Director": [
-      "Rob Minkoff",
-      "Chris Bailey",
-      "Mark Koetsier"
+      "Harald Zwart"
     ],
-    "tmdb_id": 366672,
+    "tmdb_id": 15159,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "Hairspray",
-    "alb_title": "Hairspray - Në kërkim të famës",
+    "title": "El Raton Perez 2 aka The Hairy Tooth Fa",
+    "alb_title": "Miushi Perez 2",
+    "year": 0,
+    "Cast": [],
+    "Director": [
+      "Andrés G. Schaer"
+    ],
+    "tmdb_id": 52611,
+    "tmdb_type": "movie",
+    "tmdb_match_score": null
+  },
+  {
+    "title": "Aladdin",
+    "alb_title": "Aladini",
+    "year": 2019,
+    "Cast": [
+      "Jordan A. Nash",
+      "Billy Magnussen",
+      "Nasim Pedrad",
+      "Navid Negahban",
+      "Marwan Kenzari",
+      "Naomi Scott",
+      "Mena Massoud",
+      "Will Smith"
+    ],
+    "Director": [
+      "Guy Ritchie"
+    ],
+    "tmdb_id": 420817,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Strayed",
+    "alb_title": "Larg botës",
+    "year": 2003,
+    "Cast": [
+      "Nicholas Mead",
+      "Eric Kreikenmayer",
+      "Jean Fornerod",
+      "Samuel Labarthe",
+      "Clemence Meyer",
+      "Grégoire Leprince-Ringuet",
+      "Gaspard Ulliel",
+      "Emmanuelle Béart"
+    ],
+    "Director": [
+      "André Téchiné"
+    ],
+    "tmdb_id": 38018,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Pressure",
+    "alb_title": "Trysnia",
+    "year": 2015,
+    "Cast": [
+      "Gemita Samarra",
+      "Daisy Lowe",
+      "Ian Pirie",
+      "Joe Cole",
+      "Matthew Goode",
+      "Danny Huston",
+      "Alan McKenna"
+    ],
+    "Director": [
+      "Ron Scalpello"
+    ],
+    "tmdb_id": 252164,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Taxi 4",
+    "alb_title": "Taksia 4",
     "year": 2007,
     "Cast": [
-      "Brittany Snow",
-      "James Marsden",
-      "Amanda Bynes",
-      "Christopher Walken",
-      "Michelle Pfeiffer",
-      "Nikki Blonsky",
-      "Queen Latifah",
-      "John Travolta"
+      "François Damiens",
+      "Jean-Luc Couchard",
+      "Jean-Christophe Bouvet",
+      "Edouard Montoute",
+      "Emma Wiklund",
+      "Bernard Farcy",
+      "Frédéric Diefenthal",
+      "Samy Naceri"
     ],
     "Director": [
-      "Adam Shankman"
+      "Gérard Krawczyk"
     ],
-    "tmdb_id": 2976,
+    "tmdb_id": 2335,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E11 - Castle",
-    "alb_title": "S6E11 - KESTËLL",
-    "year": 2013,
+    "title": "Test",
+    "alb_title": "Testi",
+    "year": 2014,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Anvar Khalilulaev",
+      "Narinman Bekbulatov-Areshev",
+      "Karim Pakachakov",
+      "Danila Rassomakhin",
+      "Elena An"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Chris Mason Johnson"
+    ],
+    "tmdb_id": 226979,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 53.0
   },
   {
-    "title": "S6E12 - Castle",
-    "alb_title": "S6E12 - KESTËLL",
-    "year": 2013,
+    "title": "What Richard Did",
+    "alb_title": "Ajo që bëri Riçardi",
+    "year": 2012,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Mella Carron",
+      "Billy Gibson",
+      "Rachel Gleeson",
+      "Liana O’Cleirigh",
+      "Patrick Gibson",
+      "Gavin Drea",
+      "Fionn Walton",
+      "Jack Reynor"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Lenny Abrahamson"
+    ],
+    "tmdb_id": 128248,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E14 - Castle",
-    "alb_title": "S6E14 - KESTËLL",
-    "year": 2013,
+    "title": "Incantato",
+    "alb_title": "Zemrën diku tjetër",
+    "year": 2003,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Anna Longhi",
+      "Edoardo Romano",
+      "Giulio Bosetti",
+      "Sandra Milo",
+      "Nino D’Angelo",
+      "Giancarlo Giannini",
+      "Vanessa Incontrada",
+      "Neri Marcorè"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Pupi Avati"
+    ],
+    "tmdb_id": 57424,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E15 - Castle",
-    "alb_title": "S6E15 - KESTËLL",
-    "year": 2013,
+    "title": "The Place",
+    "alb_title": "Vendtakimi",
+    "year": 2017,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Silvia D’Amico",
+      "Sabrina Ferilli",
+      "Vittoria Puccini",
+      "Alba Rohrwacher",
+      "Silvio Muccino",
+      "Alessandro Borghi",
+      "Marco Giallini",
+      "Valerio Mastandrea"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Paolo Genovese"
+    ],
+    "tmdb_id": 468198,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E17 - Castle",
-    "alb_title": "S6E17 - KESTËLL",
-    "year": 2013,
+    "title": "Scoop",
+    "alb_title": "Lajmi i bujshëm",
+    "year": 2006,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Pete Mastin",
+      "Fenella Woolgar",
+      "Ian McShane",
+      "Nigel Lindsay",
+      "Christopher Fulford",
+      "Geoff Bell",
+      "Robert Bathurst",
+      "Jim Dunk"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Woody Allen"
+    ],
+    "tmdb_id": 512,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E18 - Castle",
-    "alb_title": "S6E18 - KESTËLL",
-    "year": 2013,
+    "title": "Magic in the Moonlight",
+    "alb_title": "Magji nën dritën e hënës",
+    "year": 2014,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Sébastien Siroux",
+      "Wolfgang Pissors",
+      "Jürgen Zwingel",
+      "Peter Wollasch",
+      "Valérie Beaulieu",
+      "Natasha Andrews",
+      "Antonia Clarke",
+      "Colin Firth"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Woody Allen"
+    ],
+    "tmdb_id": 229297,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E20 - Castle",
-    "alb_title": "S6E20 - KESTËLL",
-    "year": 2013,
+    "title": "Rome, Open City",
+    "alb_title": "Roma, qytet i hapur",
+    "year": 1945,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Francesco Grandjacquet",
+      "Giovanna Galletti",
+      "Harry Feist",
+      "Nando Bruno",
+      "Vito Annichiarico",
+      "Marcello Pagliero",
+      "Aldo Fabrizi",
+      "Anna Magnani"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Roberto Rossellini"
+    ],
+    "tmdb_id": 307,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S6E21 - Castle",
-    "alb_title": "S6E21 - KESTËLL",
-    "year": 2013,
+    "title": "Oliver!",
+    "alb_title": "Oliveri",
+    "year": 1968,
     "Cast": [
-      "Ruben Santiago-Hudson",
-      "Molly Caitlyn Quinn",
-      "Toks Olagundoye",
-      "Tamala Jones",
-      "Susan Sullivan",
-      "Seamus Dever",
-      "Jon Huertas",
-      "Molly C. Quinn"
+      "Joseph O’Conor",
+      "Hugh Griffith",
+      "Jack Wild",
+      "Mark Lester",
+      "Harry Secombe",
+      "Oliver Reed",
+      "Shani Wallis",
+      "Ron Moody"
     ],
-    "Director": [],
-    "tmdb_id": 1419,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "Director": [
+      "Carol Reed"
+    ],
+    "tmdb_id": 17917,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S3E5 - Married with Children",
-    "alb_title": "S3E5 - Married with Children",
-    "year": 1987,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": 4239,
-    "tmdb_type": "tv",
+    "title": "Loving",
+    "alb_title": "Loving",
+    "year": 2016,
+    "Cast": [
+      "Benjamin Booker",
+      "Chris Greene",
+      "Alano Miller",
+      "Terri Abney",
+      "Dean Mumford",
+      "Will Dalton",
+      "Joel Edgerton",
+      "Ruth Negga"
+    ],
+    "Director": [
+      "Jeff Nichols"
+    ],
+    "tmdb_id": 339419,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "The Peanut Butter Falcon",
+    "alb_title": "Fajkoi prej gjalpë kikiriku",
+    "year": 2019,
+    "Cast": [
+      "Jon Bernthal",
+      "Rob Thomas",
+      "Thomas Haden Church",
+      "Shia LaBeouf",
+      "Bruce Dern",
+      "Dakota Johnson",
+      "Ann Pierce",
+      "Zack Gottsagen"
+    ],
+    "Director": [
+      "Tyler Nilson",
+      "Michael Schwartz"
+    ],
+    "tmdb_id": 463257,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Pete’s Dragon",
+    "alb_title": "Piti dhe dragoi",
+    "year": 2016,
+    "Cast": [
+      "Isiah Whitlock Jr.",
+      "Karl Urban",
+      "Wes Bentley",
+      "Oona Laurence",
+      "Oakes Fegley",
+      "Robert Redford",
+      "Bryce Dallas Howard",
+      "Toby Halbrooks"
+    ],
+    "Director": [
+      "David Lowery"
+    ],
+    "tmdb_id": 294272,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Close Enemies",
+    "alb_title": "Miq Armiq",
+    "year": 2018,
+    "Cast": [
+      "Astrid Whettnall",
+      "Nicolas Giraud",
+      "Gwendolyn Gourvenec",
+      "Sabrina Ouazani",
+      "Sofiane Zermani",
+      "Adel Bencherif",
+      "Reda Kateb",
+      "Matthias Schoenaerts"
+    ],
+    "Director": [
+      "David Oelhoffen"
+    ],
+    "tmdb_id": 484901,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Billy Lynn’s Long Halftime Walk",
+    "alb_title": "Turneu heroik i Billi Linit",
+    "year": 2016,
+    "Cast": [
+      "Barney Harris",
+      "Ismael Cruz Cordova",
+      "Beau Knapp",
+      "Astro",
+      "Mason Lee",
+      "Arturo Castro",
+      "Garrett Hedlund",
+      "Joe Alwyn"
+    ],
+    "Director": [
+      "Ang Lee"
+    ],
+    "tmdb_id": 293767,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Jingle Jangle: A Christmas Journey",
+    "alb_title": "Krishtlindje magjike",
+    "year": 2020,
+    "Cast": [
+      "Justin Cornwell",
+      "Ricky Martin",
+      "Phylicia Rashad",
+      "Madalen Mills",
+      "Anika Noni Rose",
+      "Hugh Bonneville",
+      "Keegan-Michael Key",
+      "Forest Whitaker"
+    ],
+    "Director": [
+      "David E. Talbert"
+    ],
+    "tmdb_id": 622855,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Always Be My Maybe",
+    "alb_title": "Përgjithmonë Ndoshta",
+    "year": 2019,
+    "Cast": [
+      "Daniel Dae Kim",
+      "Susan Park",
+      "Keanu Reeves",
+      "Vivian Bang",
+      "Michelle Buteau",
+      "James Saito",
+      "Randall Park",
+      "Ali Wong"
+    ],
+    "Director": [
+      "Nahnatchka Khan"
+    ],
+    "tmdb_id": 513576,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Sharknado 2",
+    "alb_title": "Uragan peshkaqenësh 2",
+    "year": 2014,
+    "Cast": [
+      "Judd Hirsch",
+      "Dante Palminteri",
+      "Courtney Baxter",
+      "Kari Wuhrer",
+      "Mark McGrath",
+      "Vivica A. Fox",
+      "Tara Reid",
+      "Ian Ziering"
+    ],
+    "Director": [
+      "Anthony C. Ferrante"
+    ],
+    "tmdb_id": 248504,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Look Away",
+    "alb_title": "Mos shiko pas xhamit",
+    "year": 2018,
+    "Cast": [
+      "Kiera Johnson",
+      "Kristen Harris",
+      "Harrison Gilbertson",
+      "John C. MacDonald",
+      "Penelope Mitchell",
+      "Mira Sorvino",
+      "Jason Isaacs",
+      "India Eisley"
+    ],
+    "Director": [
+      "Assaf Bernstein"
+    ],
+    "tmdb_id": 526051,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Sharknado 6",
+    "alb_title": "Uragan peshkaqenësh 6",
+    "year": 2018,
+    "Cast": [
+      "Matie Moncea",
+      "M. Steven Felty",
+      "Brendan Petrizzo",
+      "Vivica A. Fox",
+      "Judah Friedlander",
+      "Cassandra Scerbo",
+      "Tara Reid",
+      "Ian Ziering"
+    ],
+    "Director": [
+      "Anthony C. Ferrante"
+    ],
+    "tmdb_id": 523849,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Safe Neighborhood",
+    "alb_title": "Kujdes kë ke pranë",
+    "year": 2016,
+    "Cast": [
+      "Alexandra Matusko",
+      "Virginia Madsen",
+      "Patrick Warburton",
+      "Dacre Montgomery",
+      "Aleks Mikic",
+      "Ed Oxenbould",
+      "Levi Miller",
+      "Olivia DeJonge"
+    ],
+    "Director": [
+      "Chris Peckover"
+    ],
+    "tmdb_id": 406994,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0
+  },
+  {
+    "title": "You Get Me",
+    "alb_title": "Ti më kupton",
+    "year": 2017,
+    "Cast": [
+      "Kathryn Morris",
+      "Brigid Brannagh",
+      "Rhys Wakefield",
+      "Anna Akana",
+      "Nash Grier",
+      "Taylor John Smith",
+      "Halston Sage",
+      "Bella Thorne"
+    ],
+    "Director": [
+      "Brent Bonacorso"
+    ],
+    "tmdb_id": 412105,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Dante’s Peak",
+    "alb_title": "Maja e Dantes",
+    "year": 1997,
+    "Cast": [
+      "Kirk Trutner",
+      "Grant Heslov",
+      "Charles Hallahan",
+      "Elizabeth Hoffman",
+      "Jeremy Foley",
+      "Jamie Renée Smith",
+      "Linda Hamilton",
+      "Pierce Brosnan"
+    ],
+    "Director": [
+      "Roger Donaldson"
+    ],
+    "tmdb_id": 9619,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Jungleland",
+    "alb_title": "Toka e xhunglës",
+    "year": 2019,
+    "Cast": [
+      "Katie Duncan",
+      "Jessica Barden",
+      "Jonathan Majors",
+      "Patrick M. Walsh",
+      "Fran Kranz",
+      "Naheem Garcia",
+      "Jack O’Connell",
+      "Charlie Hunnam"
+    ],
+    "Director": [
+      "Max Winkler"
+    ],
+    "tmdb_id": 556501,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0
+  },
+  {
+    "title": "Love and Mortar",
+    "alb_title": "Një dhurues për Xhekun",
+    "year": 2010,
+    "Cast": [
+      "Julia Blake",
+      "Colin Friels",
+      "Yvonne Strahovski",
+      "Kodi Smit-McPhee",
+      "James Nesbitt",
+      "Tom Russell",
+      "Richard Roxburgh",
+      "Jacinda Barrett"
+    ],
+    "Director": [
+      "Nadia Tass"
+    ],
+    "tmdb_id": 44049,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Indivisible",
+    "alb_title": "Të pandarë",
+    "year": 2018,
+    "Cast": [
+      "Eric Close",
+      "Madeline Carroll",
+      "Tanner Stine",
+      "Skye P. Marshall",
+      "Tia Mowry-Hardrict",
+      "Jason George",
+      "Justin Bruening",
+      "Sarah Drew"
+    ],
+    "Director": [
+      "David G. Evans"
+    ],
+    "tmdb_id": 514407,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Little Fish",
+    "alb_title": "Sëmundja pa kurë",
+    "year": 2020,
+    "Cast": [
+      "Heather Decksheimer",
+      "Ross Wirtanen",
+      "Mackenzie Cardwell",
+      "David Lennon",
+      "Raúl Castillo",
+      "Soko",
+      "Jack O’Connell",
+      "Olivia Cooke"
+    ],
+    "Director": [
+      "Chad Hartigan"
+    ],
+    "tmdb_id": 586791,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0
+  },
+  {
+    "title": "True Things",
+    "alb_title": "Gjëra të vërteta",
+    "year": 2021,
+    "Cast": [
+      "Nathan Ampofo",
+      "Tom Weston-Jones",
+      "Ann Firbank",
+      "Frank McCusker",
+      "Elizabeth Rider",
+      "Hayley Squires",
+      "Tom Burke",
+      "Ruth Wilson"
+    ],
+    "Director": [
+      "Harry Wootliff"
+    ],
+    "tmdb_id": 682533,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0
+  },
+  {
+    "title": "A Street Cat Named Bob",
+    "alb_title": "Bobi, maçoku endacak",
+    "year": 2016,
+    "Cast": [
+      "Adam Riches",
+      "Tony Jayawardena",
+      "Darren Evans",
+      "Anthony Head",
+      "Joanne Froggatt",
+      "Ruta Gedmintas",
+      "Bob the Cat",
+      "Luke Treadaway"
+    ],
+    "Director": [
+      "Roger Spottiswoode"
+    ],
+    "tmdb_id": 404378,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Echelon Conspiracy",
+    "alb_title": "Komploti",
+    "year": 2009,
+    "Cast": [
+      "Martin Sheen",
+      "Sergey Gubanov",
+      "Gosha Kutsenko",
+      "Amara Zaragoza",
+      "Jonathan Pryce",
+      "Ving Rhames",
+      "Edward Burns",
+      "Shane West"
+    ],
+    "Director": [
+      "Greg Marcks"
+    ],
+    "tmdb_id": 16325,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Along with the Gods: The Two Worlds",
+    "alb_title": "Bashkë me Perënditë:Dy Botët",
+    "year": 2017,
+    "Cast": [
+      "Dong-wook Kim",
+      "Kyung-soo Do",
+      "Dong-seok Ma",
+      "Jung-jae Lee",
+      "Hyang-gi Kim",
+      "Ju Ji-hoon",
+      "Tae-hyun Cha",
+      "Jung-woo Ha"
+    ],
+    "Director": [
+      "Kim Yong-hwa"
+    ],
+    "tmdb_id": 397567,
+    "tmdb_type": "movie",
     "tmdb_match_score": 60.0
   },
   {
-    "title": "S7E23 - House",
-    "alb_title": "S7E23 - Dr. House",
+    "title": "Hard Kill",
+    "alb_title": "Projekti 725",
+    "year": 2020,
+    "Cast": [
+      "Jon Galanis",
+      "Swen Temmel",
+      "Sergio Rizzuto",
+      "Texas Battle",
+      "Natalie Eva Marie",
+      "Lala Kent",
+      "Bruce Willis",
+      "Jesse Metcalfe"
+    ],
+    "Director": [
+      "Matt Eskandari"
+    ],
+    "tmdb_id": 724989,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "alb_title": "Rogue One: Një rrëfenjë nga Lufta e Yjeve",
+    "year": 2016,
+    "Cast": [
+      "Guy Henry",
+      "Ben Mendelsohn",
+      "Wen Jiang",
+      "Donnie Yen",
+      "Alan Tudyk",
+      "Diego Luna",
+      "Felicity Jones",
+      "Gareth Edwards"
+    ],
+    "Director": [
+      "Gareth Edwards"
+    ],
+    "tmdb_id": 330459,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Never Back Down 2: The Beatdown",
+    "alb_title": "Dyluftimi i fundit 2: Finalja",
+    "year": 2011,
+    "Cast": [
+      "Stacey Asaro",
+      "Evan Peters",
+      "Jillian Murray",
+      "Scottie Epstein",
+      "Michael Jai White",
+      "Todd Duffee",
+      "Alex Meraz",
+      "Dean Geyer"
+    ],
+    "Director": [
+      "Michael Jai White"
+    ],
+    "tmdb_id": 70006,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "The Yinyang Master",
+    "alb_title": "Mjeshtri i Jin Jangut",
+    "year": 2021,
+    "Cast": [
+      "Yueyi Wang",
+      "Cici Wang",
+      "Shen Yue",
+      "Likun Wang",
+      "Chuxiao Qu",
+      "William Wai-Ting Chan",
+      "Xun Zhou",
+      "Kun Chen"
+    ],
+    "Director": [
+      "Li Weiran"
+    ],
+    "tmdb_id": 758902,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0
+  },
+  {
+    "title": "Troop Zero",
+    "alb_title": "Jemi ekuipazhi Zero",
+    "year": 2019,
+    "Cast": [
+      "Johanna Colón",
+      "Milan Ray",
+      "Charlie Shotwell",
+      "Allison Janney",
+      "Jim Gaffigan",
+      "Viola Davis",
+      "Mckenna Grace",
+      "Lucy Alibar"
+    ],
+    "Director": [
+      "Bertie",
+      "Bert"
+    ],
+    "tmdb_id": 525946,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Miracles Accepted",
+    "alb_title": "Pranohen mrekulli",
+    "year": 2015,
+    "Cast": [
+      "Paolo Triestino",
+      "Maria Del Monte",
+      "Giacomo Rizzo",
+      "Giovanni Esposito",
+      "Serena Autieri",
+      "Ana Caterina Morariu",
+      "Fabio De Luigi",
+      "Alessandro Siani"
+    ],
+    "Director": [
+      "Alessandro Siani"
+    ],
+    "tmdb_id": 315319,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Off the Menu",
+    "alb_title": "Receta e dashurisë",
+    "year": 2018,
+    "Cast": [
+      "Kenzo Lee",
+      "Ian Reed Kesler",
+      "Arianna Ortiz",
+      "Mario Revolori",
+      "Makenzie Moss",
+      "Jen Lilley",
+      "Santino Fontana",
+      "Dania Ramirez"
+    ],
+    "Director": [
+      "Jay Silverman"
+    ],
+    "tmdb_id": 496297,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "How to Be a Latin Lover",
+    "alb_title": "Si të bëhesh Latin Lover",
+    "year": 2017,
+    "Cast": [
+      "Linda Lavin",
+      "Raquel Welch",
+      "Mckenna Grace",
+      "Kristen Bell",
+      "Rob Lowe",
+      "Raphael Alejandro",
+      "Salma Hayek",
+      "Eugenio Derbez"
+    ],
+    "Director": [
+      "Ken Marino"
+    ],
+    "tmdb_id": 425134,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Action Point",
+    "alb_title": "Pika e Aksionit",
+    "year": 2018,
+    "Cast": [
+      "Joshua Hoover",
+      "Eric Manaka",
+      "Brigette Lundy-Paine",
+      "Johnny Pemberton",
+      "Dan Bakkedahl",
+      "Chris Pontius",
+      "Eleanor Worthington-Cox",
+      "Johnny Knoxville"
+    ],
+    "Director": [
+      "Tim Kirkby"
+    ],
+    "tmdb_id": 454283,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Dater’s Handbook",
+    "alb_title": "Manuali i dashurisë",
+    "year": 2016,
+    "Cast": [
+      "Brittney Wilson",
+      "Lynda Boyd",
+      "Zenon Brown",
+      "Adam Greydon Reid",
+      "Christine Chatelain",
+      "Jonathan Scarfe",
+      "Kristoffer Polaha",
+      "Meghan Markle"
+    ],
+    "Director": [
+      "James Head"
+    ],
+    "tmdb_id": 374614,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Alfie",
+    "alb_title": "Alfi",
     "year": 2004,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": 1408,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 60.0
+    "Cast": [
+      "Kevin Rahm",
+      "Marisa Tomei",
+      "Jeff Harding",
+      "Jane Krakowski",
+      "Renée Taylor",
+      "Susan Sarandon",
+      "Sienna Miller",
+      "Jude Law"
+    ],
+    "Director": [
+      "Charles Shyer"
+    ],
+    "tmdb_id": 8849,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S3E9 - Married with Children",
-    "alb_title": "S3E9 - Married with Children",
-    "year": 1987,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": 4239,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 60.0
+    "title": "The Bélier Family",
+    "alb_title": "Familja Belier",
+    "year": 2014,
+    "Cast": [
+      "Mar Sodupe",
+      "Luca Gelberg",
+      "Ilian Bergala",
+      "Roxane Duran",
+      "Louane Emera",
+      "Eric Elmosnino",
+      "François Damiens",
+      "Karin Viard"
+    ],
+    "Director": [
+      "Éric Lartigau"
+    ],
+    "tmdb_id": 304410,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
   },
   {
-    "title": "S8E2 - House",
-    "alb_title": "S8E2 - Dr. House",
+    "title": "Shall We Dance?",
+    "alb_title": "Kërcejmë",
     "year": 2004,
+    "Cast": [
+      "Omar Benson Miller",
+      "Bobby Cannavale",
+      "Anita Gillette",
+      "Lisa Ann Walter",
+      "Stanley Tucci",
+      "Susan Sarandon",
+      "Jennifer Lopez",
+      "Richard Gere"
+    ],
+    "Director": [
+      "Peter Chelsom"
+    ],
+    "tmdb_id": 4380,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Nacho Libre",
+    "alb_title": "Naço Luftëtari",
+    "year": 2006,
+    "Cast": [
+      "Richard Montoya",
+      "Carlos Maycotte",
+      "Diego Eduardo Gomez",
+      "Moises Arias",
+      "Jack Black",
+      "Darius Rose",
+      "Héctor Jiménez",
+      "Ana de la Reguera"
+    ],
+    "Director": [
+      "Jared Hess"
+    ],
+    "tmdb_id": 9353,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "alb_title": "Indiana Jones I - Grabitësit e arkës së humbur",
+    "year": 1981,
+    "Cast": [
+      "Wolf Kahler",
+      "Alfred Molina",
+      "Denholm Elliott",
+      "Ronald Lacey",
+      "John Rhys-Davies",
+      "Paul Freeman",
+      "Karen Allen",
+      "Harrison Ford"
+    ],
+    "Director": [
+      "Steven Spielberg"
+    ],
+    "tmdb_id": 85,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "alb_title": "Austin Powers 2",
+    "year": 1999,
+    "Cast": [
+      "Verne Troyer",
+      "Mindy Sterling",
+      "Seth Green",
+      "Rob Lowe",
+      "Mike Myers",
+      "Robert Wagner",
+      "Michael York",
+      "Heather Graham"
+    ],
+    "Director": [
+      "Jay Roach"
+    ],
+    "tmdb_id": 817,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "alb_title": "Indiana Jones II - Tempulli i vdekjes",
+    "year": 1984,
+    "Cast": [
+      "David Yip",
+      "Roy Chiao",
+      "Philip Stone",
+      "Roshan Seth",
+      "Amrish Puri",
+      "Jonathan Ke Quan",
+      "Kate Capshaw",
+      "Harrison Ford"
+    ],
+    "Director": [
+      "Steven Spielberg"
+    ],
+    "tmdb_id": 87,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Austin Powers in Goldmember",
+    "alb_title": "Austin Powers 3",
+    "year": 2002,
+    "Cast": [
+      "Michael Caine",
+      "Verne Troyer",
+      "Mindy Sterling",
+      "Robert Wagner",
+      "Michael York",
+      "Seth Green",
+      "Beyoncé",
+      "Mike Myers"
+    ],
+    "Director": [
+      "Jay Roach"
+    ],
+    "tmdb_id": 818,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S1E16 - MacGyver",
+    "alb_title": "S1E16 - MacGyver",
+    "year": 2016,
+    "Cast": [
+      "Isabel Lucas",
+      "George Eads",
+      "Justin Hires",
+      "Henry Ian Cusick",
+      "Tristin Mays",
+      "Levy Tran",
+      "Meredith Eaton",
+      "Lucas Till",
+      "Sandrine Holt"
+    ],
+    "Director": [],
+    "tmdb_id": 67133,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S4E3 - Two and a Half Men",
+    "alb_title": "S4E3 - Two and a Half Men",
+    "year": 2006,
+    "Cast": [
+      "Jennifer Taylor",
+      "April Bowlby",
+      "Edan Alexander",
+      "Melanie Lynskey",
+      "Angus T. Jones",
+      "Marin Hinkle",
+      "Charlie Sheen",
+      "Conchata Ferrell",
+      "Jon Cryer",
+      "Ashton Kutcher"
+    ],
+    "Director": [],
+    "tmdb_id": 2691,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 90.0
+  },
+  {
+    "title": "S1E18 - MacGyver",
+    "alb_title": "S1E18 - MacGyver",
+    "year": 2016,
+    "Cast": [
+      "Isabel Lucas",
+      "George Eads",
+      "Justin Hires",
+      "Henry Ian Cusick",
+      "Tristin Mays",
+      "Levy Tran",
+      "Meredith Eaton",
+      "Lucas Till",
+      "Sandrine Holt"
+    ],
+    "Director": [],
+    "tmdb_id": 67133,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S4E5 - Two and a Half Men",
+    "alb_title": "S4E5 - Two and a Half Men",
+    "year": 2006,
+    "Cast": [
+      "Jennifer Taylor",
+      "April Bowlby",
+      "Edan Alexander",
+      "Melanie Lynskey",
+      "Angus T. Jones",
+      "Marin Hinkle",
+      "Charlie Sheen",
+      "Conchata Ferrell",
+      "Jon Cryer",
+      "Ashton Kutcher"
+    ],
+    "Director": [],
+    "tmdb_id": 2691,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 90.0
+  },
+  {
+    "title": "S1E20 - MacGyver",
+    "alb_title": "S1E20 - MacGyver",
+    "year": 2016,
+    "Cast": [
+      "Isabel Lucas",
+      "George Eads",
+      "Justin Hires",
+      "Henry Ian Cusick",
+      "Tristin Mays",
+      "Levy Tran",
+      "Meredith Eaton",
+      "Lucas Till",
+      "Sandrine Holt"
+    ],
+    "Director": [],
+    "tmdb_id": 67133,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S4E7 - Two And A Half Men",
+    "alb_title": "S4E7 - Two and a half man",
+    "year": 2006,
+    "Cast": [
+      "Jennifer Taylor",
+      "April Bowlby",
+      "Edan Alexander",
+      "Melanie Lynskey",
+      "Angus T. Jones",
+      "Marin Hinkle",
+      "Charlie Sheen",
+      "Conchata Ferrell",
+      "Jon Cryer",
+      "Ashton Kutcher"
+    ],
+    "Director": [],
+    "tmdb_id": 2691,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 90.0
+  },
+  {
+    "title": "S2E1 - MacGyver",
+    "alb_title": "S2E1 - MacGyver",
+    "year": 2016,
+    "Cast": [
+      "Isabel Lucas",
+      "George Eads",
+      "Justin Hires",
+      "Henry Ian Cusick",
+      "Tristin Mays",
+      "Levy Tran",
+      "Meredith Eaton",
+      "Lucas Till",
+      "Sandrine Holt"
+    ],
+    "Director": [],
+    "tmdb_id": 67133,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S4E9 - Two And A Half Men",
+    "alb_title": "S4E9 - Two and a half man",
+    "year": 2006,
+    "Cast": [
+      "Jennifer Taylor",
+      "April Bowlby",
+      "Edan Alexander",
+      "Melanie Lynskey",
+      "Angus T. Jones",
+      "Marin Hinkle",
+      "Charlie Sheen",
+      "Conchata Ferrell",
+      "Jon Cryer",
+      "Ashton Kutcher"
+    ],
+    "Director": [],
+    "tmdb_id": 2691,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 90.0
+  },
+  {
+    "title": "S1E2 - R.J. Decker",
+    "alb_title": "S1E2 - RJ Decker",
+    "year": 2025,
+    "Cast": [
+      "Adelaide Clemens",
+      "Bevin Bru",
+      "Kevin Rankin",
+      "Jaina Lee Ortiz",
+      "Scott Speedman"
+    ],
+    "Director": [],
+    "tmdb_id": 302074,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0
+  },
+  {
+    "title": "S3E16 - The Nanny",
+    "alb_title": "S3E16 - The Nanny",
+    "year": 1996,
+    "Cast": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "Director": [],
+    "tmdb_id": 2352,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S3E2 - Wild Cards",
+    "alb_title": "S3E2 - Wild Cards",
+    "year": 2025,
+    "Cast": [
+      "Michael Xavier",
+      "Giacomo Gianniotti",
+      "Vanessa Morgan"
+    ],
+    "Director": [],
+    "tmdb_id": 240932,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 63.0
+  },
+  {
+    "title": "S3E19 - The Nanny",
+    "alb_title": "S3E19 - The Nanny",
+    "year": 1996,
+    "Cast": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "Director": [],
+    "tmdb_id": 2352,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S1E2 - All’s Fair",
+    "alb_title": "S1E2 - All’s Fair",
+    "year": 2025,
     "Cast": [],
     "Director": [],
-    "tmdb_id": 1408,
+    "tmdb_id": 258742,
     "tmdb_type": "tv",
     "tmdb_match_score": 60.0
   },
   {
-    "title": "S3E13 - Married with Children",
-    "alb_title": "S3E13 - Married with Children",
-    "year": 1987,
-    "Cast": [],
+    "title": "S3E23 - The Nanny",
+    "alb_title": "S3E23 - The Nanny",
+    "year": 1996,
+    "Cast": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
     "Director": [],
-    "tmdb_id": 4239,
+    "tmdb_id": 2352,
     "tmdb_type": "tv",
-    "tmdb_match_score": 60.0
+    "tmdb_match_score": 75.0
   },
   {
-    "title": "S8E4 - House",
-    "alb_title": "S8E4 - Dr. House",
-    "year": 2004,
-    "Cast": [],
+    "title": "S2E4 - High Potential",
+    "alb_title": "S2E4 - High Potential",
+    "year": 2025,
+    "Cast": [
+      "Steve Howey",
+      "Matthew Lamb",
+      "Amirah J",
+      "Deniz Akdeniz",
+      "Javicia Leslie",
+      "Judy Reyes",
+      "Daniel Sunjata"
+    ],
     "Director": [],
-    "tmdb_id": 1408,
+    "tmdb_id": 226637,
     "tmdb_type": "tv",
-    "tmdb_match_score": 60.0
+    "tmdb_match_score": 78.0
   },
   {
-    "title": "S3E17 - Married with Children",
-    "alb_title": "S3E17 - Married with Children",
-    "year": 1987,
-    "Cast": [],
+    "title": "S3E27 - The Nanny",
+    "alb_title": "S3E27 - The Nanny",
+    "year": 1996,
+    "Cast": [
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
     "Director": [],
-    "tmdb_id": 4239,
+    "tmdb_id": 2352,
     "tmdb_type": "tv",
-    "tmdb_match_score": 60.0
-  },
-  {
-    "title": "S8E6 - House",
-    "alb_title": "S8E6 - Dr. House",
-    "year": 2004,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": 1408,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 60.0
+    "tmdb_match_score": 75.0
   },
   {
     "title": "Kino 1 - Program Filmik",
@@ -1473,422 +1705,45 @@
     "tmdb_match_score": null
   },
   {
-    "title": "Righteous Thieves",
-    "alb_title": "Pikturat Naziste",
-    "year": 2023,
+    "title": "S2E3 - Knightfall",
+    "alb_title": "S2E3 - Kalorësit",
+    "year": 2019,
     "Cast": [
-      "Brian Cousins",
-      "Paul Kreppel",
-      "Danube Hermosillo",
-      "Carlos Miranda",
-      "Michael Fairman",
-      "Lisa Vidal",
-      "Jaina Lee Ortiz",
-      "Cam Gigandet"
-    ],
-    "Director": [
-      "Anthony Nardolillo"
-    ],
-    "tmdb_id": 845890,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Master",
-    "alb_title": "Fantazmat e së kaluarës",
-    "year": 2022,
-    "Cast": [
-      "D.C. Anderson",
-      "Anna Van Patten",
-      "Noa Fisher",
-      "Ella Hunt",
-      "Talia Ryder",
-      "Julia Nightingale",
-      "Zoë Renee",
-      "Regina Hall"
+      "Tom Forbes",
+      "Jim Carter",
+      "Mark Hamill",
+      "Jim High",
+      "Nasser Memarzia",
+      "Ed Stoppard",
+      "Julian Ovenden",
+      "Simon Merrells",
+      "Pádraic Delaney",
+      "Tom Cullen"
     ],
     "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Utama",
-    "alb_title": "Utama",
-    "year": 2022,
-    "Cast": [
-      "René Pérez",
-      "René Calcina",
-      "Santos Choque",
-      "Félix Ticona",
-      "Placide Ali",
-      "Candelaria Quispe",
-      "Luisa Quispe",
-      "José Calcina"
-    ],
-    "Director": [
-      "Alejandro Loayza Grisi"
-    ],
-    "tmdb_id": 913820,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Deep Hatred",
-    "alb_title": "Urrejtje e thellë",
-    "year": 2022,
-    "Cast": [
-      "Ricardo Ripa",
-      "Bruno Buaiz",
-      "Phil Miler",
-      "Roseli Silva",
-      "Marcella Marques",
-      "Evan Judson",
-      "Jeremy Sless",
-      "Sara Drust"
-    ],
-    "Director": [
-      "Daniela Carvalho",
-      "Ale McHaddo"
-    ],
-    "tmdb_id": 945093,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Nimi Premiere 1",
-    "alb_title": "Nimi Premiere 1",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Play Dead",
-    "alb_title": "Doktori i vdekjes",
-    "year": 2022,
-    "Cast": [
-      "Haley Pilz",
-      "Kyler O’Neal",
-      "Jorge-Luis Pallo",
-      "Chris Butler",
-      "Chris Lee",
-      "Anthony Turpel",
-      "Jerry O’Connell",
-      "Bailee Madison"
-    ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "The Gray Man",
-    "alb_title": "Agjenti Gri",
-    "year": 2022,
-    "Cast": [
-      "Alfre Woodard",
-      "Dhanush",
-      "Jessica Henwick",
-      "Billy Bob Thornton",
-      "Ana de Armas",
-      "Chris Evans",
-      "Ryan Gosling",
-      "Joe Russo"
-    ],
-    "Director": [
-      "Joe Russo",
-      "Anthony Russo"
-    ],
-    "tmdb_id": 725201,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Good Burger 2",
-    "alb_title": "Hamburgeri i Artë - Rikthimi i Legjendës",
-    "year": 2023,
-    "Cast": [
-      "Emily Hinkler",
-      "Flula Borg",
-      "Lily Mae Harrington",
-      "Mark Cuban",
-      "Sofia Black-D’Elia",
-      "Kenan Thompson",
-      "Pete Davidson",
-      "Kel Mitchell"
-    ],
-    "Director": [
-      "Phil Traill"
-    ],
-    "tmdb_id": 1101582,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Nimi Premiere 2",
-    "alb_title": "Nimi Premiere 2",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Secret Headquarters",
-    "alb_title": "Selia Sekrete",
-    "year": 2022,
-    "Cast": [
-      "Abby James Witherspoon",
-      "Charles Melton",
-      "Momona Tamada",
-      "Keith L. Williams",
-      "Jesse Williams",
-      "Walker Scobell",
-      "Michael Peña",
-      "Owen Wilson"
-    ],
-    "Director": [
-      "Henry Joost",
-      "Ariel Schulman"
-    ],
-    "tmdb_id": 791155,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "One Life",
-    "alb_title": "Një jetë",
-    "year": 2023,
-    "Cast": [
-      "Alex Sharp",
-      "Daniel Brown",
-      "Matilda Thorpe",
-      "Tim Steed",
-      "Helena Bonham Carter",
-      "Johnny Flynn",
-      "Lena Olin",
-      "Anthony Hopkins"
-    ],
-    "Director": [
-      "James Hawes"
-    ],
-    "tmdb_id": 760774,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Enforcer",
-    "alb_title": "Shtrëngim me Forcë",
-    "year": 2022,
-    "Cast": [
-      "Luke Bouchier",
-      "Mark Rhino Smith",
-      "2 Chainz",
-      "Zolee Griggs",
-      "Alexis Ren",
-      "Kate Bosworth",
-      "Mojean Aria",
-      "Antonio Banderas"
-    ],
-    "Director": [
-      "Richard Hughes"
-    ],
-    "tmdb_id": 846433,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Violent Night",
-    "alb_title": "Natë e dhunshme",
-    "year": 2022,
-    "Cast": [
-      "Leah Brady",
-      "Cam Gigandet",
-      "Edi Patterson",
-      "Alexis Louder",
-      "Alex Hassell",
-      "Beverly D’Angelo",
-      "John Leguizamo",
-      "David Harbour"
-    ],
-    "Director": [
-      "Tommy Wirkola"
-    ],
-    "tmdb_id": 899112,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Guardians of the Galaxy Vol. 3",
-    "alb_title": "Rojtarët e Galaktikës 3",
-    "year": 2023,
-    "Cast": [
-      "Stephen Blackehart",
-      "Austin Freeman",
-      "Karen Gillan",
-      "Dave Bautista",
-      "Pom Klementieff",
-      "Chukwudi Iwuji",
-      "Chris Pratt",
-      "James Gunn"
-    ],
-    "Director": [
-      "James Gunn"
-    ],
-    "tmdb_id": 447365,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Nimi Premiere 3",
-    "alb_title": "Nimi Premiere 3",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "A Man Called Otto",
-    "alb_title": "Një burrë i quajtur Oto",
-    "year": 2022,
-    "Cast": [
-      "Cameron Britton",
-      "Mack Bayda",
-      "Lily Kozub",
-      "Tony Bingham",
-      "Tom Hanks",
-      "John Higgins",
-      "Rachel Keller",
-      "Mariana Treviño"
-    ],
-    "Director": [
-      "Marc Forster"
-    ],
-    "tmdb_id": 937278,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "The Seeding",
-    "alb_title": "Kurthi i Shkretëtirës",
-    "year": 2023,
-    "Cast": [
-      "Kenny Cox",
-      "Axton Cox",
-      "Bodhi Barrett",
-      "Charlie Avink",
-      "Garrett Atkinson",
-      "Alex Montaldo",
-      "Kate Lyn Sheil",
-      "Scott Haze"
-    ],
-    "Director": [
-      "Barnaby Clay"
-    ],
-    "tmdb_id": 1118033,
-    "tmdb_type": "movie",
-    "tmdb_match_score": 98.0
-  },
-  {
-    "title": "Nimi Premiere 4",
-    "alb_title": "Nimi Premiere 4",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "S1E7 - Paradise",
-    "alb_title": "S1E7 - Parajsa",
-    "year": 0,
-    "Cast": [
-      "Aliyah Mastin",
-      "Krys Marshall",
-      "Percy Daggs IV",
-      "Charlie Evans",
-      "Enuka Okuma",
-      "Sarah Shahi",
-      "Nicole Brydon Bloom",
-      "James Marsden",
-      "Julianne Nicholson"
-    ],
-    "Director": [],
-    "tmdb_id": 245927,
+    "tmdb_id": 73117,
     "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
+    "tmdb_match_score": 70.0
   },
   {
-    "title": "S4E6 - Banshee",
-    "alb_title": "S4E6 - Qyteti i Së Keqes",
-    "year": 2013,
+    "title": "S1E15 - Madam Secretary",
+    "alb_title": "S1E15 - Madam Secretary",
+    "year": 2014,
     "Cast": [
-      "Tom Pelphrey",
-      "Ryann Shane",
-      "Lili Simmons",
-      "Matt Servitto",
-      "Matthew Rauch",
-      "Ulrich Thomsen",
-      "Frankie Faison",
-      "Hoon Lee",
-      "Ivana Miličević",
-      "Antony Starr"
+      "Geoffrey Arend",
+      "Sara Ramírez",
+      "Sebastian Arcelus",
+      "Kevin Rahm",
+      "Wallis Currie-Wood",
+      "Erich Bergen",
+      "Patina Miller",
+      "Zeljko Ivanek",
+      "Tim Daly"
     ],
     "Director": [],
-    "tmdb_id": 41727,
+    "tmdb_id": 61378,
     "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
-  },
-  {
-    "title": "S0E98 - Quererlo todo",
-    "alb_title": "S0E98 - Gjithçka për Dashurinë",
-    "year": 2020,
-    "Cast": [
-      "Roberto Blandon",
-      "Olivia Bucio",
-      "Víctor González",
-      "Eugenia Cauduro",
-      "Alexis Ayala",
-      "Scarlet Gruber",
-      "Sara Corrales",
-      "Alejandro Tommasi",
-      "Danilo Carrera",
-      "Michelle Renaud"
-    ],
-    "Director": [],
-    "tmdb_id": 114613,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
-  },
-  {
-    "title": "S2E6 - Fi",
-    "alb_title": "S2E6 - FI",
-    "year": 2017,
-    "Cast": [
-      "Tülay Günal",
-      "Armağan Oğuz",
-      "Hakan Atalay",
-      "Müjgân Ferhan Şensoy",
-      "Osman Sonant",
-      "Büşra Develi",
-      "Berrak Tüzünataç",
-      "Mehmet Günsür",
-      "Serenay Sarıkaya",
-      "Ozan Güven"
-    ],
-    "Director": [
-      "Mert Baykal"
-    ],
-    "tmdb_id": 71036,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 100.0
+    "tmdb_match_score": 80.0
   },
   {
     "title": "S0E99 - Quererlo todo",
@@ -1912,42 +1767,57 @@
     "tmdb_match_score": 75.0
   },
   {
-    "title": "S2E7 - Fi",
-    "alb_title": "S2E7 - Fi",
-    "year": 2018,
+    "title": "S0E99 - El ángel de Aurora",
+    "alb_title": "S0E99 - Engjëlli i Aurorës",
+    "year": 2024,
     "Cast": [
-      "Tülay Günal",
-      "Armağan Oğuz",
-      "Hakan Atalay",
-      "Müjgân Ferhan Şensoy",
-      "Osman Sonant",
-      "Büşra Develi",
-      "Berrak Tüzünataç",
-      "Mehmet Günsür",
-      "Serenay Sarıkaya",
-      "Ozan Güven"
-    ],
-    "Director": [
-      "Mert Baykal"
-    ],
-    "tmdb_id": 71036,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 98.0
-  },
-  {
-    "title": "S0E111 - 1001 Nights",
-    "alb_title": "S0E111 - 1001 Net",
-    "year": 2006,
-    "Cast": [
-      "Ceyda Düvenci",
-      "Tardu Flordun",
-      "Halit Ergenç",
-      "Bergüzar Korel"
+      "Rafael Novoa",
+      "Jorge Salinas",
+      "Marisol del Olmo",
+      "Natalia Esperón",
+      "Miguel Garza"
     ],
     "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
+    "tmdb_id": 259915,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S0E100 - Quererlo todo",
+    "alb_title": "S0E100 - Gjithçka për Dashurinë",
+    "year": 2020,
+    "Cast": [
+      "Roberto Blandon",
+      "Olivia Bucio",
+      "Víctor González",
+      "Eugenia Cauduro",
+      "Alexis Ayala",
+      "Scarlet Gruber",
+      "Sara Corrales",
+      "Alejandro Tommasi",
+      "Danilo Carrera",
+      "Michelle Renaud"
+    ],
+    "Director": [],
+    "tmdb_id": 114613,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
+  },
+  {
+    "title": "S0E100 - El ángel de Aurora",
+    "alb_title": "S0E100 - Engjëlli i Aurorës",
+    "year": 2024,
+    "Cast": [
+      "Rafael Novoa",
+      "Jorge Salinas",
+      "Marisol del Olmo",
+      "Natalia Esperón",
+      "Miguel Garza"
+    ],
+    "Director": [],
+    "tmdb_id": 259915,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
   },
   {
     "title": "S0E54 - Iffet",
@@ -1973,19 +1843,27 @@
     "tmdb_match_score": 75.0
   },
   {
-    "title": "S0E112 - 1001 Nights",
-    "alb_title": "S0E112 - 1001 Net",
-    "year": 2006,
+    "title": "S0E154 - The Tulip Age",
+    "alb_title": "S0E154 - Stina e Tulipanëve",
+    "year": 2010,
     "Cast": [
-      "Ceyda Düvenci",
-      "Tardu Flordun",
-      "Halit Ergenç",
-      "Bergüzar Korel"
+      "Tonguç Nacar",
+      "Melike Emiroglu",
+      "İpek Erdem",
+      "Deniz Barut",
+      "Aykut Yılmaz",
+      "Ayşegül Günay",
+      "Hatice Aslan",
+      "Kenan Bal",
+      "Selen Soyder",
+      "Tolgahan Sayışman"
     ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
+    "Director": [
+      "Murat Düzgünoğlu"
+    ],
+    "tmdb_id": 47918,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
   },
   {
     "title": "S0E55 - Iffet",
@@ -2011,6 +1889,29 @@
     "tmdb_match_score": 75.0
   },
   {
+    "title": "S0E155 - The Tulip Age",
+    "alb_title": "S0E155 - Stina e Tulipanëve",
+    "year": 2010,
+    "Cast": [
+      "Tonguç Nacar",
+      "Melike Emiroglu",
+      "İpek Erdem",
+      "Deniz Barut",
+      "Aykut Yılmaz",
+      "Ayşegül Günay",
+      "Hatice Aslan",
+      "Kenan Bal",
+      "Selen Soyder",
+      "Tolgahan Sayışman"
+    ],
+    "Director": [
+      "Murat Düzgünoğlu"
+    ],
+    "tmdb_id": 47918,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
     "title": "Turkish Stories",
     "alb_title": "Turkish Stories",
     "year": 0,
@@ -2019,29 +1920,6 @@
     "tmdb_id": null,
     "tmdb_type": null,
     "tmdb_match_score": null
-  },
-  {
-    "title": "S0E5 - Price of Passion",
-    "alb_title": "S0E5 - Dashuri Bardhezi",
-    "year": 2017,
-    "Cast": [
-      "Zeynep Dinsel",
-      "Sinem Ünsal",
-      "Uğur Aslan",
-      "Cahit Gök",
-      "Deniz Celiloğlu",
-      "Ece Dizdar",
-      "Arzu Gamze Kılınç",
-      "Muhammet Uzuner",
-      "Birce Akalay",
-      "İbrahim Çelikkol"
-    ],
-    "Director": [
-      "Emir Khalilzadeh"
-    ],
-    "tmdb_id": 76530,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 100.0
   },
   {
     "title": "S0E125 - For My Son",
@@ -2059,33 +1937,32 @@
       "Burçin Terzioğlu",
       "İlker Kaleli"
     ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "S0E6 - Price of Passion",
-    "alb_title": "S0E6 - Dashuri Bardhezi",
-    "year": 2017,
-    "Cast": [
-      "Zeynep Dinsel",
-      "Sinem Ünsal",
-      "Uğur Aslan",
-      "Cahit Gök",
-      "Deniz Celiloğlu",
-      "Ece Dizdar",
-      "Arzu Gamze Kılınç",
-      "Muhammet Uzuner",
-      "Birce Akalay",
-      "İbrahim Çelikkol"
-    ],
     "Director": [
-      "Emir Khalilzadeh"
+      "Osman Taşçı"
     ],
-    "tmdb_id": 76530,
+    "tmdb_id": 65163,
     "tmdb_type": "tv",
     "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E31 - Yaprak Dökümü",
+    "alb_title": "S0E31 - Rënia e Gjetheve",
+    "year": 2006,
+    "Cast": [
+      "Engin Hepileri",
+      "Seda Demir",
+      "Deniz Çakır",
+      "Necip Memili",
+      "Fahriye Evcen",
+      "Gökçe Bahadır",
+      "Sedef Avcı"
+    ],
+    "Director": [
+      "Mesude Erarslan"
+    ],
+    "tmdb_id": 39014,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
   },
   {
     "title": "S0E126 - For My Son",
@@ -2103,33 +1980,32 @@
       "Burçin Terzioğlu",
       "İlker Kaleli"
     ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Price of Passion",
-    "alb_title": "Cijena strasti",
-    "year": 2017,
-    "Cast": [
-      "Zeynep Dinsel",
-      "Sinem Ünsal",
-      "Uğur Aslan",
-      "Cahit Gök",
-      "Deniz Celiloğlu",
-      "Ece Dizdar",
-      "Arzu Gamze Kılınç",
-      "Muhammet Uzuner",
-      "Birce Akalay",
-      "İbrahim Çelikkol"
-    ],
     "Director": [
-      "Emir Khalilzadeh"
+      "Osman Taşçı"
     ],
-    "tmdb_id": 76530,
+    "tmdb_id": 65163,
     "tmdb_type": "tv",
     "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E32 - Yaprak Dökümü",
+    "alb_title": "S0E32 - Rënia e Gjetheve",
+    "year": 2006,
+    "Cast": [
+      "Engin Hepileri",
+      "Seda Demir",
+      "Deniz Çakır",
+      "Necip Memili",
+      "Fahriye Evcen",
+      "Gökçe Bahadır",
+      "Sedef Avcı"
+    ],
+    "Director": [
+      "Mesude Erarslan"
+    ],
+    "tmdb_id": 39014,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
   },
   {
     "title": "Za mog sina",
@@ -2147,180 +2023,192 @@
       "Burçin Terzioğlu",
       "İlker Kaleli"
     ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "S0E98 - Italian Bride",
-    "alb_title": "S0E98 - Nusja Italiane",
-    "year": 2014,
-    "Cast": [
-      "Paula Marcellini",
-      "Ela Velden",
-      "José Pablo Minor",
-      "Nailea Norvind",
-      "Isela Vega",
-      "Mike Biaggio",
-      "Livia Brito",
-      "José Ron"
-    ],
-    "Director": [],
-    "tmdb_id": 12888,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
-  },
-  {
-    "title": "S0E110 - Fuego en la sangre",
-    "alb_title": "S0E110 - Zjarri i Hakmarrjes",
-    "year": 2008,
-    "Cast": [
-      "René Casados",
-      "Guillermo García Cantú",
-      "María Sorté",
-      "Diana Bracho",
-      "Pablo Montero",
-      "Nora Salinas",
-      "Jorge Salinas",
-      "Elizabeth Álvarez",
-      "Eduardo Yáñez",
-      "Adela Noriega"
-    ],
     "Director": [
-      "Miguel Córcega"
+      "Osman Taşçı"
     ],
-    "tmdb_id": 7022,
+    "tmdb_id": 65163,
     "tmdb_type": "tv",
     "tmdb_match_score": 100.0
   },
   {
-    "title": "S0E99 - Italian Bride",
-    "alb_title": "S0E99 - Nusja Italiane",
-    "year": 2014,
-    "Cast": [
-      "Paula Marcellini",
-      "Ela Velden",
-      "José Pablo Minor",
-      "Nailea Norvind",
-      "Isela Vega",
-      "Mike Biaggio",
-      "Livia Brito",
-      "José Ron"
-    ],
-    "Director": [],
-    "tmdb_id": 12888,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 75.0
-  },
-  {
-    "title": "S0E112 - Fuego en la sangre",
-    "alb_title": "S0E112 - Zjarri i Hakmarrjes",
-    "year": 2008,
-    "Cast": [
-      "René Casados",
-      "Guillermo García Cantú",
-      "María Sorté",
-      "Diana Bracho",
-      "Pablo Montero",
-      "Nora Salinas",
-      "Jorge Salinas",
-      "Elizabeth Álvarez",
-      "Eduardo Yáñez",
-      "Adela Noriega"
-    ],
-    "Director": [
-      "Miguel Córcega"
-    ],
-    "tmdb_id": 7022,
-    "tmdb_type": "tv",
-    "tmdb_match_score": 100.0
-  },
-  {
-    "title": "Empire",
-    "alb_title": "Perandoria",
-    "year": 2014,
+    "title": "YAPRAK DOKUM",
+    "alb_title": "Kad lišće pada",
+    "year": 2006,
     "Cast": [],
-    "Director": [],
-    "tmdb_id": 61733,
+    "Director": [
+      "Mesude Erarslan"
+    ],
+    "tmdb_id": 39014,
     "tmdb_type": "tv",
-    "tmdb_match_score": 58.0
+    "tmdb_match_score": 63.52
   },
   {
-    "title": "Royal Pains",
-    "alb_title": "Royal Pains",
+    "title": "S0E59 - Mujer comprada",
+    "alb_title": "S0E59 - Forca e Dashurisë",
     "year": 2009,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 109940,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0
+  },
+  {
+    "title": "S0E101 - Destilando amor",
+    "alb_title": "S0E101 - Dashuri dhe Tekila",
+    "year": 2007,
     "Cast": [
-      "Jill Flint",
-      "Campbell Scott",
-      "Ben Shenkman",
-      "Brooke D'Orsay",
-      "Reshma Shetty",
-      "Paulo Costanzo",
-      "Mark Feuerstein"
+      "Joana Benedek",
+      "Martha Roth",
+      "Alejandro Tommasi",
+      "Ana Patricia Rojo",
+      "Ana Martín",
+      "Martha Julia",
+      "Chantal Andere",
+      "Sergio Sendel",
+      "Eduardo Yáñez",
+      "Angélica Rivera"
+    ],
+    "Director": [
+      "Miguel Córcega"
+    ],
+    "tmdb_id": 12568,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "S0E60 - Mujer comprada",
+    "alb_title": "S0E60 - Forca e Dashurisë",
+    "year": 2009,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 109940,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0
+  },
+  {
+    "title": "S0E102 - Destilando amor",
+    "alb_title": "S0E102 - Dashuri dhe Tekila",
+    "year": 2007,
+    "Cast": [
+      "Joana Benedek",
+      "Martha Roth",
+      "Alejandro Tommasi",
+      "Ana Patricia Rojo",
+      "Ana Martín",
+      "Martha Julia",
+      "Chantal Andere",
+      "Sergio Sendel",
+      "Eduardo Yáñez",
+      "Angélica Rivera"
+    ],
+    "Director": [
+      "Miguel Córcega"
+    ],
+    "tmdb_id": 12568,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Bull",
+    "alb_title": "Bull",
+    "year": 2016,
+    "Cast": [
+      "Annabelle Attanasio",
+      "Michael Weatherly",
+      "Jaime Lee Kirchner",
+      "Freddy Rodriguez",
+      "Geneva Carr",
+      "Mackenzie Meehan",
+      "Yara Martinez",
+      "Christopher Jackson"
     ],
     "Director": [],
-    "tmdb_id": 18779,
+    "tmdb_id": 66840,
     "tmdb_type": "tv",
     "tmdb_match_score": 75.0
   },
   {
-    "title": "Stolat në park",
-    "alb_title": "Stolat në park",
-    "year": 1988,
+    "title": "Yellowstone",
+    "alb_title": "Yellowstone",
+    "year": 2018,
     "Cast": [
-      "Agim Qirjaqi",
-      "Pavlina Mani",
-      "Eva Alikaj"
+      "Ryan Bingham",
+      "Gil Birmingham",
+      "Cole Hauser",
+      "Kelly Reilly",
+      "Luke Grimes",
+      "Danny Huston",
+      "Wes Bentley",
+      "Ian Bohen",
+      "Kevin Costner",
+      "Finn Little"
     ],
     "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
+    "tmdb_id": 73586,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0
   },
   {
-    "title": "Rrugëtim, 20 vjet muzikë",
-    "alb_title": "Rrugëtim, 20 vjet muzikë",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
-  },
-  {
-    "title": "Within Love",
-    "alb_title": "Në kuadër të dashurisë",
-    "year": 2023,
+    "title": "Nashville",
+    "alb_title": "Nashville",
+    "year": 2012,
     "Cast": [
-      "Dea Mishel Hoxha",
-      "Aleksandër Grami",
-      "Olta Gixhari",
-      "Luiz Ejlli",
-      "Olta Daku",
-      "Sotiraq Bratko",
-      "Besmir Bitraku",
-      "Ylber Bardhi"
+      "Charles Esten",
+      "Kaitlin Doubleday",
+      "Sam Palladio",
+      "Eric Close",
+      "Powers Boothe",
+      "Hayden Panettiere",
+      "Jeffrey Nordling",
+      "Chris Carmack",
+      "Connie Britton",
+      "Robert Wisdom"
+    ],
+    "Director": [],
+    "tmdb_id": 44549,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 93.0
+  },
+  {
+    "title": "Prita",
+    "alb_title": "Prita",
+    "year": 1968,
+    "Cast": [
+      "Enver Dauti",
+      "Sulejman Dibra",
+      "Pjerin Shllaku",
+      "Kin Jaku",
+      "Frederik Fistani",
+      "Teuta Rino",
+      "Ndrek Luca",
+      "Fitim Makashi"
     ],
     "Director": [
-      "Koloreto Cukali"
+      "Mithat Fagu"
     ],
-    "tmdb_id": 1183241,
+    "tmdb_id": 456276,
     "tmdb_type": "movie",
-    "tmdb_match_score": 100.0
+    "tmdb_match_score": 95.0
   },
   {
-    "title": "Koncert në kohë pandemie",
-    "alb_title": "Koncert në kohë pandemie",
-    "year": 0,
+    "title": "Between two legends",
+    "alb_title": "Në kufi të dy legjendave",
+    "year": 1982,
     "Cast": [
-      "Besnik Çinari",
-      "Zef Deda"
+      "Kristaq Skrami",
+      "Elida Cangonji",
+      "Birçe Hasko",
+      "Thimi Filipi",
+      "Matilda Makoçi",
+      "Eduart Makri",
+      "Vjollca Pepa"
     ],
-    "Director": [],
-    "tmdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null
+    "Director": [
+      "Piro Milkani"
+    ],
+    "tmdb_id": 477840,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0
   },
   {
     "title": "Operation ”Fire”",
@@ -2340,6 +2228,66 @@
       "Muharrem Fejzo"
     ],
     "tmdb_id": 439250,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Horizonte të hapura",
+    "alb_title": "Horizonte të hapura",
+    "year": 1968,
+    "Cast": [
+      "Mirketa Çobani",
+      "Sulejman Pitarka",
+      "Nikolin Xhoja",
+      "Gaqo Spiru",
+      "Pandi Raidhi",
+      "Robert Ndrenika",
+      "Aleksandër Prosi",
+      "Dhimitër Orgocka"
+    ],
+    "Director": [
+      "Viktor Gjika"
+    ],
+    "tmdb_id": 354558,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Estrada në ekran",
+    "alb_title": "Estrada në ekran",
+    "year": 1968,
+    "Cast": [
+      "Vaçe Zela",
+      "Tano Banushi",
+      "Mihal Popi",
+      "Melpomeni Çobani",
+      "Skënder Sallaku"
+    ],
+    "Director": [
+      "Fehmi Hoshafi"
+    ],
+    "tmdb_id": 456272,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0
+  },
+  {
+    "title": "Yjet e netëve të gjata",
+    "alb_title": "Yjet e netëve të gjata",
+    "year": 1972,
+    "Cast": [
+      "Dhimitër Orgocka",
+      "Jani Skorovoti",
+      "Petrika Riza",
+      "Esat Teliti",
+      "Llazi Serbo",
+      "Pandi Raidhi",
+      "Aleksandër Prosi",
+      "Tinka Kurti"
+    ],
+    "Director": [
+      "Viktor Gjika"
+    ],
+    "tmdb_id": 439228,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0
   },
