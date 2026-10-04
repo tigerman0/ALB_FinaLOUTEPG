@@ -1,5 +1,28 @@
 [
   {
+    "title": "American Heist",
+    "alb_title": "Vjedhja Amerikane",
+    "year": 2014,
+    "Cast": [
+      "Lance E. Nichols",
+      "Luis Da Silva Jr.",
+      "Tory Kittles",
+      "Akon",
+      "Jordana Brewster",
+      "Adrien Brody",
+      "Earl Minor",
+      "Hayden Christensen"
+    ],
+    "Director": [
+      "Sarik Andreasyan"
+    ],
+    "tmdb_id": 250066,
+    "imdb_id": "tt2923316",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
     "title": "Dead Man’s Wire",
     "Raw_EPG": "Teli i Vdekjes",
     "year": 2025,
