@@ -15666,9 +15666,9 @@
       "Melissa Barrera"
     ],
     "Director": [
-      "Luis Servando Reyes",
+      "Eduardo Ripari",
       "Rodrigo Cachero",
-      "Eduardo Ripari"
+      "Luis Servando Reyes"
     ],
     "tmdb_id": 107226,
     "imdb_id": "tt4917828",
@@ -15693,9 +15693,9 @@
       "Melissa Barrera"
     ],
     "Director": [
-      "Luis Servando Reyes",
+      "Eduardo Ripari",
       "Rodrigo Cachero",
-      "Eduardo Ripari"
+      "Luis Servando Reyes"
     ],
     "tmdb_id": 107226,
     "imdb_id": "tt4917828",
@@ -15818,9 +15818,9 @@
       "Melissa Barrera"
     ],
     "Director": [
-      "Luis Servando Reyes",
+      "Eduardo Ripari",
       "Rodrigo Cachero",
-      "Eduardo Ripari"
+      "Luis Servando Reyes"
     ],
     "tmdb_id": 107226,
     "imdb_id": "tt4917828",
@@ -15845,9 +15845,9 @@
       "Melissa Barrera"
     ],
     "Director": [
-      "Luis Servando Reyes",
+      "Eduardo Ripari",
       "Rodrigo Cachero",
-      "Eduardo Ripari"
+      "Luis Servando Reyes"
     ],
     "tmdb_id": 107226,
     "imdb_id": "tt4917828",
@@ -18878,8 +18878,8 @@
       "Kastriot Çaushi"
     ],
     "Director": [
-      "Kristaq Mitro",
-      "Ibrahim Muçaj"
+      "Ibrahim Muçaj",
+      "Kristaq Mitro"
     ],
     "tmdb_id": 391434,
     "imdb_id": "tt0295174",
@@ -19182,8 +19182,8 @@
       "Jani Riza"
     ],
     "Director": [
-      "Esat Musliu",
-      "Kujtim Çashku"
+      "Kujtim Çashku",
+      "Esat Musliu"
     ],
     "tmdb_id": 461887,
     "imdb_id": "tt0169571",
@@ -19337,8 +19337,8 @@
       "Ndriçim Xhepa"
     ],
     "Director": [
-      "Kristaq Mitro",
-      "Ibrahim Muçaj"
+      "Ibrahim Muçaj",
+      "Kristaq Mitro"
     ],
     "tmdb_id": 846539,
     "imdb_id": "tt0298180",
@@ -20111,29 +20111,6 @@
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb"
-  },
-  {
-    "title": "Grimm’s Snow White",
-    "Raw_EPG": "Borëbardha",
-    "year": 2012,
-    "Cast": [
-      "Frauke Steiner",
-      "Alan Burgon",
-      "Sebastian Wimmer",
-      "Ben Maddox",
-      "Otto Jankovich",
-      "Jamie Thomas King",
-      "Jane March",
-      "Eliza Bennett"
-    ],
-    "Director": [
-      "Rachel Lee Goldenberg"
-    ],
-    "tmdb_id": 92645,
-    "imdb_id": "tt2081255",
-    "tmdb_type": "movie",
-    "tmdb_match_score": 100.0,
-    "verification_source": "tmdb"
   },
   {
     "title": "Take Me Home Tonight",
@@ -22494,8 +22471,8 @@
     ],
     "Director": [
       "Tomas Erhart",
-      "Heiko Lochmann",
-      "Roman Lochmann"
+      "Roman Lochmann",
+      "Heiko Lochmann"
     ],
     "tmdb_id": 365966,
     "imdb_id": "tt4679092",
@@ -26757,12 +26734,14 @@
       "Kim Sae-ron",
       "Dong-seok Ma"
     ],
-    "Director": [],
-    "tmdb_id": null,
-    "imdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null,
-    "verification_source": null
+    "Director": [
+      "Im Jin-soon"
+    ],
+    "tmdb_id": 549590,
+    "imdb_id": "tt9174334",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 83.0,
+    "verification_source": "tmdb+imdb"
   },
   {
     "title": "Expo",
@@ -28204,8 +28183,8 @@
     "Director": [
       "Aldo Baglio",
       "Morgan Bertacca",
-      "Giovanni Storti",
-      "Giacomo Poretti"
+      "Giacomo Poretti",
+      "Giovanni Storti"
     ],
     "tmdb_id": 310126,
     "imdb_id": "tt4229938",
@@ -32419,8 +32398,8 @@
       "Zorion Eguileor"
     ],
     "Director": [
-      "Raúl Cerezo",
-      "Fernando González Gómez"
+      "Fernando González Gómez",
+      "Raúl Cerezo"
     ],
     "tmdb_id": 994128,
     "imdb_id": "tt13968380",
@@ -33222,8 +33201,8 @@
       "Owen Wilson"
     ],
     "Director": [
-      "Ariel Schulman",
-      "Henry Joost"
+      "Henry Joost",
+      "Ariel Schulman"
     ],
     "tmdb_id": 791155,
     "imdb_id": "tt14001894",
@@ -35405,30 +35384,6 @@
     "tmdb_type": "tv",
     "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb"
-  },
-  {
-    "title": "S0E1 - Zonja Fazilet dhe te bijat",
-    "Raw_EPG": "S0E1 - Zonja Fazilet dhe te bijat",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "imdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null,
-    "verification_source": null
-  },
-  {
-    "title": "S0E2 - Zonja Fazilet dhe te bijat",
-    "Raw_EPG": "S0E2 - Zonja Fazilet dhe te bijat",
-    "year": 0,
-    "Cast": [],
-    "Director": [],
-    "tmdb_id": null,
-    "imdb_id": null,
-    "tmdb_type": null,
-    "tmdb_match_score": null,
-    "verification_source": null
   },
   {
     "title": "S2E9 - Fi",
@@ -39343,8 +39298,8 @@
       "Matt Angel"
     ],
     "Director": [
-      "Suzanne Coote",
-      "Matt Angel"
+      "Matt Angel",
+      "Suzanne Coote"
     ],
     "tmdb_id": 485774,
     "imdb_id": "tt7608028",
@@ -39505,12 +39460,12 @@
       "Roxanne Benjamin"
     ],
     "Director": [
+      "Patrick Horvath",
       "Matt Bettinelli-Olpin",
+      "Justin Martinez",
       "David Bruckner",
       "Tyler Gillett",
-      "Patrick Horvath",
       "Roxanne Benjamin",
-      "Justin Martinez",
       "Chad Villella"
     ],
     "tmdb_id": 354251,
@@ -42880,6 +42835,66 @@
   {
     "title": "Instalimi i realizmit socialist dhe Sejfulla Maleshova",
     "Raw_EPG": "Instalimi i realizmit socialist dhe Sejfulla Maleshova",
+    "year": 0,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Pas Cak",
+    "Raw_EPG": "Pas çak-Awake",
+    "year": 0,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Mr. Bean",
+    "Raw_EPG": "Mr. Bean bën vetë çdo gjë",
+    "year": 1990,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 4327,
+    "imdb_id": "tt0096657",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Dreka Shqiptare",
+    "Raw_EPG": "Dreka shqiptare, Boga",
+    "year": 0,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Gjurme Shqiptare",
+    "Raw_EPG": "Gjurmë shqiptare 3",
+    "year": 2014,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Eurosaga",
+    "Raw_EPG": "Eurosaga 4",
     "year": 0,
     "Cast": [],
     "Director": [],
