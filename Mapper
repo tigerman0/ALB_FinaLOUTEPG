@@ -1,22 +1,9 @@
 {
   "16.0E": {
-    "fallback": [
-      "https://example.com/16e_default_1.json",
-      "https://example.com/16e_default_2.json"
-    ],
+    "fallback": [https://alb-epg.alb-epg.workers.dev/simplified_data.json],
     "channels": {
-      "Film Hits": [
-        "https://example.com/16e/filmhits_1.json"
-      ],
-      "Top Channel": [
-        "https://example.com/16e/topchannel.json"
-      ],
-      "Klan TV": [
-        "https://example.com/16e/klan.json"
-      ],
-      "Bang Bang": [
-        "https://example.com/16e/bangbang.json"
-      ]
+      "Film Hits": [ "https://example.com/16e/filmhits_1.json" ],
+      "Top Channel": ["https://example.com/16e/topchannel.json"]
     }
   },
 
