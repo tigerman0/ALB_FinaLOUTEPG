@@ -1,0 +1,51 @@
+{
+  "16.0E": {
+    "fallback": [
+      "https://example.com/16e_default_1.json",
+      "https://example.com/16e_default_2.json"
+    ],
+    "channels": {
+      "Film Hits": [
+        "https://example.com/16e/filmhits_1.json"
+      ],
+      "Top Channel": [
+        "https://example.com/16e/topchannel.json"
+      ],
+      "Klan TV": [
+        "https://example.com/16e/klan.json"
+      ],
+      "Bang Bang": [
+        "https://example.com/16e/bangbang.json"
+      ]
+    }
+  },
+
+  "13.0E": {
+    "fallback": [
+      "https://example.com/13e_default.json"
+    ],
+    "channels": {
+      "Rai 1": [
+        "https://example.com/13e/rai1.json"
+      ],
+      "Rai 2": [
+        "https://example.com/13e/rai2.json"
+      ]
+    }
+  },
+
+  "7.0W": {
+    "fallback": [
+      "https://example.com/7w_default.json"
+    ],
+    "channels": {
+      "MBC 2": [
+        "https://example.com/7w/mbc2_1.json",
+        "https://example.com/7w/mbc2_2.json"
+      ],
+      "MBC Action": [
+        "https://example.com/7w/mbc_action.json"
+      ]
+    }
+  }
+}
