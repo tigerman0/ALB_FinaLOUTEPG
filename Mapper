@@ -10,12 +10,28 @@
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-fantasy_simplified.json",
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestar-tv-comedy-family_simplified.json",
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-kids_simplified.json"
-
     ],
+
+    "providers": {
+      "DigitAlb": [
+        "https://example.com/16e/digitalb_1.json",
+        "https://example.com/16e/digitalb_2.json"
+      ],
+
+      "Tring Digital": [
+        "https://example.com/16e/tring.json"
+      ],
+
+      "Total TV": [
+        "https://example.com/16e/total_tv.json"
+      ]
+    },
+
     "channels": {
       "Film Hits": [
         "https://example.com/16e/filmhits_1.json"
       ],
+
       "Top Channel": [
         "https://example.com/16e/topchannel.json"
       ]
@@ -26,10 +42,22 @@
     "fallback": [
       "https://example.com/13e_default.json"
     ],
+
+    "providers": {
+      "RAI": [
+        "https://example.com/13e/rai_provider.json"
+      ],
+
+      "Sky Italia": [
+        "https://example.com/13e/skyitalia.json"
+      ]
+    },
+
     "channels": {
       "Rai 1": [
         "https://example.com/13e/rai1.json"
       ],
+
       "Rai 2": [
         "https://example.com/13e/rai2.json"
       ]
@@ -40,11 +68,19 @@
     "fallback": [
       "https://example.com/7w_default.json"
     ],
+
+    "providers": {
+      "MBC": [
+        "https://example.com/7w/mbc.json"
+      ]
+    },
+
     "channels": {
       "MBC 2": [
         "https://example.com/7w/mbc2_1.json",
         "https://example.com/7w/mbc2_2.json"
       ],
+
       "MBC Action": [
         "https://example.com/7w/mbc_action.json"
       ]
