@@ -13,7 +13,7 @@
     ],
 
     "providers": {
-      "DigitAlb": [  "https://alb-epg.alb-epg.workers.dev/simplified_data.json" ],
+      "DigitAlb": [  "https://alb-epg.alb-epg.workers.dev/simplified_data.json" ]
  
     },
 
