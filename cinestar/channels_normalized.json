@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "3sat",
+    "name": "3sat HD",
+    "api_key": "3sat HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "3sat",
+      "num": 2,
+      "name": "3sat HD",
+      "short": "3SAT",
+      "logo": "3sat_hd.png",
+      "kategorija": 1,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "Canale 5 (DTT)",
+    "name": "Canale 5 HD",
+    "api_key": "Canale 5 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Canale 5 (DTT)",
+      "num": 24,
+      "name": "Canale 5 HD",
+      "short": "CANA",
+      "logo": "canale_5_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "Das Erste",
+    "name": "Das Erste HD",
+    "api_key": "Das Erste HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Das Erste",
+      "num": 41,
+      "name": "Das Erste HD",
+      "short": "DASE",
+      "logo": "das_erste_hd.png",
+      "kategorija": 1,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "Duna TV",
+    "name": "Duna TV HD",
+    "api_key": "Duna TV HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Duna TV",
+      "num": 50,
+      "name": "Duna TV HD",
+      "short": "DUNA",
+      "logo": "duna_tv_hd.png",
+      "kategorija": 1,
+      "jezik": 8
+    }
+  },
+  {
+    "id": "France 2",
+    "name": "France 2 HD",
+    "api_key": "France 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "France 2",
+      "num": 65,
+      "name": "France 2 HD",
+      "short": "FRAN",
+      "logo": "france_2_hd.png",
+      "kategorija": 1,
+      "jezik": 9
+    }
+  },
+  {
+    "id": "Hayat HD",
+    "name": "Hayat HD",
+    "api_key": "Hayat HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Hayat HD",
+      "num": 73,
+      "name": "Hayat HD",
+      "short": "HAYA",
+      "logo": "hayat_hd.png",
+      "kategorija": 1,
+      "jezik": 3
+    }
+  },
+  {
+    "id": "HTV 1",
+    "name": "HTV 1 HD",
+    "api_key": "HTV 1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "HTV 1",
+      "num": 80,
+      "name": "HTV 1 HD",
+      "short": "HTV1",
+      "logo": "htv_1_hd.png",
+      "kategorija": 1,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "HTV 2",
+    "name": "HTV 2 HD",
+    "api_key": "HTV 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "HTV 2",
+      "num": 81,
+      "name": "HTV 2 HD",
+      "short": "HTV2",
+      "logo": "htv_2_hd.png",
+      "kategorija": 1,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "HTV 5",
+    "name": "HTV 5 HD",
+    "api_key": "HTV 5 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "HTV 5",
+      "num": 84,
+      "name": "HTV 5 HD",
+      "short": "HTV5",
+      "logo": "htv_5_hd.png",
+      "kategorija": 1,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "Italia 1 (DTT)",
+    "name": "Italia 1 HD",
+    "api_key": "Italia 1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Italia 1 (DTT)",
+      "num": 89,
+      "name": "Italia 1 HD",
+      "short": "ITAL",
+      "logo": "italia_uno_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "AKHD",
+    "name": "Kanal A HD",
+    "api_key": "Kanal A HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "AKHD",
+      "num": 92,
+      "name": "Kanal A HD",
+      "short": "AKHD",
+      "logo": "kanal_a_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "M1",
+    "name": "M1 HD",
+    "api_key": "M1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "M1",
+      "num": 96,
+      "name": "M1 HD",
+      "short": "M1",
+      "logo": "m1_hd.png",
+      "kategorija": 1,
+      "jezik": 8
+    }
+  },
+  {
+    "id": "M2",
+    "name": "M2 HD",
+    "api_key": "M2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "M2",
+      "num": 97,
+      "name": "M2 HD",
+      "short": "M2",
+      "logo": "m2_hd.png",
+      "kategorija": 1,
+      "jezik": 8
+    }
+  },
+  {
+    "id": "ORF 2",
+    "name": "ORF 2 HD",
+    "api_key": "ORF 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "ORF 2",
+      "num": 115,
+      "name": "ORF 2 HD",
+      "short": "ORF2",
+      "logo": "orf_2_hd.png",
+      "kategorija": 1,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "ORF eins",
+    "name": "ORF eins HD",
+    "api_key": "ORF eins HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "ORF eins",
+      "num": 117,
+      "name": "ORF eins HD",
+      "short": "ORFE",
+      "logo": "orf_eins_hd.png",
+      "kategorija": 1,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "PLHD",
+    "name": "Planet TV HD",
+    "api_key": "Planet TV HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "PLHD",
+      "num": 124,
+      "name": "Planet TV HD",
+      "short": "PLHD",
+      "logo": "planet_tv_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "POHD",
+    "name": "POP TV HD",
+    "api_key": "POP TV HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "POHD",
+      "num": 125,
+      "name": "POP TV HD",
+      "short": "POHD",
+      "logo": "pop_tv_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "Rai 1",
+    "name": "RAI 1 HD",
+    "api_key": "RAI 1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Rai 1",
+      "num": 128,
+      "name": "RAI 1 HD",
+      "short": "RAI1",
+      "logo": "rai_1_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "Rai 2",
+    "name": "RAI 2 HD",
+    "api_key": "RAI 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Rai 2",
+      "num": 129,
+      "name": "RAI 2 HD",
+      "short": "RAI2",
+      "logo": "rai_2_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "Rai 3",
+    "name": "RAI 3 HD",
+    "api_key": "RAI 3 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Rai 3",
+      "num": 130,
+      "name": "RAI 3 HD",
+      "short": "RAI3",
+      "logo": "rai_3_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "Rai 4",
+    "name": "RAI 4 HD",
+    "api_key": "RAI 4 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Rai 4",
+      "num": 131,
+      "name": "RAI 4 HD",
+      "short": "RAI4",
+      "logo": "rai_4_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "Rai 5",
+    "name": "RAI 5 HD",
+    "api_key": "RAI 5 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Rai 5",
+      "num": 132,
+      "name": "RAI 5 HD",
+      "short": "RAI5",
+      "logo": "rai_5_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "Rete 4 (DTT)",
+    "name": "Rete 4 HD",
+    "api_key": "Rete 4 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "Rete 4 (DTT)",
+      "num": 135,
+      "name": "Rete 4 HD",
+      "short": "RETE",
+      "logo": "rete_4_hd.png",
+      "kategorija": 1,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "RTS1",
+    "name": "RTS 1 HD",
+    "api_key": "RTS 1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "RTS1",
+      "num": 145,
+      "name": "RTS 1 HD",
+      "short": "RTS1",
+      "logo": "rts_1_hd.png",
+      "kategorija": 1,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "RTS 2",
+    "name": "RTS 2 HD",
+    "api_key": "RTS 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "RTS 2",
+      "num": 146,
+      "name": "RTS 2 HD",
+      "short": "RTS2",
+      "logo": "rts_2_hd.png",
+      "kategorija": 1,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "RTS Sat",
+    "name": "RTS Svet HD",
+    "api_key": "RTS Svet HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "RTS Sat",
+      "num": 151,
+      "name": "RTS Svet HD",
+      "short": "RTSS",
+      "logo": "rts_svet_hd.png",
+      "kategorija": 1,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "TV3M",
+    "name": "TV 3 HD",
+    "api_key": "TV 3 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TV3M",
+      "num": 179,
+      "name": "TV 3 HD",
+      "short": "TV3M",
+      "logo": "tv_3_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TV5 Monde Europe",
+    "name": "TV 5 Monde Eu HD",
+    "api_key": "TV 5 Monde Eu HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TV5 Monde Europe",
+      "num": 180,
+      "name": "TV 5 Monde Eu HD",
+      "short": "TV5M",
+      "logo": "tv_5_monde_eu_hd.png",
+      "kategorija": 1,
+      "jezik": 9
+    }
+  },
+  {
+    "id": "TVKP",
+    "name": "TV Koper  HD",
+    "api_key": "TV Koper  HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TVKP",
+      "num": 181,
+      "name": "TV Koper  HD",
+      "short": "TVKP",
+      "logo": "tv_koper_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TVMB",
+    "name": "TV Maribor HD",
+    "api_key": "TV Maribor HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TVMB",
+      "num": 182,
+      "name": "TV Maribor HD",
+      "short": "TVMB",
+      "logo": "tv_maribor_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TVS1",
+    "name": "TV Slovenija 1 HD",
+    "api_key": "TV Slovenija 1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TVS1",
+      "num": 183,
+      "name": "TV Slovenija 1 HD",
+      "short": "TVS1",
+      "logo": "tv_slovenija_1_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TVS2",
+    "name": "TV Slovenija 2 HD",
+    "api_key": "TV Slovenija 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TVS2",
+      "num": 184,
+      "name": "TV Slovenija 2 HD",
+      "short": "TVS2",
+      "logo": "tv_slovenija_2_hd.png",
+      "kategorija": 1,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TVCG1",
+    "name": "TVCG 1 HD",
+    "api_key": "TVCG 1 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TVCG1",
+      "num": 187,
+      "name": "TVCG 1 HD",
+      "short": "TVCG",
+      "logo": "tvcg_1_hd.png",
+      "kategorija": 1,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "TVCG2",
+    "name": "TVCG 2 HD",
+    "api_key": "TVCG 2 HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "TVCG2",
+      "num": 188,
+      "name": "TVCG 2 HD",
+      "short": "TVCG",
+      "logo": "tvcg_2_hd.png",
+      "kategorija": 1,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "ZDF",
+    "name": "ZDF HD",
+    "api_key": "ZDF HD",
+    "category": "Splošni",
+    "raw": {
+      "id": "ZDF",
+      "num": 200,
+      "name": "ZDF HD",
+      "short": "ZDF",
+      "logo": "zdf_hd.png",
+      "kategorija": 1,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "AMC",
+    "name": "AMC HD",
+    "api_key": "AMC HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "AMC",
+      "num": 5,
+      "name": "AMC HD",
+      "short": "AMC",
+      "logo": "amc_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "ASTA",
+    "name": "Astra HD",
+    "api_key": "Astra HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "ASTA",
+      "num": 15,
+      "name": "Astra HD",
+      "short": "ASTA",
+      "logo": "astra_hd.png",
+      "kategorija": 2,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "AXNS",
+    "name": "AXN HD",
+    "api_key": "AXN HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "AXNS",
+      "num": 16,
+      "name": "AXN HD",
+      "short": "AXNS",
+      "logo": "axn_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "AXNN",
+    "name": "AXN Spin HD",
+    "api_key": "AXN Spin HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "AXNN",
+      "num": 17,
+      "name": "AXN Spin HD",
+      "short": "AXNN",
+      "logo": "axn_spin_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "BBCF",
+    "name": "BBC First HD",
+    "api_key": "BBC First HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "BBCF",
+      "num": 20,
+      "name": "BBC First HD",
+      "short": "BBCF",
+      "logo": "bbc_first_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CMAX2",
+    "name": "CineMax 2 HD",
+    "api_key": "CineMax 2 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CMAX2",
+      "num": 28,
+      "name": "CineMax 2 HD",
+      "short": "CMAX",
+      "logo": "cinemax_2_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CMAX",
+    "name": "CineMax HD",
+    "api_key": "CineMax HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CMAX",
+      "num": 29,
+      "name": "CineMax HD",
+      "short": "CMAX",
+      "logo": "cinemax_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CAT",
+    "name": "Cinestar Action HD",
+    "api_key": "Cinestar Action HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CAT",
+      "num": 30,
+      "name": "Cinestar Action HD",
+      "short": "CAT",
+      "logo": "cinestar_action_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CCF",
+    "name": "Cinestar Comedy HD",
+    "api_key": "Cinestar Comedy HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CCF",
+      "num": 31,
+      "name": "Cinestar Comedy HD",
+      "short": "CCF",
+      "logo": "cinestar_comedy_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CF",
+    "name": "Cinestar Fantasy HD",
+    "api_key": "Cinestar Fantasy HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CF",
+      "num": 32,
+      "name": "Cinestar Fantasy HD",
+      "short": "CF",
+      "logo": "cinestar_fantasy_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CP1",
+    "name": "Cinestar Premiere 1 HD",
+    "api_key": "Cinestar Premiere 1 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CP1",
+      "num": 33,
+      "name": "Cinestar Premiere 1 HD",
+      "short": "CP1",
+      "logo": "cinestar_premiere_1_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CP2",
+    "name": "Cinestar Premiere 2 HD",
+    "api_key": "Cinestar Premiere 2 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CP2",
+      "num": 34,
+      "name": "Cinestar Premiere 2 HD",
+      "short": "CP2",
+      "logo": "cinestar_premiere_2_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CT1",
+    "name": "Cinestar1 HD",
+    "api_key": "Cinestar1 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CT1",
+      "num": 35,
+      "name": "Cinestar1 HD",
+      "short": "CT1",
+      "logo": "cinestar1_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CT2",
+    "name": "Cinestar2 HD",
+    "api_key": "Cinestar2 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CT2",
+      "num": 36,
+      "name": "Cinestar2 HD",
+      "short": "CT2",
+      "logo": "cinestar2_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DIVA",
+    "name": "Diva HD",
+    "api_key": "Diva HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "DIVA",
+      "num": 46,
+      "name": "Diva HD",
+      "short": "DIVA",
+      "logo": "diva_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "VEPI",
+    "name": "Epic Drama HD",
+    "api_key": "Epic Drama HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "VEPI",
+      "num": 53,
+      "name": "Epic Drama HD",
+      "short": "VEPI",
+      "logo": "epic_drama_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FBEM",
+    "name": "FilmBox+ Emotion",
+    "api_key": "FilmBox+ Emotion",
+    "category": "Filmski",
+    "raw": {
+      "id": "FBEM",
+      "num": 60,
+      "name": "FilmBox+ Emotion",
+      "short": "FBEM",
+      "logo": "filmbox_extra_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FBFE",
+    "name": "FilmBox+ Festival",
+    "api_key": "FilmBox+ Festival",
+    "category": "Filmski",
+    "raw": {
+      "id": "FBFE",
+      "num": 61,
+      "name": "FilmBox+ Festival",
+      "short": "FBFE",
+      "logo": "filmbox_arthouse_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FBHI",
+    "name": "FilmBox+ Hits",
+    "api_key": "FilmBox+ Hits",
+    "category": "Filmski",
+    "raw": {
+      "id": "FBHI",
+      "num": 62,
+      "name": "FilmBox+ Hits",
+      "short": "FBHI",
+      "logo": "filmbox_premium_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FBLC",
+    "name": "FilmBox+ Love&Crime",
+    "api_key": "FilmBox+ Love&Crime",
+    "category": "Filmski",
+    "raw": {
+      "id": "FBLC",
+      "num": 63,
+      "name": "FilmBox+ Love&Crime",
+      "short": "FBLC",
+      "logo": "filmbox_stars_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HBO2",
+    "name": "HBO 2 HD",
+    "api_key": "HBO 2 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "HBO2",
+      "num": 74,
+      "name": "HBO 2 HD",
+      "short": "HBO2",
+      "logo": "hbo_2_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HBO3",
+    "name": "HBO 3 HD",
+    "api_key": "HBO 3 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "HBO3",
+      "num": 75,
+      "name": "HBO 3 HD",
+      "short": "HBO3",
+      "logo": "hbo_3_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HBO",
+    "name": "HBO HD",
+    "api_key": "HBO HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "HBO",
+      "num": 76,
+      "name": "HBO HD",
+      "short": "HBO",
+      "logo": "hbo_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "KIHD",
+    "name": "Kino HD",
+    "api_key": "Kino HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "KIHD",
+      "num": 93,
+      "name": "Kino HD",
+      "short": "KIHD",
+      "logo": "kino_hd.png",
+      "kategorija": 2,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "KlasikTV",
+    "name": "KlasikTV HD",
+    "api_key": "KlasikTV HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "KlasikTV",
+      "num": 94,
+      "name": "KlasikTV HD",
+      "short": "KLAS",
+      "logo": "klasiktv_hd.png",
+      "kategorija": 2,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "Rai Movie",
+    "name": "RAI Movie HD",
+    "api_key": "RAI Movie HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "Rai Movie",
+      "num": 133,
+      "name": "RAI Movie HD",
+      "short": "RAIM",
+      "logo": "rai_movie_hd.png",
+      "kategorija": 2,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "RTL Adria",
+    "name": "RTL Adria HD",
+    "api_key": "RTL Adria HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "RTL Adria",
+      "num": 137,
+      "name": "RTL Adria HD",
+      "short": "RTLA",
+      "logo": "rtl_adria_hd.png",
+      "kategorija": 2,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "RTL Crime",
+    "name": "RTL Crime HD",
+    "api_key": "RTL Crime HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "RTL Crime",
+      "num": 138,
+      "name": "RTL Crime HD",
+      "short": "RTLC",
+      "logo": "rtl_crime_hd.png",
+      "kategorija": 2,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "RTL Passion",
+    "name": "RTL Passion HD",
+    "api_key": "RTL Passion HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "RTL Passion",
+      "num": 143,
+      "name": "RTL Passion HD",
+      "short": "RTLP",
+      "logo": "rtl_passion_hd.png",
+      "kategorija": 2,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "RTSD",
+    "name": "RTS Drama HD",
+    "api_key": "RTS Drama HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "RTSD",
+      "num": 148,
+      "name": "RTS Drama HD",
+      "short": "RTSD",
+      "logo": "rts_drama_hd.png",
+      "kategorija": 2,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "SAJF",
+    "name": "Sci Fi HD",
+    "api_key": "Sci Fi HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "SAJF",
+      "num": 154,
+      "name": "Sci Fi HD",
+      "short": "SAJF",
+      "logo": "sci_fi_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CRIM",
+    "name": "Star Crime HD",
+    "api_key": "Star Crime HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "CRIM",
+      "num": 170,
+      "name": "Star Crime HD",
+      "short": "CRIM",
+      "logo": "star_crime_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "STAR",
+    "name": "Star HD",
+    "api_key": "Star HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "STAR",
+      "num": 171,
+      "name": "Star HD",
+      "short": "STAR",
+      "logo": "star_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "LIFE",
+    "name": "Star Life HD",
+    "api_key": "Star Life HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "LIFE",
+      "num": 172,
+      "name": "Star Life HD",
+      "short": "LIFE",
+      "logo": "star_life_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "MOVI",
+    "name": "Star Movies HD",
+    "api_key": "Star Movies HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "MOVI",
+      "num": 173,
+      "name": "Star Movies HD",
+      "short": "MOVI",
+      "logo": "star_movies_hd.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Tele 5",
+    "name": "Tele 5 HD",
+    "api_key": "Tele 5 HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "Tele 5",
+      "num": 175,
+      "name": "Tele 5 HD",
+      "short": "TELE",
+      "logo": "tele_5_hd.png",
+      "kategorija": 2,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "1000",
+    "name": "Viasat Kino HD",
+    "api_key": "Viasat Kino HD",
+    "category": "Filmski",
+    "raw": {
+      "id": "1000",
+      "num": 195,
+      "name": "Viasat Kino HD",
+      "short": "1000",
+      "logo": "viasat_kino.png",
+      "kategorija": 2,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "ARS1",
+    "name": "Arena Sport 1 HD",
+    "api_key": "Arena Sport 1 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "ARS1",
+      "num": 8,
+      "name": "Arena Sport 1 HD",
+      "short": "ARS1",
+      "logo": "arena_sport_1_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ARS2",
+    "name": "Arena Sport 2 HD",
+    "api_key": "Arena Sport 2 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "ARS2",
+      "num": 9,
+      "name": "Arena Sport 2 HD",
+      "short": "ARS2",
+      "logo": "arena_sport_2_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ARS3",
+    "name": "Arena Sport 3 HD",
+    "api_key": "Arena Sport 3 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "ARS3",
+      "num": 10,
+      "name": "Arena Sport 3 HD",
+      "short": "ARS3",
+      "logo": "arena_sport_3_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ARS4",
+    "name": "Arena Sport 4 HD",
+    "api_key": "Arena Sport 4 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "ARS4",
+      "num": 11,
+      "name": "Arena Sport 4 HD",
+      "short": "ARS4",
+      "logo": "arena_sport_4_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "AS1P",
+    "name": "Arena Sport Premium 1 HD",
+    "api_key": "Arena Sport Premium 1 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "AS1P",
+      "num": 12,
+      "name": "Arena Sport Premium 1 HD",
+      "short": "AS1P",
+      "logo": "arena_sport_premium_1_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ESHD",
+    "name": "Eurosport 1 HD",
+    "api_key": "Eurosport 1 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "ESHD",
+      "num": 55,
+      "name": "Eurosport 1 HD",
+      "short": "ESHD",
+      "logo": "eurosport_1_hd.png",
+      "kategorija": 3,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "E2HD",
+    "name": "Eurosport 2 HD",
+    "api_key": "Eurosport 2 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "E2HD",
+      "num": 56,
+      "name": "Eurosport 2 HD",
+      "short": "E2HD",
+      "logo": "eurosport_2_hd.png",
+      "kategorija": 3,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "ES4K",
+    "name": "Eurosport 4K",
+    "api_key": "Eurosport 4K",
+    "category": "Športni",
+    "raw": {
+      "id": "ES4K",
+      "num": 57,
+      "name": "Eurosport 4K",
+      "short": "ES4K",
+      "logo": "eurosport_4k.png",
+      "kategorija": 3,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "EXTS",
+    "name": "Extreme Channel HD",
+    "api_key": "Extreme Channel HD",
+    "category": "Športni",
+    "raw": {
+      "id": "EXTS",
+      "num": 58,
+      "name": "Extreme Channel HD",
+      "short": "EXTS",
+      "logo": "extreme_sports_hd.png",
+      "kategorija": 3,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "ORF Sport+",
+    "name": "ORF Sport+ HD",
+    "api_key": "ORF Sport+ HD",
+    "category": "Športni",
+    "raw": {
+      "id": "ORF Sport+",
+      "num": 118,
+      "name": "ORF Sport+ HD",
+      "short": "ORFS",
+      "logo": "orf_sport+_hd.png",
+      "kategorija": 3,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "Rai SportPiu HD",
+    "name": "RAI SportPiu HD",
+    "api_key": "RAI SportPiu HD",
+    "category": "Športni",
+    "raw": {
+      "id": "Rai SportPiu HD",
+      "num": 134,
+      "name": "RAI SportPiu HD",
+      "short": "RAIS",
+      "logo": "rai_sport_hd.png",
+      "kategorija": 3,
+      "jezik": 7
+    }
+  },
+  {
+    "id": "SPORT1",
+    "name": "Sport1 HD",
+    "api_key": "Sport1 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SPORT1",
+      "num": 159,
+      "name": "Sport1 HD",
+      "short": "SPOR",
+      "logo": "sport1_hd.png",
+      "kategorija": 3,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "SK1HD",
+    "name": "SportKlub 1 HD",
+    "api_key": "SportKlub 1 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK1HD",
+      "num": 160,
+      "name": "SportKlub 1 HD",
+      "short": "SK1H",
+      "logo": "sportklub_1_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK2HD",
+    "name": "SportKlub 2 HD",
+    "api_key": "SportKlub 2 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK2HD",
+      "num": 161,
+      "name": "SportKlub 2 HD",
+      "short": "SK2H",
+      "logo": "sportklub_2_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK3HD",
+    "name": "SportKlub 3 HD",
+    "api_key": "SportKlub 3 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK3HD",
+      "num": 162,
+      "name": "SportKlub 3 HD",
+      "short": "SK3H",
+      "logo": "sportklub_3_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK4HD",
+    "name": "SportKlub 4 HD",
+    "api_key": "SportKlub 4 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK4HD",
+      "num": 163,
+      "name": "SportKlub 4 HD",
+      "short": "SK4H",
+      "logo": "sportklub_4_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK 4K",
+    "name": "SportKlub 4K",
+    "api_key": "SportKlub 4K",
+    "category": "Športni",
+    "raw": {
+      "id": "SK 4K",
+      "num": 164,
+      "name": "SportKlub 4K",
+      "short": "SK4K",
+      "logo": "sportklub_4k.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK5HD",
+    "name": "SportKlub 5 HD",
+    "api_key": "SportKlub 5 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK5HD",
+      "num": 165,
+      "name": "SportKlub 5 HD",
+      "short": "SK5H",
+      "logo": "sportklub_5_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK6HD",
+    "name": "SportKlub 6 HD",
+    "api_key": "SportKlub 6 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK6HD",
+      "num": 166,
+      "name": "SportKlub 6 HD",
+      "short": "SK6H",
+      "logo": "sportklub_6_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SK7HD",
+    "name": "SportKlub 7 HD",
+    "api_key": "SportKlub 7 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SK7HD",
+      "num": 167,
+      "name": "SportKlub 7 HD",
+      "short": "SK7H",
+      "logo": "sportklub_7_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "SKFIG",
+    "name": "SportKlub Fight HD",
+    "api_key": "SportKlub Fight HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SKFIG",
+      "num": 168,
+      "name": "SportKlub Fight HD",
+      "short": "SKFI",
+      "logo": "sportklub_fight_hd.png",
+      "kategorija": 3,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "SKGHD",
+    "name": "SportKlub Golf HD",
+    "api_key": "SportKlub Golf HD",
+    "category": "Športni",
+    "raw": {
+      "id": "SKGHD",
+      "num": 169,
+      "name": "SportKlub Golf HD",
+      "short": "SKGH",
+      "logo": "sportklub_golf_hd.png",
+      "kategorija": 3,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Sport TV 1",
+    "name": "Šport TV 1 HD",
+    "api_key": "Šport TV 1 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "Sport TV 1",
+      "num": 156,
+      "name": "Šport TV 1 HD",
+      "short": "SPOR",
+      "logo": "sport_tv_1_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "Sport TV 2",
+    "name": "Šport TV 2 HD",
+    "api_key": "Šport TV 2 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "Sport TV 2",
+      "num": 157,
+      "name": "Šport TV 2 HD",
+      "short": "SPOR",
+      "logo": "sport_tv_2_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "Sport TV 3",
+    "name": "Šport TV 3 HD",
+    "api_key": "Šport TV 3 HD",
+    "category": "Športni",
+    "raw": {
+      "id": "Sport TV 3",
+      "num": 158,
+      "name": "Šport TV 3 HD",
+      "short": "SPOR",
+      "logo": "sport_tv_3_hd.png",
+      "kategorija": 3,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "24KI",
+    "name": "24 Kitchen HD",
+    "api_key": "24 Kitchen HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "24KI",
+      "num": 1,
+      "name": "24 Kitchen HD",
+      "short": "24KI",
+      "logo": "24_kitchen_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "APHD",
+    "name": "Animal Planet HD",
+    "api_key": "Animal Planet HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "APHD",
+      "num": 6,
+      "name": "Animal Planet HD",
+      "short": "APHD",
+      "logo": "animal_planet_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "ARTE",
+    "name": "ARTE HD",
+    "api_key": "ARTE HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "ARTE",
+      "num": 14,
+      "name": "ARTE HD",
+      "short": "ARTE",
+      "logo": "arte_hd.png",
+      "kategorija": 4,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "BBCK",
+    "name": "BBC Earth HD",
+    "api_key": "BBC Earth HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "BBCK",
+      "num": 19,
+      "name": "BBC Earth HD",
+      "short": "BBCK",
+      "logo": "bbc_earth_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CINV",
+    "name": "Crime & Investigation HD",
+    "api_key": "Crime & Investigation HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "CINV",
+      "num": 39,
+      "name": "Crime & Investigation HD",
+      "short": "CINV",
+      "logo": "crime_and_investigation_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DVLR",
+    "name": "Da Vinci HD",
+    "api_key": "Da Vinci HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "DVLR",
+      "num": 40,
+      "name": "Da Vinci HD",
+      "short": "DVLR",
+      "logo": "da_vinci_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DISC",
+    "name": "Discovery HD",
+    "api_key": "Discovery HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "DISC",
+      "num": 42,
+      "name": "Discovery HD",
+      "short": "DISC",
+      "logo": "discovery_channel_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "SCIE",
+    "name": "Discovery Science",
+    "api_key": "Discovery Science",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "SCIE",
+      "num": 43,
+      "name": "Discovery Science",
+      "short": "SCIE",
+      "logo": "discovery_science_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DOKU TV",
+    "name": "Doku TV HD",
+    "api_key": "Doku TV HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "DOKU TV",
+      "num": 48,
+      "name": "Doku TV HD",
+      "short": "DOKU",
+      "logo": "doku_tv_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DOXTV",
+    "name": "DoxTV HD",
+    "api_key": "DoxTV HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "DOXTV",
+      "num": 49,
+      "name": "DoxTV HD",
+      "short": "DOXT",
+      "logo": "dox_tv_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FNHD",
+    "name": "Food Network HD",
+    "api_key": "Food Network HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "FNHD",
+      "num": 64,
+      "name": "Food Network HD",
+      "short": "FNHD",
+      "logo": "food_network_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HGTV",
+    "name": "HGTV HD",
+    "api_key": "HGTV HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "HGTV",
+      "num": 77,
+      "name": "HGTV HD",
+      "short": "HGTV",
+      "logo": "hgtv_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "History 2 HD",
+    "name": "HIstory 2 Europe HD",
+    "api_key": "HIstory 2 Europe HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "History 2 HD",
+      "num": 78,
+      "name": "HIstory 2 Europe HD",
+      "short": "HIST",
+      "logo": "history_2_europe_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "History HD",
+    "name": "History Channel HD",
+    "api_key": "History Channel HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "History HD",
+      "num": 79,
+      "name": "History Channel HD",
+      "short": "HIST",
+      "logo": "history_channel_tv_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "IDX",
+    "name": "ID HD",
+    "api_key": "ID HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "IDX",
+      "num": 88,
+      "name": "ID HD",
+      "short": "IDX",
+      "logo": "id_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "YSAI",
+    "name": "Nautical Channel HD",
+    "api_key": "Nautical Channel HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "YSAI",
+      "num": 104,
+      "name": "Nautical Channel HD",
+      "short": "YSAI",
+      "logo": "nautical_channel_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HDNG",
+    "name": "NG Channel HD",
+    "api_key": "NG Channel HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "HDNG",
+      "num": 106,
+      "name": "NG Channel HD",
+      "short": "HDNG",
+      "logo": "ng_channel_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "NGWI",
+    "name": "NG Wild HD",
+    "api_key": "NG Wild HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "NGWI",
+      "num": 107,
+      "name": "NG Wild HD",
+      "short": "NGWI",
+      "logo": "ng_wild_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "RTS Trezor",
+    "name": "RTS Trezor HD",
+    "api_key": "RTS Trezor HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "RTS Trezor",
+      "num": 152,
+      "name": "RTS Trezor HD",
+      "short": "RTST",
+      "logo": "rts_trezor_hd.png",
+      "kategorija": 4,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "TLCB",
+    "name": "TLC HD",
+    "api_key": "TLC HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "TLCB",
+      "num": 176,
+      "name": "TLC HD",
+      "short": "TLCB",
+      "logo": "tlc_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "TCHD",
+    "name": "Travel Channel HD",
+    "api_key": "Travel Channel HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "TCHD",
+      "num": 177,
+      "name": "Travel Channel HD",
+      "short": "TCHD",
+      "logo": "travel_channel_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "TravelXP",
+    "name": "Travel XP HD",
+    "api_key": "Travel XP HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "TravelXP",
+      "num": 178,
+      "name": "Travel XP HD",
+      "short": "TRAV",
+      "logo": "travel_xp_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "VEXP",
+    "name": "Viasat Explore HD",
+    "api_key": "Viasat Explore HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "VEXP",
+      "num": 193,
+      "name": "Viasat Explore HD",
+      "short": "VEXP",
+      "logo": "viasat_explore.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "VIHI",
+    "name": "Viasat History HD",
+    "api_key": "Viasat History HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "VIHI",
+      "num": 194,
+      "name": "Viasat History HD",
+      "short": "VIHI",
+      "logo": "viasat_history.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "VNAT",
+    "name": "Viasat Nature HD",
+    "api_key": "Viasat Nature HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "VNAT",
+      "num": 196,
+      "name": "Viasat Nature HD",
+      "short": "VNAT",
+      "logo": "viasat_nature.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "VTC",
+    "name": "Viasat True Crime HD",
+    "api_key": "Viasat True Crime HD",
+    "category": "Dokumentarni",
+    "raw": {
+      "id": "VTC",
+      "num": 197,
+      "name": "Viasat True Crime HD",
+      "short": "VTC",
+      "logo": "viasat_true_crime_hd.png",
+      "kategorija": 4,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "BAFI",
+    "name": "Baby TV",
+    "api_key": "Baby TV",
+    "category": "Otroški",
+    "raw": {
+      "id": "BAFI",
+      "num": 18,
+      "name": "Baby TV",
+      "short": "BAFI",
+      "logo": "baby_tv.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CART",
+    "name": "Cartoon Network HD",
+    "api_key": "Cartoon Network HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "CART",
+      "num": 25,
+      "name": "Cartoon Network HD",
+      "short": "CART",
+      "logo": "cartoon_network_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "BOOM",
+    "name": "Cartoonito HD",
+    "api_key": "Cartoonito HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "BOOM",
+      "num": 26,
+      "name": "Cartoonito HD",
+      "short": "BOOM",
+      "logo": "cartoonito_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DCHS",
+    "name": "Disney Channel HD",
+    "api_key": "Disney Channel HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "DCHS",
+      "num": 44,
+      "name": "Disney Channel HD",
+      "short": "DCHS",
+      "logo": "disney_channel_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "DIJU",
+    "name": "Disney Junior HD",
+    "api_key": "Disney Junior HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "DIJU",
+      "num": 45,
+      "name": "Disney Junior HD",
+      "short": "DIJU",
+      "logo": "disney_junior_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "JIMJ",
+    "name": "JimJam HD",
+    "api_key": "JimJam HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "JIMJ",
+      "num": 90,
+      "name": "JimJam HD",
+      "short": "JIMJ",
+      "logo": "jimjam_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "MMAX",
+    "name": "Minimax HD",
+    "api_key": "Minimax HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "MMAX",
+      "num": 100,
+      "name": "Minimax HD",
+      "short": "MMAX",
+      "logo": "minimax_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Nick jr",
+    "name": "Nick jr. HD",
+    "api_key": "Nick jr. HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "Nick jr",
+      "num": 108,
+      "name": "Nick jr. HD",
+      "short": "NICK",
+      "logo": "nick_jr_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Nickelodeon",
+    "name": "Nickelodeon HD",
+    "api_key": "Nickelodeon HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "Nickelodeon",
+      "num": 109,
+      "name": "Nickelodeon HD",
+      "short": "NICK",
+      "logo": "nickelodeon_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Nicktoons",
+    "name": "Nicktoons HD",
+    "api_key": "Nicktoons HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "Nicktoons",
+      "num": 110,
+      "name": "Nicktoons HD",
+      "short": "NICK",
+      "logo": "nicktoons_hd.png",
+      "kategorija": 5,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "OTHD",
+    "name": "Oto HD",
+    "api_key": "Oto HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "OTHD",
+      "num": 119,
+      "name": "Oto HD",
+      "short": "OTHD",
+      "logo": "oto_hd.png",
+      "kategorija": 5,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "RTL KOCKICA",
+    "name": "RTL Kockica HD",
+    "api_key": "RTL Kockica HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "RTL KOCKICA",
+      "num": 141,
+      "name": "RTL Kockica HD",
+      "short": "RTLK",
+      "logo": "rtl_kockica_hd.png",
+      "kategorija": 5,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "Super RTL",
+    "name": "SuperRTL HD",
+    "api_key": "SuperRTL HD",
+    "category": "Otroški",
+    "raw": {
+      "id": "Super RTL",
+      "num": 174,
+      "name": "SuperRTL HD",
+      "short": "SUPE",
+      "logo": "superrtl_hd.png",
+      "kategorija": 5,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "BBCW",
+    "name": "BBC World HD",
+    "api_key": "BBC World HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "BBCW",
+      "num": 21,
+      "name": "BBC World HD",
+      "short": "BBCW",
+      "logo": "bbc_world_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Bloomberg Adria",
+    "name": "Bloomberg Adria HD",
+    "api_key": "Bloomberg Adria HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "Bloomberg Adria",
+      "num": 22,
+      "name": "Bloomberg Adria HD",
+      "short": "BLOO",
+      "logo": "bloomberg_adria_hd.png",
+      "kategorija": 6,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "CGTN",
+    "name": "CGTN HD",
+    "api_key": "CGTN HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "CGTN",
+      "num": 27,
+      "name": "CGTN HD",
+      "short": "CGTN",
+      "logo": "cgtn_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CNBC",
+    "name": "CNBC HD",
+    "api_key": "CNBC HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "CNBC",
+      "num": 37,
+      "name": "CNBC HD",
+      "short": "CNBC",
+      "logo": "cnbc_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "CNN",
+    "name": "CNN HD",
+    "api_key": "CNN HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "CNN",
+      "num": 38,
+      "name": "CNN HD",
+      "short": "CNN",
+      "logo": "cnn_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "ENGL",
+    "name": "English Club HD",
+    "api_key": "English Club HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "ENGL",
+      "num": 52,
+      "name": "English Club HD",
+      "short": "ENGL",
+      "logo": "english_club_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Euronews",
+    "name": "Euronews HD",
+    "api_key": "Euronews HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "Euronews",
+      "num": 54,
+      "name": "Euronews HD",
+      "short": "EURO",
+      "logo": "euronews_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FRANCE 24 ANGLAIS",
+    "name": "France 24A HD",
+    "api_key": "France 24A HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "FRANCE 24 ANGLAIS",
+      "num": 66,
+      "name": "France 24A HD",
+      "short": "FRAN",
+      "logo": "france_24a_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "FRANCE 24 FRANCAIS",
+    "name": "France 24F HD",
+    "api_key": "France 24F HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "FRANCE 24 FRANCAIS",
+      "num": 67,
+      "name": "France 24F HD",
+      "short": "FRAN",
+      "logo": "france_24f_hd.png",
+      "kategorija": 6,
+      "jezik": 9
+    }
+  },
+  {
+    "id": "GTV",
+    "name": "GTV HD",
+    "api_key": "GTV HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "GTV",
+      "num": 70,
+      "name": "GTV HD",
+      "short": "GTV",
+      "logo": "gtv_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "HTV 4",
+    "name": "HTV 4 HD",
+    "api_key": "HTV 4 HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "HTV 4",
+      "num": 83,
+      "name": "HTV 4 HD",
+      "short": "HTV4",
+      "logo": "htv_4_hd.png",
+      "kategorija": 6,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "N1 HD (BH)/(BIH)",
+    "name": "N1 HD BH",
+    "api_key": "N1 HD BH",
+    "category": "Informativni",
+    "raw": {
+      "id": "N1 HD (BH)/(BIH)",
+      "num": 103,
+      "name": "N1 HD BH",
+      "short": "N1HD",
+      "logo": "n1_bh_hd.png",
+      "kategorija": 6,
+      "jezik": 3
+    }
+  },
+  {
+    "id": "NO24",
+    "name": "Nova 24 TV HD",
+    "api_key": "Nova 24 TV HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "NO24",
+      "num": 111,
+      "name": "Nova 24 TV HD",
+      "short": "NO24",
+      "logo": "nova_24_tv_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ORF 3",
+    "name": "ORF 3 HD",
+    "api_key": "ORF 3 HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "ORF 3",
+      "num": 116,
+      "name": "ORF 3 HD",
+      "short": "ORF3",
+      "logo": "orf_3_hd.png",
+      "kategorija": 6,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "3RTS",
+    "name": "RTS 3 HD",
+    "api_key": "RTS 3 HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "3RTS",
+      "num": 147,
+      "name": "RTS 3 HD",
+      "short": "3RTS",
+      "logo": "rts_3_hd.png",
+      "kategorija": 6,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "RTS",
+    "name": "RTS Maribor HD",
+    "api_key": "RTS Maribor HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "RTS",
+      "num": 149,
+      "name": "RTS Maribor HD",
+      "short": "RTS",
+      "logo": "rts_maribor_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "RTSN",
+    "name": "RTS Nauka HD",
+    "api_key": "RTS Nauka HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "RTSN",
+      "num": 150,
+      "name": "RTS Nauka HD",
+      "short": "RTSN",
+      "logo": "rts_nauka_hd.png",
+      "kategorija": 6,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "Sky News",
+    "name": "Sky News HD",
+    "api_key": "Sky News HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "Sky News",
+      "num": 155,
+      "name": "Sky News HD",
+      "short": "SKYN",
+      "logo": "sky_news_hd.png",
+      "kategorija": 6,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "TVS3",
+    "name": "TV Slovenija 3 HD",
+    "api_key": "TV Slovenija 3 HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "TVS3",
+      "num": 185,
+      "name": "TV Slovenija 3 HD",
+      "short": "TVS3",
+      "logo": "tv_slovenija_3_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TVCG3",
+    "name": "TVCG 3 HD",
+    "api_key": "TVCG 3 HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "TVCG3",
+      "num": 189,
+      "name": "TVCG 3 HD",
+      "short": "TVCG",
+      "logo": "tvcg_3_hd.png",
+      "kategorija": 6,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "TVMMC",
+    "name": "TVMMC HD",
+    "api_key": "TVMMC HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "TVMMC",
+      "num": 190,
+      "name": "TVMMC HD",
+      "short": "TVMM",
+      "logo": "mmc_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "TVMNE",
+    "name": "TVMNE HD",
+    "api_key": "TVMNE HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "TVMNE",
+      "num": 191,
+      "name": "TVMNE HD",
+      "short": "TVMN",
+      "logo": "tvmne_hd.png",
+      "kategorija": 6,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "VASK",
+    "name": "Vaš kanal HD",
+    "api_key": "Vaš kanal HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "VASK",
+      "num": 192,
+      "name": "Vaš kanal HD",
+      "short": "VASK",
+      "logo": "vas_kanal_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "VOX",
+    "name": "VOX HD",
+    "api_key": "VOX HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "VOX",
+      "num": 198,
+      "name": "VOX HD",
+      "short": "VOX",
+      "logo": "vox_hd.png",
+      "kategorija": 6,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "VTV",
+    "name": "VTV Velenje HD",
+    "api_key": "VTV Velenje HD",
+    "category": "Informativni",
+    "raw": {
+      "id": "VTV",
+      "num": 199,
+      "name": "VTV Velenje HD",
+      "short": "VTV",
+      "logo": "vtv_velenje_hd.png",
+      "kategorija": 6,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "AKTV",
+    "name": "Aktual TV HD",
+    "api_key": "Aktual TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "AKTV",
+      "num": 4,
+      "name": "Aktual TV HD",
+      "short": "AKTV",
+      "logo": "aktual_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "Anixe",
+    "name": "Anixe HD",
+    "api_key": "Anixe HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Anixe",
+      "num": 7,
+      "name": "Anixe HD",
+      "short": "ANIX",
+      "logo": "anixe_hd.png",
+      "kategorija": 7,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "TV Arena",
+    "name": "Arena TV HD",
+    "api_key": "Arena TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "TV Arena",
+      "num": 13,
+      "name": "Arena TV HD",
+      "short": "TVAR",
+      "logo": "arena_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "BRHD",
+    "name": "Brio HD",
+    "api_key": "Brio HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "BRHD",
+      "num": 23,
+      "name": "Brio HD",
+      "short": "BRHD",
+      "logo": "brio_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ENTE",
+    "name": "E! HD",
+    "api_key": "E! HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "ENTE",
+      "num": 51,
+      "name": "E! HD",
+      "short": "ENTE",
+      "logo": "e_hd.png",
+      "kategorija": 7,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "Fashion TV",
+    "name": "Fashion TV HD",
+    "api_key": "Fashion TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Fashion TV",
+      "num": 59,
+      "name": "Fashion TV HD",
+      "short": "FASH",
+      "logo": "fashion_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "GINX",
+    "name": "GINX HD",
+    "api_key": "GINX HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "GINX",
+      "num": 68,
+      "name": "GINX HD",
+      "short": "GINX",
+      "logo": "ginx_hd.png",
+      "kategorija": 7,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "GOLD",
+    "name": "GOLD TV HD",
+    "api_key": "GOLD TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "GOLD",
+      "num": 69,
+      "name": "GOLD TV HD",
+      "short": "GOLD",
+      "logo": "gold_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "HAPPY",
+    "name": "Happy",
+    "api_key": "Happy",
+    "category": "Zabavni",
+    "raw": {
+      "id": "HAPPY",
+      "num": 71,
+      "name": "Happy",
+      "short": "HAPP",
+      "logo": "happy_hd.png",
+      "kategorija": 7,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "Hayat Plus",
+    "name": "Hayat 2 HD",
+    "api_key": "Hayat 2 HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Hayat Plus",
+      "num": 72,
+      "name": "Hayat 2 HD",
+      "short": "HAYA",
+      "logo": "hayat_2_hd.png",
+      "kategorija": 7,
+      "jezik": 3
+    }
+  },
+  {
+    "id": "HTV 3",
+    "name": "HTV 3 HD",
+    "api_key": "HTV 3 HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "HTV 3",
+      "num": 82,
+      "name": "HTV 3 HD",
+      "short": "HTV3",
+      "logo": "htv_3_hd.png",
+      "kategorija": 7,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "Kabel Eins",
+    "name": "Kabel Eins HD",
+    "api_key": "Kabel Eins HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Kabel Eins",
+      "num": 91,
+      "name": "Kabel Eins HD",
+      "short": "KABE",
+      "logo": "kabel_eins_hd.png",
+      "kategorija": 7,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "LIRI",
+    "name": "Lov i ribolov HD",
+    "api_key": "Lov i ribolov HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "LIRI",
+      "num": 95,
+      "name": "Lov i ribolov HD",
+      "short": "LIRI",
+      "logo": "lov_i_ribolov_hd.png",
+      "kategorija": 7,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "MTV Europe",
+    "name": "MTV Europe HD",
+    "api_key": "MTV Europe HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "MTV Europe",
+      "num": 101,
+      "name": "MTV Europe HD",
+      "short": "MTVE",
+      "logo": "mtv_europe_hd.png",
+      "kategorija": 7,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "NET",
+    "name": "Net TV HD",
+    "api_key": "Net TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "NET",
+      "num": 105,
+      "name": "Net TV HD",
+      "short": "NET",
+      "logo": "net_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "Nova BH HD (BIH)",
+    "name": "Nova HD BH",
+    "api_key": "Nova HD BH",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Nova BH HD (BIH)",
+      "num": 112,
+      "name": "Nova HD BH",
+      "short": "NOVA",
+      "logo": "nova_bh_hd.png",
+      "kategorija": 7,
+      "jezik": 3
+    }
+  },
+  {
+    "id": "NOVA TV",
+    "name": "Nova TV HD",
+    "api_key": "Nova TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "NOVA TV",
+      "num": 113,
+      "name": "Nova TV HD",
+      "short": "NOVA",
+      "logo": "nova_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "OBN",
+    "name": "OBN HD",
+    "api_key": "OBN HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "OBN",
+      "num": 114,
+      "name": "OBN HD",
+      "short": "OBN",
+      "logo": "obn_hd.png",
+      "kategorija": 7,
+      "jezik": 3
+    }
+  },
+  {
+    "id": "Pink SI",
+    "name": "Pink Extra HD",
+    "api_key": "Pink Extra HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Pink SI",
+      "num": 120,
+      "name": "Pink Extra HD",
+      "short": "PINK",
+      "logo": "pink_extra_hd.png",
+      "kategorija": 7,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "Pink Plus",
+    "name": "Pink Plus HD",
+    "api_key": "Pink Plus HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "Pink Plus",
+      "num": 121,
+      "name": "Pink Plus HD",
+      "short": "PINK",
+      "logo": "pink_plus_hd.png",
+      "kategorija": 7,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "PLA2",
+    "name": "Planet 2 HD",
+    "api_key": "Planet 2 HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "PLA2",
+      "num": 122,
+      "name": "Planet 2 HD",
+      "short": "PLA2",
+      "logo": "planet_2_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "PLEV",
+    "name": "Planet Eva HD",
+    "api_key": "Planet Eva HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "PLEV",
+      "num": 123,
+      "name": "Planet Eva HD",
+      "short": "PLEV",
+      "logo": "planet_eva_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "ProSieben",
+    "name": "Pro7 HD",
+    "api_key": "Pro7 HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "ProSieben",
+      "num": 127,
+      "name": "Pro7 HD",
+      "short": "PROS",
+      "logo": "pro7_hd.png",
+      "kategorija": 7,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "RTL2",
+    "name": "RTL 2 HR HD",
+    "api_key": "RTL 2 HR HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "RTL2",
+      "num": 136,
+      "name": "RTL 2 HR HD",
+      "short": "RTL2",
+      "logo": "rtl_2_hr_hd.png",
+      "kategorija": 7,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "RTL",
+    "name": "RTL HD",
+    "api_key": "RTL HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "RTL",
+      "num": 139,
+      "name": "RTL HD",
+      "short": "RTL",
+      "logo": "rtl_hd.png",
+      "kategorija": 7,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "RTL II",
+    "name": "RTL II HD",
+    "api_key": "RTL II HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "RTL II",
+      "num": 140,
+      "name": "RTL II HD",
+      "short": "RTLI",
+      "logo": "rtl_2_hd.png",
+      "kategorija": 7,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "RTL Living",
+    "name": "RTL Living HD",
+    "api_key": "RTL Living HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "RTL Living",
+      "num": 142,
+      "name": "RTL Living HD",
+      "short": "RTLL",
+      "logo": "rtl_living_hd.png",
+      "kategorija": 7,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "RTL TELEVIZIJA",
+    "name": "RTL TV HD",
+    "api_key": "RTL TV HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "RTL TELEVIZIJA",
+      "num": 144,
+      "name": "RTL TV HD",
+      "short": "RTLT",
+      "logo": "rtl_tv_hd.png",
+      "kategorija": 7,
+      "jezik": 2
+    }
+  },
+  {
+    "id": "SAT.1",
+    "name": "SAT.1 HD",
+    "api_key": "SAT.1 HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "SAT.1",
+      "num": 153,
+      "name": "SAT.1 HD",
+      "short": "SAT1",
+      "logo": "sat_1_hd.png",
+      "kategorija": 7,
+      "jezik": 6
+    }
+  },
+  {
+    "id": "VESE",
+    "name": "TV Veseljak HD",
+    "api_key": "TV Veseljak HD",
+    "category": "Zabavni",
+    "raw": {
+      "id": "VESE",
+      "num": 186,
+      "name": "TV Veseljak HD",
+      "short": "VESE",
+      "logo": "tv_veseljak_hd.png",
+      "kategorija": 7,
+      "jezik": 1
+    }
+  },
+  {
+    "id": "Adria",
+    "name": "Adria HD",
+    "api_key": "Adria HD",
+    "category": "Glasbeni",
+    "raw": {
+      "id": "Adria",
+      "num": 3,
+      "name": "Adria HD",
+      "short": "ADRI",
+      "logo": "adria_hd.png",
+      "kategorija": 8,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "DMSA",
+    "name": "DM Sat HD",
+    "api_key": "DM Sat HD",
+    "category": "Glasbeni",
+    "raw": {
+      "id": "DMSA",
+      "num": 47,
+      "name": "DM Sat HD",
+      "short": "DMSA",
+      "logo": "dm_sat_hd.png",
+      "kategorija": 8,
+      "jezik": 4
+    }
+  },
+  {
+    "id": "ICHD",
+    "name": "iConcert HD",
+    "api_key": "iConcert HD",
+    "category": "Glasbeni",
+    "raw": {
+      "id": "ICHD",
+      "num": 87,
+      "name": "iConcert HD",
+      "short": "ICHD",
+      "logo": "iconcert_hd.png",
+      "kategorija": 8,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "MEZZ",
+    "name": "Mezzo HD",
+    "api_key": "Mezzo HD",
+    "category": "Glasbeni",
+    "raw": {
+      "id": "MEZZ",
+      "num": 98,
+      "name": "Mezzo HD",
+      "short": "MEZZ",
+      "logo": "mezzo_hd.png",
+      "kategorija": 8,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "MLHD",
+    "name": "Mezzo Live HD",
+    "api_key": "Mezzo Live HD",
+    "category": "Glasbeni",
+    "raw": {
+      "id": "MLHD",
+      "num": 99,
+      "name": "Mezzo Live HD",
+      "short": "MLHD",
+      "logo": "mezzo_live_hd.png",
+      "kategorija": 8,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "MZHD",
+    "name": "My Zen HD",
+    "api_key": "My Zen HD",
+    "category": "Glasbeni",
+    "raw": {
+      "id": "MZHD",
+      "num": 102,
+      "name": "My Zen HD",
+      "short": "MZHD",
+      "logo": "my_zen_hd.png",
+      "kategorija": 8,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HUST",
+    "name": "Hustler TV",
+    "api_key": "Hustler TV",
+    "category": "Ostalo",
+    "raw": {
+      "id": "HUST",
+      "num": 85,
+      "name": "Hustler TV",
+      "short": "HUST",
+      "logo": "hustler_tv_hd.png",
+      "kategorija": 9,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "HUHD",
+    "name": "Hustler TV HD",
+    "api_key": "Hustler TV HD",
+    "category": "Ostalo",
+    "raw": {
+      "id": "HUHD",
+      "num": 86,
+      "name": "Hustler TV HD",
+      "short": "HUHD",
+      "logo": "hustler_tv_hd.png",
+      "kategorija": 9,
+      "jezik": 5
+    }
+  },
+  {
+    "id": "PRIV",
+    "name": "Private TV HD",
+    "api_key": "Private TV HD",
+    "category": "Ostalo",
+    "raw": {
+      "id": "PRIV",
+      "num": 126,
+      "name": "Private TV HD",
+      "short": "PRIV",
+      "logo": "private_tv_hd.png",
+      "kategorija": 9,
+      "jezik": 5
+    }
+  }
+]
