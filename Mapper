@@ -1,7 +1,8 @@
 {
   "16.0E": {
     "fallback": [
-      "https://alb-epg.alb-epg.workers.dev/simplified_data.json"
+      "https://alb-epg.alb-epg.workers.dev/simplified_data.json",
+      "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-action_simplified.json"
     ],
     "channels": {
       "Film Hits": [
