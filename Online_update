@@ -1,4 +1,4 @@
-Force_update: True
+Force_update: False
 Update_URL: "https://pastebin.com/raw/VNcaV7t1"
 Version: "1.3"
 Hash: "ffba3f63e0259e630d8d0f33f588572fe32edd515dccc0cb92de2ee9a583b956"
