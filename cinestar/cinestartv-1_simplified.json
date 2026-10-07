@@ -3750,7 +3750,7 @@
     "tmdb_id": 119283,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "tmdb"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Poslije svega: Finale",
