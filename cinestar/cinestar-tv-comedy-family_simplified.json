@@ -195,7 +195,7 @@
     "tmdb_id": 892494,
     "tmdb_type": "movie",
     "tmdb_match_score": 90.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "Kralj lopova",
