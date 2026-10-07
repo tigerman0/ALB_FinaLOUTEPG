@@ -24,6 +24,30 @@
     "imdb_id": "tt1975249"
   },
   {
+    "Raw_EPG": "Zgodba iz Bronxa",
+    "original_title": "A Bronx Tale",
+    "year": 1993,
+    "category": "film, Kriminalka, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Robert DE Niro",
+    "actors": "Robert De Niro (Lorenzo), Chazz Palminteri (Sonny), Lillo Brancato (Calogero (Age 17)), Francis Capra (Calogero (Age 9)), Taral Hicks (Jane), Kathrine Narducci (Rosina), Clem Caserta (Jimmy Whispers), Alfred Sauchelli Jr. (Bobby Bars), Frank Pietrangolare (Danny K.O.)",
+    "imdb_id": "tt0106489"
+  },
+  {
+    "Raw_EPG": "Skozi čas",
+    "original_title": "About Time",
+    "year": 2013,
+    "category": "film, Komedija, Drama, Fantazija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Richard Curtis",
+    "actors": "Domhnall Gleeson (Tim), Rachel McAdams (Mary), Bill Nighy (Dad), Lydia Wilson (Kit Kat), Lindsay Duncan (Mum), Richard Cordery (Uncle D), Joshua McGuire (Rory), Tom Hollander (Harry), Margot Robbie (Charlotte)",
+    "imdb_id": "tt2194499"
+  },
+  {
     "Raw_EPG": "Ace Ventura: Nori detektiv",
     "original_title": "Ace Ventura: Pet Detective",
     "year": 1994,
@@ -72,6 +96,18 @@
     "imdb_id": "tt0118655"
   },
   {
+    "Raw_EPG": "Prvinski nagon",
+    "original_title": "Basic Instinct",
+    "year": 1992,
+    "category": "film, Drama, Misterij, Romanca",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Paul Verhoeven",
+    "actors": "Michael Douglas (Det. Nick Curran), Sharon Stone (Catherine Tramell), George Dzundza (Det. Gus Moran), Jeanne Tripplehorn (Dr. Beth Garner), Denis Arndt (Lt. Phil Walker), Leilani Sarelle (Roxy Hardy), Bruce A. Young (Det. Sam Andrews), Chelcie Ross (Captain Talcott), Dorothy Malone (Hazel Dobkins)",
+    "imdb_id": "tt0103772"
+  },
+  {
     "Raw_EPG": "ČRNA VODA",
     "original_title": "Black Water",
     "year": 2007,
@@ -82,6 +118,18 @@
     "director": "Andrew Traucki, David Nerlich",
     "actors": "Diana Glenn (Grace), Maeve Dermody (Lee), Andy Rodoreda (Adam), Ben Oxenbould (Jim), Fiona Press (Pat)",
     "imdb_id": "tt0816436"
+  },
+  {
+    "Raw_EPG": "DO KRVI IN KOSTI",
+    "original_title": "Blood And Bone",
+    "year": 2009,
+    "category": "film, Akcija, Kriminalka, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Ramsey Ben",
+    "actors": "Michael Jai White (Isaiah Bone), Julian Sands (Franklin McVeigh), Eamonn Walker (James), Dante Basco (Pinball), Nona Gaye (Tamara), Michelle Belegrin (Angela), Bob Sapp (Hammerman), Dick Anthony Williams (Roberto), Francis Capra (Tattoo)",
+    "imdb_id": "tt0346631"
   },
   {
     "Raw_EPG": "Zaščitnik",
@@ -150,6 +198,30 @@
     "category": "serija, Biografija, Dokumentarec",
     "season": null,
     "episode": null,
+    "episode_code": "sezona 1, epizoda 2",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2013,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 25",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2013,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
     "episode_code": "sezona 1, epizoda 26",
     "director": null,
     "actors": "Angela Valley (Narrator), Angela Valley (Self)",
@@ -170,11 +242,95 @@
   {
     "Raw_EPG": "Close Up",
     "original_title": "Close Up",
+    "year": 2013,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 3",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2013,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 6",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2013,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 7",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2017,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 29",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2017,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 31",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
     "year": 2023,
     "category": "serija, Biografija, Dokumentarec",
     "season": null,
     "episode": null,
     "episode_code": "sezona 1, epizoda 11",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2023,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 9",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Angela Valley (Self)",
+    "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Close Up",
+    "original_title": "Close Up",
+    "year": 2024,
+    "category": "serija, Biografija, Dokumentarec",
+    "season": null,
+    "episode": null,
+    "episode_code": "sezona 1, epizoda 1",
     "director": null,
     "actors": "Angela Valley (Narrator), Angela Valley (Self)",
     "imdb_id": "tt2132638"
@@ -202,6 +358,18 @@
     "director": null,
     "actors": "Angela Valley (Narrator), Angela Valley (Self)",
     "imdb_id": "tt2132638"
+  },
+  {
+    "Raw_EPG": "Rambo: Prva kri",
+    "original_title": "First Blood",
+    "year": 1982,
+    "category": "film, Akcija, Pustolovščina, Grozljivka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Ted Kotcheff",
+    "actors": "Sylvester Stallone (Rambo), Brian Dennehy (Teasle), Richard Crenna (Trautman), Bill McKinney (Kern), Jack Starrett (Galt), Michael Talbott (Balford), Chris Mulkey (Ward), John McLiam (Orval), Alf Humphreys (Lester)",
+    "imdb_id": "tt0083944"
   },
   {
     "Raw_EPG": "Nevidni jezdec",
@@ -264,6 +432,18 @@
     "imdb_id": "tt2191701"
   },
   {
+    "Raw_EPG": "Herkul: Legendarna popotovanja",
+    "original_title": "Hercules: The Legendary Journeys - Hercules and the Circle of Fire",
+    "year": 1994,
+    "category": "film, Akcija, Pustolovščina, Fantazija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Doug Lefler",
+    "actors": "Kevin Sorbo (Hercules), Anthony Quinn (Zeus), Tawny Kitaen (Deianeira), Kevin Atkinson (Cheiron), Stephanie Barrett (Phaedra), Christopher Brougham (Warlock), Christopher Brougham (Janus), Nell Weatherly (Hag), Nell Weatherly (Girl)",
+    "imdb_id": "tt0110016"
+  },
+  {
     "Raw_EPG": "Herkul in izgubljeno kraljestvo",
     "original_title": "Hercules: The Legendary Journeys - Hercules and the Lost Kingdom",
     "year": 1994,
@@ -274,6 +454,18 @@
     "director": "Cokliss Harley",
     "actors": "Kevin Sorbo (Hercules), Anthony Quinn (Zeus), Renée O'Connor (Deianeira), Robert Trebor (Waylin), Eric Close (Telamon), Elizabeth Hawthorne (Queen Omphale), Nathaniel Lees (Blue Priest), Jay Saussey (Village Girl), John Sumner (Inn Owner)",
     "imdb_id": "tt0110017"
+  },
+  {
+    "Raw_EPG": "Jumanji: Dobrodošli v džungli",
+    "original_title": "Jumanji: Welcome to the Jungle",
+    "year": 2017,
+    "category": "film, Akcija, Pustolovščina, Komedija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Jake Kasdan",
+    "actors": "Dwayne Johnson (Spencer), Karen Gillan (Martha), Kevin Hart (Fridge), Jack Black (Bethany), Rhys Darby (Nigel), Bobby Cannavale (Van Pelt), Nick Jonas (Alex), Alex Wolff (Young Spencer), Ser'Darius Blain (Young Fridge)",
+    "imdb_id": "tt2283362"
   },
   {
     "Raw_EPG": "Moja neprava žena",
@@ -300,6 +492,18 @@
     "imdb_id": "tt0104691"
   },
   {
+    "Raw_EPG": "Turnir",
+    "original_title": "Le tournoi",
+    "year": 2015,
+    "category": "film, Drama, Šport",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Elodie Namer",
+    "actors": "Michelangelo Passaniti (Cal Fournier), Lou de Laâge (Lou), Magne-Håvard Brekke (Viktor Eggen), Viktoria Kozlova (Andrea), Adam Corbier (Max Kovacs), Fabien Libiszewski (Aurélien), Aliocha Schneider (Anthony de Trisnay), Thomas Solivérès (Mathieu), Péter Horkay (Le directeur du tournoi)",
+    "imdb_id": "tt3693878"
+  },
+  {
     "Raw_EPG": "Pustolovščine rabina Jakoba",
     "original_title": "Les aventures de Rabbi Jacob",
     "year": 1973,
@@ -310,6 +514,18 @@
     "director": "Gérard Oury",
     "actors": "Louis de Funès (Victor Pivert), Miou-Miou (Antoinette Pivert), Suzy Delair (Germaine Pivert), Marcel Dalio (Rabbi Jacob), Claude Giraud (Mohamed Larbi Slimane), Claude Giraud (Rabbi Zeiligman), Renzo Montagnani (Le colonel Farès), Janet Brandt (Tzipé Schmoll), André Falcon (Le ministre)",
     "imdb_id": "tt0069747"
+  },
+  {
+    "Raw_EPG": "Ubežnika in punčka",
+    "original_title": "Les fugitifs",
+    "year": 1986,
+    "category": "film, Komedija, Kriminalka, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Francis Veber",
+    "actors": "Pierre Richard (François Pignon), Gérard Depardieu (Jean Lucas), Jean Carmet (Martin), Maurice Barrier (Superintendant Duroc), Jean Benguigui (Labib), Philippe Lelièvre (Adjoint de Duroc), Roland Blanche (Idriss), Anaïs Bret (Jeanne), Yveline Ailhaud (Femme-flic)",
+    "imdb_id": "tt0091093"
   },
   {
     "Raw_EPG": "Lopov z otroškim obrazom",
@@ -372,6 +588,18 @@
     "imdb_id": "tt0405159"
   },
   {
+    "Raw_EPG": "Vrnitev gospoda Bonesa",
+    "original_title": "Mr. Bones 2: Back From The Past",
+    "year": 2008,
+    "category": "film, Komedija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Gray Hofmeyr",
+    "actors": "Leon Schuster (Mr. Bones), Tongayi Chirisa (Hekule), Leeanda Reddy (Reshmi), Kaseran Pillay (Kunji Balanadin), Meren Reddy (Kerrit), Keith Joshua Gengadoo (Eyepatch), Mmabatho Montsho (Wanita), Craig Morris (Redcoat officer), Duven Moonsamy (Pradeep)",
+    "imdb_id": "tt0995857"
+  },
+  {
     "Raw_EPG": "BREZ UMIKA, BREZ PREDAJE",
     "original_title": "No Retreat, No Surrender",
     "year": 1986,
@@ -406,6 +634,18 @@
     "director": "Louis Mandylor",
     "actors": "Scott Adkins (Wing Commander James Wright), Peter Shinkoda (Lt. Col. Benjiro Ito), Michael Copon (Sgt.Gabriel Villanueva), Donald Cerrone (Captain Collins), Gabbi Garcia (Theresa), Michael Rene Walton (The Beard), Gary Cairns (Jonesy), Masanori Mimoto (Captain Endo), Atsuki Kashio (Hiroshi)",
     "imdb_id": "tt33057137"
+  },
+  {
+    "Raw_EPG": "R.I.P.D. - urad za pokojnike",
+    "original_title": "R.I.P.D.",
+    "year": 2013,
+    "category": "film, Akcija, Pustolovščina, Animacija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Robert Schwentke",
+    "actors": "Ryan Reynolds (Nick), Jeff Bridges (Roy), Mary-Louise Parker (Proctor), Kevin Bacon (Hayes), Stephanie Szostak (Julia), James Hong (Nicks Avatar), Marisa Miller (Roys Avatar), Robert Knepper (Stanley Nawicki), Mike O'Malley (Elliot)",
+    "imdb_id": "tt0790736"
   },
   {
     "Raw_EPG": "Rdeča reka",
@@ -478,6 +718,18 @@
     "director": "Baier Jo",
     "actors": "Sebastian Koch (Oberst Claus Graf Schenk von Stauffenberg), Ulrich Tukur (Henning von Tresckow), Hardy Krüger Jr. (Werner von Haeften), Christopher Buchholz (Berthold Graf von Stauffenberg), Nina Kunzendorf (Nina Gräfin von Stauffenberg), Stefania Rocca (Margarethe von Oven), Axel Milberg (Generaloberst Friedrich Fromm), Olli Dittrich (Joseph Goebbels), Katharina Rivilis (Polja)",
     "imdb_id": "tt0388437"
+  },
+  {
+    "Raw_EPG": "Ulični bojevnik",
+    "original_title": "Street Fighter",
+    "year": 1994,
+    "category": "film, Akcija, Pustolovščina, Komedija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Steven E. DE Souza",
+    "actors": "Jean-Claude Van Damme (Colonel Guile), Raul Julia (Bison), Ming-Na Wen (Chun-Li), Damian Chapa (Ken), Kylie Minogue (Cammy), Simon Callow (A.N. Official), Byron Mann (Ryu), Roshan Seth (Dhalsim), Andrew Bryniarski (Zangief)",
+    "imdb_id": "tt0111301"
   },
   {
     "Raw_EPG": "Nenadna smrt",
@@ -562,6 +814,30 @@
     "director": "Lewiston Tim",
     "actors": "Ray Winstone (Kenny), Colm Meaney (Harry), Jack Huston (Danny), David Harewood (Harrison), John Lynch (Bill), Phil Davis (Sgt Ryan), Derren Nesbitt (Fritz Meyer), Lois Winstone (Carole), Maike Billitis (Claudia)",
     "imdb_id": "tt1641252"
+  },
+  {
+    "Raw_EPG": "Preganjani",
+    "original_title": "The Hunted",
+    "year": 2003,
+    "category": "film, Akcija, Kriminalka, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "William Friedkin",
+    "actors": "Tommy Lee Jones (L.T. Bonham), Benicio Del Toro (Aaron Hallam), Connie Nielsen (Abby Durrell), Leslie Stefanson (Irene Kravitz), John Finn (Ted Chenoweth), José Zúñiga (Bobby Moret), Ron Canada (Harry Van Zandt), Mark Pellegrino (Dale Hewitt), Jenna Boyd (Loretta Kravitz)",
+    "imdb_id": "tt0269347"
+  },
+  {
+    "Raw_EPG": "Iluzionist",
+    "original_title": "The Illusionist",
+    "year": 2006,
+    "category": "film, Drama, Fantazija, Misterij",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Neil Burger",
+    "actors": "Edward Norton (Eisenheim), Jessica Biel (Sophie), Paul Giamatti (Inspector Uhl), Rufus Sewell (Crown Prince Leopold), Eddie Marsan (Josef Fischer), Jake Wood (Jurka), Tom Fisher (Willigut), Aaron Taylor-Johnson (Young Eisenheim), Eleanor Tomlinson (Young Sophie)",
+    "imdb_id": "tt0443543"
   },
   {
     "Raw_EPG": "Zaporniško dvorišče",
