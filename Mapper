@@ -1,6 +1,7 @@
 {
   "16.0E": {
     "fallback": [
+      "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_1_16E/simplified_data.json",
       "https://alb-epg.alb-epg.workers.dev/simplified_data.json",
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-premiere-1.json",
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-premiere-2_simplified.json",
@@ -13,7 +14,8 @@
     ],
 
     "providers": {
-      "DigitAlb": [  "https://alb-epg.alb-epg.workers.dev/simplified_data.json" ]
+      "DigitAlb": [  "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_1_16E/simplified_data.json",
+                      "https://alb-epg.alb-epg.workers.dev/simplified_data.json" ]
  
     },
 
