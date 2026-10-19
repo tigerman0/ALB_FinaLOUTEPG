@@ -19898,8 +19898,8 @@
       "Cristie Schoen Codd"
     ],
     "Director": [
-      "Michael Manasseri",
-      "Jonas Barnes"
+      "Jonas Barnes",
+      "Michael Manasseri"
     ],
     "Type": "Movie",
     "st_end": [
@@ -27631,8 +27631,8 @@
       "Salim"
     ],
     "Director": [
-      "Yoav Paz",
-      "Doron Paz"
+      "Doron Paz",
+      "Yoav Paz"
     ],
     "Type": "Movie",
     "st_end": [
@@ -28397,8 +28397,8 @@
       "Bob M. Unzueta"
     ],
     "Director": [
-      "Robert Lovy",
-      "Steven Lovy"
+      "Steven Lovy",
+      "Robert Lovy"
     ],
     "Type": "Movie",
     "st_end": [
@@ -33981,5 +33981,57 @@
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Nacionalni dnevnik",
+    "Raw_EPG": "Nacionalni dnevnik",
+    "CH": "PINK",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1792500900,
+      1792503000
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Elita nominacije",
+    "Raw_EPG": "Elita nominacije",
+    "CH": "PINK",
+    "year": 2017,
+    "Cast": [
+      "Dusica Jakovljevic",
+      "Ognjen Amidzic",
+      "Jovana Tomic",
+      "Miljana Kulic",
+      "Miroslav Przulj",
+      "Bora Santana",
+      "Marko Janjusevic",
+      "Mina Vrbaski",
+      "Iva Grguric",
+      "Miki Djuricic",
+      "Sanja Stankovic",
+      "Toma Panic",
+      "Luna Djogani",
+      "Ana Korac",
+      "Filip Djukic"
+    ],
+    "Director": [],
+    "Type": "series",
+    "st_end": [
+      1792882800,
+      1792893600
+    ],
+    "tmdb_id": null,
+    "imdb_id": "tt8888120",
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": "tvprofil_imdb_not_found_in_tmdb"
   }
 ]
