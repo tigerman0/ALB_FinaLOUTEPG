@@ -38676,7 +38676,7 @@
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb",
-    "CH": ""
+    "CH": "Family HD"
   },
   {
     "title": "In the Name of the King: A Dungeon Siege Tale",
@@ -96619,8 +96619,8 @@
       "Will Ferrell"
     ],
     "Director": [
-      "Will Speck",
-      "Josh Gordon"
+      "Josh Gordon",
+      "Will Speck"
     ],
     "tmdb_id": 9955,
     "imdb_id": "tt0445934",
@@ -101400,8 +101400,8 @@
       "Andrew Erwin"
     ],
     "Director": [
-      "Jon Erwin",
-      "Andrew Erwin"
+      "Andrew Erwin",
+      "Jon Erwin"
     ],
     "tmdb_id": 83860,
     "imdb_id": "tt1720182",
@@ -101593,8 +101593,8 @@
       "Patrick Doughtie"
     ],
     "Director": [
-      "David Nixon",
-      "Patrick Doughtie"
+      "Patrick Doughtie",
+      "David Nixon"
     ],
     "tmdb_id": 35691,
     "imdb_id": "tt1462054",
@@ -107342,6 +107342,1742 @@
     "imdb_id": "tt0347651",
     "tmdb_type": "movie",
     "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Watcher",
+    "Raw_EPG": "E vëzhguar",
+    "CH": "Max HD",
+    "year": 2022,
+    "Cast": [
+      "Bogdan Farcas",
+      "Cristina Deleanu",
+      "Madalina Anea",
+      "Gabriela Butuc",
+      "Tudor Petrut",
+      "Burn Gorman",
+      "Karl Glusman",
+      "Maika Monroe"
+    ],
+    "Director": [
+      "Chloe Okuno"
+    ],
+    "tmdb_id": 807356,
+    "imdb_id": "tt12004038",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Hijacked",
+    "Raw_EPG": "Grabitja e avionit",
+    "CH": "Max HD",
+    "year": 2012,
+    "Cast": [
+      "Ashley Cusato",
+      "Randy Couture",
+      "Brandon Cordon",
+      "Tiffany Dupont",
+      "Gina Philips",
+      "Craig Fairbrass",
+      "Rob Steinberg",
+      "Vinnie Jones"
+    ],
+    "Director": [
+      "Brandon Nutt"
+    ],
+    "tmdb_id": 119117,
+    "imdb_id": "tt1986857",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Babymakers",
+    "Raw_EPG": "Fabrikantët e fëmijëve",
+    "CH": "Max HD",
+    "year": 2012,
+    "Cast": [
+      "Lindsey Kraft",
+      "Nat Faxon",
+      "Wood Harris",
+      "Michael Yurchak",
+      "Kevin Heffernan",
+      "Olivia Munn",
+      "Paul Schneider",
+      "Jay Chandrasekhar"
+    ],
+    "Director": [
+      "Jay Chandrasekhar"
+    ],
+    "tmdb_id": 98066,
+    "imdb_id": "tt0835418",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Thomas Crown Affair",
+    "Raw_EPG": "Çështja Tomas Kraun",
+    "CH": "Max HD",
+    "year": 1999,
+    "Cast": [
+      "Mark Margolis",
+      "Charles Keating",
+      "Fritz Weaver",
+      "Frankie Faison",
+      "Ben Gazzara",
+      "Denis Leary",
+      "Rene Russo",
+      "Pierce Brosnan"
+    ],
+    "Director": [
+      "John McTiernan"
+    ],
+    "tmdb_id": 913,
+    "imdb_id": "tt0155267",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Fast & Furious 4",
+    "Raw_EPG": "Shpejtësi dhe çmenduri 4",
+    "CH": "Family HD",
+    "year": 2009,
+    "Cast": [
+      "Jack Conley",
+      "Gal Gadot",
+      "Laz Alonso",
+      "John Ortiz",
+      "Michelle Rodriguez",
+      "Jordana Brewster",
+      "Paul Walker",
+      "Vin Diesel"
+    ],
+    "Director": [
+      "Justin Lin"
+    ],
+    "tmdb_id": 13804,
+    "imdb_id": "tt1013752",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Sweet Home Alabama",
+    "Raw_EPG": "Sweet Home Alabama",
+    "CH": "Family HD",
+    "year": 2002,
+    "Cast": [
+      "Ethan Embry",
+      "Jean Smart",
+      "Fred Ward",
+      "Mary Kay Place",
+      "Candice Bergen",
+      "Patrick Dempsey",
+      "Josh Lucas",
+      "Reese Witherspoon"
+    ],
+    "Director": [
+      "Andy Tennant"
+    ],
+    "tmdb_id": 11529,
+    "imdb_id": "tt0256415",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Barbie in the Pink Shoes",
+    "Raw_EPG": "Barbi me këpucë rozë",
+    "CH": "Family HD",
+    "year": 2013,
+    "Cast": [
+      "Teryl Rothery",
+      "Lori Triolo",
+      "Bill Mondy",
+      "Tabitha St. Germain",
+      "Brett Dier",
+      "Ali Liebert",
+      "Katie Crown",
+      "Kelly Sheridan"
+    ],
+    "Director": [
+      "Owen Hurley"
+    ],
+    "tmdb_id": 168903,
+    "imdb_id": "tt2630134",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Young Messiah",
+    "Raw_EPG": "Mesia i Ri",
+    "CH": "Family HD",
+    "year": 2016,
+    "Cast": [
+      "Jane Lapotaire",
+      "Lois Ellington",
+      "Agni Scott",
+      "Christian McKay",
+      "Finn Ireland",
+      "Vincent Walsh",
+      "Sara Lazzaro",
+      "Adam Greaves-Neal"
+    ],
+    "Director": [
+      "Cyrus Nowrasteh"
+    ],
+    "tmdb_id": 318850,
+    "imdb_id": "tt1002563",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "When the Game Stands Tall",
+    "Raw_EPG": "Rekordi",
+    "CH": "Family HD",
+    "year": 2014,
+    "Cast": [
+      "Jessie T. Usher",
+      "Joe Massingill",
+      "Matthew Daddario",
+      "Clancy Brown",
+      "Laura Dern",
+      "Michael Chiklis",
+      "Alexander Ludwig",
+      "Jim Caviezel"
+    ],
+    "Director": [
+      "Thomas Carter"
+    ],
+    "tmdb_id": 232679,
+    "imdb_id": "tt2247476",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Muzzle: City of Wolves",
+    "Raw_EPG": "Nën fre: Qyteti i Ujqërve",
+    "CH": "Family HD",
+    "year": 2025,
+    "Cast": [
+      "Dominique Maher",
+      "Hakeem Kae-Kazim",
+      "Erin Matthews",
+      "Kacey Montoya",
+      "Aaron Eckhart",
+      "Grant Ross",
+      "Karl Thaning",
+      "Tanya van Graan"
+    ],
+    "Director": [
+      "John Stalberg Jr."
+    ],
+    "tmdb_id": 1439112,
+    "imdb_id": "tt32395062",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Immature: The Trip",
+    "Raw_EPG": "Provimi i pjekurisë 2",
+    "CH": "Family HD",
+    "year": 2012,
+    "Cast": [
+      "Luisa Ranieri",
+      "Anita Caprioli",
+      "Ricky Memphis",
+      "Paolo Kessisoglu",
+      "Luca Bizzarri",
+      "Ambra Angiolini",
+      "Barbora Bobulova",
+      "Raoul Bova"
+    ],
+    "Director": [
+      "Paolo Genovese"
+    ],
+    "tmdb_id": 85041,
+    "imdb_id": "tt2174031",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "title": "Transformers",
+    "Raw_EPG": "Transformuesit",
+    "CH": "Family HD",
+    "year": 2007,
+    "Cast": [
+      "John Turturro",
+      "Jon Voight",
+      "Anthony Anderson",
+      "Rachael Taylor",
+      "Tyrese Gibson",
+      "Josh Duhamel",
+      "Megan Fox",
+      "Shia LaBeouf"
+    ],
+    "Director": [
+      "Michael Bay"
+    ],
+    "tmdb_id": 1858,
+    "imdb_id": "tt0418279",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Spiderwick Chronicles",
+    "Raw_EPG": "Kronikat Spiderwick",
+    "CH": "Family HD",
+    "year": 2008,
+    "Cast": [
+      "Seth Rogen",
+      "Joan Plowright",
+      "Andrew McCarthy",
+      "Nick Nolte",
+      "Mary-Louise Parker",
+      "David Strathairn",
+      "Sarah Bolger",
+      "Freddie Highmore"
+    ],
+    "Director": [
+      "Mark Waters"
+    ],
+    "tmdb_id": 8204,
+    "imdb_id": "tt0416236",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Tron: Legacy",
+    "Raw_EPG": "Tron 2 Trashëgimia",
+    "CH": "Family HD",
+    "year": 2010,
+    "Cast": [
+      "Anis Cheurfa",
+      "Michael Sheen",
+      "Beau Garrett",
+      "James Frain",
+      "Bruce Boxleitner",
+      "Olivia Wilde",
+      "Garrett Hedlund",
+      "Jeff Bridges"
+    ],
+    "Director": [
+      "Joseph Kosinski"
+    ],
+    "tmdb_id": 20526,
+    "imdb_id": "tt1104001",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Jinxed",
+    "Raw_EPG": "Tersllëku i familjes Mërfi",
+    "CH": "Family HD",
+    "year": 2013,
+    "Cast": [
+      "Jay Brazeau",
+      "Burkely Duffield",
+      "Keegan Connor Tracy",
+      "Donavon Stinson",
+      "Jack Griffo",
+      "Elena Kampouris",
+      "Jacob Bertrand",
+      "Ciara Bravo"
+    ],
+    "Director": [
+      "Stephen Herek"
+    ],
+    "tmdb_id": 246569,
+    "imdb_id": "tt2934844",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Flag",
+    "Raw_EPG": "Flamuri",
+    "CH": "EuroFilm",
+    "year": 2016,
+    "Cast": [
+      "Craig Parkinson",
+      "Brian Gleeson",
+      "Art Campion",
+      "Ruth Bradley",
+      "Simone Kirby",
+      "Moe Dunford",
+      "Pat Shortt",
+      "Eugene O’Brien"
+    ],
+    "Director": [
+      "Declan Recks"
+    ],
+    "tmdb_id": 421076,
+    "imdb_id": "tt5671316",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Route Irish",
+    "Raw_EPG": "Route Irish, e vërteta tjetër",
+    "CH": "EuroFilm",
+    "year": 2010,
+    "Cast": [
+      "Vortre Williams",
+      "Craig Lundberg",
+      "Talib Rasool",
+      "Jack Fortune",
+      "Geoff Bell",
+      "John Bishop",
+      "Andrea Lowe",
+      "Mark Womack"
+    ],
+    "Director": [
+      "Ken Loach"
+    ],
+    "tmdb_id": 59065,
+    "imdb_id": "tt1528312",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Testament of Youth",
+    "Raw_EPG": "Testamenti i Rinisë",
+    "CH": "Film Autor",
+    "year": 2014,
+    "Cast": [
+      "Miranda Richardson",
+      "Joanna Scanlan",
+      "Kit Harington",
+      "Emily Watson",
+      "Dominic West",
+      "Colin Morgan",
+      "Taron Egerton",
+      "Alicia Vikander"
+    ],
+    "Director": [
+      "James Kent"
+    ],
+    "tmdb_id": 284689,
+    "imdb_id": "tt1441953",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Son’s Room",
+    "Raw_EPG": "Dhoma e djalit",
+    "CH": "Film Autor",
+    "year": 2001,
+    "Cast": [
+      "Dario Cantarelli",
+      "Toni Bertorelli",
+      "Stefano Accorsi",
+      "Stefano Abbati",
+      "Giuseppe Sanfelice",
+      "Jasmine Trinca",
+      "Laura Morante",
+      "Nanni Moretti"
+    ],
+    "Director": [
+      "Nanni Moretti"
+    ],
+    "tmdb_id": 11447,
+    "imdb_id": "tt0208990",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Quo Vadis, Aida?",
+    "Raw_EPG": "Quo vadis, Aida?",
+    "CH": "Film Autor",
+    "year": 0,
+    "Cast": [],
+    "Director": [
+      "Jasmila Žbanić"
+    ],
+    "tmdb_id": 728118,
+    "imdb_id": "tt8633462",
+    "tmdb_type": "movie",
+    "tmdb_match_score": null,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Officer Black Belt",
+    "Raw_EPG": "Agjenti i Rripit të Zi",
+    "CH": "Film Hits HD",
+    "year": 2024,
+    "Cast": [
+      "Kim Yo-han",
+      "Lee Hae-young",
+      "Kim Seong-gyoon",
+      "Kim Woo-bin",
+      "Ren Hanami"
+    ],
+    "Director": [
+      "Jason Kim"
+    ],
+    "tmdb_id": 1139817,
+    "imdb_id": "tt28494829",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Pearl",
+    "Raw_EPG": "Perla",
+    "CH": "Film Hits HD",
+    "year": 2022,
+    "Cast": [
+      "Gabe McDonnell",
+      "Amelia Reid",
+      "Alistair Sewell",
+      "Emma Jenkins-Purro",
+      "Matthew Sunderland",
+      "Tandi Wright",
+      "David Corenswet",
+      "Mia Goth"
+    ],
+    "Director": [
+      "Ti West"
+    ],
+    "tmdb_id": 949423,
+    "imdb_id": "tt18925334",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Last Showgirl",
+    "Raw_EPG": "Kërcimtarja e fundit e kabaresë",
+    "CH": "Film Hits HD",
+    "year": 2024,
+    "Cast": [
+      "John Clofine",
+      "Billie Lourd",
+      "Jamie Lee Curtis",
+      "Dave Bautista",
+      "Kiernan Shipka",
+      "Brenda Song",
+      "Pamela Anderson"
+    ],
+    "Director": [
+      "Gia Coppola"
+    ],
+    "tmdb_id": 1235499,
+    "imdb_id": "tt31193791",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Doll 2",
+    "Raw_EPG": "Kukulla 2",
+    "CH": "Film Thriller",
+    "year": 2017,
+    "Cast": [
+      "Shofia Shireen",
+      "Mega Carefansa",
+      "Ira Ilva Sari",
+      "Rydhen Afexi",
+      "Maria Sabta",
+      "Sara Wijayanto",
+      "Luna Maya",
+      "Herjunot Ali"
+    ],
+    "Director": [
+      "Rocky Soraya"
+    ],
+    "tmdb_id": 460578,
+    "imdb_id": "tt6409782",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Out of the Blue",
+    "Raw_EPG": "Masakër në Aramoana",
+    "CH": "Film Thriller",
+    "year": 2006,
+    "Cast": [
+      "Simon Ferry",
+      "Georgia Fabish",
+      "Phoebe Smith",
+      "Steven Moore",
+      "Patrick Paynter",
+      "Natalie Ellis",
+      "Stuart Mathieson",
+      "Matthew Sunderland"
+    ],
+    "Director": [
+      "Robert Sarkies"
+    ],
+    "tmdb_id": 10844,
+    "imdb_id": "tt0839938",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "title": "To Dust",
+    "Raw_EPG": "Në pluhur",
+    "CH": "Film Drame",
+    "year": 2018,
+    "Cast": [
+      "Ben Hammer",
+      "Linda Frieser",
+      "Bern Cohen",
+      "Natalie Carter",
+      "Sarah Jes Austell",
+      "Sammy Voit",
+      "Matthew Broderick",
+      "Géza Röhrig"
+    ],
+    "Director": [
+      "Shawn Snyder"
+    ],
+    "tmdb_id": 514510,
+    "imdb_id": "tt7117594",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "A Bag of Hammers",
+    "Raw_EPG": "Një gozhdë",
+    "CH": "Film Drame",
+    "year": 2011,
+    "Cast": [
+      "Johnny Simmons",
+      "Carrie Preston",
+      "Gabriel Macht",
+      "Todd Louiso",
+      "Rebecca Hall",
+      "Chandler Canterbury",
+      "Jason Ritter",
+      "Jake Sandvig"
+    ],
+    "Director": [
+      "Brian Crano"
+    ],
+    "tmdb_id": 59441,
+    "imdb_id": "tt1509787",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Rise of the Legend",
+    "Raw_EPG": "Ngritja e legjendës",
+    "CH": "Film Aksion",
+    "year": 2014,
+    "Cast": [
+      "Jiayi Feng",
+      "Junjie Qin",
+      "Cho-Lam Wong",
+      "Jin Zhang",
+      "Boran Jing",
+      "Luodan Wang",
+      "Eddie Peng",
+      "Sammo Kam-Bo Hung"
+    ],
+    "Director": [
+      "Roy Chow Hin-Yeung"
+    ],
+    "tmdb_id": 294993,
+    "imdb_id": "tt3469592",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Cyborg",
+    "Raw_EPG": "Njeriu robot",
+    "CH": "Film Aksion",
+    "year": 1989,
+    "Cast": [
+      "Haley Peterson",
+      "Ralf Moeller",
+      "Blaise Loong",
+      "Dayle Haddon",
+      "Alex Daniels",
+      "Vincent Klyn",
+      "Deborah Richter",
+      "Jean-Claude Van Damme"
+    ],
+    "Director": [
+      "Albert Pyun"
+    ],
+    "tmdb_id": 10134,
+    "imdb_id": "tt0097138",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Pizza Movie",
+    "Raw_EPG": "Halucinacione dhe pica",
+    "CH": "Film Komedi",
+    "year": 2026,
+    "Cast": [
+      "Chris Schmidt Jr.",
+      "Caleb Hearon",
+      "Marcus Scribner",
+      "Peyton Elizabeth Lee",
+      "Jack Martin",
+      "Lulu Wilson",
+      "Sean Giambrone",
+      "Gaten Matarazzo"
+    ],
+    "Director": [
+      "Nick Kocher",
+      "Brian McElhaney"
+    ],
+    "tmdb_id": 1493859,
+    "imdb_id": "tt37209937",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Legend of Awesomest Maximus",
+    "Raw_EPG": "Legjenda e Maksimusit",
+    "CH": "Film Komedi",
+    "year": 2011,
+    "Cast": [
+      "Rip Torn",
+      "Gary Lundy",
+      "Ian Ziering",
+      "Khary Payton",
+      "Sophie Monk",
+      "Kristanna Loken",
+      "Will Sasso",
+      "Jason Burinescu"
+    ],
+    "Director": [
+      "Jeff Kanew"
+    ],
+    "tmdb_id": 51261,
+    "imdb_id": "tt1059887",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Scarface",
+    "Raw_EPG": "Njeriu me shenjë",
+    "CH": "Star Movies",
+    "year": 1983,
+    "Cast": [
+      "Paul Shenar",
+      "F. Murray Abraham",
+      "Miriam Colon",
+      "Robert Loggia",
+      "Mary Elizabeth Mastrantonio",
+      "Steven Bauer",
+      "Michelle Pfeiffer",
+      "Al Pacino"
+    ],
+    "Director": [
+      "Brian De Palma"
+    ],
+    "tmdb_id": 111,
+    "imdb_id": "tt0086250",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Cocoon",
+    "Raw_EPG": "Kukun",
+    "CH": "Star Movies",
+    "year": 1985,
+    "Cast": [
+      "Jessica Tandy",
+      "Maureen Stapleton",
+      "Steve Guttenberg",
+      "Jack Gilford",
+      "Brian Dennehy",
+      "Hume Cronyn",
+      "Wilford Brimley",
+      "Don Ameche"
+    ],
+    "Director": [
+      "Ron Howard"
+    ],
+    "tmdb_id": 10328,
+    "imdb_id": "tt0088933",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "The Family Stone",
+    "Raw_EPG": "Sprova e familjes",
+    "CH": "Star Movies",
+    "year": 2005,
+    "Cast": [
+      "Tyrone Giordano",
+      "Luke Wilson",
+      "Craig T. Nelson",
+      "Rachel McAdams",
+      "Diane Keaton",
+      "Claire Danes",
+      "Sarah Jessica Parker",
+      "Dermot Mulroney"
+    ],
+    "Director": [
+      "Thomas Bezucha"
+    ],
+    "tmdb_id": 9043,
+    "imdb_id": "tt0356680",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Lemony Snicket’s A Series of Unfortunate Events",
+    "Raw_EPG": "Një seri ngjarjesh fatkeqe",
+    "CH": "Star Movies",
+    "year": 2004,
+    "Cast": [
+      "Timothy Spall",
+      "Shelby Hoffman",
+      "Kara Hoffman",
+      "Emily Browning",
+      "Liam Aiken",
+      "Meryl Streep",
+      "Jude Law",
+      "Jim Carrey"
+    ],
+    "Director": [
+      "Brad Silberling"
+    ],
+    "tmdb_id": 11774,
+    "imdb_id": "tt0339291",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "Raw_EPG": "Atje ku këndojnë karavidhet",
+    "CH": "Star Movies",
+    "year": 2022,
+    "Cast": [
+      "Bill Kelly",
+      "Logan Macrae",
+      "Sterling Macer Jr.",
+      "Michael Hyatt",
+      "David Strathairn",
+      "Harris Dickinson",
+      "Taylor John Smith",
+      "Daisy Edgar-Jones"
+    ],
+    "Director": [
+      "Olivia Newman"
+    ],
+    "tmdb_id": 682507,
+    "imdb_id": "tt9411972",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "Paycheck",
+    "Raw_EPG": "Pagesa",
+    "CH": "Star Movies",
+    "year": 2003,
+    "Cast": [
+      "Peter Friedman",
+      "Michael C. Hall",
+      "Joe Morton",
+      "Colm Feore",
+      "Paul Giamatti",
+      "Uma Thurman",
+      "Aaron Eckhart",
+      "Ben Affleck"
+    ],
+    "Director": [
+      "John Woo"
+    ],
+    "tmdb_id": 9620,
+    "imdb_id": "tt0338337",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "American Dreamz",
+    "Raw_EPG": "Endrra amerikane",
+    "CH": "Star Movies",
+    "year": 2006,
+    "Cast": [
+      "Marcia Gay Harden",
+      "Sam Golzari",
+      "Jennifer Coolidge",
+      "Chris Klein",
+      "Willem Dafoe",
+      "Mandy Moore",
+      "Dennis Quaid",
+      "Hugh Grant"
+    ],
+    "Director": [
+      "Paul Weitz"
+    ],
+    "tmdb_id": 9310,
+    "imdb_id": "tt0465142",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S3E3 - MacGyver",
+    "Raw_EPG": "S3E3 - MacGyver",
+    "CH": "Star",
+    "year": 2016,
+    "Cast": [
+      "Isabel Lucas",
+      "George Eads",
+      "Justin Hires",
+      "Henry Ian Cusick",
+      "Tristin Mays",
+      "Levy Tran",
+      "Meredith Eaton",
+      "Lucas Till",
+      "Sandrine Holt"
+    ],
+    "Director": [],
+    "tmdb_id": 67133,
+    "imdb_id": "tt1399045",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S3E4 - MacGyver",
+    "Raw_EPG": "S3E4 - MacGyver",
+    "CH": "Star",
+    "year": 2016,
+    "Cast": [
+      "Isabel Lucas",
+      "George Eads",
+      "Justin Hires",
+      "Henry Ian Cusick",
+      "Tristin Mays",
+      "Levy Tran",
+      "Meredith Eaton",
+      "Lucas Till",
+      "Sandrine Holt"
+    ],
+    "Director": [],
+    "tmdb_id": 67133,
+    "imdb_id": "tt1399045",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S2E4 - Modern Family",
+    "Raw_EPG": "S2E4 - Histori familjare",
+    "CH": "Star",
+    "year": 2010,
+    "Cast": [
+      "Rico Rodriguez",
+      "Nolan Gould",
+      "Ariel Winter",
+      "Sarah Hyland",
+      "Eric Stonestreet",
+      "Jesse Tyler Ferguson",
+      "Ty Burrell",
+      "Julie Bowen",
+      "Sofía Vergara",
+      "Ed O'Neill"
+    ],
+    "Director": [],
+    "tmdb_id": 1421,
+    "imdb_id": "tt1442437",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S28E14 - The Simpsons",
+    "Raw_EPG": "S28E14 - FAMILJA SIMPSON",
+    "CH": "Star",
+    "year": 1989,
+    "Cast": [
+      "Harry Shearer",
+      "Hank Azaria",
+      "Yeardley Smith",
+      "Nancy Cartwright",
+      "Julie Kavner",
+      "Dan Castellaneta"
+    ],
+    "Director": [],
+    "tmdb_id": 456,
+    "imdb_id": "tt0096697",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S28E15 - The Simpsons",
+    "Raw_EPG": "S28E15 - FAMILJA SIMPSON",
+    "CH": "Star",
+    "year": 1989,
+    "Cast": [
+      "Harry Shearer",
+      "Hank Azaria",
+      "Yeardley Smith",
+      "Nancy Cartwright",
+      "Julie Kavner",
+      "Dan Castellaneta"
+    ],
+    "Director": [],
+    "tmdb_id": 456,
+    "imdb_id": "tt0096697",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S8E15 - Castle",
+    "Raw_EPG": "S8E15 - KESTËLL",
+    "CH": "Star",
+    "year": 2015,
+    "Cast": [
+      "Ruben Santiago-Hudson",
+      "Molly Caitlyn Quinn",
+      "Toks Olagundoye",
+      "Tamala Jones",
+      "Susan Sullivan",
+      "Seamus Dever",
+      "Jon Huertas",
+      "Molly C. Quinn"
+    ],
+    "Director": [],
+    "tmdb_id": 1419,
+    "imdb_id": "tt1219024",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S8E16 - Castle",
+    "Raw_EPG": "S8E16 - KESTËLL",
+    "CH": "Star",
+    "year": 2015,
+    "Cast": [
+      "Ruben Santiago-Hudson",
+      "Molly Caitlyn Quinn",
+      "Toks Olagundoye",
+      "Tamala Jones",
+      "Susan Sullivan",
+      "Seamus Dever",
+      "Jon Huertas",
+      "Molly C. Quinn"
+    ],
+    "Director": [],
+    "tmdb_id": 1419,
+    "imdb_id": "tt1219024",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S8E17 - Castle",
+    "Raw_EPG": "S8E17 - KESTËLL",
+    "CH": "Star",
+    "year": 2015,
+    "Cast": [
+      "Ruben Santiago-Hudson",
+      "Molly Caitlyn Quinn",
+      "Toks Olagundoye",
+      "Tamala Jones",
+      "Susan Sullivan",
+      "Seamus Dever",
+      "Jon Huertas",
+      "Molly C. Quinn"
+    ],
+    "Director": [],
+    "tmdb_id": 1419,
+    "imdb_id": "tt1219024",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S9E4 - Hawaii 5.0",
+    "Raw_EPG": "S9E4 - Hawaii Five-0",
+    "CH": "Star",
+    "year": 2018,
+    "Cast": [
+      "Katrina Law",
+      "Taylor Wily",
+      "Chi McBride",
+      "Kimee Balmilero",
+      "Dennis Chun",
+      "Beulah Koale",
+      "Meaghan Rath",
+      "Ian Anthony Dale",
+      "Scott Caan"
+    ],
+    "Director": [],
+    "tmdb_id": 32798,
+    "imdb_id": "tt1600194",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S9E5 - Hawaii Five-0",
+    "Raw_EPG": "S9E5 - Hawaii Five-0",
+    "CH": "Star",
+    "year": 2018,
+    "Cast": [
+      "Katrina Law",
+      "Taylor Wily",
+      "Chi McBride",
+      "Kimee Balmilero",
+      "Dennis Chun",
+      "Beulah Koale",
+      "Meaghan Rath",
+      "Ian Anthony Dale",
+      "Scott Caan"
+    ],
+    "Director": [],
+    "tmdb_id": 32798,
+    "imdb_id": "tt1600194",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S5E13 - Two and a Half Men",
+    "Raw_EPG": "S5E13 - Two and a Half Men",
+    "CH": "Star",
+    "year": 2008,
+    "Cast": [
+      "Jennifer Taylor",
+      "April Bowlby",
+      "Edan Alexander",
+      "Melanie Lynskey",
+      "Angus T. Jones",
+      "Marin Hinkle",
+      "Charlie Sheen",
+      "Conchata Ferrell",
+      "Jon Cryer",
+      "Ashton Kutcher"
+    ],
+    "Director": [],
+    "tmdb_id": 2691,
+    "imdb_id": "tt0369179",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S5E14 - Two and a Half Men",
+    "Raw_EPG": "S5E14 - Two and a Half Men",
+    "CH": "Star",
+    "year": 2008,
+    "Cast": [
+      "Jennifer Taylor",
+      "April Bowlby",
+      "Edan Alexander",
+      "Melanie Lynskey",
+      "Angus T. Jones",
+      "Marin Hinkle",
+      "Charlie Sheen",
+      "Conchata Ferrell",
+      "Jon Cryer",
+      "Ashton Kutcher"
+    ],
+    "Director": [],
+    "tmdb_id": 2691,
+    "imdb_id": "tt0369179",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S1E6 - Boston Blue",
+    "Raw_EPG": "S1E6 - Boston Blue",
+    "CH": "Star",
+    "year": 2025,
+    "Cast": [
+      "Mika Amonsen",
+      "Marcus Scribner",
+      "Gloria Reuben",
+      "Maggie Lawson",
+      "Ernie Hudson",
+      "Sonequa Martin-Green"
+    ],
+    "Director": [],
+    "tmdb_id": 284736,
+    "imdb_id": "tt35826715",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S10E8 - The Big Bang Theory",
+    "Raw_EPG": "S10E8 - The Big Bang Theory",
+    "CH": "Star",
+    "year": 2007,
+    "Cast": [
+      "Sara Gilbert",
+      "Kevin Sussman",
+      "Laura Spencer",
+      "Mayim Bialik",
+      "Melissa Rauch",
+      "Kunal Nayyar",
+      "Simon Helberg",
+      "Kaley Cuoco",
+      "Jim Parsons",
+      "Johnny Galecki"
+    ],
+    "Director": [],
+    "tmdb_id": 1418,
+    "imdb_id": "tt0898266",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S10E9 - The Big Bang Theory",
+    "Raw_EPG": "S10E9 - The Big Bang Theory",
+    "CH": "Star",
+    "year": 2007,
+    "Cast": [
+      "Sara Gilbert",
+      "Kevin Sussman",
+      "Laura Spencer",
+      "Mayim Bialik",
+      "Melissa Rauch",
+      "Kunal Nayyar",
+      "Simon Helberg",
+      "Kaley Cuoco",
+      "Jim Parsons",
+      "Johnny Galecki"
+    ],
+    "Director": [],
+    "tmdb_id": 1418,
+    "imdb_id": "tt0898266",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S2E17 - NCIS: Origins",
+    "Raw_EPG": "S2E17 - NCIS: Origins",
+    "CH": "Star",
+    "year": 2025,
+    "Cast": [
+      "Caleb Foote",
+      "Diany Rodriguez",
+      "Tyla Abercrumbie",
+      "Mariel Molino",
+      "Kyle Schmid",
+      "Austin Stowell"
+    ],
+    "Director": [],
+    "tmdb_id": 243006,
+    "imdb_id": "tt30796986",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E6 - The Nanny",
+    "Raw_EPG": "S6E6 - The Nanny",
+    "CH": "Star Life",
+    "year": 1998,
+    "Cast": [
+      "Renée Taylor",
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "Director": [],
+    "tmdb_id": 2352,
+    "imdb_id": "tt0106080",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S1E8 - Grosse Pointe Garden Society",
+    "Raw_EPG": "S1E8 - Grosse Pointe Garden Society",
+    "CH": "Star Life",
+    "year": 2025,
+    "Cast": [
+      "Felix Avitia",
+      "Alexander Hodge",
+      "Matthew Davis",
+      "Nancy Travis",
+      "Aja Naomi King",
+      "Ben Rappaport",
+      "AnnaSophia Robb",
+      "Melissa Fumero"
+    ],
+    "Director": [],
+    "tmdb_id": 259454,
+    "imdb_id": "tt26748764",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S5E6 - The Originals",
+    "Raw_EPG": "S5E6 - The Originals",
+    "CH": "Star Life",
+    "year": 2018,
+    "Cast": [
+      "Phoebe Tonkin",
+      "Claire Holt",
+      "Daniella Pineda",
+      "Steven Krueger",
+      "Danielle Rose Russell",
+      "Yusuf Gatewood",
+      "Riley Voelkel",
+      "Charles Michael Davis",
+      "Daniel Gillies",
+      "Joseph Morgan"
+    ],
+    "Director": [],
+    "tmdb_id": 46896,
+    "imdb_id": "tt2632424",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S5E7 - The Originals",
+    "Raw_EPG": "S5E7 - The Originals",
+    "CH": "Star Life",
+    "year": 2018,
+    "Cast": [
+      "Phoebe Tonkin",
+      "Claire Holt",
+      "Daniella Pineda",
+      "Steven Krueger",
+      "Danielle Rose Russell",
+      "Yusuf Gatewood",
+      "Riley Voelkel",
+      "Charles Michael Davis",
+      "Daniel Gillies",
+      "Joseph Morgan"
+    ],
+    "Director": [],
+    "tmdb_id": 46896,
+    "imdb_id": "tt2632424",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S7E10 - The Neighborhood",
+    "Raw_EPG": "S7E10 - The Neighborhood",
+    "CH": "Star Life",
+    "year": 2024,
+    "Cast": [
+      "Hank Greenspan",
+      "Skye Townsend",
+      "Marcel Spears",
+      "Sheaun McKinney",
+      "Beth Behrs",
+      "Tichina Arnold",
+      "Max Greenfield"
+    ],
+    "Director": [],
+    "tmdb_id": 81144,
+    "imdb_id": "tt7942794",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S5E25 - Married with Children",
+    "Raw_EPG": "S5E25 - Married with Children",
+    "CH": "Star Life",
+    "year": 1987,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 4239,
+    "imdb_id": "tt0092400",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E1 - Married with Children",
+    "Raw_EPG": "S6E1 - Married with Children",
+    "CH": "Star Life",
+    "year": 1987,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 4239,
+    "imdb_id": "tt0092400",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E2 - Married with Children",
+    "Raw_EPG": "S6E2 - Married with Children",
+    "CH": "Star Life",
+    "year": 1987,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 4239,
+    "imdb_id": "tt0092400",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E3 - Married with Children",
+    "Raw_EPG": "S6E3 - Married with Children",
+    "CH": "Star Life",
+    "year": 1987,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 4239,
+    "imdb_id": "tt0092400",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S7E7 - Desperate Housewives",
+    "Raw_EPG": "S7E7 - Shtëpiake të dëshpëruara",
+    "CH": "Star Life",
+    "year": 2010,
+    "Cast": [
+      "Jesse Metcalfe",
+      "Vanessa Williams",
+      "Brenda Strong",
+      "James Denton",
+      "Doug Savant",
+      "Ricardo Chavira",
+      "Eva Longoria",
+      "Marcia Cross",
+      "Felicity Huffman",
+      "Teri Hatcher"
+    ],
+    "Director": [],
+    "tmdb_id": 693,
+    "imdb_id": "tt0410975",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S7E8 - Desperate Housewives",
+    "Raw_EPG": "S7E8 - Shtëpiake të dëshpëruara",
+    "CH": "Star Life",
+    "year": 2010,
+    "Cast": [
+      "Jesse Metcalfe",
+      "Vanessa Williams",
+      "Brenda Strong",
+      "James Denton",
+      "Doug Savant",
+      "Ricardo Chavira",
+      "Eva Longoria",
+      "Marcia Cross",
+      "Felicity Huffman",
+      "Teri Hatcher"
+    ],
+    "Director": [],
+    "tmdb_id": 693,
+    "imdb_id": "tt0410975",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S1E11 - 9-1-1: Nashville",
+    "Raw_EPG": "S1E11 - 9-1-1: Nashville",
+    "CH": "Star Life",
+    "year": 2025,
+    "Cast": [
+      "Hunter McVey",
+      "Hailey Kilgore",
+      "Juani Feliz",
+      "Michael Provost",
+      "LeAnn Rimes",
+      "Kimberly Williams-Paisley",
+      "Jessica Capshaw",
+      "Chris O'Donnell"
+    ],
+    "Director": [],
+    "tmdb_id": 284838,
+    "imdb_id": "tt33550053",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S1E12 - 9-1-1: Nashville",
+    "Raw_EPG": "S1E12 - 9-1-1: Nashville",
+    "CH": "Star Life",
+    "year": 2025,
+    "Cast": [
+      "Hunter McVey",
+      "Hailey Kilgore",
+      "Juani Feliz",
+      "Michael Provost",
+      "LeAnn Rimes",
+      "Kimberly Williams-Paisley",
+      "Jessica Capshaw",
+      "Chris O'Donnell"
+    ],
+    "Director": [],
+    "tmdb_id": 284838,
+    "imdb_id": "tt33550053",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S2E5 - SkyMed",
+    "Raw_EPG": "S2E5 - SkyMed",
+    "CH": "Star Life",
+    "year": 2023,
+    "Cast": [
+      "Emilia McCarthy",
+      "Braeden Clarke",
+      "Rebecca Kwan",
+      "Kheon Clarke",
+      "Thomas Elms",
+      "Mercedes Morris",
+      "Aason Nadjiwan",
+      "Praneet Akilla",
+      "Morgan Holmstrom",
+      "Natasha Calis"
+    ],
+    "Director": [],
+    "tmdb_id": 133908,
+    "imdb_id": "tt15437862",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S1E5 - All’s Fair",
+    "Raw_EPG": "S1E5 - All’s Fair",
+    "CH": "Star Life",
+    "year": 2025,
+    "Cast": [],
+    "Director": [],
+    "tmdb_id": 258742,
+    "imdb_id": "tt30291387",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 60.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E7 - The Nanny",
+    "Raw_EPG": "S6E7 - The Nanny",
+    "CH": "Star Life",
+    "year": 1998,
+    "Cast": [
+      "Renée Taylor",
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "Director": [],
+    "tmdb_id": 2352,
+    "imdb_id": "tt0106080",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E8 - The Nanny",
+    "Raw_EPG": "S6E8 - The Nanny",
+    "CH": "Star Life",
+    "year": 1998,
+    "Cast": [
+      "Renée Taylor",
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "Director": [],
+    "tmdb_id": 2352,
+    "imdb_id": "tt0106080",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S6E9 - The Nanny",
+    "Raw_EPG": "S6E9 - The Nanny",
+    "CH": "Star Life",
+    "year": 1998,
+    "Cast": [
+      "Renée Taylor",
+      "Madeline Zima",
+      "Benjamin Salisbury",
+      "Nicholle Tom",
+      "Lauren Lane",
+      "Daniel Davis",
+      "Charles Shaughnessy"
+    ],
+    "Director": [],
+    "tmdb_id": 2352,
+    "imdb_id": "tt0106080",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S0E71 - Iffet",
+    "Raw_EPG": "S0E71 - Ifet",
+    "CH": "Turkish Stories",
+    "year": 2011,
+    "Cast": [
+      "Gülden Güney",
+      "Serkan Genç",
+      "Ayşe Tunaboylu",
+      "Ercan Yazgan",
+      "Selim Erdoğan",
+      "Melike Güner",
+      "Mehmet Çevik",
+      "Mahir Günşiray",
+      "İbrahim Çelikkol",
+      "Deniz Çakır"
+    ],
+    "Director": [
+      "Faruk Teber"
+    ],
+    "tmdb_id": 50734,
+    "imdb_id": "tt2509222",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S0E171 - The Tulip Age",
+    "Raw_EPG": "S0E171 - Stina e Tulipanëve",
+    "CH": "Turkish Stories",
+    "year": 2010,
+    "Cast": [
+      "Tonguç Nacar",
+      "Melike Emiroglu",
+      "İpek Erdem",
+      "Deniz Barut",
+      "Aykut Yılmaz",
+      "Ayşegül Günay",
+      "Hatice Aslan",
+      "Kenan Bal",
+      "Selen Soyder",
+      "Tolgahan Sayışman"
+    ],
+    "Director": [
+      "Murat Düzgünoğlu"
+    ],
+    "tmdb_id": 47918,
+    "imdb_id": "tt2024922",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "title": "S0E59 - Love Doesn’t Understand Words",
+    "Raw_EPG": "S0E59 - Jetë",
+    "CH": "Turkish Stories",
+    "year": 2016,
+    "Cast": [
+      "Evren Duyal",
+      "Sultan Köroğlu Kiliç",
+      "Betül Çobanoğlu",
+      "Süleyman Felek",
+      "Demet Gül",
+      "Oğuzhan Karbi",
+      "Merve Çağıran",
+      "Özcan Tekdemir",
+      "Burak Deniz",
+      "Hande Erçel"
+    ],
+    "Director": [
+      "Müge Uğurlar"
+    ],
+    "tmdb_id": 67570,
+    "imdb_id": "tt5768632",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "title": "S0E210 - Love and Hate",
+    "Raw_EPG": "S0E210 - Dashuri dhe Urrejtje",
+    "CH": "Turkish Stories",
+    "year": 2016,
+    "Cast": [
+      "Selin Dumlugöl",
+      "Gülderen Güler",
+      "Ayşegül Ünsal",
+      "Uğur Uzunel",
+      "Alayça Öztürk",
+      "Cüneyt Mete",
+      "Işıl Yücesoy",
+      "Kenan Bal",
+      "Burcu Kiratli",
+      "Emrah"
+    ],
+    "Director": [
+      "Hakan Arslan"
+    ],
+    "tmdb_id": 78763,
+    "imdb_id": "tt6333232",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "title": "S0E128 - 1001 Nights",
+    "Raw_EPG": "S0E128 - 1001 Net",
+    "CH": "Turkish Stories",
+    "year": 2006,
+    "Cast": [
+      "Ceyda Düvenci",
+      "Tardu Flordun",
+      "Halit Ergenç",
+      "Bergüzar Korel"
+    ],
+    "Director": [],
+    "tmdb_id": 17915,
+    "imdb_id": "tt0905574",
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
     "verification_source": "tmdb+imdb"
   }
 ]
