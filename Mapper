@@ -39,7 +39,8 @@
         "Star HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"],
         "Star Life HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"],
         "Star Movies HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"]
-    }
+      
+}
   },
 
   "13.0E": {
