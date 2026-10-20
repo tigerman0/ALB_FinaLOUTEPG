@@ -11,8 +11,7 @@
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-fantasy_simplified.json",
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestar-tv-comedy-family_simplified.json",
       "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/cinestar/cinestartv-kids_simplified.json",
-      "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json",
-      "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_1_16E/simplified_data.json"
+      "https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"
     ],
 
     "providers": {
@@ -39,8 +38,7 @@
         "Star Crime HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"],
         "Star HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"],
         "Star Life HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"],
-        "Star Movies HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"],
-        "Film Family HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_1_16E/simplified_data.json" ]
+        "Star Movies HD": ["https://raw.githubusercontent.com/tigerman0/ALB_FinaLOUTEPG/refs/heads/main/EPG_group_2_16E/simplified_data_16E_G2.json"]
       
 }
   },
