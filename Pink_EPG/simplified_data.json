@@ -2536,8 +2536,8 @@
       "Chief John Big Tree"
     ],
     "Director": [
-      "Otto Brower",
-      "David Burton"
+      "David Burton",
+      "Otto Brower"
     ],
     "Type": null,
     "st_end": [
@@ -7493,8 +7493,8 @@
       "Jurij Souček"
     ],
     "Director": [
-      "Vicko Raspor",
-      "Aleksandar Petrović"
+      "Aleksandar Petrović",
+      "Vicko Raspor"
     ],
     "Type": null,
     "st_end": [
@@ -12379,10 +12379,10 @@
       "Jelena Perčin"
     ],
     "Director": [
+      "Kristijan Milić",
       "Robert Orhel",
-      "Mladen Dizdar",
       "Goran Rukavina",
-      "Kristijan Milić"
+      "Mladen Dizdar"
     ],
     "Type": null,
     "st_end": [
@@ -12718,8 +12718,8 @@
       "Andrew Morgado"
     ],
     "Director": [
-      "Dan Berk",
-      "Robert Olsen"
+      "Robert Olsen",
+      "Dan Berk"
     ],
     "Type": null,
     "st_end": [
@@ -20681,8 +20681,8 @@
       "Doona Bae"
     ],
     "Director": [
-      "Lana Wachowski",
-      "Lilly Wachowski"
+      "Lilly Wachowski",
+      "Lana Wachowski"
     ],
     "Type": null,
     "st_end": [
@@ -21372,8 +21372,8 @@
       "Erich Kleiber"
     ],
     "Director": [
-      "Ralf Gregan",
-      "Günter Vaessen"
+      "Günter Vaessen",
+      "Ralf Gregan"
     ],
     "Type": null,
     "st_end": [
@@ -22718,6 +22718,7253 @@
     ],
     "tmdb_id": 37316,
     "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792893600,
+      1792900800
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792915200,
+      1792922400
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Механизам",
+    "Raw_EPG": "Механизам",
+    "CH": "PINK Film",
+    "year": 2000,
+    "Cast": [
+      "Nikola Kojo",
+      "Ivana Mihić",
+      "Andrej Šepetkovski",
+      "Gordan Kičić",
+      "Branko Vidaković",
+      "Saša Ali",
+      "Dragan Đorđević",
+      "Olivera Viktorović",
+      "Aleksandar Dragar",
+      "Milan Radu",
+      "Radoje Jelić",
+      "Nebojša Kastratović",
+      "Radovan Marković"
+    ],
+    "Director": [
+      "Đorđe Milosavljević"
+    ],
+    "Type": null,
+    "st_end": [
+      1792480500,
+      1792485900
+    ],
+    "tmdb_id": 110370,
+    "imdb_id": "tt0246776",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792782000,
+      1792789200
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792825200,
+      1792832400
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792893600,
+      1792900800
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792915200,
+      1792922400
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Механизам",
+    "Raw_EPG": "Механизам",
+    "CH": "PINK Film",
+    "year": 2000,
+    "Cast": [
+      "Nikola Kojo",
+      "Ivana Mihić",
+      "Andrej Šepetkovski",
+      "Gordan Kičić",
+      "Branko Vidaković",
+      "Saša Ali",
+      "Dragan Đorđević",
+      "Olivera Viktorović",
+      "Aleksandar Dragar",
+      "Milan Radu",
+      "Radoje Jelić",
+      "Nebojša Kastratović",
+      "Radovan Marković"
+    ],
+    "Director": [
+      "Đorđe Milosavljević"
+    ],
+    "Type": null,
+    "st_end": [
+      1792480500,
+      1792485900
+    ],
+    "tmdb_id": 110370,
+    "imdb_id": "tt0246776",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792782000,
+      1792789200
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792825200,
+      1792832400
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792893600,
+      1792900800
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792915200,
+      1792922400
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Механизам",
+    "Raw_EPG": "Механизам",
+    "CH": "PINK Film",
+    "year": 2000,
+    "Cast": [
+      "Nikola Kojo",
+      "Ivana Mihić",
+      "Andrej Šepetkovski",
+      "Gordan Kičić",
+      "Branko Vidaković",
+      "Saša Ali",
+      "Dragan Đorđević",
+      "Olivera Viktorović",
+      "Aleksandar Dragar",
+      "Milan Radu",
+      "Radoje Jelić",
+      "Nebojša Kastratović",
+      "Radovan Marković"
+    ],
+    "Director": [
+      "Đorđe Milosavljević"
+    ],
+    "Type": null,
+    "st_end": [
+      1792480500,
+      1792485900
+    ],
+    "tmdb_id": 110370,
+    "imdb_id": "tt0246776",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792782000,
+      1792789200
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792825200,
+      1792832400
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792893600,
+      1792900800
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792915200,
+      1792922400
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Механизам",
+    "Raw_EPG": "Механизам",
+    "CH": "PINK Film",
+    "year": 2000,
+    "Cast": [
+      "Nikola Kojo",
+      "Ivana Mihić",
+      "Andrej Šepetkovski",
+      "Gordan Kičić",
+      "Branko Vidaković",
+      "Saša Ali",
+      "Dragan Đorđević",
+      "Olivera Viktorović",
+      "Aleksandar Dragar",
+      "Milan Radu",
+      "Radoje Jelić",
+      "Nebojša Kastratović",
+      "Radovan Marković"
+    ],
+    "Director": [
+      "Đorđe Milosavljević"
+    ],
+    "Type": null,
+    "st_end": [
+      1792480500,
+      1792485900
+    ],
+    "tmdb_id": 110370,
+    "imdb_id": "tt0246776",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792782000,
+      1792789200
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792825200,
+      1792832400
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792893600,
+      1792900800
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ромео мора да умре",
+    "Raw_EPG": "Ромео мора да умре",
+    "CH": "Pink Action",
+    "year": 2000,
+    "Cast": [
+      "Jet Li",
+      "Aaliyah",
+      "Isaiah Washington",
+      "Russell Wong",
+      "Delroy Lindo",
+      "D.B. Woodside",
+      "Henry O",
+      "Jon Kit Lee",
+      "Edoardo Ballerini",
+      "Anthony Anderson",
+      "DMX",
+      "Matthew Harrison",
+      "Terry Chen",
+      "Derek Lowe",
+      "Ronin Wong"
+    ],
+    "Director": [
+      "Andrzej Bartkowiak"
+    ],
+    "Type": null,
+    "st_end": [
+      1792915200,
+      1792922400
+    ],
+    "tmdb_id": 2085,
+    "imdb_id": "tt0165929",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Otrov u raju Misterija Martas Vinjarda",
+    "Raw_EPG": "Otrov u raju Misterija Martas Vinjarda",
+    "CH": "Pink Action",
+    "year": 2021,
+    "Cast": [
+      "Jesse Metcalfe",
+      "Sarah Lind",
+      "Eric Keenleyside",
+      "Chelsea Hobbs",
+      "Sunita Prasad",
+      "Paul Moniz de Sa",
+      "Britt McKillip",
+      "Drew Henderson",
+      "Nelson Wong",
+      "Tammy Gillis",
+      "Jasmine Lukuku",
+      "Austin Anozie",
+      "Reilly Dolman",
+      "Manoj Sood",
+      "Lucia Walters"
+    ],
+    "Director": [
+      "Mark Jean"
+    ],
+    "Type": null,
+    "st_end": [
+      1793080800,
+      1793088000
+    ],
+    "tmdb_id": 809349,
+    "imdb_id": "tt14376526",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Žestoki momci",
+    "Raw_EPG": "Žestoki momci",
+    "CH": "Pink Action",
+    "year": 2001,
+    "Cast": [
+      "Jennifer Baxter",
+      "Dennis Hopper",
+      "Vin Diesel",
+      "Barry Pepper",
+      "Andy Davoli",
+      "Seth Green",
+      "John Malkovich",
+      "Arthur J. Nascarella",
+      "Tom Noonan",
+      "Nicholas Pasco",
+      "Shawn Doyle",
+      "Kevin Gage",
+      "Andrew Francis",
+      "John Liddle",
+      "Kris Lemche"
+    ],
+    "Director": [
+      "Brian Koppelman",
+      "David Levien"
+    ],
+    "Type": null,
+    "st_end": [
+      1793131200,
+      1793138400
+    ],
+    "tmdb_id": 7501,
+    "imdb_id": "tt0211465",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Legend Of Tarzan",
+    "Raw_EPG": "Legend Of Tarzan",
+    "CH": "Pink Action",
+    "year": 2016,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793138400,
+      1793145600
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Likvidator",
+    "Raw_EPG": "Likvidator",
+    "CH": "Pink Action",
+    "year": 1996,
+    "Cast": [
+      "Arnold Schwarzenegger",
+      "Vanessa Williams",
+      "James Caan",
+      "James Coburn",
+      "Robert Pastorelli",
+      "James Cromwell",
+      "Danny Nucci",
+      "Andy Romano",
+      "Nick Chinlund",
+      "Michael Papajohn",
+      "Joe Viterelli",
+      "Mark Rolston",
+      "John Slattery",
+      "Robert Miranda",
+      "Roma Maffia"
+    ],
+    "Director": [
+      "Chuck Russell"
+    ],
+    "Type": null,
+    "st_end": [
+      1793145600,
+      1793152800
+    ],
+    "tmdb_id": 9268,
+    "imdb_id": "tt0116213",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Kaskader pred dilemom",
+    "Raw_EPG": "Kaskader pred dilemom",
+    "CH": "Pink Action",
+    "year": 1997,
+    "Cast": [
+      "Joe Hart",
+      "Dayton Callie",
+      "Michael Madsen",
+      "Roy Scheider",
+      "Keith David",
+      "Angie Everhart",
+      "Kathy Christopherson",
+      "Gareth Williams",
+      "Robert Miano",
+      "Matthias Hues",
+      "Mike Genovese",
+      "Jessica Cushman",
+      "Jana Robbins",
+      "Sal Landi",
+      "Lance LeGault"
+    ],
+    "Director": [
+      "Joseph Merhi"
+    ],
+    "Type": null,
+    "st_end": [
+      1793152800,
+      1793160000
+    ],
+    "tmdb_id": 134458,
+    "imdb_id": "tt0119088",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Urgency",
+    "Raw_EPG": "Urgency",
+    "CH": "Pink Action",
+    "year": 2010,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793160000,
+      1793167200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Dete đavola",
+    "Raw_EPG": "Dete đavola",
+    "CH": "Pink Action",
+    "year": 2016,
+    "Cast": [
+      "Lekhraj Patel",
+      "Kacey Clarke",
+      "Eric Roberts",
+      "Caite Upton",
+      "Mykel Shannon Jenkins",
+      "Yves Bright",
+      "James Martin Kelly",
+      "Raymond Forchion",
+      "Meg Wolf",
+      "Sophia Santi",
+      "Skoti Collins",
+      "Ashley Cordelia",
+      "Kirk Bovill",
+      "Bianca Desai",
+      "Concetta D'Agnese"
+    ],
+    "Director": [
+      "Mitesh Kumar Patel",
+      "Sam Son"
+    ],
+    "Type": null,
+    "st_end": [
+      1793167200,
+      1793174400
+    ],
+    "tmdb_id": 391872,
+    "imdb_id": "tt2268018",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Salt",
+    "Raw_EPG": "Salt",
+    "CH": "Pink Action",
+    "year": 2010,
+    "Cast": [
+      "Angelina Jolie",
+      "Liev Schreiber",
+      "Chiwetel Ejiofor",
+      "Daniel Olbrychski",
+      "August Diehl",
+      "Daniel Pearce",
+      "Hunt Block",
+      "Andre Braugher",
+      "Olek Krupa",
+      "Cassidy Hinkle",
+      "Corey Stoll",
+      "Vladislav Koulikov",
+      "Olya Zueva",
+      "Kevin O'Donnell",
+      "Gaius Charles"
+    ],
+    "Director": [
+      "Phillip Noyce"
+    ],
+    "Type": null,
+    "st_end": [
+      1793217600,
+      1793224800
+    ],
+    "tmdb_id": 27576,
+    "imdb_id": "tt0944835",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Terminator: Postanje",
+    "Raw_EPG": "Terminator: Postanje",
+    "CH": "Pink Action",
+    "year": 2015,
+    "Cast": [
+      "Arnold Schwarzenegger",
+      "Jason Clarke",
+      "Emilia Clarke",
+      "Jai Courtney",
+      "J.K. Simmons",
+      "Dayo Okeniyi",
+      "Matt Smith",
+      "Courtney B. Vance",
+      "Byung-hun Lee",
+      "Michael Gladis",
+      "Sandrine Holt",
+      "Wayne Bastrup",
+      "Gregory Alan Williams",
+      "Otto Sanchez",
+      "Matty Ferraro"
+    ],
+    "Director": [
+      "Alan Taylor"
+    ],
+    "Type": null,
+    "st_end": [
+      1793224800,
+      1793232000
+    ],
+    "tmdb_id": 87101,
+    "imdb_id": "tt1340138",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Igrač br. 1",
+    "Raw_EPG": "Igrač br. 1",
+    "CH": "Pink Action",
+    "year": 2018,
+    "Cast": [
+      "Tye Sheridan",
+      "Olivia Cooke",
+      "Ben Mendelsohn",
+      "Lena Waithe",
+      "T.J. Miller",
+      "Simon Pegg",
+      "Mark Rylance",
+      "Philip Zhao",
+      "Win Morisaki",
+      "Hannah John-Kamen",
+      "Ralph Ineson",
+      "Susan Lynch",
+      "Clare Higgins",
+      "Laurence Spellman",
+      "Perdita Weeks"
+    ],
+    "Director": [
+      "Steven Spielberg"
+    ],
+    "Type": null,
+    "st_end": [
+      1793232000,
+      1793239200
+    ],
+    "tmdb_id": 333339,
+    "imdb_id": "tt1677720",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Oklopni transporter",
+    "Raw_EPG": "Oklopni transporter",
+    "CH": "Pink Action",
+    "year": 2009,
+    "Cast": [
+      "Columbus Short",
+      "Matt Dillon",
+      "Laurence Fishburne",
+      "Jean Reno",
+      "Amaury Nolasco",
+      "Fred Ward",
+      "Milo Ventimiglia",
+      "Skeet Ulrich",
+      "Andre Kinney",
+      "Andrew Fiscella",
+      "Nick Jameson",
+      "Glenn Taranto",
+      "Lorna Raver",
+      "Garry Guerrier",
+      "Robert Harvey"
+    ],
+    "Director": [
+      "Nimród Antal"
+    ],
+    "Type": null,
+    "st_end": [
+      1793239200,
+      1793246400
+    ],
+    "tmdb_id": 4597,
+    "imdb_id": "tt0913354",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Loophole",
+    "Raw_EPG": "Loophole",
+    "CH": "Pink Action",
+    "year": 1981,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793246400,
+      1793253600
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Uspon Katarine Velike",
+    "Raw_EPG": "Uspon Katarine Velike",
+    "CH": "Pink Classic",
+    "year": 1934,
+    "Cast": [
+      "Douglas Fairbanks Jr.",
+      "Elisabeth Bergner",
+      "Flora Robson",
+      "Gerald du Maurier",
+      "Irene Vanbrugh",
+      "Joan Gardner",
+      "Dorothy Hale",
+      "Diana Napier",
+      "Griffith Jones",
+      "Gibb McLaughlin",
+      "Clifford Heatherley",
+      "Lawrence Hanray",
+      "Allan Jeayes",
+      "Charles Carson",
+      "Heron Carvic"
+    ],
+    "Director": [
+      "Paul Czinner"
+    ],
+    "Type": null,
+    "st_end": [
+      1793106000,
+      1793113200
+    ],
+    "tmdb_id": 43687,
+    "imdb_id": "tt0024962",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Sila od novinara",
+    "Raw_EPG": "Sila od novinara",
+    "CH": "Pink Classic",
+    "year": 1966,
+    "Cast": [
+      "Norman Wisdom",
+      "Derek Bond",
+      "Angela Browne",
+      "Tracey Crisp",
+      "Allan Cuthbertson",
+      "Noel Dyson",
+      "Derek Francis",
+      "Peter Jones",
+      "David Lodge",
+      "Stanley Unwin",
+      "Frances White",
+      "Michael Balfour",
+      "Tony Selby",
+      "Michael Bilton",
+      "Norman Pitt"
+    ],
+    "Director": [
+      "Robert Asher"
+    ],
+    "Type": null,
+    "st_end": [
+      1793113200,
+      1793120400
+    ],
+    "tmdb_id": 38386,
+    "imdb_id": "tt0060857",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Tako dobri prijatelji",
+    "Raw_EPG": "Tako dobri prijatelji",
+    "CH": "Pink Classic",
+    "year": 1971,
+    "Cast": [
+      "Dyan Cannon",
+      "James Coco",
+      "Jennifer O'Neill",
+      "Ken Howard",
+      "Nina Foch",
+      "Laurence Luckinbill",
+      "Louise Lasser",
+      "Burgess Meredith",
+      "Sam Levene",
+      "William Redfield",
+      "James Beard",
+      "Rita Gam",
+      "Michael Giordano III",
+      "Oscar Grossman",
+      "Nancy Guild"
+    ],
+    "Director": [
+      "Otto Preminger"
+    ],
+    "Type": null,
+    "st_end": [
+      1793120400,
+      1793127600
+    ],
+    "tmdb_id": 118915,
+    "imdb_id": "tt0067801",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Indiskretno",
+    "Raw_EPG": "Indiskretno",
+    "CH": "Pink Classic",
+    "year": 1958,
+    "Cast": [
+      "Cary Grant",
+      "Ingrid Bergman",
+      "Cecil Parker",
+      "Phyllis Calvert",
+      "David Kossoff",
+      "Megs Jenkins",
+      "Michael Anthony",
+      "Ernest Blyth",
+      "Martin Boddey",
+      "Pauline Chamberlain",
+      "Diane Clare",
+      "David Coote",
+      "Robert Desmond",
+      "Eric Francis",
+      "Frank Hawkins"
+    ],
+    "Director": [
+      "Stanley Donen"
+    ],
+    "Type": null,
+    "st_end": [
+      1793127600,
+      1793134800
+    ],
+    "tmdb_id": 22874,
+    "imdb_id": "tt0051773",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "The Collector",
+    "Raw_EPG": "The Collector",
+    "CH": "Pink Classic",
+    "year": 1965,
+    "Cast": [
+      "Terence Stamp",
+      "Samantha Eggar",
+      "Mona Washbourne",
+      "Maurice Dallimore",
+      "Kenneth More",
+      "Allyson Ames",
+      "Gordon Barclay",
+      "William Beckley",
+      "William Bickley",
+      "David Haviland",
+      "Edina Ronay"
+    ],
+    "Director": [
+      "William Wyler"
+    ],
+    "Type": null,
+    "st_end": [
+      1793134800,
+      1793142000
+    ],
+    "tmdb_id": 42740,
+    "imdb_id": "tt0059043",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "LITTLE LIPS",
+    "Raw_EPG": "LITTLE LIPS",
+    "CH": "Pink Classic",
+    "year": 1978,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793142000,
+      1793149200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Savršeno razumevanje",
+    "Raw_EPG": "Savršeno razumevanje",
+    "CH": "Pink Classic",
+    "year": 1933,
+    "Cast": [
+      "Gloria Swanson",
+      "Laurence Olivier",
+      "John Halliday",
+      "Nigel Playfair",
+      "Miles Malleson",
+      "Michael Farmer",
+      "Genevieve Tobin",
+      "Charles Cullum",
+      "Nora Swinburne",
+      "O.B. Clarence",
+      "Mary Jerrold",
+      "Peter Gawthorne",
+      "Rosalinde Fuller",
+      "Ben Webster",
+      "Herbert Lomas"
+    ],
+    "Director": [
+      "Cyril Gardner"
+    ],
+    "Type": null,
+    "st_end": [
+      1793192400,
+      1793199600
+    ],
+    "tmdb_id": 177586,
+    "imdb_id": "tt0024436",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Autobuska stanica",
+    "Raw_EPG": "Autobuska stanica",
+    "CH": "Pink Classic",
+    "year": 1956,
+    "Cast": [
+      "Marilyn Monroe",
+      "Don Murray",
+      "Arthur O'Connell",
+      "Betty Field",
+      "Eileen Heckart",
+      "Robert Bray",
+      "Hope Lange",
+      "Hans Conried",
+      "Max Showalter",
+      "Arizona State University Sun Devil Marching Band",
+      "Linda Brace",
+      "Mary Carroll",
+      "J.M. Dunlap",
+      "Bess Flowers",
+      "Ed Fury"
+    ],
+    "Director": [
+      "Joshua Logan"
+    ],
+    "Type": null,
+    "st_end": [
+      1793199600,
+      1793206800
+    ],
+    "tmdb_id": 24010,
+    "imdb_id": "tt0049038",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Jadni Alen",
+    "Raw_EPG": "Jadni Alen",
+    "CH": "Pink Classic",
+    "year": 1970,
+    "Cast": [
+      "Anthony Perkins",
+      "Julie Harris",
+      "Joan Hackett",
+      "Kent Smith",
+      "Robert H. Harris",
+      "Molly Dodd",
+      "Billy Bowles",
+      "Trent Dolan",
+      "Bill Erwin",
+      "Jeannette Howe",
+      "Kenneth Lawrence",
+      "Charles Briles"
+    ],
+    "Director": [
+      "Curtis Harrington"
+    ],
+    "Type": null,
+    "st_end": [
+      1793206800,
+      1793214000
+    ],
+    "tmdb_id": 71944,
+    "imdb_id": "tt0065858",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "TALE OF TWO CITIES",
+    "Raw_EPG": "TALE OF TWO CITIES",
+    "CH": "Pink Classic",
+    "year": 1958,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793214000,
+      1793221200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Quo Vadis",
+    "Raw_EPG": "Quo Vadis",
+    "CH": "Pink Classic",
+    "year": 1951,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793221200,
+      1793228400
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Inspektor Fletfut u Africi",
+    "Raw_EPG": "Inspektor Fletfut u Africi",
+    "CH": "Pink Classic",
+    "year": 1978,
+    "Cast": [
+      "Bud Spencer",
+      "Enzo Cannavale",
+      "Werner Pochath",
+      "Joe Stewardson",
+      "Carel Trichardt",
+      "Desmond Thompson",
+      "Baldwyn Dakile",
+      "Dagmar Lassander",
+      "Antonio Allocca",
+      "Giancarlo Bastianoni",
+      "Franco Cirino",
+      "Giorgio Cerioni",
+      "Ester Carloni",
+      "Rita Ehlers",
+      "Carlo Reali"
+    ],
+    "Director": [
+      "Steno"
+    ],
+    "Type": null,
+    "st_end": [
+      1793228400,
+      1793235600
+    ],
+    "tmdb_id": 11055,
+    "imdb_id": "tt0076544",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Raj za ludake",
+    "Raw_EPG": "Raj za ludake",
+    "CH": "Pink Comedy",
+    "year": 2023,
+    "Cast": [
+      "Charlie Day",
+      "Ken Jeong",
+      "Kate Beckinsale",
+      "Adrien Brody",
+      "Jason Sudeikis",
+      "Ray Liotta",
+      "Steve Coulter",
+      "Jason Bateman",
+      "Edie Falco",
+      "Mary Elizabeth Ellis",
+      "Drew Droege",
+      "Artemis Pebdani",
+      "Leonora Pitts",
+      "Jimmi Simpson",
+      "Lance Barber"
+    ],
+    "Director": [
+      "Charlie Day"
+    ],
+    "Type": null,
+    "st_end": [
+      1793124000,
+      1793131200
+    ],
+    "tmdb_id": 553147,
+    "imdb_id": "tt9013340",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Smanjivanje",
+    "Raw_EPG": "Smanjivanje",
+    "CH": "Pink Comedy",
+    "year": 2017,
+    "Cast": [
+      "Matt Damon",
+      "Christoph Waltz",
+      "Hong Chau",
+      "Kristen Wiig",
+      "Rolf Lassgård",
+      "Ingjerd Egeberg",
+      "Udo Kier",
+      "Søren Pilmark",
+      "Jason Sudeikis",
+      "Maribeth Monroe",
+      "Jayne Houdyshell",
+      "Phil Reeves",
+      "James Van Der Beek",
+      "Alison J. Palmer",
+      "Tim Driscoll"
+    ],
+    "Director": [
+      "Alexander Payne"
+    ],
+    "Type": null,
+    "st_end": [
+      1793131200,
+      1793139000
+    ],
+    "tmdb_id": 301337,
+    "imdb_id": "tt1389072",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čarobni Majk XXL",
+    "Raw_EPG": "Čarobni Majk XXL",
+    "CH": "Pink Comedy",
+    "year": 2015,
+    "Cast": [
+      "Channing Tatum",
+      "Joe Manganiello",
+      "Matt Bomer",
+      "Adam Rodriguez",
+      "Juan Piedrahita",
+      "Sharon Blackwood",
+      "Alison Faulk",
+      "Josh Diogo",
+      "Kevin Nash",
+      "Gabriel Iglesias",
+      "Vicky Vox",
+      "Javier Madrid",
+      "Dashaun Wesley",
+      "Carrie Anne Hunt",
+      "Crystal Hunt"
+    ],
+    "Director": [
+      "Gregory Jacobs"
+    ],
+    "Type": null,
+    "st_end": [
+      1793139000,
+      1793145900
+    ],
+    "tmdb_id": 264999,
+    "imdb_id": "tt2268016",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Crna ovca",
+    "Raw_EPG": "Crna ovca",
+    "CH": "Pink Comedy",
+    "year": 1996,
+    "Cast": [
+      "Chris Farley",
+      "David Spade",
+      "Tim Matheson",
+      "Christine Ebersole",
+      "Gary Busey",
+      "Grant Heslov",
+      "Timothy Carhart",
+      "Bruce McGill",
+      "Michael Patrick Carter",
+      "Boyd Banks",
+      "David St. James",
+      "Skip O'Brien",
+      "Branden Morgan",
+      "'Gypsy' Spheeris",
+      "John Ashker"
+    ],
+    "Director": [
+      "Penelope Spheeris"
+    ],
+    "Type": null,
+    "st_end": [
+      1793145900,
+      1793152800
+    ],
+    "tmdb_id": 13997,
+    "imdb_id": "tt0115697",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Poli",
+    "Raw_EPG": "Poli",
+    "CH": "Pink Comedy",
+    "year": 1998,
+    "Cast": [
+      "Gena Rowlands",
+      "Tony Shalhoub",
+      "Cheech Marin",
+      "Bruce Davison",
+      "Trini Alvarado",
+      "Buddy Hackett",
+      "Hallie Eisenberg",
+      "Matt Craven",
+      "Bill Cobbs",
+      "Laura Harrington",
+      "Peter Basch",
+      "Emily Mura-Smith",
+      "Hal Robinson",
+      "Tamara Zook",
+      "Nicole Chamberlain"
+    ],
+    "Director": [
+      "John Roberts"
+    ],
+    "Type": null,
+    "st_end": [
+      1793152800,
+      1793160000
+    ],
+    "tmdb_id": 36568,
+    "imdb_id": "tt0125454",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Smiti",
+    "Raw_EPG": "Smiti",
+    "CH": "Pink Comedy",
+    "year": 2012,
+    "Cast": [
+      "Brandon Tyler Russell",
+      "Freddie James",
+      "Peter Fonda",
+      "Mira Sorvino",
+      "Louis Gossett Jr.",
+      "Jason London",
+      "Lolita Davidovich",
+      "Booboo Stewart",
+      "Gabrielle Bui",
+      "Tory Weisz",
+      "Makeba Pace",
+      "Daisy Hamilton",
+      "Stacey McGillis",
+      "Anthony Gregorio",
+      "Daryl A. Thomas"
+    ],
+    "Director": [
+      "David Mickey Evans"
+    ],
+    "Type": null,
+    "st_end": [
+      1793160000,
+      1793167200
+    ],
+    "tmdb_id": 96999,
+    "imdb_id": "tt1531914",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Benetova pesma",
+    "Raw_EPG": "Benetova pesma",
+    "CH": "Pink Comedy",
+    "year": 2018,
+    "Cast": [
+      "Harley Wallen",
+      "Tara Reid",
+      "Dennis Haskins",
+      "Calhoun Koenig",
+      "Aphrodite Nikolovski",
+      "Victoria Mullen",
+      "Morgan Nimmo",
+      "Arielle Olkhovsky",
+      "Joseph Ouellette",
+      "Dennis Marin",
+      "Aleksandra Luca",
+      "Evan Keoshian",
+      "La'Kenya Howard-Luster",
+      "Da'Mya Gogoua",
+      "Rees Curran"
+    ],
+    "Director": [
+      "Harley Wallen"
+    ],
+    "Type": null,
+    "st_end": [
+      1793210400,
+      1793217600
+    ],
+    "tmdb_id": 542883,
+    "imdb_id": "tt6841812",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Kralj kuglanja",
+    "Raw_EPG": "Kralj kuglanja",
+    "CH": "Pink Comedy",
+    "year": 1996,
+    "Cast": [
+      "Woody Harrelson",
+      "Randy Quaid",
+      "Bill Murray",
+      "Vanessa Angel",
+      "Chris Elliott",
+      "William Jordan",
+      "Richard Tyson",
+      "Lin Shaye",
+      "Zen Gesner",
+      "Prudence Wright Holmes",
+      "Rob Moran",
+      "Daniel Greene",
+      "Will Rothhaar",
+      "Mark Charpentier",
+      "Brad Faxon"
+    ],
+    "Director": [
+      "Bobby Farrelly",
+      "Peter Farrelly"
+    ],
+    "Type": null,
+    "st_end": [
+      1793217600,
+      1793224800
+    ],
+    "tmdb_id": 11543,
+    "imdb_id": "tt0116778",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Tatino obdanište",
+    "Raw_EPG": "Tatino obdanište",
+    "CH": "Pink Comedy",
+    "year": 2003,
+    "Cast": [
+      "Eddie Murphy",
+      "Jeff Garlin",
+      "Anjelica Huston",
+      "Steve Zahn",
+      "Regina King",
+      "Kevin Nealon",
+      "Jonathan Katz",
+      "Siobhan Fallon Hogan",
+      "Lisa Edelstein",
+      "Lacey Chabert",
+      "Laura Kightlinger",
+      "Leila Arcieri",
+      "Khamani Griffin",
+      "Max Burkholder",
+      "Arthur Young"
+    ],
+    "Director": [
+      "Steve Carr"
+    ],
+    "Type": null,
+    "st_end": [
+      1793224800,
+      1793232000
+    ],
+    "tmdb_id": 10708,
+    "imdb_id": "tt0317303",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Bljesak iz prošlosti",
+    "Raw_EPG": "Bljesak iz prošlosti",
+    "CH": "Pink Comedy",
+    "year": 1999,
+    "Cast": [
+      "Hugh Wilson",
+      "Brendan Fraser",
+      "Alicia Silverstone",
+      "Christopher Walken",
+      "Sissy Spacek",
+      "Dave Foley",
+      "Joey Slotnick",
+      "Dale Raoul",
+      "Hayden Tank",
+      "Douglas Smith",
+      "Ryan Sparks",
+      "Don Yesso",
+      "Scott Thomson",
+      "Ted Kairys",
+      "Rex Linn"
+    ],
+    "Director": [
+      "Hugh Wilson"
+    ],
+    "Type": null,
+    "st_end": [
+      1793232000,
+      1793239200
+    ],
+    "tmdb_id": 11622,
+    "imdb_id": "tt0124298",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čari košarke",
+    "Raw_EPG": "Čari košarke",
+    "CH": "Pink Comedy",
+    "year": 2012,
+    "Cast": [
+      "Kevin Durant",
+      "Taylor Gray",
+      "Jim Belushi",
+      "Brandon T. Jackson",
+      "Larramie Doc Shaw",
+      "Tristin Mays",
+      "Robert Belushi",
+      "Spencer Daniels",
+      "William Ragsdale",
+      "Hana Hayes",
+      "Randall D. Cunningham",
+      "Andrea Frankle",
+      "Beau Brasseaux",
+      "Glen Warner",
+      "Brie Lybrand"
+    ],
+    "Director": [
+      "John Whitesell"
+    ],
+    "Type": null,
+    "st_end": [
+      1793239200,
+      1793246400
+    ],
+    "tmdb_id": 119738,
+    "imdb_id": "tt2041488",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Dobri duh rokenrola",
+    "Raw_EPG": "Dobri duh rokenrola",
+    "CH": "Pink Comedy",
+    "year": 2013,
+    "Cast": [
+      "Nicola Coughlan",
+      "Martin Freeman",
+      "Vicky McClure",
+      "Matt Berry",
+      "Natasha O'Keeffe",
+      "Joel Fry",
+      "Michael Smiley",
+      "Jessica Ellerby",
+      "Michael Socha",
+      "Maxine Peake",
+      "Morwenna Banks",
+      "Jordan Long",
+      "Pearl Mackie",
+      "Di Botcher",
+      "Dylan Edwards"
+    ],
+    "Director": [
+      "John Hardwick"
+    ],
+    "Type": null,
+    "st_end": [
+      1793246400,
+      1793253600
+    ],
+    "tmdb_id": 202262,
+    "imdb_id": "tt2262175",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Predoziranje",
+    "Raw_EPG": "Predoziranje",
+    "CH": "Pink Crime & Mystery",
+    "year": 2022,
+    "Cast": [
+      "Sofia Essaïdi",
+      "Assaad Bouab",
+      "Alberto Ammann",
+      "Nicolas Cazalé",
+      "Kool Shen",
+      "Simon Abkarian",
+      "Nassim Lyes",
+      "Naima Rodric",
+      "Moussa Mansaly",
+      "Zoé Marchal",
+      "Francis Renaud",
+      "Carlos Bardem",
+      "Olivier Barthélémy",
+      "Pierre Laplace",
+      "Kenza Fortas"
+    ],
+    "Director": [
+      "Olivier Marchal"
+    ],
+    "Type": null,
+    "st_end": [
+      1793127600,
+      1793134800
+    ],
+    "tmdb_id": 896485,
+    "imdb_id": "tt15713012",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Fortress: Sniper's Eye",
+    "Raw_EPG": "Fortress: Sniper's Eye",
+    "CH": "Pink Crime & Mystery",
+    "year": 2022,
+    "Cast": [
+      "Jesse Metcalfe",
+      "Bruce Willis",
+      "Chad Michael Murray",
+      "Kelly Greyson",
+      "Ser'Darius Blain",
+      "Natali Yura",
+      "Michael Sirow",
+      "Gabrielle Haugh",
+      "Welker White",
+      "Natalie Burn",
+      "Leonardo Castro",
+      "Adam Huel Potter",
+      "Rainier Quintana",
+      "J.T. Foxx",
+      "Ronal Tejada"
+    ],
+    "Director": [
+      "Josh Sternfeld"
+    ],
+    "Type": null,
+    "st_end": [
+      1793134800,
+      1793142000
+    ],
+    "tmdb_id": 883502,
+    "imdb_id": "tt14577304",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Bankar iz Bruklina",
+    "Raw_EPG": "Bankar iz Bruklina",
+    "CH": "Pink Crime & Mystery",
+    "year": 2016,
+    "Cast": [
+      "Federico Castelluccio",
+      "Troy Garity",
+      "Paul Sorvino",
+      "David Proval",
+      "Elizabeth Masucci",
+      "John Bedford Lloyd",
+      "Arthur J. Nascarella",
+      "John Bianco",
+      "Daniel Margotta",
+      "Adriana DeMeo",
+      "Melissa Marsala",
+      "Carmine Raspaolo",
+      "Joe Perrino",
+      "Artie Pasquale",
+      "Ellie Gallina"
+    ],
+    "Director": [
+      "Federico Castelluccio"
+    ],
+    "Type": null,
+    "st_end": [
+      1793142000,
+      1793149200
+    ],
+    "tmdb_id": 408289,
+    "imdb_id": "tt3758564",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Akoliti",
+    "Raw_EPG": "Akoliti",
+    "CH": "Pink Crime & Mystery",
+    "year": 2008,
+    "Cast": [
+      "Joel Edgerton",
+      "Michael Dorman",
+      "Sebastian Gregory",
+      "Hanna Mangan Lawrence",
+      "Joshua Payne",
+      "Belinda McClory",
+      "Holly Turner",
+      "Anthony Phelan",
+      "Bella Heathcote",
+      "Sue Dwyer",
+      "Todd Levi",
+      "Danny Baldwin",
+      "Harley Bennick",
+      "Ryan Sheldrake",
+      "Leigh Prewecki"
+    ],
+    "Director": [
+      "Jon Hewitt"
+    ],
+    "Type": null,
+    "st_end": [
+      1793149200,
+      1793156400
+    ],
+    "tmdb_id": 18557,
+    "imdb_id": "tt0902952",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Dan gneva",
+    "Raw_EPG": "Dan gneva",
+    "CH": "Pink Crime & Mystery",
+    "year": 2006,
+    "Cast": [
+      "Christopher Lambert",
+      "Blanca Marsillach",
+      "Brian Blessed",
+      "Szonja Oroszlán",
+      "James Faulkner",
+      "Ben O'Brien",
+      "Phyllida Law",
+      "Lukács Bicskey",
+      "Géza Schramek",
+      "John Rado",
+      "Benjamin Thiel",
+      "Joshua Brownwood",
+      "Rebeka Kárpáti",
+      "Fruzsina Fridel",
+      "Viorel Paunescu"
+    ],
+    "Director": [
+      "Adrian Rudomin"
+    ],
+    "Type": null,
+    "st_end": [
+      1793156400,
+      1793163600
+    ],
+    "tmdb_id": 16432,
+    "imdb_id": "tt0353357",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Skrovište",
+    "Raw_EPG": "Skrovište",
+    "CH": "Pink Crime & Mystery",
+    "year": 2021,
+    "Cast": [
+      "Owen Jones",
+      "Katie Lyons",
+      "Chris Wolfe",
+      "Bryan Enright",
+      "Audrey Kovar",
+      "Janice LaFlam",
+      "Eric Francis Melaragni",
+      "Mark A. Baum",
+      "Omar Torres",
+      "Mason Corey",
+      "Gail Scott-Key",
+      "Shawn Markley",
+      "Mike Sulat",
+      "Chris Walker",
+      "Drew Eckert"
+    ],
+    "Director": [
+      "Kris Roselli"
+    ],
+    "Type": null,
+    "st_end": [
+      1793163600,
+      1793170800
+    ],
+    "tmdb_id": 783546,
+    "imdb_id": "tt10899402",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Panduri i razbojnici",
+    "Raw_EPG": "Panduri i razbojnici",
+    "CH": "Pink Crime & Mystery",
+    "year": 2017,
+    "Cast": [
+      "Michael Jai White",
+      "Quinton 'Rampage' Jackson",
+      "Tom Berenger",
+      "Patrick Kilpatrick",
+      "Victoria Pratt",
+      "Chuck Zito",
+      "Gillian White",
+      "Ronnie Gene Blevins",
+      "James Chalke",
+      "Melissa Bolona",
+      "Marklen Kennedy",
+      "Justin Nesbitt",
+      "Jensen Jimerson",
+      "Michael Kaves",
+      "Johnny Jenkinson"
+    ],
+    "Director": [
+      "Scott Windhauser"
+    ],
+    "Type": null,
+    "st_end": [
+      1793214000,
+      1793221200
+    ],
+    "tmdb_id": 492402,
+    "imdb_id": "tt4717208",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Šest metaka",
+    "Raw_EPG": "Šest metaka",
+    "CH": "Pink Crime & Mystery",
+    "year": 2012,
+    "Cast": [
+      "Jean-Claude Van Damme",
+      "Joe Flanigan",
+      "Anna-Louise Plowman",
+      "Charlotte Beaumont",
+      "Steve Nicolson",
+      "Uriel Emil",
+      "Louis Dempsey",
+      "Mark Lewis",
+      "Kris Van Damme",
+      "Bianca Van Damme",
+      "Andrei Runcanu",
+      "Florin Busuioc",
+      "Matei Calin",
+      "Celesta Hodge",
+      "Sorin Cristea"
+    ],
+    "Director": [
+      "Ernie Barbarash"
+    ],
+    "Type": null,
+    "st_end": [
+      1793221200,
+      1793228400
+    ],
+    "tmdb_id": 127521,
+    "imdb_id": "tt1975249",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "No Place to Hide",
+    "Raw_EPG": "No Place to Hide",
+    "CH": "Pink Crime & Mystery",
+    "year": 1992,
+    "Cast": [
+      "Kris Kristofferson",
+      "Drew Barrymore",
+      "Illana Diamant",
+      "Martin Landau",
+      "O.J. Simpson",
+      "Dey Young",
+      "Bruce Weitz",
+      "Seth Marten",
+      "Lydie Denier",
+      "Lilyan Chauvin",
+      "John Pomposello",
+      "Michael Franco",
+      "Debra Ellis",
+      "Greg Safel",
+      "Mike Stone"
+    ],
+    "Director": [
+      "Richard Danus"
+    ],
+    "Type": null,
+    "st_end": [
+      1793228400,
+      1793235600
+    ],
+    "tmdb_id": 94005,
+    "imdb_id": "tt0105009",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Felicijino putovanje",
+    "Raw_EPG": "Felicijino putovanje",
+    "CH": "Pink Crime & Mystery",
+    "year": 1999,
+    "Cast": [
+      "Bob Hoskins",
+      "Arsinée Khanjian",
+      "Elaine Cassidy",
+      "Sheila Reid",
+      "Nizwar Karanj",
+      "Ali Yassine",
+      "Peter McDonald",
+      "Kriss Dosanjh",
+      "Gerard McSorley",
+      "Marie Stafford",
+      "Gavin Kelty",
+      "Brid Brennan",
+      "Mark Hadfield",
+      "Danny Turner",
+      "Susan Parry"
+    ],
+    "Director": [
+      "Atom Egoyan"
+    ],
+    "Type": null,
+    "st_end": [
+      1793235600,
+      1793242800
+    ],
+    "tmdb_id": 47692,
+    "imdb_id": "tt0165773",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ring opstanka",
+    "Raw_EPG": "Ring opstanka",
+    "CH": "Pink Crime & Mystery",
+    "year": 2021,
+    "Cast": [
+      "Ben Foster",
+      "Billy Magnussen",
+      "Vicky Krieps",
+      "Peter Sarsgaard",
+      "Saro Emirze",
+      "Danny DeVito",
+      "John Leguizamo",
+      "Dar Zuzovsky",
+      "Laurent Papot",
+      "Paul Bates",
+      "Svetlana Kundish",
+      "Sonya Cullingford",
+      "Michael Epp",
+      "Erik Contzius",
+      "Kingston Vernes"
+    ],
+    "Director": [
+      "Barry Levinson"
+    ],
+    "Type": null,
+    "st_end": [
+      1793242800,
+      1793250000
+    ],
+    "tmdb_id": 606870,
+    "imdb_id": "tt9242528",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Prečica",
+    "Raw_EPG": "Prečica",
+    "CH": "Pink Crime & Mystery",
+    "year": 2009,
+    "Cast": [
+      "Katrina Bowden",
+      "Jeremy Bastian",
+      "Cavan Cunningham",
+      "William B. Davis",
+      "Benjamin DeWalt",
+      "Nicholas Elia",
+      "Josh Emerson",
+      "Raymond J. Barry",
+      "Dave Franco",
+      "Jonelle Gunderson",
+      "Shannon Jardine",
+      "Scott Lyster",
+      "Christine MacInnis",
+      "Daniel Maslany",
+      "Maxine Miller"
+    ],
+    "Director": [
+      "Nicholaus Goossen"
+    ],
+    "Type": null,
+    "st_end": [
+      1793250000,
+      1793257200
+    ],
+    "tmdb_id": 22175,
+    "imdb_id": "tt1243955",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Saša Matić",
+    "Raw_EPG": "Saša Matić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793228400,
+      1793228580
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Lepa Brena",
+    "Raw_EPG": "Lepa Brena",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793228580,
+      1793228760
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Snežana Đurišić",
+    "Raw_EPG": "Snežana Đurišić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793228760,
+      1793229060
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Branislav Mojićević",
+    "Raw_EPG": "Branislav Mojićević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793229060,
+      1793229240
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Marinko Rokvić",
+    "Raw_EPG": "Marinko Rokvić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793229240,
+      1793229420
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Zorica Marković",
+    "Raw_EPG": "Zorica Marković",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793229420,
+      1793229660
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Nena Đurović",
+    "Raw_EPG": "Nena Đurović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793229660,
+      1793229900
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Gordana Lazarević",
+    "Raw_EPG": "Gordana Lazarević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793229900,
+      1793230080
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Indira",
+    "Raw_EPG": "Indira",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793230080,
+      1793230320
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Stevan Anđelković",
+    "Raw_EPG": "Stevan Anđelković",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793230320,
+      1793230500
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Jelena Broćić",
+    "Raw_EPG": "Jelena Broćić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793230500,
+      1793230680
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Olja Karleuša",
+    "Raw_EPG": "Olja Karleuša",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793230680,
+      1793230920
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Saša Kapor",
+    "Raw_EPG": "Saša Kapor",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793230920,
+      1793231100
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Verica Šerifović",
+    "Raw_EPG": "Verica Šerifović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793231100,
+      1793232000
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "The Monx",
+    "Raw_EPG": "The Monx",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793232000,
+      1793232120
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Oliver Mandić",
+    "Raw_EPG": "Oliver Mandić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793232120,
+      1793232420
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Đogani Fantastico",
+    "Raw_EPG": "Đogani Fantastico",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793232420,
+      1793232600
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Aleksandra Perović",
+    "Raw_EPG": "Aleksandra Perović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793232600,
+      1793232840
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Knez",
+    "Raw_EPG": "Knez",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793232840,
+      1793233080
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Dado Glišić",
+    "Raw_EPG": "Dado Glišić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793233080,
+      1793233260
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Leontina",
+    "Raw_EPG": "Leontina",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793233260,
+      1793233500
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Funky G",
+    "Raw_EPG": "Funky G",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793233500,
+      1793233800
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Xenia",
+    "Raw_EPG": "Xenia",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793233800,
+      1793233920
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Željko Samardžić",
+    "Raw_EPG": "Željko Samardžić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793233920,
+      1793234160
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Flamingosi",
+    "Raw_EPG": "Flamingosi",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793234160,
+      1793234400
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Sergej Ćetković",
+    "Raw_EPG": "Sergej Ćetković",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793234400,
+      1793234700
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Toše Proeski",
+    "Raw_EPG": "Toše Proeski",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793234700,
+      1793235060
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Saša Kovačević",
+    "Raw_EPG": "Saša Kovačević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793235060,
+      1793235240
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Maya Berović",
+    "Raw_EPG": "Maya Berović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793235600,
+      1793235900
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Nedeljko Bajić Baja",
+    "Raw_EPG": "Nedeljko Bajić Baja",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793235900,
+      1793236200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Aco Pejović",
+    "Raw_EPG": "Aco Pejović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793236200,
+      1793236380
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Ceca Ražnatović",
+    "Raw_EPG": "Ceca Ražnatović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793236380,
+      1793236680
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Ljubiša Stojanović Luis",
+    "Raw_EPG": "Ljubiša Stojanović Luis",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793236920,
+      1793237160
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Haris Džinović",
+    "Raw_EPG": "Haris Džinović",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793237400,
+      1793237700
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Halid Bešlić",
+    "Raw_EPG": "Halid Bešlić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793237700,
+      1793238000
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Ljuba Aličić",
+    "Raw_EPG": "Ljuba Aličić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793238000,
+      1793238420
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Šaban Šaulić",
+    "Raw_EPG": "Šaban Šaulić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793238420,
+      1793238720
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Renato Henc",
+    "Raw_EPG": "Renato Henc",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793238720,
+      1793239020
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Boris Novković",
+    "Raw_EPG": "Boris Novković",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793239500,
+      1793239800
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Milena Vučić",
+    "Raw_EPG": "Milena Vučić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793239980,
+      1793240160
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Nataša Bekvalac",
+    "Raw_EPG": "Nataša Bekvalac",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793240160,
+      1793240400
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Amadeus Band",
+    "Raw_EPG": "Amadeus Band",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793240400,
+      1793240760
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Marina Tadić",
+    "Raw_EPG": "Marina Tadić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793240760,
+      1793241000
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Dženan Lončarević",
+    "Raw_EPG": "Dženan Lončarević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793241000,
+      1793241180
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Goca Tržan",
+    "Raw_EPG": "Goca Tržan",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793241180,
+      1793241420
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "In Vivo",
+    "Raw_EPG": "In Vivo",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793241420,
+      1793241720
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Lexington Band",
+    "Raw_EPG": "Lexington Band",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793241720,
+      1793241960
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Jelena Tomašević",
+    "Raw_EPG": "Jelena Tomašević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793241960,
+      1793242200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Juice",
+    "Raw_EPG": "Juice",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793242200,
+      1793242440
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Dara Bubamara",
+    "Raw_EPG": "Dara Bubamara",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793242680,
+      1793242860
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Nemanja Nikolić",
+    "Raw_EPG": "Nemanja Nikolić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793242860,
+      1793243160
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Tanja Savić",
+    "Raw_EPG": "Tanja Savić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793243160,
+      1793243400
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Marta Savić",
+    "Raw_EPG": "Marta Savić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793243580,
+      1793243760
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Ana Kokić",
+    "Raw_EPG": "Ana Kokić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793243760,
+      1793244000
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Nataša Đorđević",
+    "Raw_EPG": "Nataša Đorđević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793244000,
+      1793244180
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Sejo Kalač",
+    "Raw_EPG": "Sejo Kalač",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793244180,
+      1793244420
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Mina Kostić",
+    "Raw_EPG": "Mina Kostić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793244420,
+      1793244600
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Aca Lukas",
+    "Raw_EPG": "Aca Lukas",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793244600,
+      1793244840
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Slavica Ćukteraš",
+    "Raw_EPG": "Slavica Ćukteraš",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793245020,
+      1793245260
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Aca Ilić",
+    "Raw_EPG": "Aca Ilić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793245260,
+      1793245440
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Šako Polumenta",
+    "Raw_EPG": "Šako Polumenta",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793245440,
+      1793245680
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Dejan Matić",
+    "Raw_EPG": "Dejan Matić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793245980,
+      1793246280
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Zabranjeno pušenje",
+    "Raw_EPG": "Zabranjeno pušenje",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793246820,
+      1793247120
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Marina Perazić",
+    "Raw_EPG": "Marina Perazić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793247120,
+      1793247360
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Parni Valjak",
+    "Raw_EPG": "Parni Valjak",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793247360,
+      1793247600
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Oktobar 1864",
+    "Raw_EPG": "Oktobar 1864",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793247600,
+      1793247780
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Slađana Milošević",
+    "Raw_EPG": "Slađana Milošević",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793247780,
+      1793248020
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Bebi Dol",
+    "Raw_EPG": "Bebi Dol",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793248020,
+      1793248200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Zdravko Čolić",
+    "Raw_EPG": "Zdravko Čolić",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793248200,
+      1793248380
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Leb i Sol",
+    "Raw_EPG": "Leb i Sol",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793248380,
+      1793248560
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Bijelo dugme",
+    "Raw_EPG": "Bijelo dugme",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793248560,
+      1793248860
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Đavoli",
+    "Raw_EPG": "Đavoli",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793248860,
+      1793249040
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Viktorija",
+    "Raw_EPG": "Viktorija",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793249040,
+      1793249220
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Idoli",
+    "Raw_EPG": "Idoli",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793249220,
+      1793249400
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Ena Popov",
+    "Raw_EPG": "Ena Popov",
+    "CH": "PINK EXTRA",
+    "year": null,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793250000,
+      1793250180
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Miss",
+    "Raw_EPG": "Miss",
+    "CH": "PINK Film",
+    "year": 1986,
+    "Cast": [
+      "Dragan Nikolić",
+      "Maja Sabljić",
+      "Dragoljub Vojnov",
+      "Velimir Bata Živojinović",
+      "Dragan Zarić",
+      "Stevo Žigon",
+      "Melinda May Cukic",
+      "Eleonora Barudzija",
+      "Olivera Marković",
+      "Miodrag Radovanović",
+      "Božidar Pavićević",
+      "Branko Cvejić",
+      "Čedomir Petrović",
+      "Petar Kralj",
+      "Zoran Cvijanović"
+    ],
+    "Director": [
+      "Aleksandar Husić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793120400,
+      1793125800
+    ],
+    "tmdb_id": 364914,
+    "imdb_id": "tt0180836",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ritam zločina",
+    "Raw_EPG": "Ritam zločina",
+    "CH": "PINK Film",
+    "year": 1981,
+    "Cast": [
+      "Ivica Vidović",
+      "Fabijan Šovagović",
+      "Božidarka Frajt",
+      "Dragutin Klobučar",
+      "Zdenka Trach",
+      "Tošo Jelić",
+      "Tomislav Gotovac",
+      "Đorđe Rapajić",
+      "Srećko Jurdana",
+      "Hrvoje Turković",
+      "Snježana Tribuson"
+    ],
+    "Director": [
+      "Zoran Tadić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793125800,
+      1793132100
+    ],
+    "tmdb_id": 256750,
+    "imdb_id": "tt0082998",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Boj na Kosovu",
+    "Raw_EPG": "Boj na Kosovu",
+    "CH": "PINK Film",
+    "year": 1989,
+    "Cast": [
+      "Miloš Žutić",
+      "Gorica Popović",
+      "Vojislav Brajović",
+      "Žarko Laušević",
+      "Katarina Gojković",
+      "Svetozar Cvetković",
+      "Milan Gutović",
+      "Predrag Laković",
+      "Irfan Mensur",
+      "Radoslav Milenković",
+      "Tihomir Arsić",
+      "Toni Laurenčić",
+      "Bogdan Diklić",
+      "Branko Cvejić",
+      "Miodrag Radovanović"
+    ],
+    "Director": [
+      "Zdravko Šotra"
+    ],
+    "Type": null,
+    "st_end": [
+      1793132100,
+      1793137500
+    ],
+    "tmdb_id": 108107,
+    "imdb_id": "tt0096966",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Svilen konac",
+    "Raw_EPG": "Svilen konac",
+    "CH": "PINK Film",
+    "year": 2023,
+    "Cast": [
+      "Andrej Njezic",
+      "Nevena Ignjatovic",
+      "Aleksandar Stojković",
+      "Olga Odanović",
+      "Nedeljko Bajić",
+      "Elena Gromilic",
+      "Svetlana Golubovic Skundric",
+      "Nikola Bojic",
+      "Ivan Rajkovic"
+    ],
+    "Director": [
+      "Damir Romanov"
+    ],
+    "Type": null,
+    "st_end": [
+      1793137500,
+      1793143800
+    ],
+    "tmdb_id": 1112927,
+    "imdb_id": "tt22042786",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ti imaš noć",
+    "Raw_EPG": "Ti imaš noć",
+    "CH": "PINK Film",
+    "year": 2018,
+    "Cast": [
+      "Jasna Đuričić",
+      "Boris Isaković",
+      "Nikola Manojlović",
+      "Petar Pejaković",
+      "Luka Petrone",
+      "Momo Pićurić",
+      "Marko Štibohar",
+      "Nikola Stojanović",
+      "Alice Vong",
+      "Ivana Vuković"
+    ],
+    "Director": [
+      "Ivan Salatić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793143800,
+      1793149200
+    ],
+    "tmdb_id": 539964,
+    "imdb_id": "tt8908514",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Porno priča",
+    "Raw_EPG": "Porno priča",
+    "CH": "PINK Film",
+    "year": 2022,
+    "Cast": [
+      "Miljan Prljeta",
+      "Ivan Đorđević",
+      "Danica Grubacki",
+      "Miodrag Fišeković",
+      "Radmila Tukodi"
+    ],
+    "Director": [
+      "Aleksandar Janković"
+    ],
+    "Type": null,
+    "st_end": [
+      1793149200,
+      1793155500
+    ],
+    "tmdb_id": 1024398,
+    "imdb_id": "tt20229564",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Optimisti",
+    "Raw_EPG": "Optimisti",
+    "CH": "PINK Film",
+    "year": 2006,
+    "Cast": [
+      "Lazar Ristovski",
+      "Bojana Novaković",
+      "Petar Božović",
+      "Tihomir Arsić",
+      "Nebojša Glogovac",
+      "Nebojša Milovanović",
+      "Slavko Štimac",
+      "Dragan Jovanović",
+      "Mira Banjac",
+      "Viktor Savić",
+      "Lazar Milošević",
+      "Danica Ristovski",
+      "Vladimir Jevtović",
+      "Boro Stjepanović",
+      "Aleksandra Pleskonjić"
+    ],
+    "Director": [
+      "Goran Paskaljević"
+    ],
+    "Type": null,
+    "st_end": [
+      1793155500,
+      1793163600
+    ],
+    "tmdb_id": 112103,
+    "imdb_id": "tt0478714",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Pjevam danju, pjevam noću",
+    "Raw_EPG": "Pjevam danju, pjevam noću",
+    "CH": "PINK Film",
+    "year": 1979,
+    "Cast": [
+      "Miroslav Antić",
+      "Neda Arnerić",
+      "Tanja Bošković",
+      "Goran Bregović",
+      "Zdravko Čolić",
+      "Stanko Crnobrnja",
+      "Arsen Dedić",
+      "Kornelije Kovač",
+      "Kemal Monteno",
+      "Zlata Numanagić",
+      "Petar Peca Popovic",
+      "Dušan Radović",
+      "Biljana Ristić",
+      "Dragoslav Šekularac",
+      "Lokica Stefanovic"
+    ],
+    "Director": [
+      "Jovan Ristić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793206800,
+      1793212200
+    ],
+    "tmdb_id": 315686,
+    "imdb_id": "tt0204551",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Odbačen",
+    "Raw_EPG": "Odbačen",
+    "CH": "PINK Film",
+    "year": 2007,
+    "Cast": [
+      "Svetozar Cvetković",
+      "Aleksandra Janković",
+      "Ljiljana Međeši",
+      "Renata Ulmanski",
+      "Ana Maljević",
+      "Milica Spasojević",
+      "Snežana Nikšić",
+      "Nenad Ćirić",
+      "Ana Franić",
+      "Tihomir Stanić",
+      "Svetislav Goncić",
+      "Sonja Vukičević",
+      "Vanja Andric",
+      "Miodrag Krstović",
+      "Danica Maksimović"
+    ],
+    "Director": [
+      "Miloš 'Miša' Radivojević"
+    ],
+    "Type": null,
+    "st_end": [
+      1793212200,
+      1793218500
+    ],
+    "tmdb_id": 111838,
+    "imdb_id": "tt0862911",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Heroj ulice",
+    "Raw_EPG": "Heroj ulice",
+    "CH": "PINK Film",
+    "year": 2023,
+    "Cast": [
+      "Daniel Kovačević",
+      "Dragan Vujić",
+      "Darko Tomović",
+      "Nina Grahovac",
+      "Nikola Mijatović",
+      "Nevena Nerandzic",
+      "Ivan Perkovic",
+      "Tanja Divnic",
+      "Bora Nenić",
+      "Srđan Ivanović",
+      "Nikola Petrović",
+      "Jakov Jevtović",
+      "Aleksa Jovanović",
+      "Vlada Vlajic",
+      "Teodora Dragičević"
+    ],
+    "Director": [
+      "Roman Majetić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793218500,
+      1793223900
+    ],
+    "tmdb_id": 1143081,
+    "imdb_id": "tt20229586",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ako kiša ne padne",
+    "Raw_EPG": "Ako kiša ne padne",
+    "CH": "PINK Film",
+    "year": 2023,
+    "Cast": [
+      "Radoje Čupić",
+      "Gordana Đurđević Dimić",
+      "Duško Radović",
+      "Sonja Knežević",
+      "Višnja Obradović",
+      "Nikola Končarević",
+      "Jelena Simić",
+      "Aljosa Djidic",
+      "Mia Simonović",
+      "Milica Grujičić",
+      "Miroljub Turajlija",
+      "Filip Klicov",
+      "Lazar Đukić"
+    ],
+    "Director": [
+      "Marko Sopić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793223900,
+      1793230200
+    ],
+    "tmdb_id": 1154947,
+    "imdb_id": "tt21908474",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Dogodilo se na današnji dan",
+    "Raw_EPG": "Dogodilo se na današnji dan",
+    "CH": "PINK Film",
+    "year": 1987,
+    "Cast": [
+      "Olja Bećković",
+      "Vesna Trivalić",
+      "Marica Vuletić",
+      "Nebojša Bakočević",
+      "Zoran Cvijanović",
+      "Žarko Laušević",
+      "Srđan Todorović",
+      "Marko Ratić",
+      "Olivera Marković",
+      "Milena Dravić",
+      "Josif Tatić",
+      "Dragan Zarić",
+      "Aleksandar Berček",
+      "Petar Kralj",
+      "Milan Pleština"
+    ],
+    "Director": [
+      "Miroslav Lekić"
+    ],
+    "Type": null,
+    "st_end": [
+      1793230200,
+      1793235600
+    ],
+    "tmdb_id": 263204,
+    "imdb_id": "tt0181498",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Variola vera",
+    "Raw_EPG": "Variola vera",
+    "CH": "PINK Film",
+    "year": 1982,
+    "Cast": [
+      "Rade Šerbedžija",
+      "Erland Josephson",
+      "Dušica Žegarac",
+      "Varja Đukić",
+      "Rade Marković",
+      "Vladislava Milosavljević",
+      "Peter Carsten",
+      "Aleksandar Berček",
+      "Radmila Živković",
+      "Semka Sokolović-Bertok",
+      "Bogdan Diklić",
+      "Velimir Životić",
+      "Milo Miranović",
+      "Džemail Maksut",
+      "Katica Želi"
+    ],
+    "Director": [
+      "Goran Marković"
+    ],
+    "Type": null,
+    "st_end": [
+      1793235600,
+      1793241900
+    ],
+    "tmdb_id": 129828,
+    "imdb_id": "tt0083275",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Tamo i natrag (1978) = Aller retour",
+    "Raw_EPG": "Tamo i natrag (1978) = Aller retour",
+    "CH": "PINK Film",
+    "year": 1978,
+    "Cast": [
+      "Dušan Janićijević",
+      "Milena Dravić",
+      "Ljubiša Samardžić",
+      "Slavko Štimac",
+      "Radmila Živković",
+      "Jasna Ivic",
+      "Vladan Živković",
+      "Ljubomir Ćipranić",
+      "Veljko Mandić",
+      "Predrag Milinković",
+      "Miha Baloh",
+      "Boro Begović",
+      "Momčilo Stanišić",
+      "Aleksandar Stojanović",
+      "Dragoljub Vojnov"
+    ],
+    "Director": [
+      "Aleksandar Petković"
+    ],
+    "Type": null,
+    "st_end": [
+      1793241900,
+      1793250000
+    ],
+    "tmdb_id": 503922,
+    "imdb_id": "tt0180413",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Debina noć živih mrtvaca",
+    "Raw_EPG": "Debina noć živih mrtvaca",
+    "CH": "Pink Horror",
+    "year": 2015,
+    "Cast": [
+      "Maria Thayer",
+      "Michael Cassidy",
+      "Julie Brister",
+      "Nan'l Meiklejohn",
+      "Syd Wilder",
+      "Ned Donovan",
+      "Nick Shuhan",
+      "Grant Garry",
+      "Emily Rankin",
+      "Deborah Geffner",
+      "Muriel Kenderdine",
+      "Christopher Rodriguez Marquette",
+      "Ray Wise",
+      "Dale R. Simonton",
+      "Brian Sacca"
+    ],
+    "Director": [
+      "Kyle Rankin"
+    ],
+    "Type": null,
+    "st_end": [
+      1792720680,
+      1792727880
+    ],
+    "tmdb_id": 343284,
+    "imdb_id": "tt3602128",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Ostrvo duhova",
+    "Raw_EPG": "Ostrvo duhova",
+    "CH": "Pink Horror",
+    "year": 2021,
+    "Cast": [
+      "Gordon Brown",
+      "Kate Dickie",
+      "Nick Duncalf",
+      "Tom Hughes",
+      "Jamie Marie Leary",
+      "Debbie Mackay",
+      "Richard Payne",
+      "Jatinder Singh Randhawa",
+      "Greta Scacchi",
+      "Shuggie",
+      "Gaia Weiss"
+    ],
+    "Director": [
+      "Russell Owen"
+    ],
+    "Type": null,
+    "st_end": [
+      1793120400,
+      1793127600
+    ],
+    "tmdb_id": 749727,
+    "imdb_id": "tt10196620",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Keri",
+    "Raw_EPG": "Keri",
+    "CH": "Pink Horror",
+    "year": 2013,
+    "Cast": [
+      "Chloë Grace Moretz",
+      "Julianne Moore",
+      "Gabriella Wilde",
+      "Portia Doubleday",
+      "Zoë Belkin",
+      "Samantha Weinstein",
+      "Karissa Strain",
+      "Katie Strain",
+      "Ansel Elgort",
+      "Demetrius Joyette",
+      "Judy Greer",
+      "Barry Shabaka Henley",
+      "Arlene Mazerolle",
+      "Evan Gilchrist",
+      "Eddie Max Huband"
+    ],
+    "Director": [
+      "Kimberly Peirce"
+    ],
+    "Type": null,
+    "st_end": [
+      1793127600,
+      1793134800
+    ],
+    "tmdb_id": 133805,
+    "imdb_id": "tt1939659",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Skrovište",
+    "Raw_EPG": "Skrovište",
+    "CH": "Pink Horror",
+    "year": 2021,
+    "Cast": [
+      "Owen Jones",
+      "Katie Lyons",
+      "Chris Wolfe",
+      "Bryan Enright",
+      "Audrey Kovar",
+      "Janice LaFlam",
+      "Eric Francis Melaragni",
+      "Mark A. Baum",
+      "Omar Torres",
+      "Mason Corey",
+      "Gail Scott-Key",
+      "Shawn Markley",
+      "Mike Sulat",
+      "Chris Walker",
+      "Drew Eckert"
+    ],
+    "Director": [
+      "Kris Roselli"
+    ],
+    "Type": null,
+    "st_end": [
+      1793134800,
+      1793142000
+    ],
+    "tmdb_id": 783546,
+    "imdb_id": "tt10899402",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Mašina za ubijanje",
+    "Raw_EPG": "Mašina za ubijanje",
+    "CH": "Pink Horror",
+    "year": 2006,
+    "Cast": [
+      "Michael Madsen",
+      "Mac Fyfe",
+      "Stephen Arbuckle",
+      "Victoria Nestorowicz",
+      "Erin Mackinnon",
+      "Deanna Dezmari",
+      "John Evans",
+      "Simon Northwood",
+      "Billy Parrott",
+      "Glen Cross",
+      "Chris Loane",
+      "John-Philip Vazquez",
+      "Lincoln Russel",
+      "Erin Berry",
+      "Michael Murray Scratch"
+    ],
+    "Director": [
+      "David Mitchell"
+    ],
+    "Type": null,
+    "st_end": [
+      1793142000,
+      1793149200
+    ],
+    "tmdb_id": 10062,
+    "imdb_id": "tt0843878",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Dečak iza vrata",
+    "Raw_EPG": "Dečak iza vrata",
+    "CH": "Pink Horror",
+    "year": 2020,
+    "Cast": [
+      "Lonnie Chavis",
+      "Ezra Dewey",
+      "Kristin Bauer van Straten",
+      "Micah Hauptman",
+      "Scott Michael Foster",
+      "Rich Ceraulo Ko",
+      "Anna B. Shaffer",
+      "Noah Pierre",
+      "Alfredo Tavares"
+    ],
+    "Director": [
+      "David Charbonier",
+      "Justin Powell"
+    ],
+    "Type": null,
+    "st_end": [
+      1793149200,
+      1793156400
+    ],
+    "tmdb_id": 741613,
+    "imdb_id": "tt10772662",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Uništi me",
+    "Raw_EPG": "Uništi me",
+    "CH": "Pink Horror",
+    "year": 2017,
+    "Cast": [
+      "Marcienne Dwyer",
+      "Matt Dellapina",
+      "Chris Hill",
+      "Eva Hamilton",
+      "John Odom",
+      "Sam Ashdown",
+      "Cameron Gordon",
+      "Rocky Rector",
+      "Tom Harryman",
+      "Alex Galick",
+      "Trenton Colbert",
+      "Traver Johnson",
+      "Jerry Maxwell",
+      "Tim Taylor",
+      "The After Effect"
+    ],
+    "Director": [
+      "Preston DeFrancis"
+    ],
+    "Type": null,
+    "st_end": [
+      1793156400,
+      1793163600
+    ],
+    "tmdb_id": 401272,
+    "imdb_id": "tt4807272",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Đavo u telu",
+    "Raw_EPG": "Đavo u telu",
+    "CH": "Pink Horror",
+    "year": 1998,
+    "Cast": [
+      "Rose McGowan",
+      "Alex McArthur",
+      "Peg Shirley",
+      "J.C. Brandy",
+      "Phil Morris",
+      "Robert Silver",
+      "Sherrie Rose",
+      "Ryan Bittle",
+      "Julia Nickson",
+      "Krissy Carlson",
+      "Wendy Robie",
+      "Philip Boyd",
+      "Milton James",
+      "Morgan Distefano",
+      "Aloma Wright"
+    ],
+    "Director": [
+      "Steve Cohen"
+    ],
+    "Type": null,
+    "st_end": [
+      1793206800,
+      1793214000
+    ],
+    "tmdb_id": 45431,
+    "imdb_id": "tt0143213",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Postojanje",
+    "Raw_EPG": "Postojanje",
+    "CH": "Pink Horror",
+    "year": 1999,
+    "Cast": [
+      "Jude Law",
+      "Jennifer Jason Leigh",
+      "Ian Holm",
+      "Willem Dafoe",
+      "Don McKellar",
+      "Callum Keith Rennie",
+      "Christopher Eccleston",
+      "Sarah Polley",
+      "Robert A. Silverman",
+      "Oscar Hsu",
+      "Kris Lemche",
+      "Vik Sahay",
+      "Kirsten Johnson",
+      "James Kirchner",
+      "Balázs Koós"
+    ],
+    "Director": [
+      "David Cronenberg"
+    ],
+    "Type": null,
+    "st_end": [
+      1793214000,
+      1793221200
+    ],
+    "tmdb_id": 1946,
+    "imdb_id": "tt0120907",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Đavolja noć",
+    "Raw_EPG": "Đavolja noć",
+    "CH": "Pink Horror",
+    "year": 1972,
+    "Cast": [
+      "Gianni Garko",
+      "Agostina Belli",
+      "Roberto Maldera",
+      "Cinzia De Carolis",
+      "Teresa Gimpera",
+      "Bill Vanders",
+      "Umberto Raho",
+      "Luis Suárez",
+      "Sabrina Tamborra",
+      "Rosita Torosh",
+      "Stefano Oppedisano",
+      "Maria Monti",
+      "John Bartha",
+      "Tom Felleghy",
+      "Renato Turi"
+    ],
+    "Director": [
+      "Giorgio Ferroni"
+    ],
+    "Type": null,
+    "st_end": [
+      1793221200,
+      1793228400
+    ],
+    "tmdb_id": 27409,
+    "imdb_id": "tt0069017",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Eko ratnici",
+    "Raw_EPG": "Eko ratnici",
+    "CH": "Pink Horror",
+    "year": 2006,
+    "Cast": [
+      "Edward Furlong",
+      "Ellen Furey",
+      "Andrea Lui",
+      "Dylan Taylor",
+      "Andrew Hachey",
+      "Krystin Pellerin",
+      "Andrew Gillies",
+      "James McGowan",
+      "Trina Brink",
+      "Marc Hickox",
+      "Rothaford Gray",
+      "Billy MacLellan",
+      "Tim Hamaguchi",
+      "Jason Stutz",
+      "Erin Berry"
+    ],
+    "Director": [
+      "Robert Wilson"
+    ],
+    "Type": null,
+    "st_end": [
+      1793228400,
+      1793235600
+    ],
+    "tmdb_id": 10121,
+    "imdb_id": "tt0490240",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Sledeća stanica Ubistvo",
+    "Raw_EPG": "Sledeća stanica Ubistvo",
+    "CH": "Pink Horror",
+    "year": 2010,
+    "Cast": [
+      "Brigid Brannagh",
+      "Allison Lange",
+      "Brian Krause",
+      "Rosa Blasi",
+      "Joe Regalbuto",
+      "Lin Shaye",
+      "Charlie Stewart",
+      "Jordan Baker",
+      "Kevin Kilner",
+      "Ian Duncan",
+      "Gary Weeks",
+      "Heather Ballentine"
+    ],
+    "Director": [
+      "John Murlowski"
+    ],
+    "Type": null,
+    "st_end": [
+      1793235600,
+      1793242800
+    ],
+    "tmdb_id": 70035,
+    "imdb_id": "tt1575517",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "U kadru",
+    "Raw_EPG": "U kadru",
+    "CH": "Pink Horror",
+    "year": 2017,
+    "Cast": [
+      "Daniel Horvath",
+      "Enric Auquer",
+      "Joe Manjón",
+      "Àlex Maruny",
+      "Biel Montoro",
+      "Clàudia Pons",
+      "Pep Sais",
+      "Mercè Montalà",
+      "Ann Perelló",
+      "Carlus Fàbrega",
+      "Júlia Molins",
+      "Adriana Feito",
+      "Lídia Casanova",
+      "Santos Adrián",
+      "Ramon Canals"
+    ],
+    "Director": [
+      "Marc Martínez Jordán"
+    ],
+    "Type": null,
+    "st_end": [
+      1793242800,
+      1793250000
+    ],
+    "tmdb_id": 375542,
+    "imdb_id": "tt5065346",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Brimming with Love",
+    "Raw_EPG": "Brimming with Love",
+    "CH": "Pink Movies",
+    "year": 2018,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793124000,
+      1793131200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Til",
+    "Raw_EPG": "Til",
+    "CH": "Pink Movies",
+    "year": 2022,
+    "Cast": [
+      "Danielle Deadwyler",
+      "Jalyn Hall",
+      "Frankie Faison",
+      "Jamie Renell",
+      "Whoopi Goldberg",
+      "Sean Patrick Thomas",
+      "John Douglas Thompson",
+      "Gem Collins",
+      "Diallo Thompson",
+      "Tyrik Johnson",
+      "Enoch King",
+      "Haley Bennett",
+      "Carol J. Mckenith",
+      "Elizabeth Youman",
+      "Keisha Tillis"
+    ],
+    "Director": [
+      "Chinonye Chukwu"
+    ],
+    "Type": null,
+    "st_end": [
+      1793131200,
+      1793138400
+    ],
+    "tmdb_id": 854239,
+    "imdb_id": "tt4960748",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Respect - Priča o Areti Frenklin",
+    "Raw_EPG": "Respect - Priča o Areti Frenklin",
+    "CH": "Pink Movies",
+    "year": 2021,
+    "Cast": [
+      "Jennifer Hudson",
+      "Forest Whitaker",
+      "Marlon Wayans",
+      "Tituss Burgess",
+      "Audra McDonald",
+      "Marc Maron",
+      "Heather Headley",
+      "Kimberly Scott",
+      "Hailey Kilgore",
+      "Saycon Sengbloh",
+      "Leroy Mcclain",
+      "Albert Jones",
+      "Tate Donovan",
+      "Myk Watford",
+      "Skye Dakota Turner"
+    ],
+    "Director": [
+      "Liesl Tommy"
+    ],
+    "Type": null,
+    "st_end": [
+      1793138400,
+      1793145600
+    ],
+    "tmdb_id": 592863,
+    "imdb_id": "tt2452150",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Sat kasnije",
+    "Raw_EPG": "Sat kasnije",
+    "CH": "Pink Movies",
+    "year": 2017,
+    "Cast": [
+      "Emily Rose",
+      "Barry Watson",
+      "Ali Durham",
+      "Casey Elliott",
+      "Scott Christopher",
+      "Aubrey Reynolds",
+      "Shona Kay",
+      "K. Danor Gerald",
+      "Michael Birkeland",
+      "Cameron Harford",
+      "Rick Macy",
+      "Kristen Marie Jensen",
+      "Channon Voyce",
+      "Sela Vave",
+      "Nanci Wudel"
+    ],
+    "Director": [
+      "Brian Brough"
+    ],
+    "Type": null,
+    "st_end": [
+      1793145600,
+      1793152800
+    ],
+    "tmdb_id": 481439,
+    "imdb_id": "tt6133806",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Opasno mesto",
+    "Raw_EPG": "Opasno mesto",
+    "CH": "Pink Movies",
+    "year": 1994,
+    "Cast": [
+      "Ted Jan Roberts",
+      "Corey Feldman",
+      "Mako",
+      "Erin Gray",
+      "Marshall R. Teague",
+      "Dick Van Patten",
+      "Dean Cochran",
+      "Tricia Vessey",
+      "William James Jones",
+      "Jason Majik",
+      "Marc Riffon",
+      "Derek Basco",
+      "Eddi Wilde",
+      "Kathy Messick",
+      "Michael Monks"
+    ],
+    "Director": [
+      "Jerry P. Jacobs"
+    ],
+    "Type": null,
+    "st_end": [
+      1793152800,
+      1793160000
+    ],
+    "tmdb_id": 229594,
+    "imdb_id": "tt0107696",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Flight to Berlin",
+    "Raw_EPG": "Flight to Berlin",
+    "CH": "Pink Movies",
+    "year": 1984,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793160000,
+      1793167200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Love at the First Dance",
+    "Raw_EPG": "Love at the First Dance",
+    "CH": "Pink Movies",
+    "year": 2018,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793210400,
+      1793217600
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Lekcija za gospođu Tingl",
+    "Raw_EPG": "Lekcija za gospođu Tingl",
+    "CH": "Pink Movies",
+    "year": 1999,
+    "Cast": [
+      "Helen Mirren",
+      "Marisa Coughlan",
+      "Katie Holmes",
+      "Jeffrey Tambor",
+      "Barry Watson",
+      "Liz Stauber",
+      "Michael McKean",
+      "Molly Ringwald",
+      "Vivica A. Fox",
+      "John Patrick White",
+      "Robert Gant",
+      "Harvey Silver",
+      "Charlie Anderson",
+      "John Embry",
+      "Cameron Glenar"
+    ],
+    "Director": [
+      "Kevin Williamson"
+    ],
+    "Type": null,
+    "st_end": [
+      1793217600,
+      1793224800
+    ],
+    "tmdb_id": 10342,
+    "imdb_id": "tt0133046",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Torbar",
+    "Raw_EPG": "Torbar",
+    "CH": "Pink Movies",
+    "year": 2010,
+    "Cast": [
+      "Stephen Chambers",
+      "Kevin Spacey",
+      "Barry Pepper",
+      "Jon Lovitz",
+      "Ruth Marshall",
+      "Graham Greene",
+      "Hannah Endicott-Douglas",
+      "John Robinson",
+      "Jason Weinberg",
+      "Spencer Garrett",
+      "Yok Come Ho",
+      "Anna Hardwick",
+      "John David Whalen",
+      "Matt Gordon",
+      "Jeffrey R. Smith"
+    ],
+    "Director": [
+      "George Hickenlooper"
+    ],
+    "Type": null,
+    "st_end": [
+      1793224800,
+      1793232000
+    ],
+    "tmdb_id": 45324,
+    "imdb_id": "tt1194417",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Stephen King’s Doctor Sleep",
+    "Raw_EPG": "Stephen King’s Doctor Sleep",
+    "CH": "Pink Movies",
+    "year": 2019,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793232000,
+      1793239200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Zamislite je mrtvu",
+    "Raw_EPG": "Zamislite je mrtvu",
+    "CH": "Pink Movies",
+    "year": 2023,
+    "Cast": [
+      "Tess Cline",
+      "Ali Zahiri",
+      "Allen Williamson",
+      "Kristi Murdock",
+      "Ashley Doris",
+      "Karim Phelps",
+      "Kris Ann Russell",
+      "Jacquelin Arroyo",
+      "Lashan Anderson",
+      "Buzz Leer",
+      "Luis Fernandez-Gil",
+      "Sarah Stunt",
+      "Jessica Mathis",
+      "Lee Sobel",
+      "Daniel Olsen"
+    ],
+    "Director": [
+      "Dylan Vox"
+    ],
+    "Type": null,
+    "st_end": [
+      1793239200,
+      1793246400
+    ],
+    "tmdb_id": 1155811,
+    "imdb_id": "tt26255902",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Feniks",
+    "Raw_EPG": "Feniks",
+    "CH": "Pink Movies",
+    "year": 1998,
+    "Cast": [
+      "Ray Liotta",
+      "Anthony LaPaglia",
+      "Daniel Baldwin",
+      "Jeremy Piven",
+      "Royce D. Applegate",
+      "Xander Berkeley",
+      "Tamara Clatterbuck",
+      "Vanessa Munday",
+      "Al Sapienza",
+      "Yvette Cruise",
+      "John Henry Whitaker",
+      "Glenn Morshower",
+      "Brittany Murphy",
+      "George Murdock",
+      "Kathryn Joosten"
+    ],
+    "Director": [
+      "Danny Cannon"
+    ],
+    "Type": null,
+    "st_end": [
+      1793246400,
+      1793253600
+    ],
+    "tmdb_id": 28047,
+    "imdb_id": "tt0119892",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Specijalna emisija",
+    "Raw_EPG": "Specijalna emisija",
+    "CH": "PINK PLUS",
+    "year": 2026,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1792700100,
+      1792706160
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Velika oluja",
+    "Raw_EPG": "Velika oluja",
+    "CH": "Pink Premium",
+    "year": 2017,
+    "Cast": [
+      "Gerard Butler",
+      "Jim Sturgess",
+      "Abbie Cornish",
+      "Alexandra Maria Lara",
+      "Daniel Wu",
+      "Eugenio Derbez",
+      "Amr Waked",
+      "Adepero Oduye",
+      "Andy Garcia",
+      "Ed Harris",
+      "Robert Sheehan",
+      "Richard Schiff",
+      "Mare Winningham",
+      "Zazie Beetz",
+      "Talitha Eliana Bateman"
+    ],
+    "Director": [
+      "Dean Devlin"
+    ],
+    "Type": null,
+    "st_end": [
+      1793127600,
+      1793134800
+    ],
+    "tmdb_id": 274855,
+    "imdb_id": "tt1981128",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Poslednji zamak",
+    "Raw_EPG": "Poslednji zamak",
+    "CH": "Pink Premium",
+    "year": 2001,
+    "Cast": [
+      "Robert Redford",
+      "James Gandolfini",
+      "Mark Ruffalo",
+      "Steve Burton",
+      "Delroy Lindo",
+      "Paul Calderon",
+      "Sam Ball",
+      "Jeremy Childs",
+      "Clifton Collins Jr.",
+      "George W. Scott",
+      "Brian Goodman",
+      "Michael Irby",
+      "Frank Military",
+      "Maurice Bullard",
+      "Nick Kokich"
+    ],
+    "Director": [
+      "Rod Lurie"
+    ],
+    "Type": null,
+    "st_end": [
+      1793134800,
+      1793142420
+    ],
+    "tmdb_id": 2100,
+    "imdb_id": "tt0272020",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Džek Rajan Regrut iz senke",
+    "Raw_EPG": "Džek Rajan Regrut iz senke",
+    "CH": "Pink Premium",
+    "year": 2014,
+    "Cast": [
+      "Chris Pine",
+      "Kevin Costner",
+      "Keira Knightley",
+      "Kenneth Branagh",
+      "Lenn Kudrjawizki",
+      "Alec Utgoff",
+      "Peter Andersson",
+      "Elena Velikanova",
+      "Nonso Anozie",
+      "Seth Ayott",
+      "Colm Feore",
+      "Gemma Chan",
+      "Aleksandar Aleksiev",
+      "Andrew Byron",
+      "Derek Lea"
+    ],
+    "Director": [
+      "Kenneth Branagh"
+    ],
+    "Type": null,
+    "st_end": [
+      1793142420,
+      1793149200
+    ],
+    "tmdb_id": 137094,
+    "imdb_id": "tt1205537",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Bez kajanja",
+    "Raw_EPG": "Bez kajanja",
+    "CH": "Pink Premium",
+    "year": 2021,
+    "Cast": [
+      "Michael B. Jordan",
+      "Jodie Turner-Smith",
+      "Jamie Bell",
+      "Guy Pearce",
+      "Lauren London",
+      "Jacob Scipio",
+      "Todd Lasance",
+      "Jack Kesy",
+      "Lucy Russell",
+      "Cam Gigandet",
+      "Luke Mitchell",
+      "Artjom Gilz",
+      "Brett Gelman",
+      "Merab Ninidze",
+      "Alexander Terentyev"
+    ],
+    "Director": [
+      "Stefano Sollima"
+    ],
+    "Type": null,
+    "st_end": [
+      1793149200,
+      1793156400
+    ],
+    "tmdb_id": 567189,
+    "imdb_id": "tt0499097",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Očuh",
+    "Raw_EPG": "Očuh",
+    "CH": "Pink Premium",
+    "year": 2009,
+    "Cast": [
+      "Penn Badgley",
+      "Dylan Walsh",
+      "Sela Ward",
+      "Amber Heard",
+      "Sherry Stringfield",
+      "Paige Turco",
+      "Jon Tenney",
+      "Nancy Linehan Charles",
+      "Marcuis Harris",
+      "Braeden Lemasters",
+      "Deirdre Lovejoy",
+      "Skyler Samuels",
+      "Blue Deckert",
+      "Jason Wiles",
+      "Kara Ortiz"
+    ],
+    "Director": [
+      "Nelson McCormick"
+    ],
+    "Type": null,
+    "st_end": [
+      1793156400,
+      1793163600
+    ],
+    "tmdb_id": 19904,
+    "imdb_id": "tt0814335",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Od Prade do bez nade",
+    "Raw_EPG": "Od Prade do bez nade",
+    "CH": "Pink Premium",
+    "year": 2011,
+    "Cast": [
+      "Camilla Belle",
+      "Alexa PenaVega",
+      "Kuno Becker",
+      "Tina French",
+      "Luis Rosales",
+      "Pablo Martínez de Velasco",
+      "Alexis Ayala",
+      "Norma Reyna",
+      "Adriana Barraza",
+      "Oliverio Gareli",
+      "Catalina López",
+      "José María Negri",
+      "Mario Zaragoza",
+      "Pablo Cruz",
+      "April Bowlby"
+    ],
+    "Director": [
+      "Angel Gracia"
+    ],
+    "Type": null,
+    "st_end": [
+      1793163600,
+      1793170800
+    ],
+    "tmdb_id": 50217,
+    "imdb_id": "tt0893412",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Zmijske oči Dži Aj Džo počeci",
+    "Raw_EPG": "Zmijske oči Dži Aj Džo počeci",
+    "CH": "Pink Premium",
+    "year": 2021,
+    "Cast": [
+      "Henry Golding",
+      "Andrew Koji",
+      "Haruka Abe",
+      "Takehiro Hira",
+      "Eri Ishida",
+      "Iko Uwais",
+      "Peter Mensah",
+      "Úrsula Corberó",
+      "Samara Weaving",
+      "Samuel Finzi",
+      "Steven Allerick",
+      "Max Archibald",
+      "Simon Chin",
+      "Derrick de Villiers",
+      "Kento Matsunami"
+    ],
+    "Director": [
+      "Robert Schwentke"
+    ],
+    "Type": null,
+    "st_end": [
+      1793214000,
+      1793221200
+    ],
+    "tmdb_id": 568620,
+    "imdb_id": "tt8404256",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Svetac",
+    "Raw_EPG": "Svetac",
+    "CH": "Pink Premium",
+    "year": 1997,
+    "Cast": [
+      "Val Kilmer",
+      "Elisabeth Shue",
+      "Rade Šerbedžija",
+      "Valeriy Nikolaev",
+      "Henry Goodman",
+      "Alun Armstrong",
+      "Michael Byrne",
+      "Evgeniy Lazarev",
+      "Irina Apeksimova",
+      "Lev Prygunov",
+      "Charlotte Cornwell",
+      "Emily Mortimer",
+      "Lucija Šerbedžija",
+      "Velibor Topić",
+      "Tommy Flanagan"
+    ],
+    "Director": [
+      "Phillip Noyce"
+    ],
+    "Type": null,
+    "st_end": [
+      1793221200,
+      1793228400
+    ],
+    "tmdb_id": 10003,
+    "imdb_id": "tt0120053",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Gran Torino",
+    "Raw_EPG": "Gran Torino",
+    "CH": "Pink Premium",
+    "year": 2008,
+    "Cast": [
+      "Clint Eastwood",
+      "Christopher Carley",
+      "Bee Vang",
+      "Ahney Her",
+      "Brian Haley",
+      "Geraldine Hughes",
+      "Dreama Walker",
+      "Brian Howe",
+      "John Carroll Lynch",
+      "William Hill",
+      "Brooke Chia Thao",
+      "Chee Thao",
+      "Choua Kue",
+      "Scott Eastwood",
+      "Xia Soua Chang"
+    ],
+    "Director": [
+      "Clint Eastwood"
+    ],
+    "Type": null,
+    "st_end": [
+      1793228400,
+      1793235600
+    ],
+    "tmdb_id": 13223,
+    "imdb_id": "tt1205489",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Četiri brata",
+    "Raw_EPG": "Četiri brata",
+    "CH": "Pink Premium",
+    "year": 2005,
+    "Cast": [
+      "Mark Wahlberg",
+      "Tyrese Gibson",
+      "André 3000",
+      "Garrett Hedlund",
+      "Terrence Howard",
+      "Josh Charles",
+      "Sofia Vergara",
+      "Fionnula Flanagan",
+      "Chiwetel Ejiofor",
+      "Taraji P. Henson",
+      "Barry Shabaka Henley",
+      "Jernard Burks",
+      "Kenneth Welsh",
+      "Tony Nappo",
+      "Shawn Singleton"
+    ],
+    "Director": [
+      "John Singleton"
+    ],
+    "Type": null,
+    "st_end": [
+      1793235600,
+      1793242800
+    ],
+    "tmdb_id": 8292,
+    "imdb_id": "tt0430105",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Fanatik",
+    "Raw_EPG": "Fanatik",
+    "CH": "Pink Premium",
+    "year": 2019,
+    "Cast": [
+      "John Travolta",
+      "Devon Sawa",
+      "Ana Golja",
+      "Jacob Grodnik",
+      "James Paxton",
+      "Josh Richman",
+      "Jeff Chase",
+      "Luis Da Silva Jr.",
+      "Jessica Uberuaga",
+      "Rene Michelle Aranda",
+      "Marta González Rodin",
+      "Leslie Sides",
+      "Theresa Ireland",
+      "Denny Mendez",
+      "Elle Matarazzo"
+    ],
+    "Director": [
+      "Fred Durst"
+    ],
+    "Type": null,
+    "st_end": [
+      1793242800,
+      1793250000
+    ],
+    "tmdb_id": 509853,
+    "imdb_id": "tt7869070",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Efekat leptira 2",
+    "Raw_EPG": "Efekat leptira 2",
+    "CH": "Pink Premium",
+    "year": 2006,
+    "Cast": [
+      "Eric Lively",
+      "Erica Durance",
+      "Dustin Milligan",
+      "Gina Holden",
+      "David Lewis",
+      "Andrew Airlie",
+      "Chris Gauthier",
+      "Susan Hogan",
+      "JR Bourne",
+      "Lindsay Maxwell",
+      "Zoran Vukelic",
+      "Jerry Wasserman",
+      "John Mann",
+      "Tom Bulmer",
+      "Veena Sood"
+    ],
+    "Director": [
+      "John R. Leonetti"
+    ],
+    "Type": null,
+    "st_end": [
+      1793250000,
+      1793257200
+    ],
+    "tmdb_id": 14620,
+    "imdb_id": "tt0457297",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Nadolazeći",
+    "Raw_EPG": "Nadolazeći",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2018,
+    "Cast": [
+      "Scott Adkins",
+      "Aaron McCusker",
+      "Michelle Lehane",
+      "Vahidin Prelić",
+      "Lukas Loughran",
+      "Alaa Safi",
+      "Milan Kovačević",
+      "Arkie Reece",
+      "Vladimir Aleksić",
+      "Milan Jovanović",
+      "James MacCallum",
+      "Dominic Power",
+      "Vladan Dujović",
+      "Baya Bangue Namkosse",
+      "Milorad Kapor"
+    ],
+    "Director": [
+      "Eric Zaragoza"
+    ],
+    "Type": null,
+    "st_end": [
+      1793080800,
+      1793088000
+    ],
+    "tmdb_id": 522964,
+    "imdb_id": "tt6678874",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čudesna Žena",
+    "Raw_EPG": "Čudesna Žena",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2017,
+    "Cast": [
+      "Gal Gadot",
+      "Chris Pine",
+      "Connie Nielsen",
+      "Robin Wright",
+      "Danny Huston",
+      "David Thewlis",
+      "Saïd Taghmaoui",
+      "Ewen Bremner",
+      "Eugene Brave Rock",
+      "Lucy Davis",
+      "Elena Anaya",
+      "Lilly Aspell",
+      "Lisa Loven Kongsli",
+      "Ann Wolfe",
+      "Ann Ogbomo"
+    ],
+    "Director": [
+      "Patty Jenkins"
+    ],
+    "Type": null,
+    "st_end": [
+      1793131200,
+      1793138400
+    ],
+    "tmdb_id": 297762,
+    "imdb_id": "tt0451279",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Goust rajder: Duh osvete",
+    "Raw_EPG": "Goust rajder: Duh osvete",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2011,
+    "Cast": [
+      "Nicolas Cage",
+      "Violante Placido",
+      "Ciarán Hinds",
+      "Idris Elba",
+      "Johnny Whitworth",
+      "Fergus Riordan",
+      "Spencer Wilding",
+      "Sorin Tofan",
+      "Jacek Koman",
+      "Anthony Head",
+      "Cristian Iacob",
+      "Christopher Lambert",
+      "Jai Stefan",
+      "Vincent Regan",
+      "Ionut Cristian Lefter"
+    ],
+    "Director": [
+      "Mark Neveldine",
+      "Brian Taylor"
+    ],
+    "Type": null,
+    "st_end": [
+      1793138400,
+      1793145600
+    ],
+    "tmdb_id": 71676,
+    "imdb_id": "tt1071875",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Svemirska odiseja 2010",
+    "Raw_EPG": "Svemirska odiseja 2010",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 1984,
+    "Cast": [
+      "Arthur C. Clarke",
+      "Roy Scheider",
+      "John Lithgow",
+      "Helen Mirren",
+      "Bob Balaban",
+      "Keir Dullea",
+      "Madolyn Smith Osborne",
+      "Dana Elcar",
+      "Taliesin Jaffe",
+      "James McEachin",
+      "Mary Jo Deschanel",
+      "Elya Baskin",
+      "Saveliy Kramarov",
+      "Oleg Rudnik",
+      "Natasha Shneider"
+    ],
+    "Director": [
+      "Peter Hyams"
+    ],
+    "Type": null,
+    "st_end": [
+      1793145600,
+      1793152800
+    ],
+    "tmdb_id": 4437,
+    "imdb_id": "tt0086837",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čovek kosilica 2 Izvan sajber prostora",
+    "Raw_EPG": "Čovek kosilica 2 Izvan sajber prostora",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 1995,
+    "Cast": [
+      "Patrick Bergin",
+      "Matt Frewer",
+      "Austin O'Brien",
+      "Ely Pouget",
+      "Camille Cooper",
+      "Patrick LaBrecque",
+      "Crystal Celeste Grant",
+      "Sean P. Young",
+      "Mathew Valencia",
+      "Kevin Conway",
+      "Trever O'Brien",
+      "Richard Fancy",
+      "Ellis Williams",
+      "Castulo Guerra",
+      "Molly Shannon"
+    ],
+    "Director": [
+      "Farhad Mann"
+    ],
+    "Type": null,
+    "st_end": [
+      1793152800,
+      1793160000
+    ],
+    "tmdb_id": 11525,
+    "imdb_id": "tt0116839",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Razvoj",
+    "Raw_EPG": "Razvoj",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2010,
+    "Cast": [
+      "Mircea Monroe",
+      "Christopher Shand",
+      "Nora Kirkpatrick",
+      "Brian Krause",
+      "John Suits",
+      "Richard Riehle",
+      "Lou Richards",
+      "Ian Patrick Williams",
+      "Jill Hoiles",
+      "Jessica Dercks",
+      "Robert Pike Daniel",
+      "Alexi Wasser",
+      "Kate Kelton",
+      "Brad Culver",
+      "Samantha Yonack"
+    ],
+    "Director": [
+      "Gabriel Cowan"
+    ],
+    "Type": null,
+    "st_end": [
+      1793160000,
+      1793167200
+    ],
+    "tmdb_id": 31196,
+    "imdb_id": "tt1300159",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Budika",
+    "Raw_EPG": "Budika",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2023,
+    "Cast": [
+      "Olga Kurylenko",
+      "Tim Barber",
+      "Andy Beckwith",
+      "Tom Bennett",
+      "Jeff Betts",
+      "Lilibet Biutanaseva",
+      "Litiana Biutanaseva",
+      "Lee Caley",
+      "Steven Cockings",
+      "Marcus John Cooper",
+      "Sara Cozens",
+      "Michael Davies",
+      "James Faulkner",
+      "Peter Franzén",
+      "Henry William Galpin"
+    ],
+    "Director": [
+      "Jesse V. Johnson"
+    ],
+    "Type": null,
+    "st_end": [
+      1793167200,
+      1793174400
+    ],
+    "tmdb_id": 975902,
+    "imdb_id": "tt22688572",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Šazam",
+    "Raw_EPG": "Šazam",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2019,
+    "Cast": [
+      "Zachary Levi",
+      "Mark Strong",
+      "Asher Angel",
+      "Jack Dylan Grazer",
+      "Adam Brody",
+      "Djimon Hounsou",
+      "Faithe Herman",
+      "Meagan Good",
+      "Grace Caroline Currey",
+      "Michelle Borth",
+      "Ian Chen",
+      "Ross Butler",
+      "Jovan Armand",
+      "D.J. Cotrona",
+      "Marta Milans"
+    ],
+    "Director": [
+      "David F. Sandberg"
+    ],
+    "Type": null,
+    "st_end": [
+      1793217600,
+      1793224800
+    ],
+    "tmdb_id": 287947,
+    "imdb_id": "tt0448115",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Gnev titana",
+    "Raw_EPG": "Gnev titana",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2012,
+    "Cast": [
+      "Sam Worthington",
+      "Liam Neeson",
+      "Rosamund Pike",
+      "Ralph Fiennes",
+      "Edgar Ramírez",
+      "Toby Kebbell",
+      "Bill Nighy",
+      "Danny Huston",
+      "John Bell",
+      "Lily James",
+      "Alejandro Naranjo",
+      "Freddy Drabble",
+      "Kathryn Carpenter",
+      "Matt Milne",
+      "Birkett Turton"
+    ],
+    "Director": [
+      "Jonathan Liebesman"
+    ],
+    "Type": null,
+    "st_end": [
+      1793224800,
+      1793232000
+    ],
+    "tmdb_id": 57165,
+    "imdb_id": "tt1646987",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Zmajevo srce 5 Osveta",
+    "Raw_EPG": "Zmajevo srce 5 Osveta",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2020,
+    "Cast": [
+      "Helena Bonham Carter",
+      "Joseph Millson",
+      "Jack Kane",
+      "Arturo Muselli",
+      "Carolina Carlsson",
+      "Tam Williams",
+      "Richard Ashton",
+      "Ross O'Hennessy",
+      "Cameron Jack",
+      "Fabienne Piolini-Castle",
+      "Alexandru Roza",
+      "James Longshore",
+      "Vlad Radescu",
+      "Edouard Philipponnat",
+      "Anisoara Doroftei"
+    ],
+    "Director": [
+      "Ivan Silvestrini"
+    ],
+    "Type": null,
+    "st_end": [
+      1793232000,
+      1793239200
+    ],
+    "tmdb_id": 666750,
+    "imdb_id": "tt9711106",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Unutar stene",
+    "Raw_EPG": "Unutar stene",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 1996,
+    "Cast": [
+      "Xander Berkeley",
+      "Caroline Barclay",
+      "Bradford Tatum",
+      "Brian Krause",
+      "Barbara Patrick",
+      "Michael Zelniker",
+      "Duane Whitaker",
+      "Calvin Levels",
+      "Earl Boen",
+      "Dale Dye"
+    ],
+    "Director": [
+      "Gary J. Tunnicliffe"
+    ],
+    "Type": null,
+    "st_end": [
+      1793239200,
+      1793246400
+    ],
+    "tmdb_id": 133714,
+    "imdb_id": "tt0118183",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Predstraža: Crno sunce",
+    "Raw_EPG": "Predstraža: Crno sunce",
+    "CH": "Pink SciFi & Fantasy",
+    "year": 2012,
+    "Cast": [
+      "Catherine Steadman",
+      "Richard Coyle",
+      "Ali Craig",
+      "Nick Nevern",
+      "Daniel Caltagirone",
+      "Gary McDonald",
+      "Johnny Meres",
+      "Julian Wadham",
+      "Michael Byrne",
+      "Martin Bell",
+      "Clive Russell",
+      "John P. Arnold",
+      "Philip Barratt",
+      "Domenic Pontone",
+      "Paul Birchard"
+    ],
+    "Director": [
+      "Steve Barker"
+    ],
+    "Type": null,
+    "st_end": [
+      1793246400,
+      1793253600
+    ],
+    "tmdb_id": 100183,
+    "imdb_id": "tt1418712",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "U plamenu",
+    "Raw_EPG": "U plamenu",
+    "CH": "Pink Thriller",
+    "year": 2023,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793127600,
+      1793134800
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Putnik",
+    "Raw_EPG": "Putnik",
+    "CH": "Pink Thriller",
+    "year": 2018,
+    "Cast": [
+      "Liam Neeson",
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Jonathan Banks",
+      "Sam Neill",
+      "Elizabeth McGovern",
+      "Killian Scott",
+      "Shazad Latif",
+      "Andy Nyman",
+      "Clara Lago",
+      "Roland Møller",
+      "Florence Pugh",
+      "Dean-Charles Chapman",
+      "Ella-Rae Smith",
+      "Nila Aalia"
+    ],
+    "Director": [
+      "Jaume Collet-Serra"
+    ],
+    "Type": null,
+    "st_end": [
+      1793134800,
+      1793142000
+    ],
+    "tmdb_id": 399035,
+    "imdb_id": "tt1590193",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Otkup za pamćenje",
+    "Raw_EPG": "Otkup za pamćenje",
+    "CH": "Pink Thriller",
+    "year": 2016,
+    "Cast": [
+      "Jeremy Sumpter",
+      "Phoebe Tonkin",
+      "Hari Dhillon",
+      "Sebastian Koch",
+      "Mark Bonnar",
+      "Robert Cavanah",
+      "Dominic Sherwood",
+      "Ashley Walters",
+      "Ed Westwick",
+      "Julia Ragnarsson",
+      "Elliot Knight",
+      "Max Deacon",
+      "Thalissa Teixeira",
+      "Yûho Yamashita",
+      "Tracy Ifeachor"
+    ],
+    "Director": [
+      "Jim Gillespie"
+    ],
+    "Type": null,
+    "st_end": [
+      1793142000,
+      1793149200
+    ],
+    "tmdb_id": 270007,
+    "imdb_id": "tt2782844",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Stvoreni jednaki",
+    "Raw_EPG": "Stvoreni jednaki",
+    "CH": "Pink Thriller",
+    "year": 2017,
+    "Cast": [
+      "Lou Diamond Phillips",
+      "Lauren Compton",
+      "Aaron Tveit",
+      "Gregory Alan Williams",
+      "Edy Ganem",
+      "Shaquita Smith",
+      "Jo-Ann Robinson",
+      "J.W. Smith",
+      "Camryn Jones",
+      "John Newberg",
+      "Mikki Val",
+      "Yohance Myles",
+      "Chad Governale",
+      "David Joseph Martinez",
+      "Spence Maughon"
+    ],
+    "Director": [
+      "Bill Duke"
+    ],
+    "Type": null,
+    "st_end": [
+      1793149200,
+      1793156400
+    ],
+    "tmdb_id": 412904,
+    "imdb_id": "tt5873100",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Nestanci u kampusu",
+    "Raw_EPG": "Nestanci u kampusu",
+    "CH": "Pink Thriller",
+    "year": 2017,
+    "Cast": [
+      "Ireland Baldwin",
+      "Victoria Pratt",
+      "Nicholas Lea",
+      "Morgan Taylor Campbell",
+      "Sage Brocklebank",
+      "Aaron Pearl",
+      "Bruce Dawson",
+      "Sachin Sahel",
+      "Nelson Wong",
+      "Daniel Bacon",
+      "Panta Mosleh",
+      "Steve Baran",
+      "Alexa Rowe"
+    ],
+    "Director": [
+      "George Erschbamer"
+    ],
+    "Type": null,
+    "st_end": [
+      1793156400,
+      1793163600
+    ],
+    "tmdb_id": 475508,
+    "imdb_id": "tt4815240",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Operacija Šakal",
+    "Raw_EPG": "Operacija Šakal",
+    "CH": "Pink Thriller",
+    "year": 1997,
+    "Cast": [
+      "Aidan Quinn",
+      "Donald Sutherland",
+      "Ben Kingsley",
+      "Claudia Ferri",
+      "Céline Bonnier",
+      "Vlasta Vrana",
+      "Liliana Komorowska",
+      "Von Flores",
+      "Al Waxman",
+      "Mitchell David Rothpan",
+      "Gregory Hlady",
+      "Gabriel Marian Oseciuc",
+      "Frédéric Desager",
+      "Kliment Denchev",
+      "Yonathan Gordon"
+    ],
+    "Director": [
+      "Christian Duguay"
+    ],
+    "Type": null,
+    "st_end": [
+      1793163600,
+      1793170800
+    ],
+    "tmdb_id": 18355,
+    "imdb_id": "tt0118647",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Mafijašice",
+    "Raw_EPG": "Mafijašice",
+    "CH": "Pink Thriller",
+    "year": 2002,
+    "Cast": [],
+    "Director": [],
+    "Type": null,
+    "st_end": [
+      1793214000,
+      1793221200
+    ],
+    "tmdb_id": null,
+    "imdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "title": "Sakupljač kostiju",
+    "Raw_EPG": "Sakupljač kostiju",
+    "CH": "Pink Thriller",
+    "year": 1999,
+    "Cast": [
+      "Denzel Washington",
+      "Angelina Jolie",
+      "Queen Latifah",
+      "Michael Rooker",
+      "Michael McGlone",
+      "Luis Guzmán",
+      "Leland Orser",
+      "John Benjamin Hickey",
+      "Bobby Cannavale",
+      "Ed O'Neill",
+      "Richard Zeman",
+      "Olivia Birkelund",
+      "Gary Swanson",
+      "James Bulleit",
+      "Frank Fontaine"
+    ],
+    "Director": [
+      "Phillip Noyce"
+    ],
+    "Type": null,
+    "st_end": [
+      1793221200,
+      1793228400
+    ],
+    "tmdb_id": 9481,
+    "imdb_id": "tt0145681",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Tačka pucanja",
+    "Raw_EPG": "Tačka pucanja",
+    "CH": "Pink Thriller",
+    "year": 2019,
+    "Cast": [
+      "Luke Goss",
+      "Dilan Jay",
+      "JuJu Chan",
+      "Michael Pare",
+      "Jay Mohr",
+      "Roger Guenveur Smith",
+      "Bill Duke",
+      "Kirk Fox",
+      "Jay Giannone",
+      "Anthony Hull",
+      "Sofiya Suarez",
+      "Natalie Burn",
+      "Angie Simms",
+      "Peter Lee Thomas",
+      "Tony Tambi"
+    ],
+    "Director": [
+      "Daniel Zirilli"
+    ],
+    "Type": null,
+    "st_end": [
+      1793228400,
+      1793235600
+    ],
+    "tmdb_id": 611562,
+    "imdb_id": "tt8648640",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Trail of Blood",
+    "Raw_EPG": "Trail of Blood",
+    "CH": "Pink Thriller",
+    "year": 2011,
+    "Cast": [
+      "Robert Picardo",
+      "Tim Barraco",
+      "Trevor Torseth",
+      "Kandis Fay",
+      "Mackenzie Mason",
+      "Maggie VandenBerghe",
+      "Ray Campbell",
+      "Dustin Fitzsimons",
+      "Shaun Ausmus",
+      "Danny Vasquez",
+      "Kateland Carr",
+      "Meredith Barnett",
+      "Allen Burns",
+      "Matt Greer",
+      "Andy Simpson"
+    ],
+    "Director": [
+      "Justin Guerrieri",
+      "Joseph Guerrieri"
+    ],
+    "Type": null,
+    "st_end": [
+      1793235600,
+      1793242800
+    ],
+    "tmdb_id": 240896,
+    "imdb_id": "tt1280013",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Vladine tajne",
+    "Raw_EPG": "Vladine tajne",
+    "CH": "Pink Thriller",
+    "year": 2019,
+    "Cast": [
+      "Keira Knightley",
+      "Matt Smith",
+      "Matthew Goode",
+      "Rhys Ifans",
+      "Adam Bakri",
+      "Ralph Fiennes",
+      "Conleth Hill",
+      "Indira Varma",
+      "Jeremy Northam",
+      "John Heffernan",
+      "Monica Dolan",
+      "Tamsin Greig",
+      "Niccy Lin",
+      "Jack Farthing",
+      "Gabrielle Downey"
+    ],
+    "Director": [
+      "Gavin Hood"
+    ],
+    "Type": null,
+    "st_end": [
+      1793242800,
+      1793250000
+    ],
+    "tmdb_id": 393624,
+    "imdb_id": "tt5431890",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Baštovan",
+    "Raw_EPG": "Baštovan",
+    "CH": "Pink Thriller",
+    "year": 2021,
+    "Cast": [
+      "Becca Hirani",
+      "Jeff Miller",
+      "Robert Bronzi",
+      "Gary Daniels",
+      "Nicola Wright",
+      "Jake Watkins",
+      "Jon Callaway",
+      "Arthur Boan",
+      "Sarah T. Cohen",
+      "Richard Kovacs",
+      "AJ Blackwell",
+      "Corinne Holt",
+      "Kate Sandison",
+      "Rob Kirtley",
+      "Peter Organ"
+    ],
+    "Director": [
+      "Becca Hirani",
+      "Scott Chambers"
+    ],
+    "Type": null,
+    "st_end": [
+      1793250000,
+      1793257200
+    ],
+    "tmdb_id": 894432,
+    "imdb_id": "tt11217036",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792782000,
+      1792791000
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Метак за генерала",
+    "Raw_EPG": "Метак за генерала",
+    "CH": "Pink Western",
+    "year": 1967,
+    "Cast": [
+      "Gian Maria Volontè",
+      "Klaus Kinski",
+      "Martine Beswick",
+      "Lou Castel",
+      "Jaime Fernández",
+      "Andrea Checchi",
+      "Spartaco Conversi",
+      "Joaquín Parra",
+      "Aldo Sambrell",
+      "José Manuel Martín",
+      "Santiago Santos",
+      "Valentino Macchi",
+      "Sal Borgese",
+      "Damiano Damiani",
+      "Carla Gravina"
+    ],
+    "Director": [
+      "Damiano Damiani"
+    ],
+    "Type": null,
+    "st_end": [
+      1792825200,
+      1792832400
+    ],
+    "tmdb_id": 37316,
+    "imdb_id": "tt0061429",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čovek iz prerije",
+    "Raw_EPG": "Čovek iz prerije",
+    "CH": "Pink Western",
+    "year": 1936,
+    "Cast": [
+      "Gary Cooper",
+      "Jean Arthur",
+      "James Ellison",
+      "Charles Bickford",
+      "Helen Burgess",
+      "Porter Hall",
+      "Paul Harvey",
+      "Victor Varconi",
+      "John Miljan",
+      "Frank McGlynn Sr.",
+      "Granville Bates",
+      "Frank Albertson",
+      "Purnell Pratt",
+      "Fred Kohler",
+      "Pat Moriarity"
+    ],
+    "Director": [
+      "Cecil B. DeMille"
+    ],
+    "Type": null,
+    "st_end": [
+      1793102400,
+      1793109600
+    ],
+    "tmdb_id": 43885,
+    "imdb_id": "tt0028108",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "WALKING HILLS",
+    "Raw_EPG": "WALKING HILLS",
+    "CH": "Pink Western",
+    "year": 1949,
+    "Cast": [
+      "Randolph Scott",
+      "Ella Raines",
+      "William Bishop",
+      "Edgar Buchanan",
+      "Arthur Kennedy",
+      "John Ireland",
+      "Jerome Courtland",
+      "Russell Collins",
+      "Josh White",
+      "Houseley Stevenson",
+      "Reed Howes",
+      "Eddie Parker",
+      "Charles Stevens",
+      "Guy Wilkerson",
+      "Frank Yaconelli"
+    ],
+    "Director": [
+      "John Sturges"
+    ],
+    "Type": null,
+    "st_end": [
+      1793109600,
+      1793116800
+    ],
+    "tmdb_id": 241754,
+    "imdb_id": "tt0042033",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Bitka kod reke Rog",
+    "Raw_EPG": "Bitka kod reke Rog",
+    "CH": "Pink Western",
+    "year": 1954,
+    "Cast": [
+      "George Montgomery",
+      "Richard Denning",
+      "Martha Hyer",
+      "John Crawford",
+      "Emory Parnell",
+      "Michael Granger",
+      "Freeman Morse",
+      "William Bryant",
+      "Charles Evans",
+      "Lee Roberts",
+      "Frank Sully",
+      "Steven Ritch",
+      "Victor Adamson",
+      "Jimmie Booth",
+      "Willis Bouchey"
+    ],
+    "Director": [
+      "William Castle"
+    ],
+    "Type": null,
+    "st_end": [
+      1793116800,
+      1793124000
+    ],
+    "tmdb_id": 198586,
+    "imdb_id": "tt0046755",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "STRANGER WORE A GUN",
+    "Raw_EPG": "STRANGER WORE A GUN",
+    "CH": "Pink Western",
+    "year": 1953,
+    "Cast": [
+      "Randolph Scott",
+      "Claire Trevor",
+      "Joan Weldon",
+      "George Macready",
+      "Alfonso Bedoya",
+      "Lee Marvin",
+      "Ernest Borgnine",
+      "Pierre Watkin",
+      "Joseph Vitale",
+      "Clem Bevans",
+      "Victor Adamson",
+      "Richard Alexander",
+      "Roscoe Ates",
+      "Rayford Barnes",
+      "Dick Benjamin"
+    ],
+    "Director": [
+      "André de Toth"
+    ],
+    "Type": null,
+    "st_end": [
+      1793124000,
+      1793131200
+    ],
+    "tmdb_id": 43356,
+    "imdb_id": "tt0046375",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Zvali su ga groblje",
+    "Raw_EPG": "Zvali su ga groblje",
+    "CH": "Pink Western",
+    "year": 1971,
+    "Cast": [
+      "Gianni Garko",
+      "William Berger",
+      "Christopher Chittell",
+      "John Fordyce",
+      "Ugo Fangareggi",
+      "Raimondo Penne",
+      "Franco Ressel",
+      "Aldo Barberito",
+      "Ivano Staccioli",
+      "Nello Pazzafini",
+      "Giovanni Di Benedetto",
+      "Ugo Adinolfi",
+      "Gildo Di Marco",
+      "Bill Vanders",
+      "Pinuccio Ardia"
+    ],
+    "Director": [
+      "Giuliano Carnimeo"
+    ],
+    "Type": null,
+    "st_end": [
+      1793131200,
+      1793138400
+    ],
+    "tmdb_id": 129851,
+    "imdb_id": "tt0067142",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čovek bez zvezde",
+    "Raw_EPG": "Čovek bez zvezde",
+    "CH": "Pink Western",
+    "year": 1955,
+    "Cast": [
+      "Kirk Douglas",
+      "Jeanne Crain",
+      "Claire Trevor",
+      "William Campbell",
+      "Richard Boone",
+      "Jay C. Flippen",
+      "Myrna Hansen",
+      "Mara Corday",
+      "Eddy Waller",
+      "Sheb Wooley",
+      "George Wallace",
+      "Frank Chase",
+      "Paul Birch",
+      "Roy Barcroft",
+      "William 'Bill' Phillips"
+    ],
+    "Director": [
+      "King Vidor"
+    ],
+    "Type": null,
+    "st_end": [
+      1793138400,
+      1793145600
+    ],
+    "tmdb_id": 43319,
+    "imdb_id": "tt0048340",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Kockar sa Misisipija",
+    "Raw_EPG": "Kockar sa Misisipija",
+    "CH": "Pink Western",
+    "year": 1953,
+    "Cast": [
+      "Tyrone Power",
+      "Piper Laurie",
+      "Julie Adams",
+      "John McIntire",
+      "Paul Cavanagh",
+      "John Baer",
+      "Ron Randell",
+      "Ralph Dumke",
+      "Robert Warwick",
+      "William Reynolds",
+      "Guy Williams",
+      "James Adamson",
+      "Ernest Anderson",
+      "Carl Andre",
+      "LeRoi Antoine"
+    ],
+    "Director": [
+      "Rudolph Maté"
+    ],
+    "Type": null,
+    "st_end": [
+      1793188800,
+      1793196000
+    ],
+    "tmdb_id": 189885,
+    "imdb_id": "tt0046080",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Vili Boj",
+    "Raw_EPG": "Vili Boj",
+    "CH": "Pink Western",
+    "year": 1969,
+    "Cast": [
+      "Robert Redford",
+      "Katharine Ross",
+      "Robert Blake",
+      "Susan Clark",
+      "Barry Sullivan",
+      "John Vernon",
+      "Charles Aidman",
+      "Charles McGraw",
+      "Shelly Novack",
+      "Robert Lipton",
+      "Lloyd Gough",
+      "Ned Romero",
+      "John Wheeler",
+      "Erik Holland",
+      "Garry Walberg"
+    ],
+    "Director": [
+      "Abraham Polonsky"
+    ],
+    "Type": null,
+    "st_end": [
+      1793196000,
+      1793203200
+    ],
+    "tmdb_id": 42619,
+    "imdb_id": "tt0065079",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Apač",
+    "Raw_EPG": "Apač",
+    "CH": "Pink Western",
+    "year": 1954,
+    "Cast": [
+      "Burt Lancaster",
+      "Jean Peters",
+      "John McIntire",
+      "Charles Bronson",
+      "John Dehner",
+      "Paul Guilfoyle",
+      "Ian MacDonald",
+      "Walter Sande",
+      "Morris Ankrum",
+      "Monte Blue",
+      "Dehl Berti",
+      "Paul E. Burns",
+      "Lonnie Burr",
+      "John George",
+      "Ann Kunde"
+    ],
+    "Director": [
+      "Robert Aldrich"
+    ],
+    "Type": null,
+    "st_end": [
+      1793203200,
+      1793210400
+    ],
+    "tmdb_id": 43329,
+    "imdb_id": "tt0046719",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Udruženi na zapad",
+    "Raw_EPG": "Udruženi na zapad",
+    "CH": "Pink Western",
+    "year": 1950,
+    "Cast": [
+      "Joseph Cotten",
+      "Linda Darnell",
+      "Jeff Chandler",
+      "Cornel Wilde",
+      "Dale Robertson",
+      "Jay C. Flippen",
+      "Noah Beery Jr.",
+      "Harry von Zell",
+      "Johnny Sands",
+      "Arthur Hunnicutt",
+      "Robert Adler",
+      "Stanley Andrews",
+      "Jose Baca",
+      "Marjorie Bennett",
+      "Chet Brandenburg"
+    ],
+    "Director": [
+      "Robert Wise"
+    ],
+    "Type": null,
+    "st_end": [
+      1793210400,
+      1793217600
+    ],
+    "tmdb_id": 103119,
+    "imdb_id": "tt0043079",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Maskirani pljačkaš",
+    "Raw_EPG": "Maskirani pljačkaš",
+    "CH": "Pink Western",
+    "year": 1971,
+    "Cast": [
+      "Craig Hill",
+      "Ágata Lys",
+      "Frank Braña",
+      "Nuccia Cardinali",
+      "Lorenzo Piani",
+      "Gilberto Galimberti",
+      "Francisco Sanz",
+      "Ernesto Vañes",
+      "Liliana Chiari",
+      "María Vico",
+      "Antonio Padilla",
+      "Alfonso Sarlo",
+      "Silvio Klein",
+      "Attilio Pelegatti",
+      "Marisa Bertoni"
+    ],
+    "Director": [
+      "Mario Bianchi"
+    ],
+    "Type": null,
+    "st_end": [
+      1793217600,
+      1793224800
+    ],
+    "tmdb_id": 111697,
+    "imdb_id": "tt0071883",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Visoki ljudi",
+    "Raw_EPG": "Visoki ljudi",
+    "CH": "Pink Western",
+    "year": 1955,
+    "Cast": [
+      "Clark Gable",
+      "Jane Russell",
+      "Robert Ryan",
+      "Cameron Mitchell",
+      "Juan Garcia",
+      "Harry Shannon",
+      "Emile Meyer",
+      "Steve Darrell",
+      "Robert Adler",
+      "Frank Baker",
+      "Rudy Bowman",
+      "Chet Brandenburg",
+      "Argentina Brunetti",
+      "Bob Burns",
+      "Harry Carter"
+    ],
+    "Director": [
+      "Raoul Walsh"
+    ],
+    "Type": null,
+    "st_end": [
+      1793224800,
+      1793232000
+    ],
+    "tmdb_id": 37317,
+    "imdb_id": "tt0048691",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Okrenut ka prozoru",
+    "Raw_EPG": "Okrenut ka prozoru",
+    "CH": "Pink World Cinema",
+    "year": 2003,
+    "Cast": [
+      "Giovanna Mezzogiorno",
+      "Massimo Girotti",
+      "Raoul Bova",
+      "Filippo Nigro",
+      "Serra Yılmaz",
+      "Maria Grazia Bon",
+      "Massimo Poggio",
+      "Ivan Bacchi",
+      "Chiara Andreis",
+      "Antonella Antinori",
+      "Olimpia Carlisi",
+      "Ohame-Brancy Chibuzo",
+      "Carlo Daniele",
+      "Rosaria De Cicco",
+      "Lucianna De Falco"
+    ],
+    "Director": [
+      "Ferzan Özpetek"
+    ],
+    "Type": null,
+    "st_end": [
+      1793109600,
+      1793116800
+    ],
+    "tmdb_id": 29987,
+    "imdb_id": "tt0352343",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Sve za Elis",
+    "Raw_EPG": "Sve za Elis",
+    "CH": "Pink World Cinema",
+    "year": 2014,
+    "Cast": [
+      "Max Boublil",
+      "Aïssa Maïga",
+      "Patrick Timsit",
+      "Chantal Lauby",
+      "Redouanne Harjane",
+      "Naidra Ayadi",
+      "Philippe Lefebvre",
+      "Steve Tran",
+      "Lionnel Astier",
+      "Stéphane Bissot",
+      "Idriss Roberson",
+      "Marie-Christine Adam",
+      "Isabelle Tanakil",
+      "Jean-Michel Lahmi",
+      "Frédéric Gorny"
+    ],
+    "Director": [
+      "Nicolas Cuche"
+    ],
+    "Type": null,
+    "st_end": [
+      1793116800,
+      1793124000
+    ],
+    "tmdb_id": 204765,
+    "imdb_id": "tt2442502",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Haos",
+    "Raw_EPG": "Haos",
+    "CH": "Pink World Cinema",
+    "year": 2007,
+    "Cast": [
+      "Menna Shalabi",
+      "Youssef El Sherif",
+      "Hala Sedki",
+      "Hala Fakher",
+      "Amr Abdulgalil",
+      "Dorra Zarrouk",
+      "Abdullah Mishref",
+      "Rola Mahmoud",
+      "Safwa",
+      "Maher Salim",
+      "Ahmed Yehia",
+      "Ahmed Fouad Sélim",
+      "Ebrahem Okda"
+    ],
+    "Director": [
+      "Youssef Chahine",
+      "Khaled Youssef"
+    ],
+    "Type": null,
+    "st_end": [
+      1793124000,
+      1793131200
+    ],
+    "tmdb_id": 163660,
+    "imdb_id": "tt1085799",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Policijska priča 2",
+    "Raw_EPG": "Policijska priča 2",
+    "CH": "Pink World Cinema",
+    "year": 1988,
+    "Cast": [
+      "Jackie Chan",
+      "Maggie Cheung",
+      "Kwok-Hung Lam",
+      "Bill Tung",
+      "Keung-Kuen Lai",
+      "John Cheung",
+      "Charlie Cho",
+      "Yuen Chor",
+      "Ben Lam",
+      "Chi-Fai Chan",
+      "Shan Kwan",
+      "Mars",
+      "Isabella Wong",
+      "Ann Mui",
+      "Siu-Ming Lau"
+    ],
+    "Director": [
+      "Jackie Chan"
+    ],
+    "Type": null,
+    "st_end": [
+      1793131200,
+      1793138400
+    ],
+    "tmdb_id": 10753,
+    "imdb_id": "tt0095403",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Devojka na prozoru",
+    "Raw_EPG": "Devojka na prozoru",
+    "CH": "Pink World Cinema",
+    "year": 2001,
+    "Cast": [
+      "Fanny Mallette",
+      "Hugues Frenette",
+      "Evelyne Rompré",
+      "Rosa Zacharie",
+      "Louis-David Morasse",
+      "Daniel Parent",
+      "Richard Fagon",
+      "Johanne-Marie Tremblay",
+      "Denis Bernard",
+      "Richard Fréchette",
+      "Diane Dufresne",
+      "Robin Arsenault-Vezina",
+      "Marie-Josée Bastien",
+      "Jean-Robert Bourdage",
+      "Jean Lapointe"
+    ],
+    "Director": [
+      "Francis Leclerc"
+    ],
+    "Type": null,
+    "st_end": [
+      1793138400,
+      1793145600
+    ],
+    "tmdb_id": 242888,
+    "imdb_id": "tt0257245",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Sirotište",
+    "Raw_EPG": "Sirotište",
+    "CH": "Pink World Cinema",
+    "year": 2007,
+    "Cast": [
+      "Belén Rueda",
+      "Fernando Cayo",
+      "Roger Príncep",
+      "Mabel Rivera",
+      "Montserrat Carulla",
+      "Andrés Gertrúdix",
+      "Edgar Vivar",
+      "Óscar Casas",
+      "Mireia Renau",
+      "Georgina Avellaneda",
+      "Carla Gordillo",
+      "Alejandro Camps",
+      "Carmen López",
+      "Óscar Lara",
+      "Geraldine Chaplin"
+    ],
+    "Director": [
+      "J. A. Bayona"
+    ],
+    "Type": null,
+    "st_end": [
+      1793145600,
+      1793152800
+    ],
+    "tmdb_id": 6537,
+    "imdb_id": "tt0464141",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Tango",
+    "Raw_EPG": "Tango",
+    "CH": "Pink World Cinema",
+    "year": 1998,
+    "Cast": [
+      "Miguel Ángel Solá",
+      "Cecilia Narova",
+      "Mía Maestro",
+      "Juan Carlos Copes",
+      "Carlos Rivarola",
+      "Sandra Ballesteros",
+      "Óscar Cardozo Ocampo",
+      "Enrique Pinti",
+      "Julio Bocca",
+      "Juan Luis Galiardo",
+      "Martin Seefeld",
+      "Ricardo Díaz Mourelle",
+      "Antonio Soares Junior",
+      "Ariel Casas",
+      "Carlos Thiel"
+    ],
+    "Director": [
+      "Carlos Saura"
+    ],
+    "Type": null,
+    "st_end": [
+      1793196000,
+      1793203200
+    ],
+    "tmdb_id": 65749,
+    "imdb_id": "tt0120274",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Čovek koji je previše voleo",
+    "Raw_EPG": "Čovek koji je previše voleo",
+    "CH": "Pink World Cinema",
+    "year": 2014,
+    "Cast": [
+      "Guillaume Canet",
+      "Catherine Deneuve",
+      "Adèle Haenel",
+      "Judith Chemla",
+      "Mauro Conte",
+      "Jean Corso",
+      "Hugo Sablic",
+      "Jean-Pierre Getti",
+      "Pascal Mercier",
+      "Tamara De Leener",
+      "Jean-Marie Tiercelin",
+      "Peter Bonke",
+      "Laetitia Rosier",
+      "Noël Simsolo",
+      "Yani Redjala"
+    ],
+    "Director": [
+      "André Téchiné"
+    ],
+    "Type": null,
+    "st_end": [
+      1793203200,
+      1793210400
+    ],
+    "tmdb_id": 270899,
+    "imdb_id": "tt2929890",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Zore su tihe",
+    "Raw_EPG": "Zore su tihe",
+    "CH": "Pink World Cinema",
+    "year": 1972,
+    "Cast": [
+      "Andrey Martynov",
+      "Irina Dolganova",
+      "Elena Drapeko",
+      "Ekaterina Markova",
+      "Olga Ostroumova",
+      "Irina Shevchuk",
+      "Lyudmila Zaytseva",
+      "Alla Meshcheryakova",
+      "Nina Yemelyanova",
+      "Aleksey Chernov",
+      "Viktor Avdyushko",
+      "V. Antonov",
+      "Svetlana Borisova",
+      "Andrey Gribushin",
+      "T. Gunina"
+    ],
+    "Director": [
+      "Stanislav Rostotsky"
+    ],
+    "Type": null,
+    "st_end": [
+      1793210400,
+      1793217600
+    ],
+    "tmdb_id": 49106,
+    "imdb_id": "tt0068161",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Policijska priča 3 Superpolicajac",
+    "Raw_EPG": "Policijska priča 3 Superpolicajac",
+    "CH": "Pink World Cinema",
+    "year": 1992,
+    "Cast": [
+      "Jackie Chan",
+      "Michelle Yeoh",
+      "Maggie Cheung",
+      "Kenneth Tsang",
+      "Wah Yuen",
+      "Bill Tung",
+      "Josephine Koo",
+      "Kelvin Wong",
+      "Philip Chan",
+      "Wai-Kwong Lo",
+      "Lieh Lo",
+      "Wai Shum",
+      "Yi-Sheng Han",
+      "Sze Tsuen Wai",
+      "Wai-Lun Tuan"
+    ],
+    "Director": [
+      "Stanley Tong Gwai-lai"
+    ],
+    "Type": null,
+    "st_end": [
+      1793217600,
+      1793224800
+    ],
+    "tmdb_id": 11134,
+    "imdb_id": "tt0104558",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Kobna veza",
+    "Raw_EPG": "Kobna veza",
+    "CH": "Pink World Cinema",
+    "year": 1992,
+    "Cast": [
+      "Jeremy Irons",
+      "Juliette Binoche",
+      "Miranda Richardson",
+      "Rupert Graves",
+      "Ian Bannen",
+      "Peter Stormare",
+      "Gemma Clarke",
+      "Julian Fellowes",
+      "Leslie Caron",
+      "Tony Doyle",
+      "Ray Gravell",
+      "Susan Engel",
+      "David Thewlis",
+      "Benjamin Whitrow",
+      "Jeff Nuttall"
+    ],
+    "Director": [
+      "Louis Malle"
+    ],
+    "Type": null,
+    "st_end": [
+      1793224800,
+      1793232000
+    ],
+    "tmdb_id": 11012,
+    "imdb_id": "tt0104237",
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tvprofil+tmdb_find"
+  },
+  {
+    "title": "Planina",
+    "Raw_EPG": "Planina",
+    "CH": "Pink World Cinema",
+    "year": 2015,
+    "Cast": [
+      "David Mourato",
+      "Maria João Pinho",
+      "Rodrigo Perdigao",
+      "Cheyenne Domingues",
+      "Ema Araújo",
+      "Carloto Cotta",
+      "Ana Cris",
+      "Margarida Fernandes",
+      "Mia Tomé",
+      "Raul Windson"
+    ],
+    "Director": [
+      "João Salaviza"
+    ],
+    "Type": null,
+    "st_end": [
+      1793232000,
+      1793239200
+    ],
+    "tmdb_id": 310630,
+    "imdb_id": "tt2662716",
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tvprofil+tmdb_find"
