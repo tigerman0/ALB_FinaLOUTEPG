@@ -195,7 +195,7 @@
     "tmdb_id": 892494,
     "tmdb_type": "movie",
     "tmdb_match_score": 90.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Kralj lopova",
@@ -312,7 +312,7 @@
     "tmdb_id": 146015,
     "tmdb_type": "movie",
     "tmdb_match_score": 93.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "KOLAŽ PROGRAM",
@@ -1068,7 +1068,7 @@
     "tmdb_id": 475429,
     "tmdb_type": "movie",
     "tmdb_match_score": 95.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "KOLAŽ PROGRAM",
@@ -2031,7 +2031,7 @@
     "tmdb_id": 45132,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Budimfešta",
@@ -2697,7 +2697,7 @@
     "tmdb_id": 573042,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "100 metara",
@@ -2787,7 +2787,7 @@
     "tmdb_id": 573042,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Knjiga ljubavi",
@@ -2930,7 +2930,7 @@
     "imdb_id": "tt9058654",
     "tmdb_id": 653664,
     "tmdb_type": "movie",
-    "tmdb_match_score": 100.0,
+    "tmdb_match_score": 95.0,
     "verification_source": "tmdb+imdb"
   },
   {
@@ -3636,6 +3636,15 @@
     "verification_source": null
   },
   {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
     "Raw_EPG": "Povratak ubojice mekog srca",
     "original_title": "Whole Ten Yards",
     "imdb_id": "tt0327247",
@@ -3733,6 +3742,15 @@
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
   },
   {
     "Raw_EPG": "KOLAŽ PROGRAM",
@@ -3852,6 +3870,15 @@
     "verification_source": null
   },
   {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
     "Raw_EPG": "Kuća magičnog sata",
     "original_title": "House With A Clock In Its Walls, The",
     "imdb_id": "tt2119543",
@@ -3930,7 +3957,7 @@
     "tmdb_id": 446044,
     "tmdb_type": "movie",
     "tmdb_match_score": 90.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb"
   },
   {
     "Raw_EPG": "Ljubav i orhideje",
@@ -3958,6 +3985,15 @@
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
   },
   {
     "Raw_EPG": "KOLAŽ PROGRAM",
@@ -4020,7 +4056,7 @@
     "tmdb_id": 446044,
     "tmdb_type": "movie",
     "tmdb_match_score": 90.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb"
   },
   {
     "Raw_EPG": "Kako ja kažem",
@@ -4361,8 +4397,8 @@
     "imdb_id": "tt9767556",
     "tmdb_id": 589181,
     "tmdb_type": "movie",
-    "tmdb_match_score": 95.0,
-    "verification_source": "tmdb"
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "Moja stara gospođa",
@@ -4433,8 +4469,8 @@
     "imdb_id": "tt9767556",
     "tmdb_id": 589181,
     "tmdb_type": "movie",
-    "tmdb_match_score": 95.0,
-    "verification_source": "tmdb"
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "Noina Arka",
@@ -5314,6 +5350,3354 @@
     "original_title": "Life Partners",
     "imdb_id": "tt2870808",
     "tmdb_id": 260001,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Mortdecai",
+    "original_title": "Mortdecai",
+    "imdb_id": "tt3045616",
+    "tmdb_id": 210860,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Brzi i neustrašivi",
+    "original_title": "Silk Road Rally, The",
+    "imdb_id": "tt8417168",
+    "tmdb_id": 1008102,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dječak i tigar",
+    "original_title": "Tiger'S Nest",
+    "imdb_id": "tt7527028",
+    "tmdb_id": 654910,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Svemir između nas",
+    "original_title": "Space Between Us, The",
+    "imdb_id": "tt3922818",
+    "tmdb_id": 365942,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nesalomljivi dječak",
+    "original_title": "Unbreakable Boy",
+    "imdb_id": "tt5181260",
+    "tmdb_id": 765897,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Hachiko: Priča o psu",
+    "original_title": "Hachiko: A Dog'S Story",
+    "imdb_id": "tt1028532",
+    "tmdb_id": 28178,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Odjednom tata",
+    "original_title": "Two Is A Family",
+    "imdb_id": "tt5078204",
+    "tmdb_id": 382591,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Otkrila sam špijuna",
+    "original_title": "My Spy",
+    "imdb_id": "tt8242084",
+    "tmdb_id": 592834,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Čistač bazena",
+    "original_title": "Poolman",
+    "imdb_id": "tt18077924",
+    "tmdb_id": 834562,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Još uvijek vjerujem",
+    "original_title": "I Still Believe",
+    "imdb_id": "tt9779516",
+    "tmdb_id": 585244,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Alibi.com 2",
+    "original_title": "Alibi.Com 2",
+    "imdb_id": "tt20424172",
+    "tmdb_id": 967585,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Pas Pudsey",
+    "original_title": "Pudsey The Dog: The Movie",
+    "imdb_id": "tt3171246",
+    "tmdb_id": 283237,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Hachiko: Priča o psu",
+    "original_title": "Hachiko: A Dog'S Story",
+    "imdb_id": "tt1028532",
+    "tmdb_id": 28178,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 4",
+    "original_title": "Red Band Society II, ep. 4",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vik i čarobni mač",
+    "original_title": "Vic The Viking",
+    "imdb_id": "tt8065768",
+    "tmdb_id": 648572,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Odjednom tata",
+    "original_title": "Two Is A Family",
+    "imdb_id": "tt5078204",
+    "tmdb_id": 382591,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Otkrila sam špijuna",
+    "original_title": "My Spy",
+    "imdb_id": "tt8242084",
+    "tmdb_id": 592834,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božić u Bostonu",
+    "original_title": "Instant Message",
+    "imdb_id": "tt0497025",
+    "tmdb_id": 7088,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Rudderless",
+    "original_title": "Rudderless",
+    "imdb_id": "tt1798243",
+    "tmdb_id": 244403,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Osunčana noć",
+    "original_title": "Sunlit Night, The",
+    "imdb_id": "tt8368394",
+    "tmdb_id": 565275,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Kako isplanirati orgije u malom gradu",
+    "original_title": "How To Plan An Orgy In A Small Town",
+    "imdb_id": "tt3919218",
+    "tmdb_id": 356300,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vjenčanje",
+    "original_title": "Ceremony",
+    "imdb_id": "tt1341341",
+    "tmdb_id": 55246,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Novi svjetovi",
+    "original_title": "Hide Away",
+    "imdb_id": "tt1536374",
+    "tmdb_id": 109894,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Ponos, predrasude i psi",
+    "original_title": "Unleashing Mr. Darcy",
+    "imdb_id": "tt5231268",
+    "tmdb_id": 374609,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mon cheri, ja sam ti",
+    "original_title": "L'Un Dans L'Autre",
+    "imdb_id": "tt6096500",
+    "tmdb_id": 432627,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 5",
+    "original_title": "Red Band Society II, ep. 5",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Luka i čarobni muzej",
+    "original_title": "Harvie And The Magic Museum",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Rudderless",
+    "original_title": "Rudderless",
+    "imdb_id": "tt1798243",
+    "tmdb_id": 244403,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Osunčana noć",
+    "original_title": "Sunlit Night, The",
+    "imdb_id": "tt8368394",
+    "tmdb_id": 565275,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Savršen blagdan",
+    "original_title": "Perfect Holiday",
+    "imdb_id": "tt0841032",
+    "tmdb_id": 26990,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Plavuša",
+    "original_title": "Blonde Ambition",
+    "imdb_id": "tt0887719",
+    "tmdb_id": 15017,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Ta luda vjenčanja 3",
+    "original_title": "Serial (Bad) Weddings 3",
+    "imdb_id": "tt10405142",
+    "tmdb_id": 714869,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dobra djeca",
+    "original_title": "Good Kids",
+    "imdb_id": "tt2170427",
+    "tmdb_id": 352186,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Van Wilder 3",
+    "original_title": "Van Wilder 3: Freshman Year",
+    "imdb_id": "tt1276434",
+    "tmdb_id": 19824,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Teatar života",
+    "original_title": "Theater Of Life",
+    "imdb_id": "tt5331878",
+    "tmdb_id": 412730,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Sve što želim",
+    "original_title": "Try Seventeen",
+    "imdb_id": "tt0311941",
+    "tmdb_id": 14874,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Test",
+    "original_title": "Test, The",
+    "imdb_id": "tt14236348",
+    "tmdb_id": 880728,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 6",
+    "original_title": "Red Band Society II, ep. 6",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nikica: Kako je sve počelo?",
+    "original_title": "Little Nicholas (2022)",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Plavuša",
+    "original_title": "Blonde Ambition",
+    "imdb_id": "tt0887719",
+    "tmdb_id": 15017,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Ta luda vjenčanja 3",
+    "original_title": "Serial (Bad) Weddings 3",
+    "imdb_id": "tt10405142",
+    "tmdb_id": 714869,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božićna zamjena",
+    "original_title": "Trading Christmas",
+    "imdb_id": "tt2008491",
+    "tmdb_id": 120055,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red",
+    "original_title": "Red",
+    "imdb_id": "tt1245526",
+    "tmdb_id": 39514,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red 2",
+    "original_title": "Red 2",
+    "imdb_id": "tt1821694",
+    "tmdb_id": 146216,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Svijet odraslih",
+    "original_title": "Adult World",
+    "imdb_id": "tt1067765",
+    "tmdb_id": 143049,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dvojnik",
+    "original_title": "Double, The",
+    "imdb_id": "tt1825157",
+    "tmdb_id": 146015,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Mladi Mesija",
+    "original_title": "Young Messiah, The",
+    "imdb_id": "tt1002563",
+    "tmdb_id": 318850,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Nahraniti ribu",
+    "original_title": "Feed The Fish",
+    "imdb_id": "tt1354687",
+    "tmdb_id": 55839,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Moja grčka avantura",
+    "original_title": "My Life In Ruins",
+    "imdb_id": "tt0865559",
+    "tmdb_id": 23049,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 7",
+    "original_title": "Red Band Society II, ep. 7",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mali zmaj Kokos",
+    "original_title": "Coconut The Little Dragon",
+    "imdb_id": "tt3726220",
+    "tmdb_id": 308167,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Red",
+    "original_title": "Red",
+    "imdb_id": "tt1245526",
+    "tmdb_id": 39514,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red 2",
+    "original_title": "Red 2",
+    "imdb_id": "tt1821694",
+    "tmdb_id": 146216,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Snježne nevolje",
+    "original_title": "Dashing Through The Snow",
+    "imdb_id": "tt5070196",
+    "tmdb_id": 369052,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Opasna plavuša",
+    "original_title": "Major Movie Star",
+    "imdb_id": "tt1034320",
+    "tmdb_id": 15616,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Gringo",
+    "original_title": "Gringo",
+    "imdb_id": "tt3721964",
+    "tmdb_id": 340022,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Robot na štulama",
+    "original_title": "Giant Mechanical Man, The",
+    "imdb_id": "tt1769363",
+    "tmdb_id": 100046,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Da sam bogat",
+    "original_title": "Si Yo Fuera Rico",
+    "imdb_id": "tt9010802",
+    "tmdb_id": 630709,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Morris iz Amerike",
+    "original_title": "Morris From America",
+    "imdb_id": "tt3652862",
+    "tmdb_id": 352890,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Sve je to zbog ljubavi",
+    "original_title": "Trouble With You, The",
+    "imdb_id": "tt7534068",
+    "tmdb_id": 519106,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Ups 2! Avantura se nastavlja",
+    "original_title": "Ooops! The Adventure Continues",
+    "imdb_id": "tt12615474",
+    "tmdb_id": 587562,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Obitelj skorojevića",
+    "original_title": "Tuche, Les",
+    "imdb_id": "tt1793931",
+    "tmdb_id": 66129,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Opasna plavuša",
+    "original_title": "Major Movie Star",
+    "imdb_id": "tt1034320",
+    "tmdb_id": 15616,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Robot na štulama",
+    "original_title": "Giant Mechanical Man, The",
+    "imdb_id": "tt1769363",
+    "tmdb_id": 100046,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Zimska mladenka",
+    "original_title": "December Bride",
+    "imdb_id": "tt5739680",
+    "tmdb_id": 427045,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ribarevi prijatelji",
+    "original_title": "Fisherman’S Friends",
+    "imdb_id": "tt1648186",
+    "tmdb_id": 559713,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "St. Vincent",
+    "original_title": "St. Vincent De Van Nuys",
+    "imdb_id": "tt2170593",
+    "tmdb_id": 239563,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Neženje",
+    "original_title": "Bachelors, The",
+    "imdb_id": "tt5253282",
+    "tmdb_id": 397601,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zašto sada stati?",
+    "original_title": "Why Stop Now?",
+    "imdb_id": "tt1853643",
+    "tmdb_id": 118677,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sedam psihopata",
+    "original_title": "Seven Psychopaths",
+    "imdb_id": "tt1931533",
+    "tmdb_id": 86838,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Moj Blind Date",
+    "original_title": "Mein Blind Date Mit Dem Leben",
+    "imdb_id": "tt4299300",
+    "tmdb_id": 379019,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Asterix: Grad bogova",
+    "original_title": "Asterix, The Land Of The Gods",
+    "imdb_id": "tt3759416",
+    "tmdb_id": 170522,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Obitelj skorojevića 2",
+    "original_title": "Tuche 2, Les - Le Reve Americain",
+    "imdb_id": "tt4926538",
+    "tmdb_id": 369776,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Ribarevi prijatelji",
+    "original_title": "Fisherman’S Friends",
+    "imdb_id": "tt1648186",
+    "tmdb_id": 559713,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "St. Vincent",
+    "original_title": "St. Vincent De Van Nuys",
+    "imdb_id": "tt2170593",
+    "tmdb_id": 239563,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božićni prsten",
+    "original_title": "Christmas Ring, The",
+    "imdb_id": "tt13267034",
+    "tmdb_id": 746035,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ribarevi prijatelji 2",
+    "original_title": "Fisherman's Friends 2",
+    "imdb_id": "tt10373344",
+    "tmdb_id": 684006,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mafija mama",
+    "original_title": "Mafia Mamma",
+    "imdb_id": "tt13923456",
+    "tmdb_id": 809787,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Paklena kuhinja",
+    "original_title": "Burnt",
+    "imdb_id": "tt2503944",
+    "tmdb_id": 295964,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U mrtvom kutu",
+    "original_title": "Blindspotting",
+    "imdb_id": "tt7242142",
+    "tmdb_id": 489930,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "100 stvari",
+    "original_title": "100 Dinge",
+    "imdb_id": "tt8129794",
+    "tmdb_id": 546630,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Nerazdvojni",
+    "original_title": "Inseparables",
+    "imdb_id": "tt5680678",
+    "tmdb_id": 418402,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Asterix: Tajna čarobnog napitka",
+    "original_title": "Asterix: The Secret Of The Magic Potion",
+    "imdb_id": "tt8001346",
+    "tmdb_id": 527729,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Obitelj skorojevića 3",
+    "original_title": "Tuche 3, Les",
+    "imdb_id": "tt7066382",
+    "tmdb_id": 424619,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Ribarevi prijatelji 2",
+    "original_title": "Fisherman's Friends 2",
+    "imdb_id": "tt10373344",
+    "tmdb_id": 684006,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Paklena kuhinja",
+    "original_title": "Burnt",
+    "imdb_id": "tt2503944",
+    "tmdb_id": 295964,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božić na pameti",
+    "original_title": "Christmas On My Mind",
+    "imdb_id": "tt11100776",
+    "tmdb_id": 630922,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vrijeme ljubavi",
+    "original_title": "Time Freak",
+    "imdb_id": "tt6769280",
+    "tmdb_id": 451925,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dobra kuća",
+    "original_title": "Good House, The",
+    "imdb_id": "tt3104956",
+    "tmdb_id": 633657,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plivaj muški",
+    "original_title": "Sink Or Swim",
+    "imdb_id": "tt7476116",
+    "tmdb_id": 484482,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Millerova djevojka",
+    "original_title": "Miller's Girl",
+    "imdb_id": "tt8310486",
+    "tmdb_id": 1026436,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "James protiv budućeg sebe",
+    "original_title": "James VS His Future Self",
+    "imdb_id": "tt6739796",
+    "tmdb_id": 629502,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Vremenski gusari",
+    "original_title": "Timecrafters",
+    "imdb_id": "tt3143606",
+    "tmdb_id": 657032,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Vino i vjetar",
+    "original_title": "Ce Qui Nous Lie",
+    "imdb_id": "tt5247704",
+    "tmdb_id": 432087,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 8",
+    "original_title": "Red Band Society II, ep. 8",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Svemirska avantura 2",
+    "original_title": "Space Dogs 2",
+    "imdb_id": "tt3600950",
+    "tmdb_id": 260310,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vrijeme ljubavi",
+    "original_title": "Time Freak",
+    "imdb_id": "tt6769280",
+    "tmdb_id": 451925,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plivaj muški",
+    "original_title": "Sink Or Swim",
+    "imdb_id": "tt7476116",
+    "tmdb_id": 484482,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božićne zvijezde",
+    "original_title": "Christmas Star",
+    "imdb_id": "tt8451018",
+    "tmdb_id": 542602,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Razmišljaj poput psa",
+    "original_title": "Think Like A Dog",
+    "imdb_id": "tt5929654",
+    "tmdb_id": 513584,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plava iguana",
+    "original_title": "Blue Iguana",
+    "imdb_id": "tt2316479",
+    "tmdb_id": 471429,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Profesorica engleskog",
+    "original_title": "English Teacher, The",
+    "imdb_id": "tt2055765",
+    "tmdb_id": 174321,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Žene na rubu živčanog sloma",
+    "original_title": "Women On The Verge Of A Nervous Breakdown",
+    "imdb_id": "tt0095675",
+    "tmdb_id": 4203,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mi smo vaši prijatelji",
+    "original_title": "We Are Your Friends",
+    "imdb_id": "tt3787590",
+    "tmdb_id": 301351,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Beskrajni Božić",
+    "original_title": "Pete'S Christmas",
+    "imdb_id": "tt3004544",
+    "tmdb_id": 237710,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mala gospođica Dolittle",
+    "original_title": "Little Miss Dolittle",
+    "imdb_id": "tt5368108",
+    "tmdb_id": 505204,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 9",
+    "original_title": "Red Band Society II, ep. 9",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Top Cat: Mačak za 5",
+    "original_title": "Top Cat Begins",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Razmišljaj poput psa",
+    "original_title": "Think Like A Dog",
+    "imdb_id": "tt5929654",
+    "tmdb_id": 513584,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Profesorica engleskog",
+    "original_title": "English Teacher, The",
+    "imdb_id": "tt2055765",
+    "tmdb_id": 174321,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Božić s Tuckerom",
+    "original_title": "Christmas With Tucker",
+    "imdb_id": "tt2907922",
+    "tmdb_id": 239899,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Srednja škola: Najgore razdoblje mog života",
+    "original_title": "Middle School: The Worst Years Of My Life",
+    "imdb_id": "tt4981636",
+    "tmdb_id": 369883,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pas",
+    "original_title": "Dog",
+    "imdb_id": "tt11252248",
+    "tmdb_id": 626735,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Prljavi poslovi",
+    "original_title": "War, Inc.",
+    "imdb_id": "tt0884224",
+    "tmdb_id": 13191,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ima li stjuarda u avionu?",
+    "original_title": "Larry Gaye: Renegade Male Flight Attendant",
+    "imdb_id": "tt2547172",
+    "tmdb_id": 339355,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kings",
+    "original_title": "Kings",
+    "imdb_id": "tt5843850",
+    "tmdb_id": 408873,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 70.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Vjenčanje za pamćenje",
+    "original_title": "Wedding Video, The",
+    "imdb_id": "tt2035670",
+    "tmdb_id": 122843,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Polarna odiseja",
+    "original_title": "Polarna odiseja",
+    "imdb_id": "tt28185868",
+    "tmdb_id": 983015,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 10",
+    "original_title": "Red Band Society II, ep. 10",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prste(n) k sebi",
+    "original_title": "Bling",
+    "imdb_id": "tt5161658",
+    "tmdb_id": 385722,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Srednja škola: Najgore razdoblje mog života",
+    "original_title": "Middle School: The Worst Years Of My Life",
+    "imdb_id": "tt4981636",
+    "tmdb_id": 369883,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pas",
+    "original_title": "Dog",
+    "imdb_id": "tt11252248",
+    "tmdb_id": 626735,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Djed mraz i ja",
+    "original_title": "Santa Clause!",
+    "imdb_id": "tt3532850",
+    "tmdb_id": 305455,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Put",
+    "original_title": "Way, The",
+    "imdb_id": "tt1441912",
+    "tmdb_id": 59468,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Nedodirljivi",
+    "original_title": "Intouchables",
+    "imdb_id": "tt1675434",
+    "tmdb_id": 77338,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mjesto zločina",
+    "original_title": "Kill Room, The",
+    "imdb_id": "tt11908172",
+    "tmdb_id": 958006,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubav kao nepoznanica",
+    "original_title": "No Stranger Than Love",
+    "imdb_id": "tt2998406",
+    "tmdb_id": 243752,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U svetoj zemlji",
+    "original_title": "Holy Lands",
+    "imdb_id": "tt6383494",
+    "tmdb_id": 550958,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Čiste petice",
+    "original_title": "Straight A'S",
+    "imdb_id": "tt2024506",
+    "tmdb_id": 153795,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Taxi",
+    "original_title": "Taxi (2015)",
+    "imdb_id": "tt4359416",
+    "tmdb_id": 320006,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 11",
+    "original_title": "Red Band Society II, ep. 11",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mune: Čuvar Mjeseca",
+    "original_title": "Mune",
+    "imdb_id": "tt3858372",
+    "tmdb_id": 323661,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Put",
+    "original_title": "Way, The",
+    "imdb_id": "tt1441912",
+    "tmdb_id": 59468,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Nedodirljivi",
+    "original_title": "Intouchables",
+    "imdb_id": "tt1675434",
+    "tmdb_id": 77338,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pustolovina K-9: Božićna priča",
+    "original_title": "K-9 Adventures: A Christmas Tale",
+    "imdb_id": "tt2406468",
+    "tmdb_id": 231530,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Iz sveg glasa",
+    "original_title": "Boy Choir",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dostavljač",
+    "original_title": "Delivery Man",
+    "imdb_id": "tt2387559",
+    "tmdb_id": 146239,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Razgovori s drugim ženama",
+    "original_title": "Conversations With Other Women",
+    "imdb_id": "tt0435623",
+    "tmdb_id": 15624,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Udovolji mi",
+    "original_title": "Humor Me",
+    "imdb_id": "tt5658242",
+    "tmdb_id": 460216,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Viralni pakao",
+    "original_title": "Spree",
+    "imdb_id": "tt11394332",
+    "tmdb_id": 653598,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dream Team",
+    "original_title": "Seigneurs, Les",
+    "imdb_id": "tt1850394",
+    "tmdb_id": 133469,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Polarna avantura",
+    "original_title": "Arctic Justice: Thunder Squad",
+    "imdb_id": "tt4426464",
+    "tmdb_id": 416153,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Djeca Timpelbacha",
+    "original_title": "Enfants De Timpelbach, Les",
+    "imdb_id": "tt0953382",
+    "tmdb_id": 21788,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Iz sveg glasa",
+    "original_title": "Boy Choir",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dostavljač",
+    "original_title": "Delivery Man",
+    "imdb_id": "tt2387559",
+    "tmdb_id": 146239,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Odvezano zavezano",
+    "original_title": "Yuletide: The Knot",
+    "imdb_id": "tt26563552",
+    "tmdb_id": 1175697,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Spašavaj se tko može",
+    "original_title": "Skiptrace",
+    "imdb_id": "tt2238032",
+    "tmdb_id": 270774,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Gospoda",
+    "original_title": "Gentlemen, The",
+    "imdb_id": "tt8367814",
+    "tmdb_id": 522627,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dopunska nastava",
+    "original_title": "Dopunska Nastava",
+    "imdb_id": "tt10461630",
+    "tmdb_id": 616384,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Super",
+    "original_title": "Super",
+    "imdb_id": "tt1512235",
+    "tmdb_id": 45132,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Budimfešta",
+    "original_title": "Budapest",
+    "imdb_id": "tt7027092",
+    "tmdb_id": 467673,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Škola do bola",
+    "original_title": "Fack Ju Gohte 3",
+    "imdb_id": "tt6471264",
+    "tmdb_id": 437670,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Moja čudovišna obitelj",
+    "original_title": "Happy Family",
+    "imdb_id": "tt6572702",
+    "tmdb_id": 454699,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pa zašto, Bože?",
+    "original_title": "God, You'Re Such A Prick",
+    "imdb_id": "tt11458628",
+    "tmdb_id": 717637,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Spašavaj se tko može",
+    "original_title": "Skiptrace",
+    "imdb_id": "tt2238032",
+    "tmdb_id": 270774,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dopunska nastava",
+    "original_title": "Dopunska Nastava",
+    "imdb_id": "tt10461630",
+    "tmdb_id": 616384,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubav u Sobovoj kolibi",
+    "original_title": "Romance At Reindeer Lodge",
+    "imdb_id": "tt7546978",
+    "tmdb_id": 490147,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Majčin dan",
+    "original_title": "Mother'S Day",
+    "imdb_id": "tt4824302",
+    "tmdb_id": 353069,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vjenčanje za umrijeti",
+    "original_title": "Shotgun Wedding",
+    "imdb_id": "tt9686790",
+    "tmdb_id": 758009,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vjenčanje godine",
+    "original_title": "Big Wedding",
+    "imdb_id": "tt1931435",
+    "tmdb_id": 87567,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Terri",
+    "original_title": "Terri",
+    "imdb_id": "tt1687281",
+    "tmdb_id": 51993,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Rezultati",
+    "original_title": "Results",
+    "imdb_id": "tt3824412",
+    "tmdb_id": 294132,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Nulti teorem",
+    "original_title": "Zero Theorem, The",
+    "imdb_id": "tt2333804",
+    "tmdb_id": 157834,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Moja čudovišna obitelj 2",
+    "original_title": "Happy Family 2",
+    "imdb_id": "tt15096796",
+    "tmdb_id": 823609,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kada je Hitler ukrao ružičastog zeca",
+    "original_title": "When Hitler Stole Pink Rabbit",
+    "imdb_id": "tt9106672",
+    "tmdb_id": 581518,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Majčin dan",
+    "original_title": "Mother'S Day",
+    "imdb_id": "tt4824302",
+    "tmdb_id": 353069,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vjenčanje godine",
+    "original_title": "Big Wedding",
+    "imdb_id": "tt1931435",
+    "tmdb_id": 87567,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božić, s ljubavlju",
+    "original_title": "With Love, Christmas",
+    "imdb_id": "tt7647000",
+    "tmdb_id": 474976,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri tigra",
+    "original_title": "Paper Tigers, The",
+    "imdb_id": "tt6060444",
+    "tmdb_id": 731738,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 78.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Gradska cura",
+    "original_title": "New In Town",
+    "imdb_id": "tt1095174",
+    "tmdb_id": 14536,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubav na engleski način",
+    "original_title": "How To Make Love Like An Englishman",
+    "imdb_id": "tt1725986",
+    "tmdb_id": 253344,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sve o mojoj majci",
+    "original_title": "All About My Mother",
+    "imdb_id": "tt0185125",
+    "tmdb_id": 99,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sve za slavu",
+    "original_title": "Austin Found",
+    "imdb_id": "tt2658538",
+    "tmdb_id": 291188,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Kako odvratiti pljačkaše",
+    "original_title": "How To Deter A Robber",
+    "imdb_id": "tt9269988",
+    "tmdb_id": 741622,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Gospodarica orlova",
+    "original_title": "Eagle Huntress, The",
+    "imdb_id": "tt3882074",
+    "tmdb_id": 376530,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 12",
+    "original_title": "Red Band Society II, ep. 12",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Čarobni prolaz",
+    "original_title": "Magic Arch 3D",
+    "imdb_id": "tt7892450",
+    "tmdb_id": 663451,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri tigra",
+    "original_title": "Paper Tigers, The",
+    "imdb_id": "tt6060444",
+    "tmdb_id": 731738,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 78.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Gradska cura",
+    "original_title": "New In Town",
+    "imdb_id": "tt1095174",
+    "tmdb_id": 14536,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Savršen Božić",
+    "original_title": "Perfect Christmas, A",
+    "imdb_id": "tt2304098",
+    "tmdb_id": 231385,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Genijalac i kockar",
+    "original_title": "Hairbrained",
+    "imdb_id": "tt1426363",
+    "tmdb_id": 239056,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Comic Sans",
+    "original_title": "Comic Sans",
+    "imdb_id": "tt7640198",
+    "tmdb_id": 506509,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dodir ruke",
+    "original_title": "Touchy Feely",
+    "imdb_id": "tt2364949",
+    "tmdb_id": 154282,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Glasovi",
+    "original_title": "Voices, The",
+    "imdb_id": "tt1567437",
+    "tmdb_id": 244458,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Grad sjena",
+    "original_title": "Show, The",
+    "imdb_id": "tt9165824",
+    "tmdb_id": 567910,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 83.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Ljubav u New Yorku",
+    "original_title": "Five Flights Up",
+    "imdb_id": "tt2933544",
+    "tmdb_id": 286521,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Babyphone",
+    "original_title": "Baby Phone",
+    "imdb_id": "tt6445408",
+    "tmdb_id": 592678,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 13",
+    "original_title": "Red Band Society II, ep. 13",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Brzi Ozzy",
+    "original_title": "Run Ozzy, Run",
+    "imdb_id": "tt5770430",
+    "tmdb_id": 411221,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Genijalac i kockar",
+    "original_title": "Hairbrained",
+    "imdb_id": "tt1426363",
+    "tmdb_id": 239056,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Comic Sans",
+    "original_title": "Comic Sans",
+    "imdb_id": "tt7640198",
+    "tmdb_id": 506509,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Blago za Božić",
+    "original_title": "Holly Star",
+    "imdb_id": "tt6268734",
+    "tmdb_id": 562490,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Smisao života jednog psa",
+    "original_title": "Dog's Purpose, A",
+    "imdb_id": "tt1753383",
+    "tmdb_id": 381289,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Putovanje jednog psa",
+    "original_title": "Dog's Journey, A",
+    "imdb_id": "tt8385474",
+    "tmdb_id": 522518,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Put promjene",
+    "original_title": "Road Within",
+    "imdb_id": "tt2962876",
+    "tmdb_id": 228108,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Mjesto za nas",
+    "original_title": "Come As You Are",
+    "imdb_id": "tt6722726",
+    "tmdb_id": 576568,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Živo meso",
+    "original_title": "Carne Tremula",
+    "imdb_id": "tt0118819",
+    "tmdb_id": 267,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Samac",
+    "original_title": "Solitary Man",
+    "imdb_id": "tt1294213",
+    "tmdb_id": 36691,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Slučajna kriminalka",
+    "original_title": "Ola De Crimenes",
+    "imdb_id": "tt7459182",
+    "tmdb_id": 529207,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 14",
+    "original_title": "Red Band Society II, ep. 14",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Inspektor Brk i zagonetni slučaj",
+    "original_title": "Inspector Sun And The Curse Of The Black Widow",
+    "imdb_id": "tt6661616",
+    "tmdb_id": 987750,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Smisao života jednog psa",
+    "original_title": "Dog's Purpose, A",
+    "imdb_id": "tt1753383",
+    "tmdb_id": 381289,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Putovanje jednog psa",
+    "original_title": "Dog's Journey, A",
+    "imdb_id": "tt8385474",
+    "tmdb_id": 522518,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ništa od Božića ove godine",
+    "original_title": "Christmas Is Canceled",
+    "imdb_id": "tt15186426",
+    "tmdb_id": 899382,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Hologram za kralja",
+    "original_title": "Hologram For A King, A",
+    "imdb_id": "tt2980210",
+    "tmdb_id": 270010,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sve što vole mladi",
+    "original_title": "While We'Re Young",
+    "imdb_id": "tt1791682",
+    "tmdb_id": 252512,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Knjiga ljubavi",
+    "original_title": "Book Of Love (2022)",
+    "imdb_id": "tt14014068",
+    "tmdb_id": 892835,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Jednorog",
+    "original_title": "Unicorn, The",
+    "imdb_id": "tt7149336",
+    "tmdb_id": 483351,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Tiha osveta",
+    "original_title": "Stark Raving Mad",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Kralj Kalifornije",
+    "original_title": "King Of California",
+    "imdb_id": "tt0388182",
+    "tmdb_id": 5718,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljepota različitosti",
+    "original_title": "Beautiful Minds",
+    "imdb_id": "tt13553662",
+    "tmdb_id": 757999,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Društvo crvenih narukvica II, ep. 15",
+    "original_title": "Red Band Society II, ep. 15",
+    "imdb_id": "tt1698292",
+    "tmdb_id": 42194,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Saba: Mali ratnik velikoga srca",
+    "original_title": "Savva",
+    "imdb_id": "tt4075322",
+    "tmdb_id": 367961,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Hologram za kralja",
+    "original_title": "Hologram For A King, A",
+    "imdb_id": "tt2980210",
+    "tmdb_id": 270010,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Knjiga ljubavi",
+    "original_title": "Book Of Love (2022)",
+    "imdb_id": "tt14014068",
+    "tmdb_id": 892835,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Svratište pod imelom",
+    "original_title": "Mistletoe Inn, The",
+    "imdb_id": "tt7647010",
+    "tmdb_id": 475829,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "U školi je najgore",
+    "original_title": "Barely Lethal",
+    "imdb_id": "tt1731701",
+    "tmdb_id": 248574,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Maggie Moore i Maggie Moore",
+    "original_title": "Maggie Moore(S)",
+    "imdb_id": "tt14181816",
+    "tmdb_id": 800089,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prinčevi pustinje",
+    "original_title": "Princes Of The Desert",
+    "imdb_id": "tt20192062",
+    "tmdb_id": 1000521,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pixie",
+    "original_title": "Pixie",
+    "imdb_id": "tt10831086",
+    "tmdb_id": 651610,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Brooklynska braća pobjeđuju najbolje",
+    "original_title": "Brooklyn Brothers Beat The Best",
+    "imdb_id": "tt1748224",
+    "tmdb_id": 123242,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Male žene",
+    "original_title": "Little Women",
+    "imdb_id": "tt6495094",
+    "tmdb_id": 483347,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Sammy na putu oko svijeta",
+    "original_title": "Sammy'S Adventures: The Secret Passage",
+    "imdb_id": "tt1230204",
+    "tmdb_id": 49953,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kaamelott: Prvo poglavlje",
+    "original_title": "Kaamelott",
+    "imdb_id": "tt9844322",
+    "tmdb_id": 577242,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U školi je najgore",
+    "original_title": "Barely Lethal",
+    "imdb_id": "tt1731701",
+    "tmdb_id": 248574,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prinčevi pustinje",
+    "original_title": "Princes Of The Desert",
+    "imdb_id": "tt20192062",
+    "tmdb_id": 1000521,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tajni život gđe. Mraz",
+    "original_title": "Charming Christmas",
+    "imdb_id": "tt5156770",
+    "tmdb_id": 363476,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Paddington",
+    "original_title": "Paddington Bear",
+    "imdb_id": "tt1109624",
+    "tmdb_id": 116149,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Medvjedić Paddington 2",
+    "original_title": "Paddington 2",
+    "imdb_id": "tt4468740",
+    "tmdb_id": 346648,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Predgrađe",
+    "original_title": "Suburbicon",
+    "imdb_id": "tt0491175",
+    "tmdb_id": 395458,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Jexi",
+    "original_title": "Jexi",
+    "imdb_id": "tt9354944",
+    "tmdb_id": 620725,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Phillip Morris, Volim te!",
+    "original_title": "I Love You Phillip Morris",
+    "imdb_id": "tt1045772",
+    "tmdb_id": 8952,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Čovjek koji je ubio Don Quijotea",
+    "original_title": "Man Who Killed Don Quixote, The",
+    "imdb_id": "tt1318517",
+    "tmdb_id": 297725,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "P’Astanian i tri njušketira",
+    "original_title": "Dogtanian And The 3 Muskehounds",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dobro došli u Njemačku",
+    "original_title": "WELCOME TO GERMANY",
+    "imdb_id": "tt5500148",
+    "tmdb_id": 403348,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Paddington",
+    "original_title": "Paddington Bear",
+    "imdb_id": "tt1109624",
+    "tmdb_id": 116149,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Medvjedić Paddington 2",
+    "original_title": "Paddington 2",
+    "imdb_id": "tt4468740",
+    "tmdb_id": 346648,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božićna pjesma",
+    "original_title": "Song For Christmas, A",
+    "imdb_id": "tt6759380",
+    "tmdb_id": 479613,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kauboji",
+    "original_title": "Kauboji",
+    "imdb_id": "tt2994904",
+    "tmdb_id": 233040,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Djedica pušten s lanca",
+    "original_title": "Dirty Grandpa",
+    "imdb_id": "tt1860213",
+    "tmdb_id": 291870,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubavni jackpot",
+    "original_title": "Rebound, The (2009)",
+    "imdb_id": "tt1205535",
+    "tmdb_id": 24122,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Nemilosrdni plišanci",
+    "original_title": "Happytime Murders, The",
+    "imdb_id": "tt1308728",
+    "tmdb_id": 412988,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Večera u Americi",
+    "original_title": "Dinner In America",
+    "imdb_id": "tt9058654",
+    "tmdb_id": 653664,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Ostvareni snovi",
+    "original_title": "Dreamer",
+    "imdb_id": "tt0418647",
+    "tmdb_id": 12920,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Avanture obitelji Bigfoot",
+    "original_title": "Bigfoot Family",
+    "imdb_id": "tt9204164",
+    "tmdb_id": 702525,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "25 km/h",
+    "original_title": "25 Km/H",
+    "imdb_id": "tt7225386",
+    "tmdb_id": 480736,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kauboji",
+    "original_title": "Kauboji",
+    "imdb_id": "tt2994904",
+    "tmdb_id": 233040,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubavni jackpot",
+    "original_title": "Rebound, The (2009)",
+    "imdb_id": "tt1205535",
+    "tmdb_id": 24122,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Obitelj za Božić",
+    "original_title": "Family for Christmas",
+    "imdb_id": "tt4766018",
+    "tmdb_id": 348393,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mala Italija",
+    "original_title": "Little Italy",
+    "imdb_id": "tt6957966",
+    "tmdb_id": 523773,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zavedi me ako možeš",
+    "original_title": "Long Shot",
+    "imdb_id": "tt2139881",
+    "tmdb_id": 459992,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Danny Collins",
+    "original_title": "Danny Collins",
+    "imdb_id": "tt1772288",
+    "tmdb_id": 256924,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tyrel",
+    "original_title": "Tyrel",
+    "imdb_id": "tt6729000",
+    "tmdb_id": 454312,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "100 metara",
+    "original_title": "100 Metros",
+    "imdb_id": "tt5089786",
+    "tmdb_id": 402693,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dokazana krivica",
+    "original_title": "Find Me Guilty",
+    "imdb_id": "tt0419749",
+    "tmdb_id": 9950,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Savršen plan",
+    "original_title": "Un Plan Parfait",
+    "imdb_id": "tt1986843",
+    "tmdb_id": 133698,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vampirko",
+    "original_title": "Little Vampire, The",
+    "imdb_id": "tt4729560",
+    "tmdb_id": 442056,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mala Italija",
+    "original_title": "Little Italy",
+    "imdb_id": "tt6957966",
+    "tmdb_id": 523773,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Danny Collins",
+    "original_title": "Danny Collins",
+    "imdb_id": "tt1772288",
+    "tmdb_id": 256924,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božićna srca",
+    "original_title": "Hearts Of Christmas",
+    "imdb_id": "tt6321108",
+    "tmdb_id": 421633,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Veliko zavođenje",
+    "original_title": "Grand Seduction, The",
+    "imdb_id": "tt2319580",
+    "tmdb_id": 209185,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Samba",
+    "original_title": "Samba",
+    "imdb_id": "tt3399024",
+    "tmdb_id": 269148,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "1UP",
+    "original_title": "1Up",
+    "imdb_id": "tt13487922",
+    "tmdb_id": 767401,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Staten Island",
+    "original_title": "Staten Island",
+    "imdb_id": "tt0976246",
+    "tmdb_id": 25927,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Cvijet moje tajne",
+    "original_title": "Flower Of My Secret, The",
+    "imdb_id": "tt0113083",
+    "tmdb_id": 4307,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Ispunjenje želje",
+    "original_title": "Wish Man",
+    "imdb_id": "tt3246874",
+    "tmdb_id": 614564,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Netko, negdje",
+    "original_title": "Deux Moi",
+    "imdb_id": "tt10407272",
+    "tmdb_id": 583268,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Albert",
+    "original_title": "Albert",
+    "imdb_id": "tt4144206",
+    "tmdb_id": 329892,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Veliko zavođenje",
+    "original_title": "Grand Seduction, The",
+    "imdb_id": "tt2319580",
+    "tmdb_id": 209185,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Samba",
+    "original_title": "Samba",
+    "imdb_id": "tt3399024",
+    "tmdb_id": 269148,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Snježna mladenka",
+    "original_title": "Snow Bride",
+    "imdb_id": "tt3214240",
+    "tmdb_id": 235662,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Belle: Zmaj i pjegava princeza",
+    "original_title": "Belle (2021)",
+    "imdb_id": "tt13651628",
+    "tmdb_id": 776305,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igra ljubavi i mržnje",
+    "original_title": "Hating Game, The",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Prijatelji",
+    "original_title": "Friends With Kids",
+    "imdb_id": "tt1720616",
+    "tmdb_id": 80038,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Momačka večer",
+    "original_title": "Stag (2013)",
+    "imdb_id": "tt1821617",
+    "tmdb_id": 96378,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Daleko od raja",
+    "original_title": "Far From Heaven",
+    "imdb_id": "tt0297884",
+    "tmdb_id": 10712,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Sami kod kuće",
+    "original_title": "Pups Alone",
+    "imdb_id": "tt6344584",
+    "tmdb_id": 761548,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Netko, negdje",
+    "original_title": "Deux Moi",
+    "imdb_id": "tt10407272",
+    "tmdb_id": 583268,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Veliko putovanje",
+    "original_title": "Big Trip, The",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Belle: Zmaj i pjegava princeza",
+    "original_title": "Belle (2021)",
+    "imdb_id": "tt13651628",
+    "tmdb_id": 776305,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igra ljubavi i mržnje",
+    "original_title": "Hating Game, The",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Božićni ledeni festival",
+    "original_title": "Christmas Festival of Ice",
+    "imdb_id": "tt7038632",
+    "tmdb_id": 474990,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Žene vojnika",
+    "original_title": "Military Wives",
+    "imdb_id": "tt8951692",
+    "tmdb_id": 617784,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Na kraju duge",
+    "original_title": "Love, Rosie",
+    "imdb_id": "tt1638002",
+    "tmdb_id": 200727,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "F*** Marry Kill",
+    "original_title": "F*** Marry Kill",
+    "imdb_id": "tt22528200",
+    "tmdb_id": 1200801,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Večer amatera",
+    "original_title": "Amateur Night",
+    "imdb_id": "tt4265508",
+    "tmdb_id": 376581,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Miami Bici 2",
+    "original_title": "Miami Bici 2",
+    "imdb_id": "tt28753528",
+    "tmdb_id": 1166603,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Ana",
+    "original_title": "Ana",
+    "imdb_id": "tt6865630",
+    "tmdb_id": 646453,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Lov na Marsupilamija",
+    "original_title": "Sur La Piste Du Marsupilami",
+    "imdb_id": "tt1723642",
+    "tmdb_id": 102207,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prinčeva strana priče",
+    "original_title": "Charming 3D",
+    "imdb_id": "tt4086018",
+    "tmdb_id": 354279,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Žene vojnika",
+    "original_title": "Military Wives",
+    "imdb_id": "tt8951692",
+    "tmdb_id": 617784,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Na kraju duge",
+    "original_title": "Love, Rosie",
+    "imdb_id": "tt1638002",
+    "tmdb_id": 200727,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Lacyn beskrajni Božić",
+    "original_title": "Lacy's Christmas Do-Over",
+    "imdb_id": "tt15771862",
+    "tmdb_id": 917163,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Superbrzi!",
+    "original_title": "Superfast",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Malavita",
+    "original_title": "Malavita",
+    "imdb_id": "tt2404311",
+    "tmdb_id": 112205,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Umjetnik",
+    "original_title": "Artist, The",
+    "imdb_id": "tt1655442",
+    "tmdb_id": 74643,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Divlja Ruža",
+    "original_title": "Wild Rose",
+    "imdb_id": "tt5117428",
+    "tmdb_id": 482981,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Petorka",
+    "original_title": "Five",
+    "imdb_id": "tt4741714",
+    "tmdb_id": 381356,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Rezervni dijelovi",
+    "original_title": "Spare Parts",
+    "imdb_id": "tt3233418",
+    "tmdb_id": 264337,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Marmaduke: Buntovnik na četiri noge",
+    "original_title": "Marmaduke",
+    "imdb_id": "tt8746404",
+    "tmdb_id": 678287,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Svi putevi vode u Miami",
+    "original_title": "Belleville Cop",
+    "imdb_id": "tt6913168",
+    "tmdb_id": 495673,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Superbrzi!",
+    "original_title": "Superfast",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Umjetnik",
+    "original_title": "Artist, The",
+    "imdb_id": "tt1655442",
+    "tmdb_id": 74643,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Drvce na krovu",
+    "original_title": "Rooftop Christmas Tree, The",
+    "imdb_id": "tt5485456",
+    "tmdb_id": 428119,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Čudo",
+    "original_title": "Wonder",
+    "imdb_id": "tt2543472",
+    "tmdb_id": 406997,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Praznici na talijanski",
+    "original_title": "About My Father",
+    "imdb_id": "tt8373206",
+    "tmdb_id": 829051,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prije ponoći",
+    "original_title": "Before Midnight",
+    "imdb_id": "tt2209418",
+    "tmdb_id": 132344,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Njezinih pet minuta",
+    "original_title": "Breaking News In Yuba County",
+    "imdb_id": "tt7737640",
+    "tmdb_id": 556867,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prvi put",
+    "original_title": "Premature",
+    "imdb_id": "tt2182256",
+    "tmdb_id": 253310,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Izgubljen u Londonu",
+    "original_title": "Lost In London",
+    "imdb_id": "tt6338476",
+    "tmdb_id": 435218,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Noina Arka",
+    "original_title": "Noah's Ark",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Mala laž za veliki san",
+    "original_title": "Of Loves And Lies",
+    "imdb_id": "tt9767556",
+    "tmdb_id": 589181,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Čudo",
+    "original_title": "Wonder",
+    "imdb_id": "tt2543472",
+    "tmdb_id": 406997,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Praznici na talijanski",
+    "original_title": "About My Father",
+    "imdb_id": "tt8373206",
+    "tmdb_id": 829051,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Samo prijatelji",
+    "original_title": "Just Friends",
+    "imdb_id": "tt0433400",
+    "tmdb_id": 10033,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Što žene vole",
+    "original_title": "What Women Want",
+    "imdb_id": "tt0207201",
+    "tmdb_id": 3981,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nikad nije kasno",
+    "original_title": "Queen Bees",
+    "imdb_id": "tt8338076",
+    "tmdb_id": 553592,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Veza bez obaveza",
+    "original_title": "Sleeping With Other People",
+    "imdb_id": "tt3165612",
+    "tmdb_id": 288036,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Što me više ignoriraš",
+    "original_title": "More You Ignore Me, The",
+    "imdb_id": "tt2838568",
+    "tmdb_id": 484579,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Supercon",
+    "original_title": "Supercon",
+    "imdb_id": "tt4454078",
+    "tmdb_id": 430011,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Moj jedini",
+    "original_title": "My One And Only",
+    "imdb_id": "tt1185431",
+    "tmdb_id": 26820,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Čarolija keksića",
+    "original_title": "Animal Crackers",
+    "imdb_id": "tt4155534",
+    "tmdb_id": 315064,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Noćni život",
+    "original_title": "Nightlife",
+    "imdb_id": "tt10358022",
+    "tmdb_id": 653910,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Što žene vole",
+    "original_title": "What Women Want",
+    "imdb_id": "tt0207201",
+    "tmdb_id": 3981,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nikad nije kasno",
+    "original_title": "Queen Bees",
+    "imdb_id": "tt8338076",
+    "tmdb_id": 553592,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Božić kod Cooperovih",
+    "original_title": "Love The Coopers",
+    "imdb_id": "tt2279339",
+    "tmdb_id": 333348,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Svemir između nas",
+    "original_title": "Space Between Us, The",
+    "imdb_id": "tt3922818",
+    "tmdb_id": 365942,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sad ili nikad",
+    "original_title": "Second Act",
+    "imdb_id": "tt2126357",
+    "tmdb_id": 503616,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tully",
+    "original_title": "Tully",
+    "imdb_id": "tt5610554",
+    "tmdb_id": 400579,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mrak film 5",
+    "original_title": "Scary Movie 5",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Treba ubiti Bona",
+    "original_title": "Killing Bono",
+    "imdb_id": "tt1535101",
+    "tmdb_id": 54093,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Britanski supertalent",
+    "original_title": "One Chance",
+    "imdb_id": "tt1196956",
+    "tmdb_id": 209361,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubav bez granica",
+    "original_title": "Traumfabrik",
+    "imdb_id": "tt8157074",
+    "tmdb_id": 570292,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Blinky Bill: Neustrašiva koala",
+    "original_title": "Blinky Bill",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Svemir između nas",
+    "original_title": "Space Between Us, The",
+    "imdb_id": "tt3922818",
+    "tmdb_id": 365942,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sad ili nikad",
+    "original_title": "Second Act",
+    "imdb_id": "tt2126357",
+    "tmdb_id": 503616,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Obećanje pod imelom",
+    "original_title": "The Mistletoe Promise",
+    "imdb_id": "tt5921218",
+    "tmdb_id": 410315,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mrtvi u tjedan dana: Ili vraćamo novac",
+    "original_title": "Dead In A Week: Or Your Money Back",
+    "imdb_id": "tt3525168",
+    "tmdb_id": 468219,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Krojačica",
+    "original_title": "Dressmaker, The",
+    "imdb_id": "tt2910904",
+    "tmdb_id": 298382,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Moj prvi put",
+    "original_title": "Coming In",
+    "imdb_id": "tt4255626",
+    "tmdb_id": 319340,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Čudesni seksi ljudi",
+    "original_title": "Awkward Sexy People",
+    "imdb_id": "tt2537390",
+    "tmdb_id": 333287,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zatvorska posla",
+    "original_title": "Big Stan",
+    "imdb_id": "tt0490086",
+    "tmdb_id": 13161,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb"

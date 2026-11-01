@@ -1338,7 +1338,7 @@
     "tmdb_id": 181886,
     "tmdb_type": "movie",
     "tmdb_match_score": 98.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "U opasnosti",
@@ -1463,7 +1463,7 @@
     "imdb_id": "tt6270596",
     "tmdb_id": 495601,
     "tmdb_type": "movie",
-    "tmdb_match_score": 88.0,
+    "tmdb_match_score": 95.0,
     "verification_source": "tmdb+imdb"
   },
   {
@@ -1527,7 +1527,7 @@
     "tmdb_id": 762430,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "Iceman",
@@ -1608,7 +1608,7 @@
     "tmdb_id": 573042,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Lova do krova",
@@ -1680,7 +1680,7 @@
     "tmdb_id": 573042,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Power Rangers",
@@ -2481,7 +2481,7 @@
     "tmdb_id": 628707,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Pad Pariza I, ep. 3",
@@ -3326,7 +3326,7 @@
     "imdb_id": "tt21201300",
     "tmdb_id": 978796,
     "tmdb_type": "movie",
-    "tmdb_match_score": 95.0,
+    "tmdb_match_score": 100.0,
     "verification_source": "tmdb+imdb"
   },
   {
@@ -3849,7 +3849,7 @@
     "tmdb_id": 408873,
     "tmdb_type": "movie",
     "tmdb_match_score": 70.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Posljednje pantere I, ep. 2",
@@ -3930,7 +3930,7 @@
     "tmdb_id": 466532,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb"
   },
   {
     "Raw_EPG": "Ukleta vožnja",
@@ -4011,7 +4011,7 @@
     "tmdb_id": 466532,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb"
   },
   {
     "Raw_EPG": "Paranoja",
@@ -4155,7 +4155,7 @@
     "tmdb_id": 762430,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "Leptir",
@@ -4164,7 +4164,7 @@
     "tmdb_id": 433498,
     "tmdb_type": "movie",
     "tmdb_match_score": 98.0,
-    "verification_source": "tmdb+imdb"
+    "verification_source": "imdb-fallback"
   },
   {
     "Raw_EPG": "Pravedno ubojstvo",
@@ -4397,7 +4397,7 @@
     "imdb_id": "tt6270596",
     "tmdb_id": 495601,
     "tmdb_type": "movie",
-    "tmdb_match_score": 88.0,
+    "tmdb_match_score": 95.0,
     "verification_source": "tmdb+imdb"
   },
   {
@@ -4434,7 +4434,7 @@
     "tmdb_id": 573042,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Talac",
@@ -4443,7 +4443,7 @@
     "tmdb_id": 2026,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Najveći ulov",
@@ -4524,7 +4524,7 @@
     "tmdb_id": 573042,
     "tmdb_type": "movie",
     "tmdb_match_score": 100.0,
-    "verification_source": "imdb-fallback"
+    "verification_source": "tmdb+imdb"
   },
   {
     "Raw_EPG": "Opsadno stanje",
@@ -4992,6 +4992,3201 @@
     "tmdb_id": 513310,
     "tmdb_type": "movie",
     "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "96 sati",
+    "original_title": "Taken",
+    "imdb_id": "tt0936501",
+    "tmdb_id": 8681,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "96 sati: Istanbul",
+    "original_title": "Taken 2",
+    "imdb_id": "tt1397280",
+    "tmdb_id": 82675,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "96 sati: U bijegu",
+    "original_title": "Taken 3",
+    "imdb_id": "tt2446042",
+    "tmdb_id": 260346,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Djevojka u magli",
+    "original_title": "La Ragazza Nella Nebbia",
+    "imdb_id": "tt6892400",
+    "tmdb_id": 468202,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pakao na horizontu",
+    "original_title": "Deepwater Horizon",
+    "imdb_id": "tt1860357",
+    "tmdb_id": 296524,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Greenland: Posljednje utočište",
+    "original_title": "Greenland",
+    "imdb_id": "tt7737786",
+    "tmdb_id": 524047,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vjenčanje za umrijeti",
+    "original_title": "Shotgun Wedding",
+    "imdb_id": "tt9686790",
+    "tmdb_id": 758009,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Parker",
+    "original_title": "Parker",
+    "imdb_id": "tt1904996",
+    "tmdb_id": 119283,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Transfuzija",
+    "original_title": "Transfusion",
+    "imdb_id": "tt14873054",
+    "tmdb_id": 842544,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Leon profesionalac",
+    "original_title": "Leon - Director'S Cut",
+    "imdb_id": "tt0110413",
+    "tmdb_id": 101,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Pakao na horizontu",
+    "original_title": "Deepwater Horizon",
+    "imdb_id": "tt1860357",
+    "tmdb_id": 296524,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vremenski gusari",
+    "original_title": "Timecrafters",
+    "imdb_id": "tt3143606",
+    "tmdb_id": 657032,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Greenland: Posljednje utočište",
+    "original_title": "Greenland",
+    "imdb_id": "tt7737786",
+    "tmdb_id": 524047,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bling Ring",
+    "original_title": "Bling Ring, The",
+    "imdb_id": "tt2132285",
+    "tmdb_id": 96936,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Signal",
+    "original_title": "Signal, The",
+    "imdb_id": "tt2910814",
+    "tmdb_id": 242095,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 1",
+    "original_title": "Crossing Lines I, ep. 1",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Superćelija",
+    "original_title": "Supercell",
+    "imdb_id": "tt10559102",
+    "tmdb_id": 842945,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ava",
+    "original_title": "Ava",
+    "imdb_id": "tt8784956",
+    "tmdb_id": 539885,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Odmetnik",
+    "original_title": "Detective Knight: Rogue",
+    "imdb_id": "tt21435436",
+    "tmdb_id": 1024546,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kompromat",
+    "original_title": "Kompromat",
+    "imdb_id": "tt13349892",
+    "tmdb_id": 852427,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Templar: Bitka za krv",
+    "original_title": "Ironclad: Battle For Blood",
+    "imdb_id": "tt2404583",
+    "tmdb_id": 258251,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Signal",
+    "original_title": "Signal, The",
+    "imdb_id": "tt2910814",
+    "tmdb_id": 242095,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Crvena Joan",
+    "original_title": "Red Joan",
+    "imdb_id": "tt7615302",
+    "tmdb_id": 494974,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Superćelija",
+    "original_title": "Supercell",
+    "imdb_id": "tt10559102",
+    "tmdb_id": 842945,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Putovanje promjene",
+    "original_title": "Walking Out",
+    "imdb_id": "tt5420886",
+    "tmdb_id": 428446,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slomljena krila",
+    "original_title": "Butterfly On A Wheel",
+    "imdb_id": "tt0489664",
+    "tmdb_id": 13250,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 2",
+    "original_title": "Crossing Lines I, ep. 2",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slatka mala tajna",
+    "original_title": "Simple Favor, A",
+    "imdb_id": "tt7040874",
+    "tmdb_id": 484247,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenik",
+    "original_title": "Contractor, The (2022)",
+    "imdb_id": "tt10323676",
+    "tmdb_id": 628900,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Detektiv Knight: Iskupljenje",
+    "original_title": "Detective Knight Redemption",
+    "imdb_id": "tt22394694",
+    "tmdb_id": 1035803,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dar",
+    "original_title": "Gift, The",
+    "imdb_id": "tt0219699",
+    "tmdb_id": 2046,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prognani",
+    "original_title": "Exiled",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Slomljena krila",
+    "original_title": "Butterfly On A Wheel",
+    "imdb_id": "tt0489664",
+    "tmdb_id": 13250,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Državna policija",
+    "original_title": "Halal Police D'Etat",
+    "imdb_id": "tt1708526",
+    "tmdb_id": 57382,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slatka mala tajna",
+    "original_title": "Simple Favor, A",
+    "imdb_id": "tt7040874",
+    "tmdb_id": 484247,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ljubavnici",
+    "original_title": "Lovers, The",
+    "imdb_id": "tt1321869",
+    "tmdb_id": 79698,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Lockout",
+    "original_title": "Lockout",
+    "imdb_id": "tt1592525",
+    "tmdb_id": 81796,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 3",
+    "original_title": "Crossing Lines I, ep. 3",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Otmica",
+    "original_title": "Kidnap",
+    "imdb_id": "tt1458169",
+    "tmdb_id": 293768,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "13 grijeha",
+    "original_title": "13 Sins",
+    "imdb_id": "tt2059171",
+    "tmdb_id": 155084,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Detektiv Knight: Neovisnost",
+    "original_title": "Detective Knight: Independence",
+    "imdb_id": "tt22394702",
+    "tmdb_id": 1035806,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 83.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dragi David",
+    "original_title": "Dear David",
+    "imdb_id": "tt9288740",
+    "tmdb_id": 609768,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prevoditelj",
+    "original_title": "Translator, The",
+    "imdb_id": "tt10691828",
+    "tmdb_id": 743532,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Lockout",
+    "original_title": "Lockout",
+    "imdb_id": "tt1592525",
+    "tmdb_id": 81796,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Crni orao",
+    "original_title": "Black Eagle",
+    "imdb_id": "tt0094750",
+    "tmdb_id": 18214,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Otmica",
+    "original_title": "Kidnap",
+    "imdb_id": "tt1458169",
+    "tmdb_id": 293768,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mladi letači",
+    "original_title": "Sky Kids",
+    "imdb_id": "tt0357668",
+    "tmdb_id": 20789,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Krivotvoritelj",
+    "original_title": "Forger, The",
+    "imdb_id": "tt2376218",
+    "tmdb_id": 255157,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 4",
+    "original_title": "Crossing Lines I, ep. 4",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U školi je najgore",
+    "original_title": "Barely Lethal",
+    "imdb_id": "tt1731701",
+    "tmdb_id": 248574,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Rambo 4",
+    "original_title": "Rambo 4",
+    "imdb_id": "tt0462499",
+    "tmdb_id": 7555,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Rambo: Do zadnje kapi krvi",
+    "original_title": "Rambo 5",
+    "imdb_id": "tt1206885",
+    "tmdb_id": 522938,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Žrtvovanje",
+    "original_title": "Sacrifice",
+    "imdb_id": "tt10004108",
+    "tmdb_id": 631583,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 83.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Legenda",
+    "original_title": "Legend",
+    "imdb_id": "tt3569230",
+    "tmdb_id": 276907,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Krivotvoritelj",
+    "original_title": "Forger, The",
+    "imdb_id": "tt2376218",
+    "tmdb_id": 255157,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Svi putevi vode u Miami",
+    "original_title": "Belleville Cop",
+    "imdb_id": "tt6913168",
+    "tmdb_id": 495673,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U školi je najgore",
+    "original_title": "Barely Lethal",
+    "imdb_id": "tt1731701",
+    "tmdb_id": 248574,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Izgubljeni na horizontu",
+    "original_title": "Horizon Line",
+    "imdb_id": "tt5498354",
+    "tmdb_id": 602654,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zmajev poljubac",
+    "original_title": "Kiss Of The Dragon",
+    "imdb_id": "tt0271027",
+    "tmdb_id": 2140,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Grof Monte Cristo",
+    "original_title": "Comte de Monte-Cristo, Le",
+    "imdb_id": "tt26446278",
+    "tmdb_id": 1084736,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zvuk slobode",
+    "original_title": "Sound of Freedom",
+    "imdb_id": "tt7599146",
+    "tmdb_id": 678512,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dok nas smrt ne rastavi",
+    "original_title": "Till Death",
+    "imdb_id": "tt11804152",
+    "tmdb_id": 672741,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Anon",
+    "original_title": "Anon",
+    "imdb_id": "tt5397194",
+    "tmdb_id": 396806,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Homesman",
+    "original_title": "Homesman, The",
+    "imdb_id": "tt2398231",
+    "tmdb_id": 264656,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Zmajev poljubac",
+    "original_title": "Kiss Of The Dragon",
+    "imdb_id": "tt0271027",
+    "tmdb_id": 2140,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kako odvratiti pljačkaše",
+    "original_title": "How To Deter A Robber",
+    "imdb_id": "tt9269988",
+    "tmdb_id": 741622,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Grof Monte Cristo",
+    "original_title": "Comte de Monte-Cristo, Le",
+    "imdb_id": "tt26446278",
+    "tmdb_id": 1084736,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Z kao Zachariah",
+    "original_title": "Z For Zachariah",
+    "imdb_id": "tt1598642",
+    "tmdb_id": 193687,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U sjeni zavjere",
+    "original_title": "Blacklight",
+    "imdb_id": "tt14060094",
+    "tmdb_id": 823625,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "355",
+    "original_title": "355",
+    "imdb_id": "tt8356942",
+    "tmdb_id": 522016,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pepermint",
+    "original_title": "Peppermint",
+    "imdb_id": "tt6850820",
+    "tmdb_id": 458594,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plan za bijeg",
+    "original_title": "Escape Plan",
+    "imdb_id": "tt1211956",
+    "tmdb_id": 107846,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plan za bijeg 2: Pakao",
+    "original_title": "Escape Plan 2: Hades",
+    "imdb_id": "tt6513656",
+    "tmdb_id": 440471,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Jako mi je stalo",
+    "original_title": "I Care A Lot",
+    "imdb_id": "tt9893250",
+    "tmdb_id": 601666,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "U sjeni zavjere",
+    "original_title": "Blacklight",
+    "imdb_id": "tt14060094",
+    "tmdb_id": 823625,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Power Rangers",
+    "original_title": "Power Rangers",
+    "imdb_id": "tt3717490",
+    "tmdb_id": 305470,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "355",
+    "original_title": "355",
+    "imdb_id": "tt8356942",
+    "tmdb_id": 522016,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "ODMETNICI",
+    "original_title": "Renegades",
+    "imdb_id": "tt4106376",
+    "tmdb_id": 335788,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vruća linija",
+    "original_title": "On The Line (2022)",
+    "imdb_id": "tt14824590",
+    "tmdb_id": 979924,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bogovi Egipta",
+    "original_title": "Gods Of Egypt",
+    "imdb_id": "tt2404233",
+    "tmdb_id": 205584,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "12 hrabrih",
+    "original_title": "12 Strong",
+    "imdb_id": "tt1413492",
+    "tmdb_id": 429351,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Crna lokacija",
+    "original_title": "Black Site",
+    "imdb_id": "tt13918550",
+    "tmdb_id": 848123,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Riddick: Vladar tame",
+    "original_title": "Riddick",
+    "imdb_id": "tt1411250",
+    "tmdb_id": 87421,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "U električnoj magli",
+    "original_title": "In The Electric Mist",
+    "imdb_id": "tt0910905",
+    "tmdb_id": 13975,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Vruća linija",
+    "original_title": "On The Line (2022)",
+    "imdb_id": "tt14824590",
+    "tmdb_id": 979924,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Taxi",
+    "original_title": "Taxi (1998)",
+    "imdb_id": "tt0152930",
+    "tmdb_id": 2330,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bogovi Egipta",
+    "original_title": "Gods Of Egypt",
+    "imdb_id": "tt2404233",
+    "tmdb_id": 205584,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zaljev Tišine",
+    "original_title": "Bay Of Silence",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Mortdecai",
+    "original_title": "Mortdecai",
+    "imdb_id": "tt3045616",
+    "tmdb_id": 210860,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 5",
+    "original_title": "Crossing Lines I, ep. 5",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Terminator 3",
+    "original_title": "Terminator 3: Rise Of The Machines",
+    "imdb_id": "tt0181852",
+    "tmdb_id": 296,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi",
+    "original_title": "Hunger Games, The",
+    "imdb_id": "tt1392170",
+    "tmdb_id": 70160,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slijepi putnik",
+    "original_title": "Stowaway",
+    "imdb_id": "tt8889818",
+    "tmdb_id": 999205,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Poput bjelokosti",
+    "original_title": "Elephant White",
+    "imdb_id": "tt1578882",
+    "tmdb_id": 57585,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 1",
+    "original_title": "ZeroZeroZero I, ep. 1",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Neuhvatljivi ubojica",
+    "original_title": "Trick",
+    "imdb_id": "tt9177040",
+    "tmdb_id": 628707,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Vrata u drugu dimenziju",
+    "original_title": "Alpha Gateway",
+    "imdb_id": "tt6179746",
+    "tmdb_id": 472744,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Taxi 3",
+    "original_title": "Taxi 3",
+    "imdb_id": "tt0295721",
+    "tmdb_id": 2334,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Terminator 3",
+    "original_title": "Terminator 3: Rise Of The Machines",
+    "imdb_id": "tt0181852",
+    "tmdb_id": 296,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi",
+    "original_title": "Hunger Games, The",
+    "imdb_id": "tt1392170",
+    "tmdb_id": 70160,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dobar doktor",
+    "original_title": "Good Doctor, The",
+    "imdb_id": "tt1582271",
+    "tmdb_id": 65650,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 6",
+    "original_title": "Crossing Lines I, ep. 6",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Duh u oklopu",
+    "original_title": "Ghost In The Shell",
+    "imdb_id": "tt1219827",
+    "tmdb_id": 315837,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi: Plamen",
+    "original_title": "Hunger Games: Catching Fire, The",
+    "imdb_id": "tt1951264",
+    "tmdb_id": 101299,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bravar",
+    "original_title": "Locksmith, The",
+    "imdb_id": "tt15829724",
+    "tmdb_id": 1075519,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mračno putovanje",
+    "original_title": "Journey To The End Of The Night",
+    "imdb_id": "tt0454879",
+    "tmdb_id": 15558,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 2",
+    "original_title": "ZeroZeroZero I, ep. 2",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Vuk pred vratima",
+    "original_title": "Wolf At The Door, A",
+    "imdb_id": "tt2861532",
+    "tmdb_id": 214135,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dobar doktor",
+    "original_title": "Good Doctor, The",
+    "imdb_id": "tt1582271",
+    "tmdb_id": 65650,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Taksi 4",
+    "original_title": "Taxi 4",
+    "imdb_id": "tt0804540",
+    "tmdb_id": 2335,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Duh u oklopu",
+    "original_title": "Ghost In The Shell",
+    "imdb_id": "tt1219827",
+    "tmdb_id": 315837,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi: Plamen",
+    "original_title": "Hunger Games: Catching Fire, The",
+    "imdb_id": "tt1951264",
+    "tmdb_id": 101299,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Lopovi",
+    "original_title": "Code, The (2008)",
+    "imdb_id": "tt1112782",
+    "tmdb_id": 14979,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 7",
+    "original_title": "Crossing Lines I, ep. 7",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mrtvi u tjedan dana: Ili vraćamo novac",
+    "original_title": "Dead In A Week: Or Your Money Back",
+    "imdb_id": "tt3525168",
+    "tmdb_id": 468219,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi: Šojka rugalica 1. dio",
+    "original_title": "Hunger Games, The: Mockingjay Part 1",
+    "imdb_id": "tt1951265",
+    "tmdb_id": 131631,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Colombiana",
+    "original_title": "Colombiana",
+    "imdb_id": "tt1657507",
+    "tmdb_id": 62835,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vrata u drugi svijet",
+    "original_title": "Doors",
+    "imdb_id": "tt12483708",
+    "tmdb_id": 798141,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 3",
+    "original_title": "ZeroZeroZero I, ep. 3",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Domino",
+    "original_title": "Domino (2019)",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Lopovi",
+    "original_title": "Code, The (2008)",
+    "imdb_id": "tt1112782",
+    "tmdb_id": 14979,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Taxi 5",
+    "original_title": "Taxi 5",
+    "imdb_id": "tt7238392",
+    "tmdb_id": 434355,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mrtvi u tjedan dana: Ili vraćamo novac",
+    "original_title": "Dead In A Week: Or Your Money Back",
+    "imdb_id": "tt3525168",
+    "tmdb_id": 468219,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi: Šojka rugalica 1. dio",
+    "original_title": "Hunger Games, The: Mockingjay Part 1",
+    "imdb_id": "tt1951265",
+    "tmdb_id": 131631,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tajno društvo",
+    "original_title": "Skulls, The",
+    "imdb_id": "tt0192614",
+    "tmdb_id": 11478,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 8",
+    "original_title": "Crossing Lines I, ep. 8",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Podivljalo more",
+    "original_title": "Adrift (2018)",
+    "imdb_id": "tt6306064",
+    "tmdb_id": 429300,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi: Šojka rugalica 2.dio",
+    "original_title": "Hunger Games, The: Mockingjay Part 2",
+    "imdb_id": "tt1951266",
+    "tmdb_id": 131634,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Maggie Moore i Maggie Moore",
+    "original_title": "Maggie Moore(S)",
+    "imdb_id": "tt14181816",
+    "tmdb_id": 800089,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bdijenje",
+    "original_title": "Vigil, The",
+    "imdb_id": "tt10793644",
+    "tmdb_id": 621707,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 4",
+    "original_title": "ZeroZeroZero I, ep. 4",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Alice, draga",
+    "original_title": "Alice, Darling",
+    "imdb_id": "tt11687104",
+    "tmdb_id": 850028,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Tajno društvo",
+    "original_title": "Skulls, The",
+    "imdb_id": "tt0192614",
+    "tmdb_id": 11478,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "OSS 117 - Izgubljen u Riu",
+    "original_title": "OSS 117 Lost In Rio",
+    "imdb_id": "tt1167660",
+    "tmdb_id": 15588,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Podivljalo more",
+    "original_title": "Adrift (2018)",
+    "imdb_id": "tt6306064",
+    "tmdb_id": 429300,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi: Šojka rugalica 2.dio",
+    "original_title": "Hunger Games, The: Mockingjay Part 2",
+    "imdb_id": "tt1951266",
+    "tmdb_id": 131634,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Enderova igra",
+    "original_title": "Ender'S Game",
+    "imdb_id": "tt1731141",
+    "tmdb_id": 80274,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "16 blokova",
+    "original_title": "16 Blocks",
+    "imdb_id": "tt0450232",
+    "tmdb_id": 2207,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vuk s Wall Streeta",
+    "original_title": "Wolf Of Wall Street, The",
+    "imdb_id": "tt0993846",
+    "tmdb_id": 106646,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sjećanja ubojice",
+    "original_title": "Memory",
+    "imdb_id": "tt11827628",
+    "tmdb_id": 818397,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Jazbina",
+    "original_title": "Lair, The (2022)",
+    "imdb_id": "tt13468602",
+    "tmdb_id": 760204,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Rampart",
+    "original_title": "Rampart",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Enderova igra",
+    "original_title": "Ender'S Game",
+    "imdb_id": "tt1731141",
+    "tmdb_id": 80274,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pakleni val",
+    "original_title": "Point Break",
+    "imdb_id": "tt0102685",
+    "tmdb_id": 1089,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "16 blokova",
+    "original_title": "16 Blocks",
+    "imdb_id": "tt0450232",
+    "tmdb_id": 2207,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Martovske ide",
+    "original_title": "Ides Of March, The",
+    "imdb_id": "tt1124035",
+    "tmdb_id": 10316,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red",
+    "original_title": "Red",
+    "imdb_id": "tt1245526",
+    "tmdb_id": 39514,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red 2",
+    "original_title": "Red 2",
+    "imdb_id": "tt1821694",
+    "tmdb_id": 146216,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bijesan",
+    "original_title": "Unhinged",
+    "imdb_id": "tt10059518",
+    "tmdb_id": 625568,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Anna",
+    "original_title": "Anna (2019)",
+    "imdb_id": "tt7456310",
+    "tmdb_id": 484641,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zakon ulice",
+    "original_title": "Brooklyn'S Finest",
+    "imdb_id": "tt1210042",
+    "tmdb_id": 26390,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Pustolovine Adele Blanc-Sec",
+    "original_title": "Extraordinary Adventures Of Adele Blanc-Sec, The",
+    "imdb_id": "tt1179025",
+    "tmdb_id": 35552,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red",
+    "original_title": "Red",
+    "imdb_id": "tt1245526",
+    "tmdb_id": 39514,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Red 2",
+    "original_title": "Red 2",
+    "imdb_id": "tt1821694",
+    "tmdb_id": 146216,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Snaga istine",
+    "original_title": "Goliath",
+    "imdb_id": "tt13399946",
+    "tmdb_id": 884971,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Meta",
+    "original_title": "Survivor",
+    "imdb_id": "tt3247714",
+    "tmdb_id": 334074,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Sjena špijuna",
+    "original_title": "Courier, The",
+    "imdb_id": "tt8368512",
+    "tmdb_id": 522241,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ledeni ubojica",
+    "original_title": "Mechanic, The",
+    "imdb_id": "tt0472399",
+    "tmdb_id": 27582,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Ledeni ubojica: Povratak",
+    "original_title": "Mechanic: Ressurection",
+    "imdb_id": "tt3522806",
+    "tmdb_id": 278924,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zero Dark Thirty",
+    "original_title": "Zero Dark Thirty",
+    "imdb_id": "tt1790885",
+    "tmdb_id": 97630,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slagalica strave X",
+    "original_title": "Saw X",
+    "imdb_id": "tt21807222",
+    "tmdb_id": 951491,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "To dolazi",
+    "original_title": "It Follows",
+    "imdb_id": "tt3235888",
+    "tmdb_id": 270303,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Meta",
+    "original_title": "Survivor",
+    "imdb_id": "tt3247714",
+    "tmdb_id": 334074,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Nerve",
+    "original_title": "Nerve",
+    "imdb_id": "tt3531824",
+    "tmdb_id": 328387,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sjena špijuna",
+    "original_title": "Courier, The",
+    "imdb_id": "tt8368512",
+    "tmdb_id": 522241,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Legenda o Herkulu",
+    "original_title": "Legend Of Hercules, The",
+    "imdb_id": "tt1043726",
+    "tmdb_id": 188207,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nježnost",
+    "original_title": "Tenderness",
+    "imdb_id": "tt0494864",
+    "tmdb_id": 22398,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 9",
+    "original_title": "Crossing Lines I, ep. 9",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Doušnik",
+    "original_title": "Snitch",
+    "imdb_id": "tt0882977",
+    "tmdb_id": 134411,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenici",
+    "original_title": "Expendables, The",
+    "imdb_id": "tt1320253",
+    "tmdb_id": 27578,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenici 2",
+    "original_title": "Expendables 2, The",
+    "imdb_id": "tt1764651",
+    "tmdb_id": 76163,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dheepan",
+    "original_title": "Dheepan",
+    "imdb_id": "tt4082068",
+    "tmdb_id": 314402,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 5",
+    "original_title": "ZeroZeroZero I, ep. 5",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Tijelo",
+    "original_title": "Body",
+    "imdb_id": "tt3732950",
+    "tmdb_id": 314420,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Nježnost",
+    "original_title": "Tenderness",
+    "imdb_id": "tt0494864",
+    "tmdb_id": 22398,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Još si tu",
+    "original_title": "I Still See You",
+    "imdb_id": "tt2160105",
+    "tmdb_id": 448095,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Doušnik",
+    "original_title": "Snitch",
+    "imdb_id": "tt0882977",
+    "tmdb_id": 134411,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Četvero protiv banke",
+    "original_title": "Vier Gegen Die Bank",
+    "imdb_id": "tt5173166",
+    "tmdb_id": 366568,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Replike",
+    "original_title": "Replicas",
+    "imdb_id": "tt4154916",
+    "tmdb_id": 300681,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina I, ep. 10",
+    "original_title": "Crossing Lines I, ep. 10",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 75.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Genijalni umovi",
+    "original_title": "Masterminds",
+    "imdb_id": "tt2461150",
+    "tmdb_id": 213681,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenici 3",
+    "original_title": "Expendables 3, The",
+    "imdb_id": "tt2333784",
+    "tmdb_id": 138103,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenici 4",
+    "original_title": "Expendables 4, The",
+    "imdb_id": "tt3291150",
+    "tmdb_id": 299054,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 80.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bull",
+    "original_title": "Bull",
+    "imdb_id": "tt13266998",
+    "tmdb_id": 821792,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 6",
+    "original_title": "ZeroZeroZero I, ep. 6",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Poziv",
+    "original_title": "Call, The",
+    "imdb_id": "tt12971924",
+    "tmdb_id": 746817,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Replike",
+    "original_title": "Replicas",
+    "imdb_id": "tt4154916",
+    "tmdb_id": 300681,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ubojstvo i margarite",
+    "original_title": "Matador, The",
+    "imdb_id": "tt0365485",
+    "tmdb_id": 9515,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Genijalni umovi",
+    "original_title": "Masterminds",
+    "imdb_id": "tt2461150",
+    "tmdb_id": 213681,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenici 3",
+    "original_title": "Expendables 3, The",
+    "imdb_id": "tt2333784",
+    "tmdb_id": 138103,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nepodnošljiva težina golemog talenta",
+    "original_title": "Unbearable Weight Of Massive Talent, The",
+    "imdb_id": "tt11291274",
+    "tmdb_id": 648579,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 1",
+    "original_title": "Crossing Lines II, ep. 1",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Peti element",
+    "original_title": "Fifth Element, The",
+    "imdb_id": "tt0119116",
+    "tmdb_id": 18,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Opasan let",
+    "original_title": "Plane, The",
+    "imdb_id": "tt5884796",
+    "tmdb_id": 646389,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sedam psihopata",
+    "original_title": "Seven Psychopaths",
+    "imdb_id": "tt1931533",
+    "tmdb_id": 86838,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slučajne bogatašice",
+    "original_title": "Wild Oats",
+    "imdb_id": "tt1655461",
+    "tmdb_id": 406992,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 7",
+    "original_title": "ZeroZeroZero I, ep. 7",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Nestajanje",
+    "original_title": "Machinist, The",
+    "imdb_id": "tt0361862",
+    "tmdb_id": 4553,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Nepodnošljiva težina golemog talenta",
+    "original_title": "Unbearable Weight Of Massive Talent, The",
+    "imdb_id": "tt11291274",
+    "tmdb_id": 648579,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Neriješena igra",
+    "original_title": "Whole Lotta Sole",
+    "imdb_id": "tt1545328",
+    "tmdb_id": 165477,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Peti element",
+    "original_title": "Fifth Element, The",
+    "imdb_id": "tt0119116",
+    "tmdb_id": 18,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "48 sati straha",
+    "original_title": "Kidnapped: 48 Hours Of Terror",
+    "imdb_id": "tt1612546",
+    "tmdb_id": 64449,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Stockholmski sindrom",
+    "original_title": "Stockholm",
+    "imdb_id": "tt6474040",
+    "tmdb_id": 437626,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 2",
+    "original_title": "Crossing Lines II, ep. 2",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri mušketira: D'Artagnan",
+    "original_title": "Three Musketeers, The: D'Artagnan",
+    "imdb_id": "tt12672536",
+    "tmdb_id": 796185,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri mušketira: Milady",
+    "original_title": "Three Musketeers, The: Milady",
+    "imdb_id": "tt12672620",
+    "tmdb_id": 845111,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Puls grada",
+    "original_title": "Asphalt City",
+    "imdb_id": "tt9663896",
+    "tmdb_id": 628922,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kandisha - demon",
+    "original_title": "Kandisha",
+    "imdb_id": "tt11058930",
+    "tmdb_id": 607365,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Nula nula nula I, ep. 8",
+    "original_title": "ZeroZeroZero I, ep. 8",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Odred",
+    "original_title": "Squad, The",
+    "imdb_id": "tt4232610",
+    "tmdb_id": 348060,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Stockholmski sindrom",
+    "original_title": "Stockholm",
+    "imdb_id": "tt6474040",
+    "tmdb_id": 437626,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Max Steel",
+    "original_title": "Max Steel",
+    "imdb_id": "tt1472584",
+    "tmdb_id": 286567,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri mušketira: D'Artagnan",
+    "original_title": "Three Musketeers, The: D'Artagnan",
+    "imdb_id": "tt12672536",
+    "tmdb_id": 796185,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri mušketira: Milady",
+    "original_title": "Three Musketeers, The: Milady",
+    "imdb_id": "tt12672620",
+    "tmdb_id": 845111,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Prkos",
+    "original_title": "Defiance",
+    "imdb_id": "tt1034303",
+    "tmdb_id": 13813,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bitka za Midway",
+    "original_title": "Midway",
+    "imdb_id": "tt6924650",
+    "tmdb_id": 522162,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Na krilima časti",
+    "original_title": "Devotion",
+    "imdb_id": "tt7693316",
+    "tmdb_id": 653851,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kuća na kraju ulice",
+    "original_title": "House at the End of the Street",
+    "imdb_id": "tt1582507",
+    "tmdb_id": 82505,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "21 most",
+    "original_title": "21 Bridges",
+    "imdb_id": "tt8688634",
+    "tmdb_id": 535292,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zakon jačeg",
+    "original_title": "Shot Caller",
+    "imdb_id": "tt4633690",
+    "tmdb_id": 339692,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Prkos",
+    "original_title": "Defiance",
+    "imdb_id": "tt1034303",
+    "tmdb_id": 13813,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Otkrila sam špijuna",
+    "original_title": "My Spy",
+    "imdb_id": "tt8242084",
+    "tmdb_id": 592834,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bitka za Midway",
+    "original_title": "Midway",
+    "imdb_id": "tt6924650",
+    "tmdb_id": 522162,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Na krilima časti",
+    "original_title": "Devotion",
+    "imdb_id": "tt7693316",
+    "tmdb_id": 653851,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tajna jezera Devil's Den",
+    "original_title": "Devil'S Knot",
+    "imdb_id": "tt0804463",
+    "tmdb_id": 152792,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sat očaja",
+    "original_title": "Desperate Hour, The",
+    "imdb_id": "tt13133936",
+    "tmdb_id": 764835,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 83.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mafija mama",
+    "original_title": "Mafia Mamma",
+    "imdb_id": "tt13923456",
+    "tmdb_id": 809787,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bratstvo lopova",
+    "original_title": "Den of Thieves",
+    "imdb_id": "tt1259528",
+    "tmdb_id": 449443,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Millerova djevojka",
+    "original_title": "Miller's Girl",
+    "imdb_id": "tt8310486",
+    "tmdb_id": 1026436,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Revolver",
+    "original_title": "Revolver",
+    "imdb_id": "tt0365686",
+    "tmdb_id": 10851,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Tajna jezera Devil's Den",
+    "original_title": "Devil'S Knot",
+    "imdb_id": "tt0804463",
+    "tmdb_id": 152792,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "G.I. Jane",
+    "original_title": "G.I. Jane",
+    "imdb_id": "tt0119173",
+    "tmdb_id": 4421,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Sat očaja",
+    "original_title": "Desperate Hour, The",
+    "imdb_id": "tt13133936",
+    "tmdb_id": 764835,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 83.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Instrumentarij smrtnika: Grad od kostiju",
+    "original_title": "Mortal Instruments, The: City Of Bones",
+    "imdb_id": "tt1538403",
+    "tmdb_id": 123553,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Transporter 3",
+    "original_title": "Transporter 3",
+    "imdb_id": "tt1129442",
+    "tmdb_id": 13387,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Transporter: Nasljedstvo",
+    "original_title": "Transporter Refueled, The",
+    "imdb_id": "tt2938956",
+    "tmdb_id": 287948,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Plaćenica",
+    "original_title": "Protege, The",
+    "imdb_id": "tt6079772",
+    "tmdb_id": 645788,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Građanin opasnih namjera",
+    "original_title": "Law Abiding Citizen",
+    "imdb_id": "tt1197624",
+    "tmdb_id": 22803,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Crni demon",
+    "original_title": "Black Demon",
+    "imdb_id": "tt10279472",
+    "tmdb_id": 890771,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bez zakona",
+    "original_title": "Lawless",
+    "imdb_id": "tt1212450",
+    "tmdb_id": 82633,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Moj anđeo",
+    "original_title": "Angel Of Mine",
+    "imdb_id": "tt7058080",
+    "tmdb_id": 515741,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Transporter 3",
+    "original_title": "Transporter 3",
+    "imdb_id": "tt1129442",
+    "tmdb_id": 13387,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Transporter: Nasljedstvo",
+    "original_title": "Transporter Refueled, The",
+    "imdb_id": "tt2938956",
+    "tmdb_id": 287948,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ukleta kći",
+    "original_title": "New Daughter, The",
+    "imdb_id": "tt0951335",
+    "tmdb_id": 37534,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Dopunska nastava",
+    "original_title": "Dopunska Nastava",
+    "imdb_id": "tt10461630",
+    "tmdb_id": 616384,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 3",
+    "original_title": "Crossing Lines II, ep. 3",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pokajnik",
+    "original_title": "Honest Thief",
+    "imdb_id": "tt1838556",
+    "tmdb_id": 553604,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Metak u glavu",
+    "original_title": "Bullet To The Head",
+    "imdb_id": "tt1308729",
+    "tmdb_id": 70074,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mjesto zločina",
+    "original_title": "Kill Room, The",
+    "imdb_id": "tt11908172",
+    "tmdb_id": 958006,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Državni neprijatelj br.1",
+    "original_title": "Public Enemy Number One: Part 1",
+    "imdb_id": "tt1259014",
+    "tmdb_id": 13635,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Državni neprijatelj br.1 (Drugi dio)",
+    "original_title": "Public Enemy Number One: Part 2",
+    "imdb_id": "tt0411272",
+    "tmdb_id": 15362,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Dopunska nastava",
+    "original_title": "Dopunska Nastava",
+    "imdb_id": "tt10461630",
+    "tmdb_id": 616384,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Churchill",
+    "original_title": "Churchill",
+    "imdb_id": "tt2674454",
+    "tmdb_id": 399790,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pokajnik",
+    "original_title": "Honest Thief",
+    "imdb_id": "tt1838556",
+    "tmdb_id": 553604,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vampirska akademija",
+    "original_title": "Vampire Academy",
+    "imdb_id": "tt1686821",
+    "tmdb_id": 203739,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Clara",
+    "original_title": "Clara",
+    "imdb_id": "tt6613878",
+    "tmdb_id": 466532,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 4",
+    "original_title": "Crossing Lines II, ep. 4",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Robin Hood",
+    "original_title": "Robin Hood: Origins",
+    "imdb_id": "tt4532826",
+    "tmdb_id": 375588,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Američki plaćenik",
+    "original_title": "American Assassin",
+    "imdb_id": "tt1961175",
+    "tmdb_id": 415842,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Hellboy",
+    "original_title": "Hellboy: Rise Of The Blood Queen",
+    "imdb_id": "tt2274648",
+    "tmdb_id": 456740,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Neprijateljski teritorij",
+    "original_title": "Septembers Of Shiraz",
+    "imdb_id": "tt3661298",
+    "tmdb_id": 352179,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pravila zla",
+    "original_title": "Lodgers, The",
+    "imdb_id": "tt4399952",
+    "tmdb_id": 429467,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Clara",
+    "original_title": "Clara",
+    "imdb_id": "tt6613878",
+    "tmdb_id": 466532,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb"
+  },
+  {
+    "Raw_EPG": "Kin",
+    "original_title": "Kin",
+    "imdb_id": "tt6017942",
+    "tmdb_id": 425505,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 88.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Robin Hood",
+    "original_title": "Robin Hood: Origins",
+    "imdb_id": "tt4532826",
+    "tmdb_id": 375588,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Svijet parkoura",
+    "original_title": "Tracers",
+    "imdb_id": "tt2401097",
+    "tmdb_id": 290764,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Paranoja",
+    "original_title": "Paranoia",
+    "imdb_id": "tt1413495",
+    "tmdb_id": 115348,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 5",
+    "original_title": "Crossing Lines II, ep. 5",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Opasne žene",
+    "original_title": "Sweethearts",
+    "imdb_id": "tt8881102",
+    "tmdb_id": 573042,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Horizont: Američka saga - Prvo poglavlje",
+    "original_title": "Horizon: An American Saga – Chapter 1",
+    "imdb_id": "tt17505010",
+    "tmdb_id": 932086,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Bagman",
+    "original_title": "Bagman",
+    "imdb_id": "tt21201300",
+    "tmdb_id": 978796,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dobro došli u zamku",
+    "original_title": "Welcome To The Punch",
+    "imdb_id": "tt1684233",
+    "tmdb_id": 93828,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Hellbenders",
+    "original_title": "Hellbenders",
+    "imdb_id": "tt1865393",
+    "tmdb_id": 123107,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Paranoja",
+    "original_title": "Paranoia",
+    "imdb_id": "tt1413495",
+    "tmdb_id": 115348,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "S druge strane ulice",
+    "original_title": "De L'Autre Cote Du Periph",
+    "imdb_id": "tt1937133",
+    "tmdb_id": 146375,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Opasne žene",
+    "original_title": "Sweethearts",
+    "imdb_id": "tt8881102",
+    "tmdb_id": 573042,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "2:22",
+    "original_title": "2:22",
+    "imdb_id": "tt1131724",
+    "tmdb_id": 269795,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Kursk: Prokletstvo dubina",
+    "original_title": "Kursk",
+    "imdb_id": "tt4951982",
+    "tmdb_id": 401200,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 6",
+    "original_title": "Crossing Lines II, ep. 6",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slutnja",
+    "original_title": "Premonition",
+    "imdb_id": "tt0477071",
+    "tmdb_id": 9963,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Osveta desne ruke",
+    "original_title": "Red Right Hand",
+    "imdb_id": "tt19244260",
+    "tmdb_id": 1227816,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Grimizne rijeke",
+    "original_title": "Crimson Rivers, The",
+    "imdb_id": "tt0228786",
+    "tmdb_id": 60670,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Spokoj",
+    "original_title": "Solace",
+    "imdb_id": "tt1291570",
+    "tmdb_id": 339527,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Jakovljeve ljestve",
+    "original_title": "Jacob's Ladder (2019)",
+    "imdb_id": "tt3016748",
+    "tmdb_id": 456529,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Kursk: Prokletstvo dubina",
+    "original_title": "Kursk",
+    "imdb_id": "tt4951982",
+    "tmdb_id": 401200,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Fukushima",
+    "original_title": "Fukushima",
+    "imdb_id": "tt9318772",
+    "tmdb_id": 563067,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Slutnja",
+    "original_title": "Premonition",
+    "imdb_id": "tt0477071",
+    "tmdb_id": 9963,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Colossal",
+    "original_title": "Colossal",
+    "imdb_id": "tt4680182",
+    "tmdb_id": 339967,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 93.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Knjiški moljac",
+    "original_title": "Bookworm",
+    "imdb_id": "tt23472210",
+    "tmdb_id": 1153110,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri dana za ubojstvo",
+    "original_title": "3 Days To Kill",
+    "imdb_id": "tt2172934",
+    "tmdb_id": 192102,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dani gnjeva",
+    "original_title": "Wrath Of Man",
+    "imdb_id": "tt11083552",
+    "tmdb_id": 637649,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Pobunjenik iz okruga Jones",
+    "original_title": "Free State Of Jones, The",
+    "imdb_id": "tt1124037",
+    "tmdb_id": 316152,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Taoci",
+    "original_title": "Trespass (2011)",
+    "imdb_id": "tt1674784",
+    "tmdb_id": 70578,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Jigsaw",
+    "original_title": "Jigsaw",
+    "imdb_id": "tt3348730",
+    "tmdb_id": 298250,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Knjiški moljac",
+    "original_title": "Bookworm",
+    "imdb_id": "tt23472210",
+    "tmdb_id": 1153110,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Paradise Hills",
+    "original_title": "Paradise Hills",
+    "imdb_id": "tt6127004",
+    "tmdb_id": 487083,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Tri dana za ubojstvo",
+    "original_title": "3 Days To Kill",
+    "imdb_id": "tt2172934",
+    "tmdb_id": 192102,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Različita",
+    "original_title": "Divergent",
+    "imdb_id": "tt1840309",
+    "tmdb_id": 157350,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Trilogija Različita: Pobunjena",
+    "original_title": "Insurgent",
+    "imdb_id": "tt2908446",
+    "tmdb_id": 262500,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Trilogija Različita: Odana",
+    "original_title": "Allegiant: Part 1",
+    "imdb_id": "tt3410834",
+    "tmdb_id": 262504,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Misija Kandahar",
+    "original_title": "Kandahar",
+    "imdb_id": "tt5761544",
+    "tmdb_id": 717930,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 85.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vikend misija",
+    "original_title": "Weekend in Taipei",
+    "imdb_id": "tt28142896",
+    "tmdb_id": 1167271,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 90.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Ubojica s razglednice",
+    "original_title": "Postcard Killings, The",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Pakao na zemlji",
+    "original_title": "Brimstone",
+    "imdb_id": "tt1895315",
+    "tmdb_id": 324560,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Različita",
+    "original_title": "Divergent",
+    "imdb_id": "tt1840309",
+    "tmdb_id": 157350,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Trilogija Različita: Pobunjena",
+    "original_title": "Insurgent",
+    "imdb_id": "tt2908446",
+    "tmdb_id": 262500,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Trilogija Različita: Odana",
+    "original_title": "Allegiant: Part 1",
+    "imdb_id": "tt3410834",
+    "tmdb_id": 262504,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Dvostruka igra",
+    "original_title": "Double, The",
+    "imdb_id": "tt1646980",
+    "tmdb_id": 73499,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Bježi",
+    "original_title": "Run",
+    "imdb_id": "tt8633478",
+    "tmdb_id": 546121,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Operativac",
+    "original_title": "Freelance",
+    "imdb_id": "tt15744298",
+    "tmdb_id": 897087,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi – Balada pjevica i zmija",
+    "original_title": "Hunger Games, The: The Ballad of Songbirds and Snakes",
+    "imdb_id": "tt10545296",
+    "tmdb_id": 695721,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Zločin u Hollywoodu",
+    "original_title": "Last Looks",
+    "imdb_id": "tt9244554",
+    "tmdb_id": 557946,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Vjerni Danny",
+    "original_title": "Danny The Dog",
+    "imdb_id": "tt0342258",
+    "tmdb_id": 10027,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Stranci: Prvo poglavlje",
+    "original_title": "Strangers: Chapter 1, The",
+    "imdb_id": "tt22050754",
+    "tmdb_id": 1010600,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "KOLAŽ PROGRAM",
+    "original_title": "KOLAŽ PROGRAM",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "tmdb_match_score": null,
+    "verification_source": null
+  },
+  {
+    "Raw_EPG": "Bježi",
+    "original_title": "Run",
+    "imdb_id": "tt8633478",
+    "tmdb_id": 546121,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Mamin novi frajer",
+    "original_title": "My Mom'S New Boyfriend",
+    "imdb_id": "tt0780534",
+    "tmdb_id": 9262,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Operativac",
+    "original_title": "Freelance",
+    "imdb_id": "tt15744298",
+    "tmdb_id": 897087,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Igre gladi – Balada pjevica i zmija",
+    "original_title": "Hunger Games, The: The Ballad of Songbirds and Snakes",
+    "imdb_id": "tt10545296",
+    "tmdb_id": 695721,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Čudo na planini",
+    "original_title": "6 Below: Miracle On The Mountain",
+    "imdb_id": "tt5503688",
+    "tmdb_id": 423087,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 95.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Granice zločina II, ep. 7",
+    "original_title": "Crossing Lines II, ep. 7",
+    "imdb_id": "tt2427220",
+    "tmdb_id": 46975,
+    "tmdb_type": "tv",
+    "tmdb_match_score": 73.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Lova do krova",
+    "original_title": "Mad Money",
+    "imdb_id": "tt0951216",
+    "tmdb_id": 12085,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "22 milje",
+    "original_title": "Mile 22",
+    "imdb_id": "tt4560436",
+    "tmdb_id": 347375,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Crna kutija",
+    "original_title": "Black Box",
+    "imdb_id": "tt10341034",
+    "tmdb_id": 663260,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "tmdb+imdb"
+  },
+  {
+    "Raw_EPG": "Čuvar zakona",
+    "original_title": "Guard, The",
+    "imdb_id": "tt1540133",
+    "tmdb_id": 67913,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 100.0,
+    "verification_source": "imdb-fallback"
+  },
+  {
+    "Raw_EPG": "Posljednji plijen",
+    "original_title": "Hunted",
+    "imdb_id": "tt10011228",
+    "tmdb_id": 660335,
+    "tmdb_type": "movie",
+    "tmdb_match_score": 98.0,
     "verification_source": "tmdb+imdb"
   },
   {
