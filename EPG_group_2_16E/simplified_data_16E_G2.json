@@ -36,6 +36,18 @@
     "imdb_id": "tt7710170"
   },
   {
+    "Raw_EPG": "Hudičevo grlo - Epizoda 3",
+    "original_title": "(D)evil's Throat: Djavolskoto Garlo - Episode 3",
+    "year": 2019,
+    "category": "serija, Kriminalka, Drama",
+    "season": 1,
+    "episode": 3,
+    "episode_code": "S1E3",
+    "director": "Dimitar Dimitrov",
+    "actors": "Teodora Duhovnikova (Miya Yazova), Vladimir Karamazov (Commissioner Filip Chanov), Valeri Yordanov (Popeto), Valeri Yordanov (Pope), Vasil Banov (Dimitar Chanov), Vasil Banov (DImitar Chanov), Vasil Banov (Dimiter Chanov), Lydia Indjova (Donka), Hristo Petkov (Asen), Pavela Apostolova (Diana), Pavela Apostolova (Diana Yazova), Diana Dimitrova (Camellia)",
+    "imdb_id": "tt7710170"
+  },
+  {
     "Raw_EPG": null,
     "original_title": "10 Cloverfield Lane",
     "year": 2016,
@@ -144,6 +156,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "12 besed: Kitajska",
+    "original_title": "12 reči: Kina",
+    "year": 2020,
+    "category": "serija, nadaljevanka, kriminalka",
+    "season": 1,
+    "episode": 12,
+    "episode_code": "S01E12",
+    "director": "Jelena Stolica",
+    "actors": "Nebojša Milovanović, Ivan Milovic, Denis Murić, Petar Novaković, Nikola Pejaković, Miloš Pejović, Dušan Radović, Nebojša Rako, Nenad Savić, Viktor Savić, Tihomir Stanić, Danilo Antic, Miso Gacesa, Dejan Gocić, Vera Hrćan-Ostojić",
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "12 besed: Kremšnite",
     "original_title": "12 reči: Krempita",
     "year": 2020,
@@ -213,6 +237,18 @@
     "episode_code": "S01E05",
     "director": "Jelena Stolica",
     "actors": "Nebojsa Jaric, Filip Kuc, Vladimir Kukolj, Đorđe Marković, Đorđe Marković, Relja Markovic, Sanja Markovic, Rastko Micic, Nebojša Milovanović, Denis Murić, Petar Novaković, Miloš Pejović, Jovan Sakota, Viktor Savić, Ana Savija",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "12 besed: Celica",
+    "original_title": "12 reči: Ćelija",
+    "year": 2020,
+    "category": "serija, nadaljevanka, kriminalka",
+    "season": 1,
+    "episode": 11,
+    "episode_code": "S01E11",
+    "director": "Jelena Stolica",
+    "actors": "Jovo Maksić, Đorđe Marković, Đorđe Marković, Vukota Marsenic, Rastko Micic, Nebojša Milovanović, Ivan Milovic, Denis Murić, Petar Novaković, Nikola Pejaković, Miloš Pejović, Nebojša Rako, Viktor Savić, Jasmin Serezlic, Tihomir Stanić",
     "imdb_id": null
   },
   {
@@ -358,6 +394,18 @@
     "director": "David Slade",
     "actors": "Josh Hartnett (Eben Oleson), Melissa George (Stella Oleson), Danny Huston (Marlow), Ben Foster (The Stranger), Mark Boone Junior (Beau Brower), Mark Rendall (Jake Oleson), Amber Sainsbury (Denise), Manu Bennett (Billy Kitka), Megan Franich (Iris)",
     "imdb_id": "tt0389722"
+  },
+  {
+    "Raw_EPG": "30 Years and an Ocean in Between",
+    "original_title": "30 Years and an Ocean in Between",
+    "year": 2021,
+    "category": "film, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Amanda De Luis Balart",
+    "actors": "Anna Diogènne, Carlos Vicente",
+    "imdb_id": null
   },
   {
     "Raw_EPG": "31 Hours",
@@ -1039,6 +1087,54 @@
     "season": 2,
     "episode": 2,
     "episode_code": "S2E2",
+    "director": "Loni Peristere, Ben Hernandez Bray, Chad Lowe",
+    "actors": "Angela Bassett (Athena Grant), Angela Bassett (Athena Grant-Nash), Oliver Stark (Evan Buck Buckley), Oliver Stark (Evan Buckley), Aisha Hinds (Henrietta Hen Wilson), Kenneth Choi (Howie Chimney Han), Jennifer Love Hewitt (Maddie Kendall), Jennifer Love Hewitt (Maddie Buckley), Jennifer Love Hewitt (Maddie Han), Ryan Guzman (Eddie Diaz), Peter Krause (Bobby Nash), Gavin McHugh (Christopher Diaz)",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "Raw_EPG": "911",
+    "original_title": "9-1-1 2",
+    "year": 2018,
+    "category": "serija, Akcija, Drama, Grozljivka",
+    "season": 2,
+    "episode": 3,
+    "episode_code": "S2E3",
+    "director": "Loni Peristere, Ben Hernandez Bray, Chad Lowe",
+    "actors": "Angela Bassett (Athena Grant), Angela Bassett (Athena Grant-Nash), Oliver Stark (Evan Buck Buckley), Oliver Stark (Evan Buckley), Aisha Hinds (Henrietta Hen Wilson), Kenneth Choi (Howie Chimney Han), Jennifer Love Hewitt (Maddie Kendall), Jennifer Love Hewitt (Maddie Buckley), Jennifer Love Hewitt (Maddie Han), Ryan Guzman (Eddie Diaz), Peter Krause (Bobby Nash), Gavin McHugh (Christopher Diaz)",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "Raw_EPG": "911",
+    "original_title": "9-1-1 2",
+    "year": 2018,
+    "category": "serija, Akcija, Drama, Grozljivka",
+    "season": 2,
+    "episode": 4,
+    "episode_code": "S2E4",
+    "director": "Loni Peristere, Ben Hernandez Bray, Chad Lowe",
+    "actors": "Angela Bassett (Athena Grant), Angela Bassett (Athena Grant-Nash), Oliver Stark (Evan Buck Buckley), Oliver Stark (Evan Buckley), Aisha Hinds (Henrietta Hen Wilson), Kenneth Choi (Howie Chimney Han), Jennifer Love Hewitt (Maddie Kendall), Jennifer Love Hewitt (Maddie Buckley), Jennifer Love Hewitt (Maddie Han), Ryan Guzman (Eddie Diaz), Peter Krause (Bobby Nash), Gavin McHugh (Christopher Diaz)",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "Raw_EPG": "911",
+    "original_title": "9-1-1 2",
+    "year": 2018,
+    "category": "serija, Akcija, Drama, Grozljivka",
+    "season": 2,
+    "episode": 5,
+    "episode_code": "S2E5",
+    "director": "Loni Peristere, Ben Hernandez Bray, Chad Lowe",
+    "actors": "Angela Bassett (Athena Grant), Angela Bassett (Athena Grant-Nash), Oliver Stark (Evan Buck Buckley), Oliver Stark (Evan Buckley), Aisha Hinds (Henrietta Hen Wilson), Kenneth Choi (Howie Chimney Han), Jennifer Love Hewitt (Maddie Kendall), Jennifer Love Hewitt (Maddie Buckley), Jennifer Love Hewitt (Maddie Han), Ryan Guzman (Eddie Diaz), Peter Krause (Bobby Nash), Gavin McHugh (Christopher Diaz)",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "Raw_EPG": "911",
+    "original_title": "9-1-1 2",
+    "year": 2018,
+    "category": "serija, Akcija, Drama, Grozljivka",
+    "season": 2,
+    "episode": 6,
+    "episode_code": "S2E6",
     "director": "Loni Peristere, Ben Hernandez Bray, Chad Lowe",
     "actors": "Angela Bassett (Athena Grant), Angela Bassett (Athena Grant-Nash), Oliver Stark (Evan Buck Buckley), Oliver Stark (Evan Buckley), Aisha Hinds (Henrietta Hen Wilson), Kenneth Choi (Howie Chimney Han), Jennifer Love Hewitt (Maddie Kendall), Jennifer Love Hewitt (Maddie Buckley), Jennifer Love Hewitt (Maddie Han), Ryan Guzman (Eddie Diaz), Peter Krause (Bobby Nash), Gavin McHugh (Christopher Diaz)",
     "imdb_id": "tt7235466"
@@ -3137,6 +3233,18 @@
     "year": 2023,
     "category": "serija, Kriminalka, Drama, Misterij",
     "season": 1,
+    "episode": 13,
+    "episode_code": "S1E13",
+    "director": "Lee Rose, Michael Chiklis, Milan Cheylov",
+    "actors": "Michael Chiklis (Justin), Michael Chiklis (Scott Harmon), Shawn Doyle (Eric Broder), Shawn Doyle (Patrick), Matthew James Thomas (Alexei), Matthew James Thomas (Tom Braddick), Daniel Maslany (Frank Conley), Daniel Maslany (Public Defender Eli Demille), Vicki Kim (Doctor), Vicki Kim (Hannah), Patrice Goodman (Defence Lawyer), Patrice Goodman (Maya Thompsen)",
+    "imdb_id": "tt7949212"
+  },
+  {
+    "Raw_EPG": "Obtoženi",
+    "original_title": "Accused (Accused - US Format) 1",
+    "year": 2023,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 1,
     "episode": 2,
     "episode_code": "S1E2",
     "director": "Lee Rose, Michael Chiklis, Milan Cheylov",
@@ -3372,6 +3480,18 @@
     "imdb_id": "tt1869347"
   },
   {
+    "Raw_EPG": "Air America",
+    "original_title": "Air America",
+    "year": 1990,
+    "category": "film, Akcija, Komedija, Vojna",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Roger Spottiswoode",
+    "actors": "Mel Gibson (Gene), Robert Downey Jr. (Billy), Nancy Travis (Corinne Landreaux), Ken Jenkins (Major Donald Lemond), David Marshall Grant (Rob Diehl), Lane Smith (Senator Davenport), Art LaFleur (Jack Neely), Ned Eisenberg (Pirelli), Marshall Bell (O.V.)",
+    "imdb_id": "tt0099005"
+  },
+  {
     "Raw_EPG": "Albert Nobbs",
     "original_title": "Albert Nobbs",
     "year": 2011,
@@ -3463,6 +3583,18 @@
     "season": 8,
     "episode": 12,
     "episode_code": "S08E12",
+    "director": null,
+    "actors": "Michael Evans Behling (Jordan Baker), Michael Evans Behling (Self), Greta Onieogou (Layla Keating), Greta Onieogou (Layla Baker), Greta Onieogou (Layla Keating-Baker), Bre-Z (Tamia Coop Cooper), Bre-Z (Coop), Bre-Z (Self), Samantha Logan (Olivia Baker), Samantha Logan (Olivia James), Samantha Logan (Self), Daniel Ezra (Spencer James)",
+    "imdb_id": "tt7414406"
+  },
+  {
+    "Raw_EPG": "Nogometaš",
+    "original_title": "All American",
+    "year": 2026,
+    "category": "serija, Drama, Šport",
+    "season": 8,
+    "episode": 13,
+    "episode_code": "S08E13",
     "director": null,
     "actors": "Michael Evans Behling (Jordan Baker), Michael Evans Behling (Self), Greta Onieogou (Layla Keating), Greta Onieogou (Layla Baker), Greta Onieogou (Layla Keating-Baker), Bre-Z (Tamia Coop Cooper), Bre-Z (Coop), Bre-Z (Self), Samantha Logan (Olivia Baker), Samantha Logan (Olivia James), Samantha Logan (Self), Daniel Ezra (Spencer James)",
     "imdb_id": "tt7414406"
@@ -3802,6 +3934,18 @@
     "director": "Adam Arkin",
     "actors": "Jon Hamm (Fred Heckman), Giovanni Ribisi (Tony Kiritsis), William Jackson Harper (Ben Hairston), Mireille Enos (Barbara), Mireille Enos (Barbara Heckman), Mark McKinney (Police Chief Gallgher), Mark McKinney (Chief Gallagher), Mark McKinney (Chief Gallgher), Kristoffer Polaha (Dick Hall), June Laporte (Ginny), June Laporte (Ginny Hughes), Kat Cunning (Ibby Hall)",
     "imdb_id": "tt30051064"
+  },
+  {
+    "Raw_EPG": "Ameriški izobčenci",
+    "original_title": "American Outlaws",
+    "year": 2001,
+    "category": "film, Akcija, Drama, Vestern",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Les Mayfield",
+    "actors": "Colin Farrell (Jesse James), Scott Caan (Cole Younger), Ali Larter (Zerelda Zee Mimms), Gabriel Macht (Frank James), Gregory Smith (Jim Younger), Harris Yulin (Thaddeus Rains), Kathy Bates (Ma James), Timothy Dalton (Allan Pinkerton), Will McCormack (Bob Younger)",
+    "imdb_id": "tt0244000"
   },
   {
     "Raw_EPG": "Amonit",
@@ -4537,6 +4681,30 @@
   },
   {
     "Raw_EPG": null,
+    "original_title": "Arcadia",
+    "year": 2023,
+    "category": "serija, Drama, Znanstvena fantastika",
+    "season": 1,
+    "episode": 8,
+    "episode_code": "S1E8",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt17037878"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Arcadia",
+    "year": 2025,
+    "category": "serija, Drama, Znanstvena fantastika",
+    "season": 2,
+    "episode": 1,
+    "episode_code": "S2E1",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt17037878"
+  },
+  {
+    "Raw_EPG": null,
     "original_title": "Arctic Armageddon",
     "year": 2023,
     "category": "film, Pustolovščina, Znanstvena fantastika",
@@ -5100,6 +5268,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Obalna straža: Zabava na plaži",
+    "original_title": "Baywatch: Beachblast",
+    "year": 1996,
+    "category": "serija, nanizanka, akcija",
+    "season": 7,
+    "episode": 6,
+    "episode_code": "S07E06",
+    "director": "Douglas Schwartz, Douglas Schwartz",
+    "actors": "José Solano, Traci Bingham, Nancy Valen, Michael Newman, Jenny McCarthy, Jenny McCarthy, Bill Bellamy, Bill Bellamy, Idalis DeLeon, Simon Rex, John Sencio, Rhonda Rydell, Kevin Light, Elke Jeinsen, Joe Greblo",
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Obalna straža: Lepotica in zver",
     "original_title": "Baywatch: Beauty and the Beast",
     "year": 1996,
@@ -5253,6 +5433,18 @@
     "episode_code": "S06E22",
     "director": "Peter H. Hunt, Peter H. Hunt",
     "actors": "Alexandra Paul, Alexandra Paul, Therese Kablan, Nicholas Walker, Bert Remsen, Antoinette Byron, Michael Newman, Ledge Musselman, Chris Fiore, Gregory Alan Williams, Gregory Alan Williams",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Obalna straža: Ugani, kdo pride na večerjo",
+    "original_title": "Baywatch: Guess Who's Coming to Dinner",
+    "year": 1996,
+    "category": "serija, nanizanka, akcija",
+    "season": 7,
+    "episode": 7,
+    "episode_code": "S07E07",
+    "director": "Douglas Schwartz, Douglas Schwartz",
+    "actors": "José Solano, Traci Bingham, Nancy Valen, Michael Newman, Connie Stevens, David Groh, Shawn Michaels, Cheryl Boudreau, Lori Ashton, Craig Shugart, Elizabeth T. Meyer, Travis H. Meyer, Michael Avery, Ledge Musselman, Quinn O'Hara",
     "imdb_id": null
   },
   {
@@ -5517,6 +5709,18 @@
     "episode_code": "S06E17",
     "director": "Paul Cajero, Paul Cajero",
     "actors": "Yasmine Bleeth, David Chokachi, David Chokachi, Lauren Eckstrom, Alan Fudge, Ashley Gorrell, Andrew Levant, Michael Newman, Kelly Packard, Jaason Simmons, Gregory J. Barnett, Ron Sterk",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Obalna straža: Žgoč dan",
+    "original_title": "Baywatch: Scorcher",
+    "year": 1996,
+    "category": "serija, nanizanka, akcija",
+    "season": 7,
+    "episode": 5,
+    "episode_code": "S07E05",
+    "director": "Gregory J. Bonann, Gregory J. Bonann",
+    "actors": "José Solano, Traci Bingham, Nancy Valen, Michael Newman, Jeff Altman, Howard Morris, Scott Stevens, Willie Gault, Jordan Warkol, Bob Bancroft, Dorothy Gallagher, Nolan Jesse Yard, Scotty Hauser, Naya Rivera, Shaggy",
     "imdb_id": null
   },
   {
@@ -5829,6 +6033,18 @@
     "episode_code": "S05E22",
     "director": "Paul Lazarus",
     "actors": "Pamela Anderson, Pamela Anderson, Alexandra Paul, Alexandra Paul, Corey Schwartz, Jaason Simmons, Gregory J. Barnett, Chris Fiore, Ledge Musselman, Gary Craig",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Obalna straža: Samotni otok",
+    "original_title": "Baywatch: Windswept",
+    "year": 1996,
+    "category": "serija, nanizanka, akcija",
+    "season": 7,
+    "episode": 4,
+    "episode_code": "S07E04",
+    "director": "Georg Fenady, Georg Fenady",
+    "actors": "José Solano, Traci Bingham, Nancy Valen, Michael Newman, Alexandra Paul, Alexandra Paul, Linda Hoffman, Hunter Tylo, Eric Paskel, Tod Thawley, Pat Brisson, Sean Graham, James Martin jr., Brian Mullin, Robert Gluck",
     "imdb_id": null
   },
   {
@@ -7009,6 +7225,30 @@
   },
   {
     "Raw_EPG": "TELO KOT DOKAZ",
+    "original_title": "Body of Proof 2",
+    "year": 2011,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 6,
+    "episode_code": "S2E6",
+    "director": "John Putch, Sam Hill, Milan Cheylov",
+    "actors": "Dana Delany (Megan Hunt), Jeri Ryan (Kate Murphy), Geoffrey Arend (Ethan Gross), Windell Middlebrooks (Curtis Brumfield), Mary Mouser (Lacey Fleming), John Carroll Lynch (Bud Morris), Nic Bishop (Peter Dunlop), Sonja Sohn (Samantha Baker), Joanna Cassidy (Joan Hunt), Mark Valley (Tommy Sullivan)",
+    "imdb_id": "tt1587669"
+  },
+  {
+    "Raw_EPG": "TELO KOT DOKAZ",
+    "original_title": "Body of Proof 2",
+    "year": 2011,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 7,
+    "episode_code": "S2E7",
+    "director": "John Putch, Sam Hill, Milan Cheylov",
+    "actors": "Dana Delany (Megan Hunt), Jeri Ryan (Kate Murphy), Geoffrey Arend (Ethan Gross), Windell Middlebrooks (Curtis Brumfield), Mary Mouser (Lacey Fleming), John Carroll Lynch (Bud Morris), Nic Bishop (Peter Dunlop), Sonja Sohn (Samantha Baker), Joanna Cassidy (Joan Hunt), Mark Valley (Tommy Sullivan)",
+    "imdb_id": "tt1587669"
+  },
+  {
+    "Raw_EPG": "TELO KOT DOKAZ",
     "original_title": "Body of Proof: International Season 1",
     "year": 2011,
     "category": "serija, Komedija, Kriminalka, Drama",
@@ -7126,6 +7366,18 @@
     "director": "Bryan Singer",
     "actors": "Rami Malek (Freddie Mercury), Lucy Boynton (Mary Austin), Gwilym Lee (Brian May), Ben Hardy (Roger Taylor), Joseph Mazzello (John Deacon), Aidan Gillen (John Reid), Allen Leech (Paul Prenter), Tom Hollander (Jim Beach), Mike Myers (Ray Foster)",
     "imdb_id": "tt1727824"
+  },
+  {
+    "Raw_EPG": "Srečno pot, Marie",
+    "original_title": "Bon Voyage, Marie",
+    "year": 2025,
+    "category": "film, Komedija, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Enya Baroux",
+    "actors": "Hélène Vincent (Marie), Pierre Lottin (Rudy), David Ayala (Bruno), Juliette Gasquet (Anna), Henock Cortes (Yago), Gabin Visona (Diego), Brigitte Aubry (Simone), Fannie Outeira da Costa (Le médecin), Jeanne Arènes (La banquière)",
+    "imdb_id": "tt35077924"
   },
   {
     "Raw_EPG": "Kosti",
@@ -7608,6 +7860,54 @@
     "imdb_id": "tt0460627"
   },
   {
+    "Raw_EPG": "Kosti",
+    "original_title": "Bones 3",
+    "year": 2007,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 6,
+    "episode_code": "S3E6",
+    "director": "David Duchovny, Jessica Landaw, Karen Gaviola",
+    "actors": "Emily Deschanel (Temperance Brennan), David Boreanaz (Seeley Booth), Michaela Conlin (Angela Montenegro), TJ Thyne (Jack Hodgins), Tamara Taylor (Camille Saroyan), John Francis Daley (Lance Sweets), Eric Millegan (Zack Addy), John Boyd (James Aubrey), Patricia Belcher (Caroline Julian), Michael Grant Terry (Wendell Bray)",
+    "imdb_id": "tt0460627"
+  },
+  {
+    "Raw_EPG": "Kosti",
+    "original_title": "Bones 3",
+    "year": 2007,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 7,
+    "episode_code": "S3E7",
+    "director": "David Duchovny, Jessica Landaw, Karen Gaviola",
+    "actors": "Emily Deschanel (Temperance Brennan), David Boreanaz (Seeley Booth), Michaela Conlin (Angela Montenegro), TJ Thyne (Jack Hodgins), Tamara Taylor (Camille Saroyan), John Francis Daley (Lance Sweets), Eric Millegan (Zack Addy), John Boyd (James Aubrey), Patricia Belcher (Caroline Julian), Michael Grant Terry (Wendell Bray)",
+    "imdb_id": "tt0460627"
+  },
+  {
+    "Raw_EPG": "Kosti",
+    "original_title": "Bones 3",
+    "year": 2007,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 8,
+    "episode_code": "S3E8",
+    "director": "David Duchovny, Jessica Landaw, Karen Gaviola",
+    "actors": "Emily Deschanel (Temperance Brennan), David Boreanaz (Seeley Booth), Michaela Conlin (Angela Montenegro), TJ Thyne (Jack Hodgins), Tamara Taylor (Camille Saroyan), John Francis Daley (Lance Sweets), Eric Millegan (Zack Addy), John Boyd (James Aubrey), Patricia Belcher (Caroline Julian), Michael Grant Terry (Wendell Bray)",
+    "imdb_id": "tt0460627"
+  },
+  {
+    "Raw_EPG": "Kosti",
+    "original_title": "Bones 3",
+    "year": 2007,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 9,
+    "episode_code": "S3E9",
+    "director": "David Duchovny, Jessica Landaw, Karen Gaviola",
+    "actors": "Emily Deschanel (Temperance Brennan), David Boreanaz (Seeley Booth), Michaela Conlin (Angela Montenegro), TJ Thyne (Jack Hodgins), Tamara Taylor (Camille Saroyan), John Francis Daley (Lance Sweets), Eric Millegan (Zack Addy), John Boyd (James Aubrey), Patricia Belcher (Caroline Julian), Michael Grant Terry (Wendell Bray)",
+    "imdb_id": "tt0460627"
+  },
+  {
     "Raw_EPG": "Knjiga o zmajih",
     "original_title": "Book Of Dragons",
     "year": 2011,
@@ -7786,6 +8086,18 @@
     "director": "Francis Ford Coppola",
     "actors": "Gary Oldman (Dracula), Winona Ryder (Mina Murray), Winona Ryder (Elisabeta), Anthony Hopkins (Professor Abraham Van Helsing), Keanu Reeves (Jonathan Harker), Richard E. Grant (Dr. Jack Seward), Cary Elwes (Lord Arthur Holmwood), Billy Campbell (Quincey P. Morris), Sadie Frost (Lucy Westenra)",
     "imdb_id": "tt0103874"
+  },
+  {
+    "Raw_EPG": "Braven",
+    "original_title": "Braven",
+    "year": 2018,
+    "category": "film, Akcija, Grozljivka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Lin Oeding",
+    "actors": "Jason Momoa (Joe Braven), Garret Dillahunt (Kassen), Jill Wagner (Stephanie Braven), Stephen Lang (Linden Braven), Sasha Rossof (Charlotte Braven), Sala Baker (Gentry), Fraser Aitcheson (Clay), Teach Grant (Essington), Glenn Ennis (Ridley)",
+    "imdb_id": "tt5001754"
   },
   {
     "Raw_EPG": "Brett Goldstein: Drugi najboljši večer v tvojem življenju",
@@ -8280,6 +8592,54 @@
     "imdb_id": "tt4276618"
   },
   {
+    "Raw_EPG": "C. B. Strike",
+    "original_title": "C.B. Strike",
+    "year": 2022,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 1,
+    "episode_code": "S03E01",
+    "director": "Susan Tully",
+    "actors": "Tom Burke (Cormoran Strike), Holliday Grainger (Robin Ellacott), Kerr Logan (Matthew Cunliffe), Jack Greenlees (Sam Barclay), Ruth Sheen (Pat Chauncey), Caitlin Innes Edwards (Ilsa Herbert), Natasha O'Keeffe (Charlotte Campbell), Christina Cole (Izzy Chiswell), Killian Scott (DI Eric Wardle), Sarah Sweeney (Lucy)",
+    "imdb_id": "tt4276618"
+  },
+  {
+    "Raw_EPG": "C. B. Strike",
+    "original_title": "C.B. Strike",
+    "year": 2022,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 2,
+    "episode_code": "S03E02",
+    "director": "Susan Tully",
+    "actors": "Tom Burke (Cormoran Strike), Holliday Grainger (Robin Ellacott), Kerr Logan (Matthew Cunliffe), Jack Greenlees (Sam Barclay), Ruth Sheen (Pat Chauncey), Caitlin Innes Edwards (Ilsa Herbert), Natasha O'Keeffe (Charlotte Campbell), Christina Cole (Izzy Chiswell), Killian Scott (DI Eric Wardle), Sarah Sweeney (Lucy)",
+    "imdb_id": "tt4276618"
+  },
+  {
+    "Raw_EPG": "C. B. Strike",
+    "original_title": "C.B. Strike",
+    "year": 2022,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 3,
+    "episode_code": "S03E03",
+    "director": "Susan Tully",
+    "actors": "Tom Burke (Cormoran Strike), Holliday Grainger (Robin Ellacott), Kerr Logan (Matthew Cunliffe), Jack Greenlees (Sam Barclay), Ruth Sheen (Pat Chauncey), Caitlin Innes Edwards (Ilsa Herbert), Natasha O'Keeffe (Charlotte Campbell), Christina Cole (Izzy Chiswell), Killian Scott (DI Eric Wardle), Sarah Sweeney (Lucy)",
+    "imdb_id": "tt4276618"
+  },
+  {
+    "Raw_EPG": "C. B. Strike",
+    "original_title": "C.B. Strike",
+    "year": 2022,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 3,
+    "episode": 4,
+    "episode_code": "S03E04",
+    "director": "Susan Tully",
+    "actors": "Tom Burke (Cormoran Strike), Holliday Grainger (Robin Ellacott), Kerr Logan (Matthew Cunliffe), Jack Greenlees (Sam Barclay), Ruth Sheen (Pat Chauncey), Caitlin Innes Edwards (Ilsa Herbert), Natasha O'Keeffe (Charlotte Campbell), Christina Cole (Izzy Chiswell), Killian Scott (DI Eric Wardle), Sarah Sweeney (Lucy)",
+    "imdb_id": "tt4276618"
+  },
+  {
     "Raw_EPG": "Drugačno materinstvo",
     "original_title": "Cabin Pressure",
     "year": 2024,
@@ -8323,6 +8683,30 @@
     "season": 1,
     "episode": 1,
     "episode_code": "S1E1",
+    "director": "Camille Delamarre",
+    "actors": "Lucie Lucas (Camille Delmasse), Jamie Bamber (Harry King), Shy'm (Léa Robert), Jean-Hugues Anglade (Philippe Delmasse), Sammy Lechea (Ramzy Chabat), Nancy Tate (Nina Leblanc), Anna Franziska Jäger (Margaux Delmasse), Hugo Brunswick (Julien Boire), Ruth Vega Fernandez (Geneviève Martial), Ava Griffith (Emilie King)",
+    "imdb_id": "tt10150214"
+  },
+  {
+    "Raw_EPG": "Cannes zaupno",
+    "original_title": "Cannes Confidential 1",
+    "year": 2023,
+    "category": "serija, Akcija, Komedija, Kriminalka",
+    "season": 1,
+    "episode": 2,
+    "episode_code": "S1E2",
+    "director": "Camille Delamarre",
+    "actors": "Lucie Lucas (Camille Delmasse), Jamie Bamber (Harry King), Shy'm (Léa Robert), Jean-Hugues Anglade (Philippe Delmasse), Sammy Lechea (Ramzy Chabat), Nancy Tate (Nina Leblanc), Anna Franziska Jäger (Margaux Delmasse), Hugo Brunswick (Julien Boire), Ruth Vega Fernandez (Geneviève Martial), Ava Griffith (Emilie King)",
+    "imdb_id": "tt10150214"
+  },
+  {
+    "Raw_EPG": "Cannes zaupno",
+    "original_title": "Cannes Confidential 1",
+    "year": 2023,
+    "category": "serija, Akcija, Komedija, Kriminalka",
+    "season": 1,
+    "episode": 3,
+    "episode_code": "S1E3",
     "director": "Camille Delamarre",
     "actors": "Lucie Lucas (Camille Delmasse), Jamie Bamber (Harry King), Shy'm (Léa Robert), Jean-Hugues Anglade (Philippe Delmasse), Sammy Lechea (Ramzy Chabat), Nancy Tate (Nina Leblanc), Anna Franziska Jäger (Margaux Delmasse), Hugo Brunswick (Julien Boire), Ruth Vega Fernandez (Geneviève Martial), Ava Griffith (Emilie King)",
     "imdb_id": "tt10150214"
@@ -10529,6 +10913,30 @@
     "year": 2024,
     "category": "serija, razvedrilni program, resničnostna oddaja",
     "season": 7,
+    "episode": 34,
+    "episode_code": "S07E34",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Pobeg v dvorec: naredi sam",
+    "original_title": "Chateau DIY",
+    "year": 2024,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 7,
+    "episode": 35,
+    "episode_code": "S07E35",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Pobeg v dvorec: naredi sam",
+    "original_title": "Chateau DIY",
+    "year": 2024,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 7,
     "episode": 6,
     "episode_code": "S07E06",
     "director": null,
@@ -10567,6 +10975,30 @@
     "season": 7,
     "episode": 9,
     "episode_code": "S07E09",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Pobeg v dvorec: naredi sam",
+    "original_title": "Chateau DIY",
+    "year": 2024,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 8,
+    "episode": 1,
+    "episode_code": "S08E01",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Pobeg v dvorec: naredi sam",
+    "original_title": "Chateau DIY",
+    "year": 2024,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 8,
+    "episode": 2,
+    "episode_code": "S08E02",
     "director": null,
     "actors": null,
     "imdb_id": null
@@ -11028,6 +11460,30 @@
     "imdb_id": "tt4655480"
   },
   {
+    "Raw_EPG": "Chicaška policija",
+    "original_title": "Chicago P.D. 10",
+    "year": 2022,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 10,
+    "episode": 1,
+    "episode_code": "S10E1",
+    "director": "Alik Sakharov, Karen Gaviola, Eriq La Salle",
+    "actors": "Jason Beghe (Hank Voight), Marina Squerciati (Kim Burgess), Patrick John Flueger (Adam Ruzek), LaRoyce Hawkins (Kevin Atwater), Amy Morton (Trudy Platt), Jesse Lee Soffer (Jay Halstead), Tracy Spiridakos (Hailey Upton), Jon Seda (Antonio Dawson), Elias Koteas (Alvin Olinsky), Sophia Bush (Erin Lindsay)",
+    "imdb_id": "tt2805096"
+  },
+  {
+    "Raw_EPG": "Chicaška policija",
+    "original_title": "Chicago P.D. 10",
+    "year": 2022,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 10,
+    "episode": 2,
+    "episode_code": "S10E2",
+    "director": "Alik Sakharov, Karen Gaviola, Eriq La Salle",
+    "actors": "Jason Beghe (Hank Voight), Marina Squerciati (Kim Burgess), Patrick John Flueger (Adam Ruzek), LaRoyce Hawkins (Kevin Atwater), Amy Morton (Trudy Platt), Jesse Lee Soffer (Jay Halstead), Tracy Spiridakos (Hailey Upton), Jon Seda (Antonio Dawson), Elias Koteas (Alvin Olinsky), Sophia Bush (Erin Lindsay)",
+    "imdb_id": "tt2805096"
+  },
+  {
     "Raw_EPG": "Otroci človeštva",
     "original_title": "Children of Men",
     "year": 2006,
@@ -11254,6 +11710,18 @@
     "director": "Brad Silberling",
     "actors": "Nicolas Cage (Seth), Meg Ryan (Dr. Maggie Rice), Andre Braugher (Cassiel), Dennis Franz (Nathaniel Messinger), Colm Feore (Jordan Ferris), Robin Bartlett (Anne), Joanna Merlin (Teresa Messinger), Sarah Dampf (Susan), Rhonda Dotson (Susans Mother)",
     "imdb_id": "tt0120632"
+  },
+  {
+    "Raw_EPG": "Mesto laži",
+    "original_title": "City of Lies",
+    "year": 2018,
+    "category": "film, Biografija, Kriminalka, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Brad Furman",
+    "actors": "Johnny Depp (Russell Poole), Forest Whitaker (Jack Jackson), Toby Huss (Detective Fred Miller), Dayton Callie (Lieutenant OShea), Neil Brown Jr. (Rafael Perez), Louis Herthum (City Attorney Stone), Shea Whigham (Frank Lyga), Xander Berkeley (Edwards), Shamier Anderson (David Mack)",
+    "imdb_id": "tt2677722"
   },
   {
     "Raw_EPG": "Nekaznovan",
@@ -12775,6 +13243,18 @@
     "season": 4,
     "episode": 19,
     "episode_code": "S4E19",
+    "director": "Emilio Estevez, Joe Dante, David Jackson",
+    "actors": "Gary Sinise (CSI Detective Mac Taylor), Carmine Giovinazzo (CSI Detective Danny Messer), Hill Harper (Sheldon Hawkes), Eddie Cahill (Don Flack), Anna Belknap (Lindsay Monroe), Robert Joy (Sid Hammerback), A.J. Buckley (Adam Ross), Melina Kanakaredes (CSI Detective Stella Bonasera), Sela Ward (CSI Detective Jo Danville), Julie McKinnon (AV Lab Tech)",
+    "imdb_id": "tt0395843"
+  },
+  {
+    "Raw_EPG": "Na kraju zločina: New York",
+    "original_title": "CSI: NY 4",
+    "year": 2007,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 4,
+    "episode": 20,
+    "episode_code": "S4E20",
     "director": "Emilio Estevez, Joe Dante, David Jackson",
     "actors": "Gary Sinise (CSI Detective Mac Taylor), Carmine Giovinazzo (CSI Detective Danny Messer), Hill Harper (Sheldon Hawkes), Eddie Cahill (Don Flack), Anna Belknap (Lindsay Monroe), Robert Joy (Sid Hammerback), A.J. Buckley (Adam Ross), Melina Kanakaredes (CSI Detective Stella Bonasera), Sela Ward (CSI Detective Jo Danville), Julie McKinnon (AV Lab Tech)",
     "imdb_id": "tt0395843"
@@ -15881,6 +16361,54 @@
     "year": 2016,
     "category": "serija, Akcija, Pustolovščina, Kriminalka",
     "season": 5,
+    "episode": 21,
+    "episode_code": "S5E21",
+    "director": "Jonny Lee Miller, Aidan Quinn, Helen Shaver",
+    "actors": "Jonny Lee Miller (Sherlock Holmes), Lucy Liu (Dr. Joan Watson), Lucy Liu (Joan Watson), Aidan Quinn (Captain Thomas Gregson), Jon Michael Hill (Detective Marcus Bell), Jordan Gelber (Dr. Eugene Hawes), John Noble (Mr. Morland Holmes), John Noble (Morland Holmes), Ophelia Lovibond (Kitty Winter), Nelsan Ellis (Shinwell Johnson), Ato Essandoh (Alfredo Llamosa), Tim Guinee (NSA Agent McNally)",
+    "imdb_id": "tt2191671"
+  },
+  {
+    "Raw_EPG": "Osnove Sherlocka Holmesa",
+    "original_title": "Elementary 5",
+    "year": 2016,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 5,
+    "episode": 22,
+    "episode_code": "S5E22",
+    "director": "Jonny Lee Miller, Aidan Quinn, Helen Shaver",
+    "actors": "Jonny Lee Miller (Sherlock Holmes), Lucy Liu (Dr. Joan Watson), Lucy Liu (Joan Watson), Aidan Quinn (Captain Thomas Gregson), Jon Michael Hill (Detective Marcus Bell), Jordan Gelber (Dr. Eugene Hawes), John Noble (Mr. Morland Holmes), John Noble (Morland Holmes), Ophelia Lovibond (Kitty Winter), Nelsan Ellis (Shinwell Johnson), Ato Essandoh (Alfredo Llamosa), Tim Guinee (NSA Agent McNally)",
+    "imdb_id": "tt2191671"
+  },
+  {
+    "Raw_EPG": "Osnove Sherlocka Holmesa",
+    "original_title": "Elementary 5",
+    "year": 2016,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 5,
+    "episode": 23,
+    "episode_code": "S5E23",
+    "director": "Jonny Lee Miller, Aidan Quinn, Helen Shaver",
+    "actors": "Jonny Lee Miller (Sherlock Holmes), Lucy Liu (Dr. Joan Watson), Lucy Liu (Joan Watson), Aidan Quinn (Captain Thomas Gregson), Jon Michael Hill (Detective Marcus Bell), Jordan Gelber (Dr. Eugene Hawes), John Noble (Mr. Morland Holmes), John Noble (Morland Holmes), Ophelia Lovibond (Kitty Winter), Nelsan Ellis (Shinwell Johnson), Ato Essandoh (Alfredo Llamosa), Tim Guinee (NSA Agent McNally)",
+    "imdb_id": "tt2191671"
+  },
+  {
+    "Raw_EPG": "Osnove Sherlocka Holmesa",
+    "original_title": "Elementary 5",
+    "year": 2016,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 5,
+    "episode": 24,
+    "episode_code": "S5E24",
+    "director": "Jonny Lee Miller, Aidan Quinn, Helen Shaver",
+    "actors": "Jonny Lee Miller (Sherlock Holmes), Lucy Liu (Dr. Joan Watson), Lucy Liu (Joan Watson), Aidan Quinn (Captain Thomas Gregson), Jon Michael Hill (Detective Marcus Bell), Jordan Gelber (Dr. Eugene Hawes), John Noble (Mr. Morland Holmes), John Noble (Morland Holmes), Ophelia Lovibond (Kitty Winter), Nelsan Ellis (Shinwell Johnson), Ato Essandoh (Alfredo Llamosa), Tim Guinee (NSA Agent McNally)",
+    "imdb_id": "tt2191671"
+  },
+  {
+    "Raw_EPG": "Osnove Sherlocka Holmesa",
+    "original_title": "Elementary 5",
+    "year": 2016,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 5,
     "episode": 3,
     "episode_code": "S5E3",
     "director": "Jonny Lee Miller, Aidan Quinn, Helen Shaver",
@@ -16616,6 +17144,54 @@
     "episode": 9,
     "episode_code": "S03E09",
     "director": "Julian Farino",
+    "actors": "Kevin Connolly (Eric Murphy), Adrian Grenier (Vincent Chase), Kevin Dillon (Johnny Drama Chase), Jerry Ferrara (Turtle), Jeremy Piven (Ari Gold), Rex Lee (Lloyd), Rex Lee (Lloyd Lee), Perrey Reeves (Mrs. Ari), Debi Mazar (Shauna), Emmanuelle Chriqui (Sloan), Rhys Coiro (Billy Walsh)",
+    "imdb_id": "tt0387199"
+  },
+  {
+    "Raw_EPG": "Priskledniki",
+    "original_title": "Entourage",
+    "year": 2007,
+    "category": "serija, Komedija, Drama",
+    "season": 3,
+    "episode": 13,
+    "episode_code": "S03E13",
+    "director": "Julian Farino",
+    "actors": "Kevin Connolly (Eric Murphy), Adrian Grenier (Vincent Chase), Kevin Dillon (Johnny Drama Chase), Jerry Ferrara (Turtle), Jeremy Piven (Ari Gold), Rex Lee (Lloyd), Rex Lee (Lloyd Lee), Perrey Reeves (Mrs. Ari), Debi Mazar (Shauna), Emmanuelle Chriqui (Sloan), Rhys Coiro (Billy Walsh)",
+    "imdb_id": "tt0387199"
+  },
+  {
+    "Raw_EPG": "Priskledniki",
+    "original_title": "Entourage",
+    "year": 2007,
+    "category": "serija, Komedija, Drama",
+    "season": 3,
+    "episode": 14,
+    "episode_code": "S03E14",
+    "director": "Mark Mylod",
+    "actors": "Kevin Connolly (Eric Murphy), Adrian Grenier (Vincent Chase), Kevin Dillon (Johnny Drama Chase), Jerry Ferrara (Turtle), Jeremy Piven (Ari Gold), Rex Lee (Lloyd), Rex Lee (Lloyd Lee), Perrey Reeves (Mrs. Ari), Debi Mazar (Shauna), Emmanuelle Chriqui (Sloan), Rhys Coiro (Billy Walsh)",
+    "imdb_id": "tt0387199"
+  },
+  {
+    "Raw_EPG": "Priskledniki",
+    "original_title": "Entourage",
+    "year": 2007,
+    "category": "serija, Komedija, Drama",
+    "season": 3,
+    "episode": 15,
+    "episode_code": "S03E15",
+    "director": "Julian Farino",
+    "actors": "Kevin Connolly (Eric Murphy), Adrian Grenier (Vincent Chase), Kevin Dillon (Johnny Drama Chase), Jerry Ferrara (Turtle), Jeremy Piven (Ari Gold), Rex Lee (Lloyd), Rex Lee (Lloyd Lee), Perrey Reeves (Mrs. Ari), Debi Mazar (Shauna), Emmanuelle Chriqui (Sloan), Rhys Coiro (Billy Walsh)",
+    "imdb_id": "tt0387199"
+  },
+  {
+    "Raw_EPG": "Priskledniki",
+    "original_title": "Entourage",
+    "year": 2007,
+    "category": "serija, Komedija, Drama",
+    "season": 3,
+    "episode": 16,
+    "episode_code": "S03E16",
+    "director": "Daniel Attias",
     "actors": "Kevin Connolly (Eric Murphy), Adrian Grenier (Vincent Chase), Kevin Dillon (Johnny Drama Chase), Jerry Ferrara (Turtle), Jeremy Piven (Ari Gold), Rex Lee (Lloyd), Rex Lee (Lloyd Lee), Perrey Reeves (Mrs. Ari), Debi Mazar (Shauna), Emmanuelle Chriqui (Sloan), Rhys Coiro (Billy Walsh)",
     "imdb_id": "tt0387199"
   },
@@ -17532,6 +18108,30 @@
     "imdb_id": "tt14253638"
   },
   {
+    "Raw_EPG": "Ekspres - Sezona 1 - Epizoda 7",
+    "original_title": "Express - Season 1 - Malas madres",
+    "year": 2022,
+    "category": "serija, Grozljivka",
+    "season": 1,
+    "episode": 7,
+    "episode_code": "S1E7",
+    "director": "Iván Escobar",
+    "actors": "Maggie Civantos (Bárbara Vázquez), Vicente Romero (Santiago Roldán), Esteban Meloni (Santa Varela), Loreto Mauleón (Dulce Morelos), Alba Planas (Gus Valera Vázquez), Bernardo Flores (Leo Malasangre), Omar Banana (Zero), Carmen Daza (Triana), Kiti Mánver (Sra. Ortega), Alejo Sauras (Iker Torres)",
+    "imdb_id": "tt14253638"
+  },
+  {
+    "Raw_EPG": "Ekspres - Sezona 1 - Epizoda 8",
+    "original_title": "Express - Season 1 - Piojos",
+    "year": 2022,
+    "category": "serija, Grozljivka",
+    "season": 1,
+    "episode": 8,
+    "episode_code": "S1E8",
+    "director": "Iván Escobar",
+    "actors": "Maggie Civantos (Bárbara Vázquez), Vicente Romero (Santiago Roldán), Esteban Meloni (Santa Varela), Loreto Mauleón (Dulce Morelos), Alba Planas (Gus Valera Vázquez), Bernardo Flores (Leo Malasangre), Omar Banana (Zero), Carmen Daza (Triana), Kiti Mánver (Sra. Ortega), Alejo Sauras (Iker Torres)",
+    "imdb_id": "tt14253638"
+  },
+  {
     "Raw_EPG": "Ekspres - Sezona 1 - Epizoda 3",
     "original_title": "Express - Season 1 - Sin manual de instrucciones",
     "year": 2022,
@@ -17554,6 +18154,18 @@
     "director": "Steven C. Miller",
     "actors": "Bruce Willis (Leonard), Kellan Lutz (Harry Turner), Gina Carano (Victoria), D.B. Sweeney (Robertson), Josh Mikel (Drake), Steve Coulter (Sitterson), Dan Bilzerian (Higgins), Heather Johansen (Agent Stevens), Roman Mitichyan (Dmitri)",
     "imdb_id": "tt4382872"
+  },
+  {
+    "Raw_EPG": "Skrajno glasno in neverjetno blizu",
+    "original_title": "Extremely Loud and Incredibly Close",
+    "year": 2011,
+    "category": "film, Pustolovščina, Drama, Misterij",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Stephen Daldry",
+    "actors": "Thomas Horn (Oskar Schell), Tom Hanks (Thomas Schell), Sandra Bullock (Linda Schell), Max von Sydow (The Renter), Zoe Caldwell (Oskars Grandmother), Dennis Hearn (Minister), Paul Klementowicz (Homeless Man), Julian Tepper (Deli Waiter), Caleb Reynolds (Schoolboy)",
+    "imdb_id": "tt0477302"
   },
   {
     "Raw_EPG": "Široko zaprte oči",
@@ -17818,6 +18430,18 @@
     "director": "Hunebelle André",
     "actors": "Jean Marais (Fantômas), Jean Marais (Fandor), Louis de Funès (Le commissaire Juve), Mylène Demongeot (Hélène), Jacques Dynam (Linspecteur Bertrand), Robert Dalban (Le directeur du journal), Marie-Hélène Arnaud (Lady Beltham), Anne-Marie Peysson (La speakerine), Christian Toma (Un inspecteur)",
     "imdb_id": "tt0058089"
+  },
+  {
+    "Raw_EPG": "Fantomas ogroža svet",
+    "original_title": "Fantômas contre Scotland Yard",
+    "year": 1967,
+    "category": "film, Pustolovščina, Komedija, Kriminalka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Hunebelle André",
+    "actors": "Jean Marais (Fantômas), Jean Marais (Fandor), Jean Marais (Walter Brown), Louis de Funès (Le commissaire Juve), Mylène Demongeot (Hélène), Françoise Christophe (Lady Dorothy MacRashley), Jean-Roger Caussimon (Lord Edward MacRashley), Jean-Roger Caussimon (Fantômas), Robert Dalban (Le directeur du journal)",
+    "imdb_id": "tt0060400"
   },
   {
     "Raw_EPG": "Hitri in drzni: Hobbs in Shaw",
@@ -18257,6 +18881,42 @@
     "year": 2025,
     "category": "serija, Akcija, Kriminalka, Drama",
     "season": 8,
+    "episode": 12,
+    "episode_code": "S8E12",
+    "director": "Carl Weathers, Michael Katleman, Joanna Kerns",
+    "actors": "Missy Peregrym (FBI SA Maggie Bell), Zeeko Zaki (FBI SA Omar Adom OA Zidan), Zeeko Zaki (FBI SA Omar Adom ‘OA’ Zidan), Jeremy Sisto (FBI ASAC Jubal Valentine), Alana De La Garza (FBI SAC Isobel Castille), Alana De La Garza (FBI ASAC Isobel Castille), John Boyd (FBI SA Stuart Scola), Taylor Anthony Miller (FBI Analyst Kelly Moran), Vedette Lim (FBI Analyst Elise Taylor), James Chen (FBI Analyst Ian Lim), Katherine Renee Kane (FBI SA Tiffany Wallace), Juliana Aidén Martinez (FBI SA Eva Ramos)",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "Raw_EPG": "FBI",
+    "original_title": "FBI 8",
+    "year": 2025,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 8,
+    "episode": 13,
+    "episode_code": "S8E13",
+    "director": "Carl Weathers, Michael Katleman, Joanna Kerns",
+    "actors": "Missy Peregrym (FBI SA Maggie Bell), Zeeko Zaki (FBI SA Omar Adom OA Zidan), Zeeko Zaki (FBI SA Omar Adom ‘OA’ Zidan), Jeremy Sisto (FBI ASAC Jubal Valentine), Alana De La Garza (FBI SAC Isobel Castille), Alana De La Garza (FBI ASAC Isobel Castille), John Boyd (FBI SA Stuart Scola), Taylor Anthony Miller (FBI Analyst Kelly Moran), Vedette Lim (FBI Analyst Elise Taylor), James Chen (FBI Analyst Ian Lim), Katherine Renee Kane (FBI SA Tiffany Wallace), Juliana Aidén Martinez (FBI SA Eva Ramos)",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "Raw_EPG": "FBI",
+    "original_title": "FBI 8",
+    "year": 2025,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 8,
+    "episode": 15,
+    "episode_code": "S8E15",
+    "director": "Carl Weathers, Michael Katleman, Joanna Kerns",
+    "actors": "Missy Peregrym (FBI SA Maggie Bell), Zeeko Zaki (FBI SA Omar Adom OA Zidan), Zeeko Zaki (FBI SA Omar Adom ‘OA’ Zidan), Jeremy Sisto (FBI ASAC Jubal Valentine), Alana De La Garza (FBI SAC Isobel Castille), Alana De La Garza (FBI ASAC Isobel Castille), John Boyd (FBI SA Stuart Scola), Taylor Anthony Miller (FBI Analyst Kelly Moran), Vedette Lim (FBI Analyst Elise Taylor), James Chen (FBI Analyst Ian Lim), Katherine Renee Kane (FBI SA Tiffany Wallace), Juliana Aidén Martinez (FBI SA Eva Ramos)",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "Raw_EPG": "FBI",
+    "original_title": "FBI 8",
+    "year": 2025,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 8,
     "episode": 2,
     "episode_code": "S8E2",
     "director": "Carl Weathers, Michael Katleman, Joanna Kerns",
@@ -18679,6 +19339,30 @@
     "season": 5,
     "episode": 5,
     "episode_code": "S5E5",
+    "director": "Ian Macmillan, Elad Winkler, Marshall Jay Kaplan",
+    "actors": "Brianna Acevedo (Bar Patron)",
+    "imdb_id": "tt21340132"
+  },
+  {
+    "Raw_EPG": "Pravi FBI",
+    "original_title": "FBI True 5",
+    "year": 2023,
+    "category": "serija, Kriminalka, Dokumentarec",
+    "season": 5,
+    "episode": 6,
+    "episode_code": "S5E6",
+    "director": "Ian Macmillan, Elad Winkler, Marshall Jay Kaplan",
+    "actors": "Brianna Acevedo (Bar Patron)",
+    "imdb_id": "tt21340132"
+  },
+  {
+    "Raw_EPG": "Pravi FBI",
+    "original_title": "FBI True 5",
+    "year": 2023,
+    "category": "serija, Kriminalka, Dokumentarec",
+    "season": 5,
+    "episode": 7,
+    "episode_code": "S5E7",
     "director": "Ian Macmillan, Elad Winkler, Marshall Jay Kaplan",
     "actors": "Brianna Acevedo (Bar Patron)",
     "imdb_id": "tt21340132"
@@ -19872,6 +20556,18 @@
     "imdb_id": "tt2388667"
   },
   {
+    "Raw_EPG": "Moj prijatelj Willy",
+    "original_title": "Free Willy",
+    "year": 1993,
+    "category": "film, Pustolovščina, Drama, Družina",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Simon Wincer",
+    "actors": "Jason James Richter (Jesse), Lori Petty (Rae Lindley), Michael Madsen (Glen), Jayne Atkinson (Annie Greenwood), August Schellenberg (Randolph Johnson), Michael Ironside (Dial), Richard Riehle (Wade), Mykelti Williamson (Dwight Mercer), Michael Bacall (Perry)",
+    "imdb_id": "tt0106965"
+  },
+  {
     "Raw_EPG": "Male ribe v čudnem ribniku",
     "original_title": "Frenemy",
     "year": 2009,
@@ -20588,6 +21284,54 @@
     "episode": 12,
     "episode_code": "S07E12",
     "director": "Kevin S. Bright",
+    "actors": "Jennifer Aniston (Rachel Green), Courteney Cox (Monica Geller), Courteney Cox (Monica Geller-Bing), Lisa Kudrow (Phoebe Buffay), Lisa Kudrow (Ursula Buffay), Matt LeBlanc (Joey Tribbiani), Matthew Perry (Chandler Bing), David Schwimmer (Dr. Ross Geller), David Schwimmer (Russ), James Michael Tyler (Gunther), Elliott Gould (Jack Geller), Christina Pickles (Judy Geller)",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "Raw_EPG": "Prijatelji",
+    "original_title": "Friends",
+    "year": 2001,
+    "category": "serija, Komedija, Romanca",
+    "season": 7,
+    "episode": 13,
+    "episode_code": "S07E13",
+    "director": "Stephen Prime",
+    "actors": "Jennifer Aniston (Rachel Green), Courteney Cox (Monica Geller), Courteney Cox (Monica Geller-Bing), Lisa Kudrow (Phoebe Buffay), Lisa Kudrow (Ursula Buffay), Matt LeBlanc (Joey Tribbiani), Matthew Perry (Chandler Bing), David Schwimmer (Dr. Ross Geller), David Schwimmer (Russ), James Michael Tyler (Gunther), Elliott Gould (Jack Geller), Christina Pickles (Judy Geller)",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "Raw_EPG": "Prijatelji",
+    "original_title": "Friends",
+    "year": 2001,
+    "category": "serija, Komedija, Romanca",
+    "season": 7,
+    "episode": 14,
+    "episode_code": "S07E14",
+    "director": "Ben Weiss",
+    "actors": "Jennifer Aniston (Rachel Green), Courteney Cox (Monica Geller), Courteney Cox (Monica Geller-Bing), Lisa Kudrow (Phoebe Buffay), Lisa Kudrow (Ursula Buffay), Matt LeBlanc (Joey Tribbiani), Matthew Perry (Chandler Bing), David Schwimmer (Dr. Ross Geller), David Schwimmer (Russ), James Michael Tyler (Gunther), Elliott Gould (Jack Geller), Christina Pickles (Judy Geller)",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "Raw_EPG": "Prijatelji",
+    "original_title": "Friends",
+    "year": 2001,
+    "category": "serija, Komedija, Romanca",
+    "season": 7,
+    "episode": 15,
+    "episode_code": "S07E15",
+    "director": "Kevin S. Bright",
+    "actors": "Jennifer Aniston (Rachel Green), Courteney Cox (Monica Geller), Courteney Cox (Monica Geller-Bing), Lisa Kudrow (Phoebe Buffay), Lisa Kudrow (Ursula Buffay), Matt LeBlanc (Joey Tribbiani), Matthew Perry (Chandler Bing), David Schwimmer (Dr. Ross Geller), David Schwimmer (Russ), James Michael Tyler (Gunther), Elliott Gould (Jack Geller), Christina Pickles (Judy Geller)",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "Raw_EPG": "Prijatelji",
+    "original_title": "Friends",
+    "year": 2001,
+    "category": "serija, Komedija, Romanca",
+    "season": 7,
+    "episode": 16,
+    "episode_code": "S07E16",
+    "director": "David Schwimmer",
     "actors": "Jennifer Aniston (Rachel Green), Courteney Cox (Monica Geller), Courteney Cox (Monica Geller-Bing), Lisa Kudrow (Phoebe Buffay), Lisa Kudrow (Ursula Buffay), Matt LeBlanc (Joey Tribbiani), Matthew Perry (Chandler Bing), David Schwimmer (Dr. Ross Geller), David Schwimmer (Russ), James Michael Tyler (Gunther), Elliott Gould (Jack Geller), Christina Pickles (Judy Geller)",
     "imdb_id": "tt0108778"
   },
@@ -22056,6 +22800,54 @@
     "imdb_id": "tt0413573"
   },
   {
+    "Raw_EPG": "Talenti v belem",
+    "original_title": "Grey's Anatomy 21",
+    "year": 2024,
+    "category": "serija, Drama, Romanca",
+    "season": 21,
+    "episode": 3,
+    "episode_code": "S21E3",
+    "director": "Denzel Washington, Eric Stoltz, Debbie Allen",
+    "actors": "Ellen Pompeo (Dr. Meredith Grey), Chandra Wilson (Dr. Miranda Bailey), James Pickens Jr. (Dr. Richard Webber), Kevin McKidd (Dr. Owen Hunt), Justin Chambers (Dr. Alex Karev), Camilla Luddington (Dr. Jo Wilson), Camilla Luddington (Dr. Jo Karev), Jesse Williams (Dr. Jackson Avery), Bokhee An (Nurse Bokhee), Bokhee An (Nurse BokHee), Caterina Scorsone (Dr. Amelia Shepherd), Patrick Dempsey (Dr. Derek Shepherd)",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "Raw_EPG": "Talenti v belem",
+    "original_title": "Grey's Anatomy 21",
+    "year": 2024,
+    "category": "serija, Drama, Romanca",
+    "season": 21,
+    "episode": 4,
+    "episode_code": "S21E4",
+    "director": "Denzel Washington, Eric Stoltz, Debbie Allen",
+    "actors": "Ellen Pompeo (Dr. Meredith Grey), Chandra Wilson (Dr. Miranda Bailey), James Pickens Jr. (Dr. Richard Webber), Kevin McKidd (Dr. Owen Hunt), Justin Chambers (Dr. Alex Karev), Camilla Luddington (Dr. Jo Wilson), Camilla Luddington (Dr. Jo Karev), Jesse Williams (Dr. Jackson Avery), Bokhee An (Nurse Bokhee), Bokhee An (Nurse BokHee), Caterina Scorsone (Dr. Amelia Shepherd), Patrick Dempsey (Dr. Derek Shepherd)",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "Raw_EPG": "Talenti v belem",
+    "original_title": "Grey's Anatomy 21",
+    "year": 2024,
+    "category": "serija, Drama, Romanca",
+    "season": 21,
+    "episode": 5,
+    "episode_code": "S21E5",
+    "director": "Denzel Washington, Eric Stoltz, Debbie Allen",
+    "actors": "Ellen Pompeo (Dr. Meredith Grey), Chandra Wilson (Dr. Miranda Bailey), James Pickens Jr. (Dr. Richard Webber), Kevin McKidd (Dr. Owen Hunt), Justin Chambers (Dr. Alex Karev), Camilla Luddington (Dr. Jo Wilson), Camilla Luddington (Dr. Jo Karev), Jesse Williams (Dr. Jackson Avery), Bokhee An (Nurse Bokhee), Bokhee An (Nurse BokHee), Caterina Scorsone (Dr. Amelia Shepherd), Patrick Dempsey (Dr. Derek Shepherd)",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "Raw_EPG": "Talenti v belem",
+    "original_title": "Grey's Anatomy 21",
+    "year": 2024,
+    "category": "serija, Drama, Romanca",
+    "season": 21,
+    "episode": 6,
+    "episode_code": "S21E6",
+    "director": "Denzel Washington, Eric Stoltz, Debbie Allen",
+    "actors": "Ellen Pompeo (Dr. Meredith Grey), Chandra Wilson (Dr. Miranda Bailey), James Pickens Jr. (Dr. Richard Webber), Kevin McKidd (Dr. Owen Hunt), Justin Chambers (Dr. Alex Karev), Camilla Luddington (Dr. Jo Wilson), Camilla Luddington (Dr. Jo Karev), Jesse Williams (Dr. Jackson Avery), Bokhee An (Nurse Bokhee), Bokhee An (Nurse BokHee), Caterina Scorsone (Dr. Amelia Shepherd), Patrick Dempsey (Dr. Derek Shepherd)",
+    "imdb_id": "tt0413573"
+  },
+  {
     "Raw_EPG": null,
     "original_title": "Grimm",
     "year": 2011,
@@ -22339,6 +23131,102 @@
     "season": 2,
     "episode": 10,
     "episode_code": "S2E10",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 11,
+    "episode_code": "S2E11",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 12,
+    "episode_code": "S2E12",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 13,
+    "episode_code": "S2E13",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 14,
+    "episode_code": "S2E14",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 15,
+    "episode_code": "S2E15",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 16,
+    "episode_code": "S2E16",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 17,
+    "episode_code": "S2E17",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1830617"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Grimm",
+    "year": 2012,
+    "category": "serija, Akcija, Pustolovščina, Kriminalka",
+    "season": 2,
+    "episode": 18,
+    "episode_code": "S2E18",
     "director": null,
     "actors": null,
     "imdb_id": "tt1830617"
@@ -25020,6 +25908,30 @@
     "imdb_id": "tt14060708"
   },
   {
+    "Raw_EPG": "HIP - Visok intelektualni potencial",
+    "original_title": "HIP: High Intellectual Potential 2",
+    "year": 2022,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 2,
+    "episode_code": "S2E2",
+    "director": "Jean-Christophe Delpias, Djibril Glissant, Laurent Tuel",
+    "actors": "Audrey Fleurot (Morgane Alvaro), Mehdi Nebbou (Adam Karadec), Bérangère McNeese (Daphné Forestier), Cypriane Gardin (Théa), Bruno Sanches (Gilles Vandraud), Marie Denarnaud (Céline Hazan), Noé Vandevoorde (Eliott), Cédric Chevalme (Ludovic Mullier), Christopher Bayemi (Docteur Bonnemain), Rufus (Henri)",
+    "imdb_id": "tt14060708"
+  },
+  {
+    "Raw_EPG": "HIP - Visok intelektualni potencial",
+    "original_title": "HIP: High Intellectual Potential 2",
+    "year": 2022,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 3,
+    "episode_code": "S2E3",
+    "director": "Jean-Christophe Delpias, Djibril Glissant, Laurent Tuel",
+    "actors": "Audrey Fleurot (Morgane Alvaro), Mehdi Nebbou (Adam Karadec), Bérangère McNeese (Daphné Forestier), Cypriane Gardin (Théa), Bruno Sanches (Gilles Vandraud), Marie Denarnaud (Céline Hazan), Noé Vandevoorde (Eliott), Cédric Chevalme (Ludovic Mullier), Christopher Bayemi (Docteur Bonnemain), Rufus (Henri)",
+    "imdb_id": "tt14060708"
+  },
+  {
     "Raw_EPG": "Hit and Run",
     "original_title": "Hit and Run",
     "year": 1966,
@@ -25176,6 +26088,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Počitniške nastanitve pod soncem: Edinburgh",
+    "original_title": "Holiday Homes in the Sun: Edinburgh",
+    "year": 2022,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 2,
+    "episode": 25,
+    "episode_code": "S02E25",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Počitniške nastanitve pod soncem",
     "original_title": "Holiday Homes in the Sun: Florence",
     "year": 2022,
@@ -25284,6 +26208,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Počitniške nastanitve pod soncem: Nice",
+    "original_title": "Holiday Homes in the Sun: Nice",
+    "year": 2022,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 2,
+    "episode": 24,
+    "episode_code": "S02E24",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Počitniške nastanitve pod soncem",
     "original_title": "Holiday Homes in the Sun: Old Town",
     "year": 2022,
@@ -25339,6 +26275,30 @@
     "season": 2,
     "episode": 16,
     "episode_code": "S02E16",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Počitniške nastanitve pod soncem: Škotska: St. Andrews",
+    "original_title": "Holiday Homes in the Sun: Scotland - St Andrews",
+    "year": 2022,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 2,
+    "episode": 27,
+    "episode_code": "S02E27",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Počitniške nastanitve pod soncem: Sóller",
+    "original_title": "Holiday Homes in the Sun: Sóller",
+    "year": 2022,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 2,
+    "episode": 26,
+    "episode_code": "S02E26",
     "director": null,
     "actors": null,
     "imdb_id": null
@@ -25584,6 +26544,18 @@
     "imdb_id": "tt0439073"
   },
   {
+    "Raw_EPG": "Hollywood: Na snemanju",
+    "original_title": "Hollywood On Set",
+    "year": 2026,
+    "category": "serija, Novice",
+    "season": 23,
+    "episode": 48,
+    "episode_code": "S23E48",
+    "director": null,
+    "actors": "Angela Valley (Narrator), Michelle Blenker (Narrator), Michelle Blenker (Self - Narrator), Janett Hermosillo (Narrator), Janett Hermosillo (Narration), Ann-Marie Lariccia (Narrator)",
+    "imdb_id": "tt0439073"
+  },
+  {
     "Raw_EPG": "Hollywood's Best Film Directors",
     "original_title": "Hollywood's Best Film Directors",
     "year": 2009,
@@ -25641,6 +26613,18 @@
     "episode_code": null,
     "director": "Levent Çetin",
     "actors": "Charisma Carpenter, Patrick Muldoon, Dominique Swain",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Klic v stiski",
+    "original_title": "Hotline",
+    "year": 2026,
+    "category": "film",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": null,
+    "actors": null,
     "imdb_id": null
   },
   {
@@ -25896,6 +26880,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Kako sem ujel morilca: Ljubosumje je umor",
+    "original_title": "How I Caught the Killer: Jealousy Is Murder",
+    "year": 2020,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 2,
+    "episode": 9,
+    "episode_code": "S02E09",
+    "director": "Vicky Lines, Vicky Lines",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Kako sem ujel morilca: Pismo iz groba: Mark Jensen",
     "original_title": "How I Caught the Killer: Letter From The Grave - Mark Jensen",
     "year": 2022,
@@ -25963,6 +26959,18 @@
     "season": 2,
     "episode": 6,
     "episode_code": "S02E06",
+    "director": "Vicky Lines, Vicky Lines",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Kako sem ujel morilca: Morilec s kovčkom",
+    "original_title": "How I Caught the Killer: The Suitcase Murderer",
+    "year": 2020,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 2,
+    "episode": 10,
+    "episode_code": "S02E10",
     "director": "Vicky Lines, Vicky Lines",
     "actors": null,
     "imdb_id": null
@@ -27485,6 +28493,54 @@
     "year": 2019,
     "category": "serija, Komedija, Kriminalka, Drama",
     "season": 5,
+    "episode": 10,
+    "episode_code": "S5E10",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt3501584"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "iZombie",
+    "year": 2019,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
+    "episode": 11,
+    "episode_code": "S5E11",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt3501584"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "iZombie",
+    "year": 2019,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
+    "episode": 12,
+    "episode_code": "S5E12",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt3501584"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "iZombie",
+    "year": 2019,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
+    "episode": 13,
+    "episode_code": "S5E13",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt3501584"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "iZombie",
+    "year": 2019,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
     "episode": 2,
     "episode_code": "S5E2",
     "director": null,
@@ -27559,6 +28615,18 @@
     "season": 5,
     "episode": 8,
     "episode_code": "S5E8",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt3501584"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "iZombie",
+    "year": 2019,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
+    "episode": 9,
+    "episode_code": "S5E9",
     "director": null,
     "actors": null,
     "imdb_id": "tt3501584"
@@ -29069,8 +30137,116 @@
     "year": 2015,
     "category": "serija, Komedija",
     "season": 5,
+    "episode": 13,
+    "episode_code": "S5E13",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 14,
+    "episode_code": "S5E14",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 15,
+    "episode_code": "S5E15",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 16,
+    "episode_code": "S5E16",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 17,
+    "episode_code": "S5E17",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 18,
+    "episode_code": "S5E18",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 19,
+    "episode_code": "S5E19",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
     "episode": 2,
     "episode_code": "S5E2",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 20,
+    "episode_code": "S5E20",
+    "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
+    "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "Raw_EPG": "Komaj živ",
+    "original_title": "Last Man Standing 5",
+    "year": 2015,
+    "category": "serija, Komedija",
+    "season": 5,
+    "episode": 21,
+    "episode_code": "S5E21",
     "director": "Tim Allen, Jonathan Taylor Thomas, Andy Cadiff",
     "actors": "Tim Allen (Mike Baxter), Tim Allen (Tim Taylor), Nancy Travis (Vanessa Baxter), Hector Elizondo (Ed Alzate), Christoph Sanders (Kyle Anderson), Amanda Fuller (Kristin Baxter), Kaitlyn Dever (Eve Baxter), Molly Ephraim (Mandy Baxter), Jordan Masterson (Ryan Vogelson), Jonathan Adams (Chuck Larabee), Flynn Morrison (Boyd Baxter)",
     "imdb_id": "tt1828327"
@@ -30600,6 +31776,18 @@
     "imdb_id": "tt3371556"
   },
   {
+    "Raw_EPG": "Léo Matteï, enota za mladoletne",
+    "original_title": "Leo Mattei, Brigade Des Mineurs 13",
+    "year": 2025,
+    "category": "serija, Kriminalka, Drama, Družina",
+    "season": 13,
+    "episode": 6,
+    "episode_code": "S13E6",
+    "director": "Nicolas Herdt, David Lanzmann, Hervé Renoh",
+    "actors": "Jean-Luc Reichmann (Léo Mattéï), Jean-Luc Reichmann (Léo Matteï), Alexandre Achdjian (Jonathan Nassib), Alexandre Achdjian (Jonathan), Romane Portail (Marion Da Costa), Romane Portail (Marion da Costa), Romane Portail (Lieutenant Marion da Costa), Maïra Schmitt (Eloïse), Maïra Schmitt (Éloïse), Lola Dubini (Inès Salma), Stomy Bugsy (Commissaire Daguerre), Mathilde Lebrequier (Olivia Lambert)",
+    "imdb_id": "tt3371556"
+  },
+  {
     "Raw_EPG": "Pustolovščine rabina Jakoba",
     "original_title": "Les aventures de Rabbi Jacob",
     "year": 1973,
@@ -31519,6 +32707,54 @@
     "season": 2,
     "episode": 3,
     "episode_code": "S2E3",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1429449"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Lost Girl",
+    "year": 2010,
+    "category": "serija, Akcija, Drama, Fantazija",
+    "season": 2,
+    "episode": 4,
+    "episode_code": "S2E4",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1429449"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Lost Girl",
+    "year": 2010,
+    "category": "serija, Akcija, Drama, Fantazija",
+    "season": 2,
+    "episode": 5,
+    "episode_code": "S2E5",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1429449"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Lost Girl",
+    "year": 2010,
+    "category": "serija, Akcija, Drama, Fantazija",
+    "season": 2,
+    "episode": 6,
+    "episode_code": "S2E6",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt1429449"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "Lost Girl",
+    "year": 2010,
+    "category": "serija, Akcija, Drama, Fantazija",
+    "season": 2,
+    "episode": 7,
+    "episode_code": "S2E7",
     "director": null,
     "actors": null,
     "imdb_id": "tt1429449"
@@ -34045,6 +35281,90 @@
   },
   {
     "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 1,
+    "episode_code": "S10E1",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 2,
+    "episode_code": "S10E2",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 3,
+    "episode_code": "S10E3",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 4,
+    "episode_code": "S10E4",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 5,
+    "episode_code": "S10E5",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 6,
+    "episode_code": "S10E6",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 10",
+    "year": 1995,
+    "category": "serija, Komedija",
+    "season": 10,
+    "episode": 7,
+    "episode_code": "S10E7",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
     "original_title": "Married with Children 4",
     "year": 1989,
     "category": "serija, Komedija",
@@ -35393,6 +36713,18 @@
     "year": 1994,
     "category": "serija, Komedija",
     "season": 9,
+    "episode": 26,
+    "episode_code": "S9E26",
+    "director": "Amanda Bearse, Zane Buzby, Bill Brown",
+    "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
+    "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Družina za umret",
+    "original_title": "Married with Children 9",
+    "year": 1994,
+    "category": "serija, Komedija",
+    "season": 9,
     "episode": 3,
     "episode_code": "S9E3",
     "director": "Amanda Bearse, Zane Buzby, Bill Brown",
@@ -35470,6 +36802,18 @@
     "director": "Amanda Bearse, Zane Buzby, Bill Brown",
     "actors": "Ed O'Neill (Al Bundy), Ed O'Neill (Als Father), Ed O'Neill (Captain Courage), Christina Applegate (Kelly Bundy), Christina Applegate (Self), Christina Applegate (Ships Navigator), Katey Sagal (Peggy Bundy), Katey Sagal (Princess Scarlett), Katey Sagal (Self), Amanda Bearse (Marcy DArcy), Amanda Bearse (Marcy Rhoades), Amanda Bearse (Marcy Rhoades DArcy)",
     "imdb_id": "tt0092400"
+  },
+  {
+    "Raw_EPG": "Mojstri za zločine",
+    "original_title": "Master Crimes 1",
+    "year": 2023,
+    "category": "serija, Kriminalka",
+    "season": 1,
+    "episode": 1,
+    "episode_code": "S1E1",
+    "director": "Marwen Abdallah, Amandine Bonnin",
+    "actors": "Muriel Robin (Louise Arbus), Anne Le Nen (Barbara Delandre), Olivier Claverie (Oscar Rugasira), Nordine Ganso (Boris Volodine), Thaïs Vauquières (Valentine Vallée), Michaël Cohen (Théodore Belin), Pierre André (Arthur), Pierre André (Arthur - Policier), Victor Meutelet (Samuel Cythere), Astrid Roos (Mia Delaunay), Roman Freud (Thomas Delandre)",
+    "imdb_id": "tt29550481"
   },
   {
     "Raw_EPG": "Ženitna posrednica: Usodna ljubezen",
@@ -35854,6 +37198,18 @@
     "director": null,
     "actors": null,
     "imdb_id": "tt0412175"
+  },
+  {
+    "Raw_EPG": "To je Bill",
+    "original_title": "Meet Bill",
+    "year": 2007,
+    "category": "film, Komedija, Drama",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Bernie Goldmann, Melisa Wallack",
+    "actors": "Aaron Eckhart (Bill), Jessica Alba (Lucy), Logan Lerman (The Kid), Elizabeth Banks (Jess), Holmes Osborne (Mr. Jacoby), Todd Louiso (John Jr.), Timothy Olyphant (Chip Johnson), Reed Diamond (Paul), Kristen Wiig (Jane Whittman)",
+    "imdb_id": "tt0790623"
   },
   {
     "Raw_EPG": "Ko pride Joe Black",
@@ -36852,6 +38208,30 @@
     "imdb_id": "tt1442437"
   },
   {
+    "Raw_EPG": "Sodobna družina",
+    "original_title": "Modern Family: Season 3",
+    "year": 2011,
+    "category": "serija, Komedija, Drama, Romanca",
+    "season": 3,
+    "episode": 6,
+    "episode_code": "S3E6",
+    "director": "Fred Savage, Lev L. Spiro, James R. Bagdonas",
+    "actors": "Ed O'Neill (Jay Pritchett), Sofía Vergara (Gloria Delgado-Pritchett), Julie Bowen (Claire Dunphy), Ty Burrell (Phil Dunphy), Jesse Tyler Ferguson (Mitchell Pritchett), Eric Stonestreet (Cameron Tucker), Rico Rodriguez (Manny Delgado), Nolan Gould (Luke Dunphy), Sarah Hyland (Haley Dunphy), Sarah Hyland (Haley Marshall), Ariel Winter (Alex Dunphy)",
+    "imdb_id": "tt1442437"
+  },
+  {
+    "Raw_EPG": "Sodobna družina",
+    "original_title": "Modern Family: Season 3",
+    "year": 2011,
+    "category": "serija, Komedija, Drama, Romanca",
+    "season": 3,
+    "episode": 7,
+    "episode_code": "S3E7",
+    "director": "Fred Savage, Lev L. Spiro, James R. Bagdonas",
+    "actors": "Ed O'Neill (Jay Pritchett), Sofía Vergara (Gloria Delgado-Pritchett), Julie Bowen (Claire Dunphy), Ty Burrell (Phil Dunphy), Jesse Tyler Ferguson (Mitchell Pritchett), Eric Stonestreet (Cameron Tucker), Rico Rodriguez (Manny Delgado), Nolan Gould (Luke Dunphy), Sarah Hyland (Haley Dunphy), Sarah Hyland (Haley Marshall), Ariel Winter (Alex Dunphy)",
+    "imdb_id": "tt1442437"
+  },
+  {
     "Raw_EPG": "Modigliani",
     "original_title": "Modigliani",
     "year": 2004,
@@ -36994,6 +38374,18 @@
     "director": "Kevin Fair",
     "actors": "Holly Robinson Peete (Billie Blessings), Rick Fox (Ian Jackson), Karen Robinson (Cassandra), Keegan Connor Tracy (Jasmine Tywell), Keegan Connor Tracy (Marian Robbins), David Paetkau (Vinnie Hawk), Jessica Heafey (Riley Tanako), Kimberley Sustad (Lana Brown), Greg Rogers (Maurice)",
     "imdb_id": "tt10228590"
+  },
+  {
+    "Raw_EPG": "Skrivnosti jutranje oddaje: Umor za vedno",
+    "original_title": "Morning Show Mysteries: Murder Ever After",
+    "year": 2021,
+    "category": "film",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Andy Mikita",
+    "actors": "Holly Robinson Peete (Billie Blessings), Colin Lawrence (Tyrell Price), Karen Robinson (Cassandra), Jayce Barreiro (Carlos), Francesca Bianchi (Maggie), Osric Chau (Wally), Jesse Moss (Phil), Brittney Wilson (Lucy Lane), David James Lewis (Lance)",
+    "imdb_id": "tt14376566"
   },
   {
     "Raw_EPG": "Skrivnosti jutranje oddaje: Umor na jedilniku",
@@ -37716,6 +39108,18 @@
     "imdb_id": "tt0110613"
   },
   {
+    "Raw_EPG": "Moj ljubimec, moj morilec: Ben Lacomba",
+    "original_title": "My Lover My Killer: Ben Lacomba",
+    "year": 2021,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 1,
+    "episode": 5,
+    "episode_code": "S01E05",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Moj ljubimec, moj morilec: Marian Caliman",
     "original_title": "My Lover My Killer: Marian Caliman",
     "year": 2021,
@@ -37737,6 +39141,18 @@
     "episode_code": "S01E02",
     "director": "Claire Thomas, Robert Murray",
     "actors": "Jessica Taylor",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Moj ljubimec, moj morilec: Thelma Purchase",
+    "original_title": "My Lover My Killer: Thelma Purchase",
+    "year": 2021,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 1,
+    "episode": 4,
+    "episode_code": "S01E04",
+    "director": "Claire Thomas",
+    "actors": null,
     "imdb_id": null
   },
   {
@@ -38916,6 +40332,18 @@
     "imdb_id": "tt7740496"
   },
   {
+    "Raw_EPG": "Jelenček Niko 2",
+    "original_title": "Niko 2: Family Affairs",
+    "year": 2012,
+    "category": "film, Pustolovščina, Animacija, Komedija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Jørgen Lerdam, Kari Juusonen",
+    "actors": "Erik Carlson (Niko), Mikko Kivinen (Julius), Vuokko Hovatta (Wilma), Aarre Karén (Topias), Elina Knihtilä (Oona), Riku Nieminen (Lenni), Juhana Vaittinen (Jonni), Juha Veijonen (Raavas), Katariina Kaitue (Valkoinen susi)",
+    "imdb_id": "tt1856053"
+  },
+  {
     "Raw_EPG": "Otok male Nim",
     "original_title": "Nim's Island",
     "year": 2008,
@@ -38938,6 +40366,18 @@
     "director": "Adrian Lyne",
     "actors": "Mickey Rourke (John), Kim Basinger (Elizabeth), Margaret Whitton (Molly), David Margulies (Harvey), Christine Baranski (Thea), Karen Young (Sue), William De Acutis (Ted), Dwight Weist (Farnsworth), Roderick Cook (Sinclair - the Critic)",
     "imdb_id": "tt0091635"
+  },
+  {
+    "Raw_EPG": "Devet mesecev",
+    "original_title": "Nine Months",
+    "year": 1995,
+    "category": "film, Komedija, Romanca",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Chris Columbus",
+    "actors": "Hugh Grant (Samuel Faulkner), Julianne Moore (Rebecca Taylor), Tom Arnold (Marty Dwyer), Joan Cusack (Gail Dwyer), Jeff Goldblum (Sean Fletcher), Robin Williams (Dr. Kosevich), Mia Cottet (Lili), Joey Simmrin (Truman), Ashley Johnson (Shannon Dwyer)",
+    "imdb_id": "tt0113986"
   },
   {
     "Raw_EPG": "No Basta Con Amar",
@@ -39060,6 +40500,30 @@
     "imdb_id": "tt4550098"
   },
   {
+    "Raw_EPG": "Normal",
+    "original_title": "Normal",
+    "year": 2025,
+    "category": "film, Akcija, Kriminalka, Grozljivka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Ben Wheatley",
+    "actors": "Bob Odenkirk (Ulysses Richardson), Ryan Allen (Deputy Blaine Anderson), Billy MacLellan (Deputy Mike Nelson), Lena Headey (Moira), Henry Winkler (Mayor Kibner), Reena Jolly (Lori), Brendan Fletcher (Keith), Peter Shinkoda (Joe), Jess McLeod (Alex)",
+    "imdb_id": "tt31195136"
+  },
+  {
+    "Raw_EPG": "Nekoč in danes",
+    "original_title": "Now and Then",
+    "year": 1995,
+    "category": "film, Komedija, Drama, Romanca",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Lesli Linka Glatter",
+    "actors": "Christina Ricci (Roberta), Demi Moore (Samantha Albertson), Rosie O'Donnell (Roberta), Thora Birch (Teeny), Melanie Griffith (Teeny), Gaby Hoffmann (Samantha), Ashleigh Aston Moore (Chrissy), Rita Wilson (Chrissy), Devon Sawa (Scott Wormer)",
+    "imdb_id": "tt0114011"
+  },
+  {
     "Raw_EPG": "Ubežnik",
     "original_title": "Nowhere To Run",
     "year": 1993,
@@ -39132,6 +40596,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Zdravstveni tehniki: Damski posli",
+    "original_title": "Nurses: Lady Business",
+    "year": 2020,
+    "category": "serija, nanizanka, drama",
+    "season": 1,
+    "episode": 10,
+    "episode_code": "S01E10",
+    "director": "Grant Harvey, Grant Harvey, Grant Harvey, Grant Harvey, Ken Girotti, Ken Girotti",
+    "actors": "Dylan Colton, Ryan-James Hatanaka, Krista Jang, Tristan D. Lalla, Tristan D. Lalla, Clare McConnell, Laurie Murdoch, Alexandra Ordolis, Cathy White, Chris Tarpos, Raymond Ablack, Zachary Bennett, Paul Soles, Rachel Skarsten, Peter Stebbings",
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Zdravstveni tehniki: Odrešitev",
     "original_title": "Nurses: Lifeboat",
     "year": 2020,
@@ -39141,6 +40617,18 @@
     "episode_code": "S01E07",
     "director": "Sherry White",
     "actors": "Amrit Kaur, Tristan D. Lalla, Tristan D. Lalla, Alexandra Ordolis, Cristian Perri, Varun Saranga, Cathy White, Raymond Ablack, Peter Stebbings, Tammy Isbell, Trish Fagan, Paulino Nunes, Carson Durven, Sabrina Persaud, Aviva Armour-Ostroff",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Zdravstveni tehniki: Ogledalo",
+    "original_title": "Nurses: Mirror Box",
+    "year": 2020,
+    "category": "serija, nanizanka, drama",
+    "season": 1,
+    "episode": 9,
+    "episode_code": "S01E09",
+    "director": "Stephanie Morgenstern, Ken Girotti, Ken Girotti",
+    "actors": "Ryan-James Hatanaka, Tristan D. Lalla, Tristan D. Lalla, Yvanna-Rose Leblanc, Jeff Lillico, Nicolette Pearse, Delphine Roussel, Meagan Tuck, Cathy White, Michèle Lonsdale Smith, Sarena Parmar, Trish Fagan, Paulino Nunes, Ellora Patnaik, Karie Richards",
     "imdb_id": null
   },
   {
@@ -39389,6 +40877,18 @@
     "year": 2025,
     "category": "serija, Komedija, Kriminalka, Drama",
     "season": 5,
+    "episode": 10,
+    "episode_code": "S5E10",
+    "director": "Jamie Babbit, Shari Springer Berman, John Hoffman",
+    "actors": "Steve Martin (Charles-Haden Savage), Martin Short (Oliver Putnam), Selena Gomez (Mabel Mora), Michael Cyril Creighton (Howard Morris), Jackie Hoffman (Uma Heller), Teddy Coluca (Lester), Da'Vine Joy Randolph (Detective Donna Williams), Paul Rudd (Ben Glenroy), Paul Rudd (Glen Stubbins), Paul Rudd (L.E.S.T.R.), Jayne Houdyshell (Bunny Folger), Amy Ryan (Jan Bellows)",
+    "imdb_id": "tt11691774"
+  },
+  {
+    "Raw_EPG": "Samo umori v stavbi",
+    "original_title": "Only Murders in the Building 5",
+    "year": 2025,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
     "episode": 3,
     "episode_code": "S5E3",
     "director": "Jamie Babbit, Shari Springer Berman, John Hoffman",
@@ -39456,6 +40956,18 @@
     "imdb_id": "tt11691774"
   },
   {
+    "Raw_EPG": "Samo umori v stavbi",
+    "original_title": "Only Murders in the Building 5",
+    "year": 2025,
+    "category": "serija, Komedija, Kriminalka, Drama",
+    "season": 5,
+    "episode": 9,
+    "episode_code": "S5E9",
+    "director": "Jamie Babbit, Shari Springer Berman, John Hoffman",
+    "actors": "Steve Martin (Charles-Haden Savage), Martin Short (Oliver Putnam), Selena Gomez (Mabel Mora), Michael Cyril Creighton (Howard Morris), Jackie Hoffman (Uma Heller), Teddy Coluca (Lester), Da'Vine Joy Randolph (Detective Donna Williams), Paul Rudd (Ben Glenroy), Paul Rudd (Glen Stubbins), Paul Rudd (L.E.S.T.R.), Jayne Houdyshell (Bunny Folger), Amy Ryan (Jan Bellows)",
+    "imdb_id": "tt11691774"
+  },
+  {
     "Raw_EPG": "Samo ti",
     "original_title": "Only You",
     "year": 1994,
@@ -39466,6 +40978,18 @@
     "director": "Norman Jewison",
     "actors": "Marisa Tomei (Faith Corvatch), Robert Downey Jr. (Peter Wright), Bonnie Hunt (Kate), Joaquim de Almeida (Giovanni), Fisher Stevens (Larry), Billy Zane (The False Damon Bradley), Adam LeFevre (Damon Bradley), John Benjamin Hickey (Dwayne), Siobhan Fallon Hogan (Leslie)",
     "imdb_id": "tt0110737"
+  },
+  {
+    "Raw_EPG": "Oobah: Goljufije za boljši jutri",
+    "original_title": "Oobah: Scams For A Better Tomorrow",
+    "year": 2026,
+    "category": "serija",
+    "season": 1,
+    "episode": 1,
+    "episode_code": "S01E01",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
   },
   {
     "Raw_EPG": "Premiera",
@@ -39763,7 +41287,7 @@
     "season": 2,
     "episode": 7,
     "episode_code": "S02E07",
-    "director": null,
+    "director": "Azhur Saleem",
     "actors": "Hermione Corfield (Julia Moriston), Jeremy Irvine (Henry Beauchamp), Harriet Slater (Ellen MacKenzie), Jamie Roy (Brian Fraser), Terence Rae (Arch Bug), Tony Curran (Lord Lovat), Tony Curran (Simon Fraser), Seamus McLean Ross (Colum MacKenzie), Sam Retford (Dougal MacKenzie), Rory Alexander (Murtagh Fitzgibbons Fraser), Rory Alexander (Young Murtagh Fitzgibbons Fraser), Conor MacNeill (Ned Gowan)",
     "imdb_id": "tt18332852"
   },
@@ -40066,6 +41590,18 @@
     "director": "Brittany Snow",
     "actors": "Courtney Eaton (Riley), Thomas Mann (Ethan), Dave Bautista (Bryce), Kid Cudi (Justin), Francesca Reale (Casey), Gina Rodriguez (Dr. Akerman), Joel McHale (Jamie), Kathryn Gallagher (Gwen), Jennifer Westfeldt (Lisa)",
     "imdb_id": "tt21057800"
+  },
+  {
+    "Raw_EPG": "Brez nadzora staršev",
+    "original_title": "Parental Guidance",
+    "year": 2012,
+    "category": "film, Komedija, Družina",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Andy Fickman",
+    "actors": "Billy Crystal (Artie Decker), Bette Midler (Diane Decker), Marisa Tomei (Alice Simmons), Tom Everett Scott (Phil Simmons), Bailee Madison (Harper Simmons), Joshua Rush (Turner Simmons), Kyle Breitkopf (Barker Simmons), Jennifer Crystal Foley (Cassandra), Rhoda Griffis (Dr. Schveer)",
+    "imdb_id": "tt1047540"
   },
   {
     "Raw_EPG": "Parlor, Bedroom And Bath",
@@ -40378,6 +41914,18 @@
     "director": "David Twohy",
     "actors": "Radha Mitchell (Fry), Cole Hauser (Johns), Vin Diesel (Riddick), Keith David (Imam), Lewis Fitz-Gerald (Paris), Claudia Black (Shazza), Rhiana Griffith (Jack), Rhiana Griffith (Jackie), John Moore (Zeke)",
     "imdb_id": "tt0134847"
+  },
+  {
+    "Raw_EPG": "Piksli",
+    "original_title": "Pixels",
+    "year": 2015,
+    "category": "film, Akcija, Pustolovščina, Animacija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Chris Columbus",
+    "actors": "Adam Sandler (Brenner), Kevin James (President Will Cooper), Michelle Monaghan (Violet), Peter Dinklage (Eddie), Josh Gad (Ludlow Lamonsoff), Matt Lintz (Matty Van Patten), Brian Cox (Admiral Porter), Sean Bean (Corporal Hill (SAS Officer)), Jane Krakowski (First Lady Jane Cooper)",
+    "imdb_id": "tt2120120"
   },
   {
     "Raw_EPG": "Umazana igra",
@@ -40944,6 +42492,30 @@
     "imdb_id": "tt0096684"
   },
   {
+    "Raw_EPG": "Kvantni skok",
+    "original_title": "Quantum Leap 2",
+    "year": 2023,
+    "category": "serija, Akcija, Pustolovščina, Drama",
+    "season": 2,
+    "episode": 6,
+    "episode_code": "S2E6",
+    "director": "Debbie Allen, Scott Bakula, Michael Katleman",
+    "actors": "Scott Bakula (Dr. Sam Beckett), Scott Bakula (Captain Tom Stratton), Scott Bakula (Jimmy LaMotta), Dean Stockwell (Al), Deborah Pratt (Narrator), Deborah Pratt (Ziggy), Deborah Pratt (Troian Claridge), Dennis Wolfberg (Irving Gooshie Gushman), W.K. Stratton (Lawrence Larry Stanton III), W.K. Stratton (Dr. Berger), W.K. Stratton (Sheriff Lyle Roundtree), Brad Silverman (Jimmy LaMotta)",
+    "imdb_id": "tt0096684"
+  },
+  {
+    "Raw_EPG": "Kvantni skok",
+    "original_title": "Quantum Leap 2",
+    "year": 2023,
+    "category": "serija, Akcija, Pustolovščina, Drama",
+    "season": 2,
+    "episode": 7,
+    "episode_code": "S2E7",
+    "director": "Debbie Allen, Scott Bakula, Michael Katleman",
+    "actors": "Scott Bakula (Dr. Sam Beckett), Scott Bakula (Captain Tom Stratton), Scott Bakula (Jimmy LaMotta), Dean Stockwell (Al), Deborah Pratt (Narrator), Deborah Pratt (Ziggy), Deborah Pratt (Troian Claridge), Dennis Wolfberg (Irving Gooshie Gushman), W.K. Stratton (Lawrence Larry Stanton III), W.K. Stratton (Dr. Berger), W.K. Stratton (Sheriff Lyle Roundtree), Brad Silverman (Jimmy LaMotta)",
+    "imdb_id": "tt0096684"
+  },
+  {
     "Raw_EPG": "Kvantna nadvlada",
     "original_title": "Quantum Supremacy",
     "year": 2026,
@@ -41383,6 +42955,30 @@
     "season": 2,
     "episode": 7,
     "episode_code": "S2E7",
+    "director": "Richard J. Lewis, Frédéric Forestier, Norma Bailey",
+    "actors": "Luke Roberts (Eric Beaumont), Brandon Jay McLaren (Oliver Yates), Nazneen Contractor (Zara Hallam), Sarah Greene (Maxine Carlson), Karen LeBlanc (Cynthia Walker), Emma de Caunes (Nathalie Denard), Natalie Brown (Kate Barrett), Jenessa Grant (Evie), Emmanuel Kabongo (Tyler LeFebure), Carlo Rota (Damian Delaine)",
+    "imdb_id": "tt5809150"
+  },
+  {
+    "Raw_EPG": "Odkupnina",
+    "original_title": "Ransom 2",
+    "year": 2018,
+    "category": "serija, Kriminalka, Drama, Grozljivka",
+    "season": 2,
+    "episode": 8,
+    "episode_code": "S2E8",
+    "director": "Richard J. Lewis, Frédéric Forestier, Norma Bailey",
+    "actors": "Luke Roberts (Eric Beaumont), Brandon Jay McLaren (Oliver Yates), Nazneen Contractor (Zara Hallam), Sarah Greene (Maxine Carlson), Karen LeBlanc (Cynthia Walker), Emma de Caunes (Nathalie Denard), Natalie Brown (Kate Barrett), Jenessa Grant (Evie), Emmanuel Kabongo (Tyler LeFebure), Carlo Rota (Damian Delaine)",
+    "imdb_id": "tt5809150"
+  },
+  {
+    "Raw_EPG": "Odkupnina",
+    "original_title": "Ransom 2",
+    "year": 2018,
+    "category": "serija, Kriminalka, Drama, Grozljivka",
+    "season": 2,
+    "episode": 9,
+    "episode_code": "S2E9",
     "director": "Richard J. Lewis, Frédéric Forestier, Norma Bailey",
     "actors": "Luke Roberts (Eric Beaumont), Brandon Jay McLaren (Oliver Yates), Nazneen Contractor (Zara Hallam), Sarah Greene (Maxine Carlson), Karen LeBlanc (Cynthia Walker), Emma de Caunes (Nathalie Denard), Natalie Brown (Kate Barrett), Jenessa Grant (Evie), Emmanuel Kabongo (Tyler LeFebure), Carlo Rota (Damian Delaine)",
     "imdb_id": "tt5809150"
@@ -43061,6 +44657,30 @@
     "year": 2016,
     "category": "serija, Kriminalka, Drama, Misterij",
     "season": 2,
+    "episode": 21,
+    "episode_code": "S2E21",
+    "director": "Eriq La Salle, Kelli Williams, Sarah Pia Anderson",
+    "actors": "Morris Chestnut (Dr. Beaumont Rosewood), Jaina Lee Ortiz (Det. Annalise Villa), Gabrielle Dennis (Pippy Rosewood), Anna Konkle (Tara Milly Izikoff), Lorraine Toussaint (Donna Rosewood), Domenick Lombardozzi (Captain Ira Hornstock), Domenick Lombardozzi (Detective Ira Hornstock), Sam Huntington (Mitchie Mendelson), Eddie Cibrian (Capt. Ryan Slade), Lisa Vidal (Daisie Villa), Lisa Vidal (Daisie), Eric Winter (Adrian Webb)",
+    "imdb_id": "tt4465472"
+  },
+  {
+    "Raw_EPG": "Rosewood",
+    "original_title": "Rosewood 2",
+    "year": 2016,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 2,
+    "episode": 22,
+    "episode_code": "S2E22",
+    "director": "Eriq La Salle, Kelli Williams, Sarah Pia Anderson",
+    "actors": "Morris Chestnut (Dr. Beaumont Rosewood), Jaina Lee Ortiz (Det. Annalise Villa), Gabrielle Dennis (Pippy Rosewood), Anna Konkle (Tara Milly Izikoff), Lorraine Toussaint (Donna Rosewood), Domenick Lombardozzi (Captain Ira Hornstock), Domenick Lombardozzi (Detective Ira Hornstock), Sam Huntington (Mitchie Mendelson), Eddie Cibrian (Capt. Ryan Slade), Lisa Vidal (Daisie Villa), Lisa Vidal (Daisie), Eric Winter (Adrian Webb)",
+    "imdb_id": "tt4465472"
+  },
+  {
+    "Raw_EPG": "Rosewood",
+    "original_title": "Rosewood 2",
+    "year": 2016,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 2,
     "episode": 3,
     "episode_code": "S2E3",
     "director": "Eriq La Salle, Kelli Williams, Sarah Pia Anderson",
@@ -43716,6 +45336,30 @@
     "imdb_id": "tt33059905"
   },
   {
+    "Raw_EPG": "Saint-Pierre",
+    "original_title": "Saint-Pierre 2",
+    "year": 2025,
+    "category": "serija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 8,
+    "episode_code": "S2E8",
+    "director": "Winnifred Jong, Sharon Lewis, T.J. Scott",
+    "actors": "Allan Hawco (Inspector Donny Fitz Fitzpatrick), Allan Hawco (Fitz), Joséphine Jobert (Deputy Chief Geneviève Arch Archambault), Benz Antoine (Marcus Villeneuve), Erika Prevost (Patty Montclair-Ito), Jean-Michel Le Gal (Renuf Aucoin), Tamara Podemski (Natasha Bourge), James Purefoy (Sean Gallagher), Ayesha Mansur Gonsalves (Veda Gonsalves), Maxim Roy (Charlotte Diard), Kim Nelson (Lisette)",
+    "imdb_id": "tt33059905"
+  },
+  {
+    "Raw_EPG": "Saint-Pierre",
+    "original_title": "Saint-Pierre 2",
+    "year": 2025,
+    "category": "serija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 9,
+    "episode_code": "S2E9",
+    "director": "Winnifred Jong, Sharon Lewis, T.J. Scott",
+    "actors": "Allan Hawco (Inspector Donny Fitz Fitzpatrick), Allan Hawco (Fitz), Joséphine Jobert (Deputy Chief Geneviève Arch Archambault), Benz Antoine (Marcus Villeneuve), Erika Prevost (Patty Montclair-Ito), Jean-Michel Le Gal (Renuf Aucoin), Tamara Podemski (Natasha Bourge), James Purefoy (Sean Gallagher), Ayesha Mansur Gonsalves (Veda Gonsalves), Maxim Roy (Charlotte Diard), Kim Nelson (Lisette)",
+    "imdb_id": "tt33059905"
+  },
+  {
     "Raw_EPG": "Saipan",
     "original_title": "Saipan",
     "year": 2025,
@@ -43968,6 +45612,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Bolnišnica Hope: Dnevi v raju",
+    "original_title": "Saving Hope: Days of Heaven",
+    "year": 2014,
+    "category": "serija, nadaljevanka, drama",
+    "season": 3,
+    "episode": 10,
+    "episode_code": "S03E10",
+    "director": "Peter Stebbings, Peter Stebbings",
+    "actors": "Julia Chan, Wendy Crewson, Wendy Crewson, Eliana Jones, Lexa Doig, Currie Graham, Benjamin Ayres, Huse Madhavji, Huse Madhavji, Huse Madhavji, Huse Madhavji, Stacey Farber, Joseph Pierre, Danso Gordon, Dylan Roberts",
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Bolnišnica Hope: Obramba",
     "original_title": "Saving Hope: Defense",
     "year": 2013,
@@ -44184,6 +45840,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Bolnišnica Hope: Razbiti srci",
+    "original_title": "Saving Hope: The Heartbreak Kid",
+    "year": 2014,
+    "category": "serija, nadaljevanka, drama",
+    "season": 3,
+    "episode": 8,
+    "episode_code": "S03E08",
+    "director": "David Wharnsby, David Wharnsby, David Wellington",
+    "actors": "Julia Chan, Julia Chan, Julia Chan, Michael Shanks, Michael Shanks, Michelle Nolden, Benjamin Ayres, K.C. Collins, K.C. Collins",
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Bolnišnica Hope: Zakon okužbe",
     "original_title": "Saving Hope: The Law of Contagion",
     "year": 2012,
@@ -44193,6 +45861,30 @@
     "episode_code": "S01E11",
     "director": "T.W. Peacocke, T.W. Peacocke, T.W. Peacocke, T.W. Peacocke, T.W. Peacocke",
     "actors": "Julia Chan, Julia Chan, Julia Chan, Kristopher Turner, Benjamin Ayres, K.C. Collins, K.C. Collins, Joseph Pierre, Salvatore Antonio, Glenda Braganza, Wendy Crewson, Wendy Crewson, Michael Shanks, Michael Shanks, Matthew Edison",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Bolnišnica Hope: Druga stran polnoči",
+    "original_title": "Saving Hope: The Other Side of Midnight",
+    "year": 2014,
+    "category": "serija, nadaljevanka, drama",
+    "season": 3,
+    "episode": 9,
+    "episode_code": "S03E09",
+    "director": "Peter Wellington, Peter Wellington",
+    "actors": "Julia Chan, Julia Chan, Michelle Nolden, Benjamin Ayres, K.C. Collins, K.C. Collins",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Bolnišnica Hope: Past za starše",
+    "original_title": "Saving Hope: The Parent Trap",
+    "year": 2015,
+    "category": "serija, nadaljevanka, drama",
+    "season": 3,
+    "episode": 11,
+    "episode_code": "S03E11",
+    "director": "T.W. Peacocke, T.W. Peacocke, T.W. Peacocke, T.W. Peacocke, T.W. Peacocke",
+    "actors": "Julia Chan, Wendy Crewson, Wendy Crewson, Eliana Jones, Michelle Nolden, Glenda Braganza, Benjamin Ayres, Stacey Farber, Huse Madhavji, Huse Madhavji, Huse Madhavji, Huse Madhavji, Danso Gordon, Kaya Joubert, Theresa Joy",
     "imdb_id": null
   },
   {
@@ -44383,6 +46075,54 @@
     "season": 1,
     "episode": 4,
     "episode_code": "S1E4",
+    "director": "LeVar Burton, Gary Fleder, Jace Alexander",
+    "actors": "Elyes Gabel (Walter OBrien), Katharine McPhee (Paige Dineen), Eddie Kaye Thomas (Toby Curtis), Jadyn Wong (Happy Quinn), Ari Stidham (Sylvester Dodd), Robert Patrick (Cabe Gallo), Riley B. Smith (Ralph Dineen), Scott Porter (Tim Armstrong), Kevin Weisman (Ray Spiewack), Tina Majorino (Florence)",
+    "imdb_id": "tt3514324"
+  },
+  {
+    "Raw_EPG": "Škorpijon",
+    "original_title": "Scorpion 1",
+    "year": 2014,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 1,
+    "episode": 5,
+    "episode_code": "S1E5",
+    "director": "LeVar Burton, Gary Fleder, Jace Alexander",
+    "actors": "Elyes Gabel (Walter OBrien), Katharine McPhee (Paige Dineen), Eddie Kaye Thomas (Toby Curtis), Jadyn Wong (Happy Quinn), Ari Stidham (Sylvester Dodd), Robert Patrick (Cabe Gallo), Riley B. Smith (Ralph Dineen), Scott Porter (Tim Armstrong), Kevin Weisman (Ray Spiewack), Tina Majorino (Florence)",
+    "imdb_id": "tt3514324"
+  },
+  {
+    "Raw_EPG": "Škorpijon",
+    "original_title": "Scorpion 1",
+    "year": 2014,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 1,
+    "episode": 6,
+    "episode_code": "S1E6",
+    "director": "LeVar Burton, Gary Fleder, Jace Alexander",
+    "actors": "Elyes Gabel (Walter OBrien), Katharine McPhee (Paige Dineen), Eddie Kaye Thomas (Toby Curtis), Jadyn Wong (Happy Quinn), Ari Stidham (Sylvester Dodd), Robert Patrick (Cabe Gallo), Riley B. Smith (Ralph Dineen), Scott Porter (Tim Armstrong), Kevin Weisman (Ray Spiewack), Tina Majorino (Florence)",
+    "imdb_id": "tt3514324"
+  },
+  {
+    "Raw_EPG": "Škorpijon",
+    "original_title": "Scorpion 1",
+    "year": 2014,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 1,
+    "episode": 7,
+    "episode_code": "S1E7",
+    "director": "LeVar Burton, Gary Fleder, Jace Alexander",
+    "actors": "Elyes Gabel (Walter OBrien), Katharine McPhee (Paige Dineen), Eddie Kaye Thomas (Toby Curtis), Jadyn Wong (Happy Quinn), Ari Stidham (Sylvester Dodd), Robert Patrick (Cabe Gallo), Riley B. Smith (Ralph Dineen), Scott Porter (Tim Armstrong), Kevin Weisman (Ray Spiewack), Tina Majorino (Florence)",
+    "imdb_id": "tt3514324"
+  },
+  {
+    "Raw_EPG": "Škorpijon",
+    "original_title": "Scorpion 1",
+    "year": 2014,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 1,
+    "episode": 8,
+    "episode_code": "S1E8",
     "director": "LeVar Burton, Gary Fleder, Jace Alexander",
     "actors": "Elyes Gabel (Walter OBrien), Katharine McPhee (Paige Dineen), Eddie Kaye Thomas (Toby Curtis), Jadyn Wong (Happy Quinn), Ari Stidham (Sylvester Dodd), Robert Patrick (Cabe Gallo), Riley B. Smith (Ralph Dineen), Scott Porter (Tim Armstrong), Kevin Weisman (Ray Spiewack), Tina Majorino (Florence)",
     "imdb_id": "tt3514324"
@@ -46008,6 +47748,30 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Urejeno življenje: Nottingham",
+    "original_title": "Sort Your Life Out: Nottingham",
+    "year": 2023,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 3,
+    "episode": 2,
+    "episode_code": "S03E02",
+    "director": "Dee Mulcahy, Mark Turnbull, Jon Cowen, Michael Hyland, Michael Hyland",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Urejeno življenje: Družina Seabrook",
+    "original_title": "Sort Your Life Out: Seabrook Family",
+    "year": 2023,
+    "category": "serija, razvedrilni program, resničnostna oddaja",
+    "season": 3,
+    "episode": 1,
+    "episode_code": "S03E01",
+    "director": "Dee Mulcahy, Jon Cowen, Michael Hyland, Michael Hyland",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Urejeno življenje: Družina Bradshaw",
     "original_title": "Sort Your Life Out: The Bradshaw Family - Cornwall",
     "year": 2021,
@@ -47448,6 +49212,30 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Kako preživeti zlo: Zvezana in odločena",
+    "original_title": "Surviving Evil: Bound and Determined",
+    "year": 2013,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 1,
+    "episode": 7,
+    "episode_code": "S01E07",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Kako preživeti zlo: Dobra dejanja s slabimi posledicami",
+    "original_title": "Surviving Evil: Good Deeds Gone Bad",
+    "year": 2013,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 1,
+    "episode": 8,
+    "episode_code": "S01E08",
+    "director": null,
+    "actors": null,
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Kako preživeti zlo: Vdor v dom",
     "original_title": "Surviving Evil: Home Invasion",
     "year": 2013,
@@ -47566,6 +49354,18 @@
     "director": "Pat Williams",
     "actors": "Alison Sweeney (Hannah Swensen), Cameron Mathison (Mike), Tess Atkins (Michelle), Barbara Niven (Delores), Juliana Wimbles (Lisa), Reese Alexander (Sheriff Metzger), Natasha Burnett (Delly), Markian Tarasiuk (Tad), Lucia Walters (Stella)",
     "imdb_id": "tt14617098"
+  },
+  {
+    "Raw_EPG": "Siriana",
+    "original_title": "Syriana",
+    "year": 2005,
+    "category": "film, Drama, Grozljivka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Stephen Gaghan",
+    "actors": "George Clooney (Bob Barnes), Matt Damon (Bryan Woodman), Amanda Peet (Julie Woodman), Kayvan Novak (Arash), Amr Waked (Mohammed Sheik Agiza), Christopher Plummer (Dean Whiting), Jeffrey Wright (Bennett Holiday), Chris Cooper (Jimmy Pope), Robert Foxworth (Tommy Barton)",
+    "imdb_id": "tt0365737"
   },
   {
     "Raw_EPG": "Stolpnica",
@@ -48240,6 +50040,30 @@
     "imdb_id": "tt17371078"
   },
   {
+    "Raw_EPG": null,
+    "original_title": "The Ark",
+    "year": 2023,
+    "category": "serija, Drama, Misterij, Znanstvena fantastika",
+    "season": 3,
+    "episode": 5,
+    "episode_code": "S3E5",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt17371078"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "The Ark",
+    "year": 2023,
+    "category": "serija, Drama, Misterij, Znanstvena fantastika",
+    "season": 3,
+    "episode": 6,
+    "episode_code": "S3E6",
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt17371078"
+  },
+  {
     "Raw_EPG": "Letalec",
     "original_title": "The Aviator",
     "year": 2004,
@@ -48893,6 +50717,30 @@
     "year": 2009,
     "category": "serija, Komedija, Romanca",
     "season": 3,
+    "episode": 22,
+    "episode_code": "S03E22",
+    "director": "Mark Cendrowski",
+    "actors": "Johnny Galecki (Leonard Hofstadter), Jim Parsons (Sheldon Cooper), Kaley Cuoco (Penny), Kaley Cuoco (Penny Hofstadter), Simon Helberg (Howard Wolowitz), Kunal Nayyar (Raj Koothrappali), Melissa Rauch (Bernadette Rostenkowski), Mayim Bialik (Amy Farrah Fowler), Kevin Sussman (Stuart Bloom), Carol Ann Susi (Debbie Wolowitz), John Ross Bowie (Barry Kripke)",
+    "imdb_id": "tt0898266"
+  },
+  {
+    "Raw_EPG": "Veliki pokovci",
+    "original_title": "The Big Bang Theory",
+    "year": 2009,
+    "category": "serija, Komedija, Romanca",
+    "season": 3,
+    "episode": 23,
+    "episode_code": "S03E23",
+    "director": "Peter Chakos",
+    "actors": "Johnny Galecki (Leonard Hofstadter), Jim Parsons (Sheldon Cooper), Kaley Cuoco (Penny), Kaley Cuoco (Penny Hofstadter), Simon Helberg (Howard Wolowitz), Kunal Nayyar (Raj Koothrappali), Melissa Rauch (Bernadette Rostenkowski), Mayim Bialik (Amy Farrah Fowler), Kevin Sussman (Stuart Bloom), Carol Ann Susi (Debbie Wolowitz), John Ross Bowie (Barry Kripke)",
+    "imdb_id": "tt0898266"
+  },
+  {
+    "Raw_EPG": "Veliki pokovci",
+    "original_title": "The Big Bang Theory",
+    "year": 2009,
+    "category": "serija, Komedija, Romanca",
+    "season": 3,
     "episode": 3,
     "episode_code": "S03E03",
     "director": "Mark Cendrowski",
@@ -48967,6 +50815,42 @@
     "season": 3,
     "episode": 9,
     "episode_code": "S03E09",
+    "director": "Mark Cendrowski",
+    "actors": "Johnny Galecki (Leonard Hofstadter), Jim Parsons (Sheldon Cooper), Kaley Cuoco (Penny), Kaley Cuoco (Penny Hofstadter), Simon Helberg (Howard Wolowitz), Kunal Nayyar (Raj Koothrappali), Melissa Rauch (Bernadette Rostenkowski), Mayim Bialik (Amy Farrah Fowler), Kevin Sussman (Stuart Bloom), Carol Ann Susi (Debbie Wolowitz), John Ross Bowie (Barry Kripke)",
+    "imdb_id": "tt0898266"
+  },
+  {
+    "Raw_EPG": "Veliki pokovci",
+    "original_title": "The Big Bang Theory",
+    "year": 2010,
+    "category": "serija, Komedija, Romanca",
+    "season": 4,
+    "episode": 1,
+    "episode_code": "S04E01",
+    "director": "Mark Cendrowski",
+    "actors": "Johnny Galecki (Leonard Hofstadter), Jim Parsons (Sheldon Cooper), Kaley Cuoco (Penny), Kaley Cuoco (Penny Hofstadter), Simon Helberg (Howard Wolowitz), Kunal Nayyar (Raj Koothrappali), Melissa Rauch (Bernadette Rostenkowski), Mayim Bialik (Amy Farrah Fowler), Kevin Sussman (Stuart Bloom), Carol Ann Susi (Debbie Wolowitz), John Ross Bowie (Barry Kripke)",
+    "imdb_id": "tt0898266"
+  },
+  {
+    "Raw_EPG": "Veliki pokovci",
+    "original_title": "The Big Bang Theory",
+    "year": 2010,
+    "category": "serija, Komedija, Romanca",
+    "season": 4,
+    "episode": 2,
+    "episode_code": "S04E02",
+    "director": "Mark Cendrowski",
+    "actors": "Johnny Galecki (Leonard Hofstadter), Jim Parsons (Sheldon Cooper), Kaley Cuoco (Penny), Kaley Cuoco (Penny Hofstadter), Simon Helberg (Howard Wolowitz), Kunal Nayyar (Raj Koothrappali), Melissa Rauch (Bernadette Rostenkowski), Mayim Bialik (Amy Farrah Fowler), Kevin Sussman (Stuart Bloom), Carol Ann Susi (Debbie Wolowitz), John Ross Bowie (Barry Kripke)",
+    "imdb_id": "tt0898266"
+  },
+  {
+    "Raw_EPG": "Veliki pokovci",
+    "original_title": "The Big Bang Theory",
+    "year": 2010,
+    "category": "serija, Komedija, Romanca",
+    "season": 4,
+    "episode": 3,
+    "episode_code": "S04E03",
     "director": "Mark Cendrowski",
     "actors": "Johnny Galecki (Leonard Hofstadter), Jim Parsons (Sheldon Cooper), Kaley Cuoco (Penny), Kaley Cuoco (Penny Hofstadter), Simon Helberg (Howard Wolowitz), Kunal Nayyar (Raj Koothrappali), Melissa Rauch (Bernadette Rostenkowski), Mayim Bialik (Amy Farrah Fowler), Kevin Sussman (Stuart Bloom), Carol Ann Susi (Debbie Wolowitz), John Ross Bowie (Barry Kripke)",
     "imdb_id": "tt0898266"
@@ -50947,7 +52831,7 @@
     "season": 4,
     "episode": 4,
     "episode_code": "S04E04",
-    "director": null,
+    "director": "Anya Adams",
     "actors": "Carrie Coon (Bertha Russell), Morgan Spector (George Russell), Louisa Jacobson (Marian Brook), Denée Benton (Peggy Scott), Taissa Farmiga (Gladys Russell), Harry Richardson (Larry Russell), Blake Ritson (Oscar Van Rhijn), Simon Jones (Bannister), Jack Gilpin (Church), Cynthia Nixon (Ada Brook)",
     "imdb_id": "tt4406178"
   },
@@ -51468,6 +53352,18 @@
     "imdb_id": "tt6470478"
   },
   {
+    "Raw_EPG": "Dobri Nemec",
+    "original_title": "The Good German",
+    "year": 2006,
+    "category": "film, Drama, Misterij, Romanca",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Steven Soderbergh",
+    "actors": "George Clooney (Jake Geismer), Cate Blanchett (Lena Brandt), Tobey Maguire (Tully), Beau Bridges (Colonel Muller), Tony Curran (Danny), Leland Orser (Bernie), Jack Thompson (Congressman Breimer), Robin Weigert (Hannelore), Ravil Isyanov (General Sikorsky)",
+    "imdb_id": "tt0452624"
+  },
+  {
     "Raw_EPG": "Dobri sosed",
     "original_title": "The Good Neighbor",
     "year": 2016,
@@ -51648,6 +53544,30 @@
     "imdb_id": "tt26346233"
   },
   {
+    "Raw_EPG": "Umor na ladji",
+    "original_title": "The Good Ship Murder 2",
+    "year": 2024,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 2,
+    "episode": 7,
+    "episode_code": "S2E7",
+    "director": "Steve Hughes, Merlyn Rice, Gordon Anderson",
+    "actors": "Shayne Ward (Jack Grayling), Catherine Tyldesley (First Officer Kate Woods), Zak Douglas (Jamil Al-Rashid), Geoffrey Breton (Piers de Vreese), Kiza Deen (Frankie Johnson), Ross Adams (Colin Smallwood), Claire Sweeney (Beverley Carnell), Yuna Shin (Dr. Sharon Tan), James Barriscale (Captain Richard Marlowe), Nikolai Tsankov (Yuval Goldmann)",
+    "imdb_id": "tt26346233"
+  },
+  {
+    "Raw_EPG": "Umor na ladji",
+    "original_title": "The Good Ship Murder 2",
+    "year": 2024,
+    "category": "serija, Kriminalka, Drama, Misterij",
+    "season": 2,
+    "episode": 8,
+    "episode_code": "S2E8",
+    "director": "Steve Hughes, Merlyn Rice, Gordon Anderson",
+    "actors": "Shayne Ward (Jack Grayling), Catherine Tyldesley (First Officer Kate Woods), Zak Douglas (Jamil Al-Rashid), Geoffrey Breton (Piers de Vreese), Kiza Deen (Frankie Johnson), Ross Adams (Colin Smallwood), Claire Sweeney (Beverley Carnell), Yuna Shin (Dr. Sharon Tan), James Barriscale (Captain Richard Marlowe), Nikolai Tsankov (Yuval Goldmann)",
+    "imdb_id": "tt26346233"
+  },
+  {
     "Raw_EPG": "Sivi mož",
     "original_title": "The Gray Man",
     "year": 2007,
@@ -51682,6 +53602,18 @@
     "director": "Baz Luhrmann",
     "actors": "Leonardo DiCaprio (Jay Gatsby), Carey Mulligan (Daisy Buchanan), Joel Edgerton (Tom Buchanan), Tobey Maguire (Nick Carraway), Lisa Adam (Weeping), Lisa Adam (Singing Woman), Frank Aldridge (Well Dressed Male Witness - Wilsons Garage), Amitabh Bachchan (Meyer Wolfshiem), Steve Bisley (Dan Cody)",
     "imdb_id": "tt1343092"
+  },
+  {
+    "Raw_EPG": null,
+    "original_title": "The Green Hornet",
+    "year": 2011,
+    "category": "film, Akcija, Komedija, Kriminalka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt0990407"
   },
   {
     "Raw_EPG": "Ženinove priče",
@@ -51874,6 +53806,18 @@
     "director": "Max Nosseck",
     "actors": "Lawrence Tierney (Vincent Lubeck), Allene Roberts (Rosa), Marjorie Riordan (Eileen), Lisa Golm (Mrs. Lubeck), Edward Tierney (Johnny Lubeck), Stuart Randall (Lt. Burdick), Angela Stevens (Christie Lang), John De Simone (Marty Connell), Tom Hubbard (Sgt. Schmidt)",
     "imdb_id": "tt0043655"
+  },
+  {
+    "Raw_EPG": "Šepetati konjem",
+    "original_title": "The Horse Whisperer",
+    "year": 1998,
+    "category": "film, Drama, Romanca, Vestern",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Robert Redford",
+    "actors": "Robert Redford (Tom Booker), Kristin Scott Thomas (Annie MacLean), Sam Neill (Robert MacLean), Dianne Wiest (Diane Booker), Scarlett Johansson (Grace MacLean), Chris Cooper (Frank Booker), Cherry Jones (Liz Hammond), Ty Hillman (Joe Booker), Kate Bosworth (Judith)",
+    "imdb_id": "tt0119314"
   },
   {
     "Raw_EPG": "Vroče jajce",
@@ -52164,6 +54108,18 @@
     "imdb_id": "tt0963178"
   },
   {
+    "Raw_EPG": "Pripravnika",
+    "original_title": "The Internship",
+    "year": 2013,
+    "category": "film, Komedija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Shawn Levy",
+    "actors": "Vince Vaughn (Billy McMahon), Owen Wilson (Nick Campbell), Rose Byrne (Dana), Aasif Mandvi (Mr. Chetty), Max Minghella (Graham Hawtrey), Josh Brener (Lyle), Dylan O'Brien (Stuart), Tiya Sircar (Neha), Tobit Raphael Capati (Yo-Yo Santos)",
+    "imdb_id": "tt2234155"
+  },
+  {
     "Raw_EPG": "The Intruder",
     "original_title": "The Intruder",
     "year": 1962,
@@ -52174,6 +54130,18 @@
     "director": "Roger Corman",
     "actors": "William Shatner (Adam Cramer), Frank Maxwell (Tom McDaniel), Beverly Lunsford (Ella McDaniel), Robert Emhardt (Verne Shipman), Leo Gordon (Sam Griffin), Charles Barnes (Joey Greene), Charles Beaumont (Mr. Paton), Katherine Smith (Ruth McDaniel), George Clayton Johnson (Phil West)",
     "imdb_id": "tt0055019"
+  },
+  {
+    "Raw_EPG": "Vsiljivec",
+    "original_title": "The Intruder",
+    "year": 2019,
+    "category": "film, Srhljivka, Grozljivka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Deon Taylor",
+    "actors": "Michael Ealy (Scott), Meagan Good (Annie), Dennis Quaid (Charlie Peck), Joseph Sikora (Mike), Alvina August (Rachel), Erica Cerra (Jillian Richards), Kurt Evans (Grady Kramer), Carolyn Anderson (Ellen), Lili Sepe (Cassidy Peck Thompson)",
+    "imdb_id": "tt6722030"
   },
   {
     "Raw_EPG": "Izum laži",
@@ -52342,6 +54310,18 @@
     "director": "George Archainbaud",
     "actors": "Betty Compson (June), John Darrow (Russell Courtney), Gilbert Emery (Sir Gerald Courtney), Margaret Livingston (Berthine Waller), Ivan Lebedeff (Nikolai Rabinoff), Edgar Norton (Dobbs), Daphne Pollard (Millie - Apartment House Maid), Halliwell Hobbes (Sir James - Lawyer), Dick Rush (Detective)",
     "imdb_id": "tt0022046"
+  },
+  {
+    "Raw_EPG": "Jezero",
+    "original_title": "The Lake",
+    "year": 2022,
+    "category": "film, Srhljivka, Znanstvena fantastika, Grozljivka",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Thongkham Lee",
+    "actors": "Theerapat Sajakul (James), Sushar Manaying (Lin), Vithaya Pansringarm (Suwat), Lamyai Haithongkham (Pam), Qiu Cheng Su (He Wei), Chakrit Boonkeaw (Extra), Naiyana Bumee (Extra), Wanmai Chatborirak (May), Palita Chueasawathee (Fon)",
+    "imdb_id": "tt21399082"
   },
   {
     "Raw_EPG": "Romanca ob jezeru",
@@ -53640,6 +55620,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Pod masko pretvarjanja: Umor Grace Millane",
+    "original_title": "The Murder Of Grace Millane: A Faking It Special",
+    "year": 2021,
+    "category": "film, Kriminalka, Dokumentarec, Novice",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": null,
+    "actors": null,
+    "imdb_id": "tt16444566"
+  },
+  {
     "Raw_EPG": "The Mysterious Mr. Wong",
     "original_title": "The Mysterious Mr. Wong",
     "year": 1934,
@@ -54463,6 +56455,30 @@
     "season": 8,
     "episode": 15,
     "episode_code": "S8E15",
+    "director": "Betsy Thomas, Kim Fields, Rebecca Ancheta-Blum",
+    "actors": "Cedric The Entertainer (Calvin), Cedric The Entertainer (Calvin Butler), Max Greenfield (Dave), Max Greenfield (Dave Johnson), Sheaun McKinney (Malcolm), Sheaun McKinney (Malcolm Butler), Marcel Spears (Marty), Marcel Spears (Marty Butler), Tichina Arnold (Tina), Tichina Arnold (Tina Butler), Beth Behrs (Gemma), Beth Behrs (Gemma Johnson)",
+    "imdb_id": "tt7942794"
+  },
+  {
+    "Raw_EPG": "Soseska",
+    "original_title": "The Neighborhood 8",
+    "year": 2025,
+    "category": "serija, Komedija",
+    "season": 8,
+    "episode": 16,
+    "episode_code": "S8E16",
+    "director": "Betsy Thomas, Kim Fields, Rebecca Ancheta-Blum",
+    "actors": "Cedric The Entertainer (Calvin), Cedric The Entertainer (Calvin Butler), Max Greenfield (Dave), Max Greenfield (Dave Johnson), Sheaun McKinney (Malcolm), Sheaun McKinney (Malcolm Butler), Marcel Spears (Marty), Marcel Spears (Marty Butler), Tichina Arnold (Tina), Tichina Arnold (Tina Butler), Beth Behrs (Gemma), Beth Behrs (Gemma Johnson)",
+    "imdb_id": "tt7942794"
+  },
+  {
+    "Raw_EPG": "Soseska",
+    "original_title": "The Neighborhood 8",
+    "year": 2025,
+    "category": "serija, Komedija",
+    "season": 8,
+    "episode": 17,
+    "episode_code": "S8E17",
     "director": "Betsy Thomas, Kim Fields, Rebecca Ancheta-Blum",
     "actors": "Cedric The Entertainer (Calvin), Cedric The Entertainer (Calvin Butler), Max Greenfield (Dave), Max Greenfield (Dave Johnson), Sheaun McKinney (Malcolm), Sheaun McKinney (Malcolm Butler), Marcel Spears (Marty), Marcel Spears (Marty Butler), Tichina Arnold (Tina), Tichina Arnold (Tina Butler), Beth Behrs (Gemma), Beth Behrs (Gemma Johnson)",
     "imdb_id": "tt7942794"
@@ -55721,6 +57737,54 @@
     "year": 2019,
     "category": "serija, Akcija, Kriminalka, Drama",
     "season": 2,
+    "episode": 11,
+    "episode_code": "S2E11",
+    "director": "Michael Goi, Jon Huertas, Wendey Stanzler",
+    "actors": "Nathan Fillion (John Nolan), Alyssa Diaz (Angela Lopez), Richard T. Jones (Wade Grey), Melissa O'Neil (Lucy Chen), Eric Winter (Tim Bradford), Mekia Cox (Nyla Harper), Shawn Ashmore (Wesley Evers), Jenna Dewan (Bailey Nune), Lisseth Chavez (Celina Juarez), Brent Huff (Quigley Smitty)",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "Raw_EPG": "Novinec",
+    "original_title": "The Rookie 2",
+    "year": 2019,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 12,
+    "episode_code": "S2E12",
+    "director": "Michael Goi, Jon Huertas, Wendey Stanzler",
+    "actors": "Nathan Fillion (John Nolan), Alyssa Diaz (Angela Lopez), Richard T. Jones (Wade Grey), Melissa O'Neil (Lucy Chen), Eric Winter (Tim Bradford), Mekia Cox (Nyla Harper), Shawn Ashmore (Wesley Evers), Jenna Dewan (Bailey Nune), Lisseth Chavez (Celina Juarez), Brent Huff (Quigley Smitty)",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "Raw_EPG": "Novinec",
+    "original_title": "The Rookie 2",
+    "year": 2019,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 13,
+    "episode_code": "S2E13",
+    "director": "Michael Goi, Jon Huertas, Wendey Stanzler",
+    "actors": "Nathan Fillion (John Nolan), Alyssa Diaz (Angela Lopez), Richard T. Jones (Wade Grey), Melissa O'Neil (Lucy Chen), Eric Winter (Tim Bradford), Mekia Cox (Nyla Harper), Shawn Ashmore (Wesley Evers), Jenna Dewan (Bailey Nune), Lisseth Chavez (Celina Juarez), Brent Huff (Quigley Smitty)",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "Raw_EPG": "Novinec",
+    "original_title": "The Rookie 2",
+    "year": 2019,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 14,
+    "episode_code": "S2E14",
+    "director": "Michael Goi, Jon Huertas, Wendey Stanzler",
+    "actors": "Nathan Fillion (John Nolan), Alyssa Diaz (Angela Lopez), Richard T. Jones (Wade Grey), Melissa O'Neil (Lucy Chen), Eric Winter (Tim Bradford), Mekia Cox (Nyla Harper), Shawn Ashmore (Wesley Evers), Jenna Dewan (Bailey Nune), Lisseth Chavez (Celina Juarez), Brent Huff (Quigley Smitty)",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "Raw_EPG": "Novinec",
+    "original_title": "The Rookie 2",
+    "year": 2019,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 2,
     "episode": 2,
     "episode_code": "S2E2",
     "director": "Michael Goi, Jon Huertas, Wendey Stanzler",
@@ -56820,6 +58884,30 @@
     "imdb_id": "tt0141842"
   },
   {
+    "Raw_EPG": "Sopranovi",
+    "original_title": "The Sopranos",
+    "year": 2001,
+    "category": "serija, Kriminalka, Drama",
+    "season": 3,
+    "episode": 1,
+    "episode_code": "S03E01",
+    "director": "Allen Coulter",
+    "actors": "James Gandolfini (Tony Soprano), Lorraine Bracco (Dr. Jennifer Melfi), Edie Falco (Carmela Soprano), Michael Imperioli (Christopher Moltisanti), Dominic Chianese (Junior Soprano), Steven Van Zandt (Silvio Dante), Tony Sirico (Paulie Walnuts Gualtieri), Robert Iler (A.J. Soprano), Jamie Lynn Sigler (Meadow Soprano), Aida Turturro (Janice Soprano), Aida Turturro (Janice Soprano Baccalieri)",
+    "imdb_id": "tt0141842"
+  },
+  {
+    "Raw_EPG": "Sopranovi",
+    "original_title": "The Sopranos",
+    "year": 2001,
+    "category": "serija, Kriminalka, Drama",
+    "season": 3,
+    "episode": 2,
+    "episode_code": "S03E02",
+    "director": "Tim Van Patten",
+    "actors": "James Gandolfini (Tony Soprano), Lorraine Bracco (Dr. Jennifer Melfi), Edie Falco (Carmela Soprano), Michael Imperioli (Christopher Moltisanti), Dominic Chianese (Junior Soprano), Steven Van Zandt (Silvio Dante), Tony Sirico (Paulie Walnuts Gualtieri), Robert Iler (A.J. Soprano), Jamie Lynn Sigler (Meadow Soprano), Aida Turturro (Janice Soprano), Aida Turturro (Janice Soprano Baccalieri)",
+    "imdb_id": "tt0141842"
+  },
+  {
     "Raw_EPG": "Čarodej in bela kača",
     "original_title": "The Sorcerer and the White Snake",
     "year": 2011,
@@ -57166,6 +59254,18 @@
     "director": "Ben Affleck",
     "actors": "Ben Affleck (Doug MacRay), Rebecca Hall (Claire Keesey), Jon Hamm (FBI S.A. Adam Frawley), Jeremy Renner (James Coughlin), Blake Lively (Krista Coughlin), George Carroll (Albert Gloansy Magloan), Owen Burke (Desmond Elden), Titus Welliver (Dino Ciampa), Pete Postlethwaite (Fergus Fergie Colm)",
     "imdb_id": "tt0840361"
+  },
+  {
+    "Raw_EPG": "Drevo življenja",
+    "original_title": "The Tree of Life",
+    "year": 2011,
+    "category": "film, Drama, Fantazija",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Terrence Malick",
+    "actors": "Brad Pitt (Mr. OBrien), Sean Penn (Jack), Jessica Chastain (Mrs. OBrien), Hunter McCracken (Young Jack), Laramie Eppler (R.L.), Tye Sheridan (Steve), Fiona Shaw (Grandmother), Jessica Fuselier (Guide), Nicolas Gonda (Mr. Reynolds)",
+    "imdb_id": "tt0478304"
   },
   {
     "Raw_EPG": "The Trial",
@@ -57629,6 +59729,18 @@
     "year": 2013,
     "category": "serija, Drama, Fantazija, Srhljivka",
     "season": 5,
+    "episode": 22,
+    "episode_code": "S5E22",
+    "director": "John Dahl, David Jackson, Michael Katleman",
+    "actors": "Nina Dobrev (Elena Gilbert), Nina Dobrev (Katherine Pierce), Nina Dobrev (Amara), Paul Wesley (Stefan Salvatore), Paul Wesley (Silas), Paul Wesley (Tom Avery), Ian Somerhalder (Damon Salvatore), Kat Graham (Bonnie Bennett), Candice King (Caroline Forbes), Zach Roerig (Matt Donovan), Zach Roerig (Ethan Maxwell), Michael Trevino (Tyler Lockwood)",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "Raw_EPG": "Vampirski dnevniki",
+    "original_title": "The Vampire Diaries 5",
+    "year": 2013,
+    "category": "serija, Drama, Fantazija, Srhljivka",
+    "season": 5,
     "episode": 3,
     "episode_code": "S5E3",
     "director": "John Dahl, David Jackson, Michael Katleman",
@@ -57708,6 +59820,42 @@
     "imdb_id": "tt1405406"
   },
   {
+    "Raw_EPG": "Vampirski dnevniki",
+    "original_title": "The Vampire Diaries 6",
+    "year": 2014,
+    "category": "serija, Drama, Fantazija, Srhljivka",
+    "season": 6,
+    "episode": 1,
+    "episode_code": "S6E1",
+    "director": "John Dahl, David Jackson, Michael Katleman",
+    "actors": "Nina Dobrev (Elena Gilbert), Nina Dobrev (Katherine Pierce), Nina Dobrev (Amara), Paul Wesley (Stefan Salvatore), Paul Wesley (Silas), Paul Wesley (Tom Avery), Ian Somerhalder (Damon Salvatore), Kat Graham (Bonnie Bennett), Candice King (Caroline Forbes), Zach Roerig (Matt Donovan), Zach Roerig (Ethan Maxwell), Michael Trevino (Tyler Lockwood)",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "Raw_EPG": "Vampirski dnevniki",
+    "original_title": "The Vampire Diaries 6",
+    "year": 2014,
+    "category": "serija, Drama, Fantazija, Srhljivka",
+    "season": 6,
+    "episode": 2,
+    "episode_code": "S6E2",
+    "director": "John Dahl, David Jackson, Michael Katleman",
+    "actors": "Nina Dobrev (Elena Gilbert), Nina Dobrev (Katherine Pierce), Nina Dobrev (Amara), Paul Wesley (Stefan Salvatore), Paul Wesley (Silas), Paul Wesley (Tom Avery), Ian Somerhalder (Damon Salvatore), Kat Graham (Bonnie Bennett), Candice King (Caroline Forbes), Zach Roerig (Matt Donovan), Zach Roerig (Ethan Maxwell), Michael Trevino (Tyler Lockwood)",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "Raw_EPG": "Vampirski dnevniki",
+    "original_title": "The Vampire Diaries 6",
+    "year": 2014,
+    "category": "serija, Drama, Fantazija, Srhljivka",
+    "season": 6,
+    "episode": 3,
+    "episode_code": "S6E3",
+    "director": "John Dahl, David Jackson, Michael Katleman",
+    "actors": "Nina Dobrev (Elena Gilbert), Nina Dobrev (Katherine Pierce), Nina Dobrev (Amara), Paul Wesley (Stefan Salvatore), Paul Wesley (Silas), Paul Wesley (Tom Avery), Ian Somerhalder (Damon Salvatore), Kat Graham (Bonnie Bennett), Candice King (Caroline Forbes), Zach Roerig (Matt Donovan), Zach Roerig (Ethan Maxwell), Michael Trevino (Tyler Lockwood)",
+    "imdb_id": "tt1405406"
+  },
+  {
     "Raw_EPG": "Zlobnež",
     "original_title": "The Villain",
     "year": 1979,
@@ -57754,6 +59902,18 @@
     "director": "Andrea Dargenio",
     "actors": "Nicolás Maiques, Ruben Corbalan Corbalan, Dimas Kormarov",
     "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Jelenček Niko",
+    "original_title": "The Way to the Stars",
+    "year": 2008,
+    "category": "film, Pustolovščina, Animacija, Družina",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Michael Hegner, Kari Juusonen",
+    "actors": "Olli Jantunen (Niko), Hannu-Pekka Björkman (Julius), Vuokko Hovatta (Wilma), Vesa Vierikko (Musta Susi), Jussi Lampi (Räyskä)",
+    "imdb_id": "tt0885415"
   },
   {
     "Raw_EPG": "Načrtovalka porok",
@@ -57920,6 +60080,30 @@
     "episode": 1,
     "episode_code": "S03E01",
     "director": "Sam Budd, Sam Budd",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Najdražja križarka na svetu",
+    "original_title": "The World's Most Expensive Cruise Ship",
+    "year": 2021,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 3,
+    "episode": 3,
+    "episode_code": "S03E03",
+    "director": "Sam Budd, Sam Budd",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Najdražja križarka na svetu",
+    "original_title": "The World's Most Expensive Cruise Ship: Episode 2",
+    "year": 2021,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 3,
+    "episode": 2,
+    "episode_code": "S03E02",
+    "director": null,
     "actors": null,
     "imdb_id": null
   },
@@ -58548,6 +60732,18 @@
     "imdb_id": "tt1386703"
   },
   {
+    "Raw_EPG": "Dotik",
+    "original_title": "Touch",
+    "year": 2024,
+    "category": "film, Drama, Romanca",
+    "season": null,
+    "episode": null,
+    "episode_code": null,
+    "director": "Baltasar Kormákur",
+    "actors": "Egill Ólafsson (Kristófer), Kôki (Young Miko), Palmi Kormákur (Young Kristófer), Masahiro Motoki (Takahashi-san), Yōko Narahashi (Miko), Ruth Sheen (Mrs. Ellis), Masatoshi Nakamura (Kutaragi-san), Meg Kubota (Hitomi), Tatsuya Tagawa (Arai-san)",
+    "imdb_id": "tt23468836"
+  },
+  {
     "Raw_EPG": "Strupeni morski pes",
     "original_title": "Toxic Shark",
     "year": 2017,
@@ -58687,6 +60883,18 @@
     "season": 2,
     "episode": 11,
     "episode_code": "S2E11",
+    "director": "Lee Rose, Ben Hernandez Bray, Jon Huertas",
+    "actors": "Justin Hartley (Colter Shaw), Fiona Rene (Reenie Greene), Chris Lee (Randy), Abby McEnany (Velma Bruin), Eric Graise (Bobby Exley), Cassady McClincy Zhang (Mel Day), Robin Weigert (Teddi Bruin), Kathleen Robertson (Maxine), Jensen Ackles (Russell Shaw), Brent Sexton (John Keaton)",
+    "imdb_id": "tt13875494"
+  },
+  {
+    "Raw_EPG": "Sledilec 2",
+    "original_title": "Tracker 2",
+    "year": 2024,
+    "category": "serija, Akcija, Kriminalka, Drama",
+    "season": 2,
+    "episode": 12,
+    "episode_code": "S2E12",
     "director": "Lee Rose, Ben Hernandez Bray, Jon Huertas",
     "actors": "Justin Hartley (Colter Shaw), Fiona Rene (Reenie Greene), Chris Lee (Randy), Abby McEnany (Velma Bruin), Eric Graise (Bobby Exley), Cassady McClincy Zhang (Mel Day), Robin Weigert (Teddi Bruin), Kathleen Robertson (Maxine), Jensen Ackles (Russell Shaw), Brent Sexton (John Keaton)",
     "imdb_id": "tt13875494"
@@ -60449,6 +62657,18 @@
     "year": 2009,
     "category": "serija, Komedija, Romanca",
     "season": 7,
+    "episode": 22,
+    "episode_code": "S7E22",
+    "director": "Jon Cryer, Jay Sandrich, Andy Ackerman",
+    "actors": "Jon Cryer (Alan Harper), Jon Cryer (Sid Olsen), Ashton Kutcher (Walden Schmidt), Angus T. Jones (Jake Harper), Angus T. Jones (Marlene Melnick), Conchata Ferrell (Berta), Charlie Sheen (Charlie Harper), Holland Taylor (Evelyn Harper), Marin Hinkle (Judith Harper), Marin Hinkle (Judith Melnick), Marin Hinkle (Judith), Melanie Lynskey (Rose)",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "Raw_EPG": "Dva moža in pol",
+    "original_title": "Two and a Half Men 7",
+    "year": 2009,
+    "category": "serija, Komedija, Romanca",
+    "season": 7,
     "episode": 3,
     "episode_code": "S7E3",
     "director": "Jon Cryer, Jay Sandrich, Andy Ackerman",
@@ -60523,6 +62743,42 @@
     "season": 7,
     "episode": 9,
     "episode_code": "S7E9",
+    "director": "Jon Cryer, Jay Sandrich, Andy Ackerman",
+    "actors": "Jon Cryer (Alan Harper), Jon Cryer (Sid Olsen), Ashton Kutcher (Walden Schmidt), Angus T. Jones (Jake Harper), Angus T. Jones (Marlene Melnick), Conchata Ferrell (Berta), Charlie Sheen (Charlie Harper), Holland Taylor (Evelyn Harper), Marin Hinkle (Judith Harper), Marin Hinkle (Judith Melnick), Marin Hinkle (Judith), Melanie Lynskey (Rose)",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "Raw_EPG": "Dva moža in pol",
+    "original_title": "Two and a Half Men 8",
+    "year": 2010,
+    "category": "serija, Komedija, Romanca",
+    "season": 8,
+    "episode": 1,
+    "episode_code": "S8E1",
+    "director": "Jon Cryer, Jay Sandrich, Andy Ackerman",
+    "actors": "Jon Cryer (Alan Harper), Jon Cryer (Sid Olsen), Ashton Kutcher (Walden Schmidt), Angus T. Jones (Jake Harper), Angus T. Jones (Marlene Melnick), Conchata Ferrell (Berta), Charlie Sheen (Charlie Harper), Holland Taylor (Evelyn Harper), Marin Hinkle (Judith Harper), Marin Hinkle (Judith Melnick), Marin Hinkle (Judith), Melanie Lynskey (Rose)",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "Raw_EPG": "Dva moža in pol",
+    "original_title": "Two and a Half Men 8",
+    "year": 2010,
+    "category": "serija, Komedija, Romanca",
+    "season": 8,
+    "episode": 2,
+    "episode_code": "S8E2",
+    "director": "Jon Cryer, Jay Sandrich, Andy Ackerman",
+    "actors": "Jon Cryer (Alan Harper), Jon Cryer (Sid Olsen), Ashton Kutcher (Walden Schmidt), Angus T. Jones (Jake Harper), Angus T. Jones (Marlene Melnick), Conchata Ferrell (Berta), Charlie Sheen (Charlie Harper), Holland Taylor (Evelyn Harper), Marin Hinkle (Judith Harper), Marin Hinkle (Judith Melnick), Marin Hinkle (Judith), Melanie Lynskey (Rose)",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "Raw_EPG": "Dva moža in pol",
+    "original_title": "Two and a Half Men 8",
+    "year": 2010,
+    "category": "serija, Komedija, Romanca",
+    "season": 8,
+    "episode": 3,
+    "episode_code": "S8E3",
     "director": "Jon Cryer, Jay Sandrich, Andy Ackerman",
     "actors": "Jon Cryer (Alan Harper), Jon Cryer (Sid Olsen), Ashton Kutcher (Walden Schmidt), Angus T. Jones (Jake Harper), Angus T. Jones (Marlene Melnick), Conchata Ferrell (Berta), Charlie Sheen (Charlie Harper), Holland Taylor (Evelyn Harper), Marin Hinkle (Judith Harper), Marin Hinkle (Judith Melnick), Marin Hinkle (Judith), Melanie Lynskey (Rose)",
     "imdb_id": "tt0369179"
@@ -60792,6 +63048,18 @@
     "imdb_id": null
   },
   {
+    "Raw_EPG": "Nepozabna: Zastrupitev",
+    "original_title": "Unforgettable: DOA",
+    "year": 2014,
+    "category": "serija, nanizanka, kriminalka",
+    "season": 3,
+    "episode": 13,
+    "episode_code": "S03E13",
+    "director": "Matt Earl Beesley, John Bellucci",
+    "actors": "Jane Curtin, Roderick Hill, Michael Pemberton, Michael Siberry, Ryan Shams, Babs Olusanmokun, Babs Olusanmokun, Tyrone Mitchell Henderson, Michael Dempsey, Todd Faulkner, Keith White, Haley Sanford, Chris Cenatiempo, LoDeon, George Pendill",
+    "imdb_id": null
+  },
+  {
     "Raw_EPG": "Nepozabna: Vzhodno od Islipa",
     "original_title": "Unforgettable: East of Islip",
     "year": 2014,
@@ -60813,6 +63081,18 @@
     "episode_code": "S01E21",
     "director": "Ken Girotti, Ken Girotti, John Bellucci",
     "actors": "Stacey Yen, Jenny Mercein, Carl Ducena, Ro Boddie, Liam Ferguson, Olli Haaskivi, Gregg Micheals, Caris Vujcec",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Nepozabna: Ogenj in led",
+    "original_title": "Unforgettable: Fire and Ice",
+    "year": 2014,
+    "category": "serija, nanizanka, kriminalka",
+    "season": 3,
+    "episode": 10,
+    "episode_code": "S03E10",
+    "director": "Darnell Martin, John Bellucci",
+    "actors": "Lauren Vélez, James Colby, Hrach Titizian, Rock Kohli, Meghan Rafferty, Laith Nakli, Rob Leo Roy, Ashley Aufderheide, Tuffy Questell, Ramone Wilkinson, Aaron J. Nelson, Aaron J. Nelson, Postell Pringle, Ito Aghayere, Dan Schachner",
     "imdb_id": null
   },
   {
@@ -60933,6 +63213,18 @@
     "episode_code": "S02E04",
     "director": "Peter Werner, John Bellucci",
     "actors": "Robert T. Bogue, Robert T. Bogue, Mark Nelson, Yvonna Kopacz Wright, Joel Reuben Ganz, Sherry Boone, Katina Corrao, Makenzie Leigh, Jonathan David Martin, Rob Morrison, Rafael Benoit, Ben Rosenblatt",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Nepozabna: Filmska zvezda",
+    "original_title": "Unforgettable: Moving On",
+    "year": 2014,
+    "category": "serija, nanizanka, kriminalka",
+    "season": 3,
+    "episode": 12,
+    "episode_code": "S03E12",
+    "director": "Paul Holahan, Paul Holahan, John Bellucci",
+    "actors": "Pooja Kumar, Geoffrey Wigdor, Patrick Carroll, Gregory Porter Miller, Adam David Thompson, Eleanor Handley, John Bianco, Larry Mitchell, Reggie Gowland, Emmy Harrington, Tommar Wilson, Mary Boyer, Wayne Scherzer, Stan Carp, Stan Carp",
     "imdb_id": null
   },
   {
@@ -61113,6 +63405,18 @@
     "episode_code": "S01E10",
     "director": "Anna Foerster, Ana Ferster, Niels Arden Oplev, Niels Arden Oplev",
     "actors": "Tino Sutras, Iris Delgado, Carl Ducena, Danny Flaherty, M. Ireland, Robert Funaro, Britt Lower, Dascha Polanco, Jennifer Restivo, Danielle Ricci",
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Nepozabna: Prava identiteta",
+    "original_title": "Unforgettable: True Identity",
+    "year": 2014,
+    "category": "serija, nanizanka, kriminalka",
+    "season": 3,
+    "episode": 11,
+    "episode_code": "S03E11",
+    "director": "Nick Gomez, John Bellucci",
+    "actors": "Jane Curtin, Alex Charak, Jackie Cruz, Hunter Emery, Lola Glaudini, David H. Holmes, Adrian Rieder, Jason Schuchman, Raquel Toro",
     "imdb_id": null
   },
   {
@@ -62561,6 +64865,18 @@
     "year": 2026,
     "category": "serija, Kriminalka, Drama",
     "season": 4,
+    "episode": 10,
+    "episode_code": "S4E10",
+    "director": "Lea Thompson, Geary McLeod, Paul McGuigan",
+    "actors": "Ramón Rodríguez (Will Trent), Erika Christensen (Angie Polaski), Iantha Richardson (Faith Mitchell), Jake McLaughlin (Michael Ormewood), Sonja Sohn (Amanda Wagner), Kevin Daniels (Franklin Wilks), Kurt Yue (Pete Chin), Cora Lu Tran (Nico), Todd Allen Durkin (Captain Heller), Todd Allen Durkin (Dennis Heller), Christina Wren (Caroline)",
+    "imdb_id": "tt17543592"
+  },
+  {
+    "Raw_EPG": "Will Trent",
+    "original_title": "Will Trent 4",
+    "year": 2026,
+    "category": "serija, Kriminalka, Drama",
+    "season": 4,
     "episode": 4,
     "episode_code": "S4E4",
     "director": "Lea Thompson, Geary McLeod, Paul McGuigan",
@@ -62845,6 +65161,18 @@
   },
   {
     "Raw_EPG": "Najbolj nevarni zaporniki na svetu",
+    "original_title": "World's Most Dangerous Prisoners: Johnson",
+    "year": 2024,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 1,
+    "episode": 6,
+    "episode_code": "S01E06",
+    "director": "Leticia Meruvia",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Najbolj nevarni zaporniki na svetu",
     "original_title": "World's Most Dangerous Prisoners: Nichols",
     "year": 2024,
     "category": "serija, nanizanka, dokumentarni",
@@ -62875,6 +65203,18 @@
     "season": 1,
     "episode": 5,
     "episode_code": "S01E05",
+    "director": "Emma Griffiths",
+    "actors": null,
+    "imdb_id": null
+  },
+  {
+    "Raw_EPG": "Najbolj nevarni zaporniki na svetu",
+    "original_title": "World's Most Dangerous Prisoners: Robertson",
+    "year": 2024,
+    "category": "serija, nanizanka, dokumentarni",
+    "season": 1,
+    "episode": 7,
+    "episode_code": "S01E07",
     "director": "Emma Griffiths",
     "actors": null,
     "imdb_id": null
